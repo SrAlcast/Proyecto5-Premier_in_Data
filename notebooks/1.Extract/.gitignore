@@ -1,0 +1,4 @@
+# ignoro el .env
+/datos/.env 
+# ignoro los .gitattributes
+.gitattributes

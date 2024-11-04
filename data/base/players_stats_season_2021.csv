@@ -1,0 +1,788 @@
+season,player_id,player_name,age,nationality,team,games_played,minutes,goals,assists,yellow_cards,red_cards
+2021,883,L. Grant,39.0,England,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2021,1093,E. Mwepu,24.0,Zambia,Brighton,18.0,997.0,2.0,4.0,2.0,0.0
+2021,2275,W. Caballero,42.0,Argentina,Southampton,2.0,180.0,0.0,,1.0,0.0
+2021,18826,M. Noble,35.0,England,West Ham,11.0,326.0,1.0,,0.0,0.0
+2021,18849,J. McArthur,36.0,Scotland,Crystal Palace,21.0,1437.0,0.0,3.0,4.0,0.0
+2021,18912,P. Bardsley,38.0,Scotland,Burnley,0.0,0.0,0.0,,0.0,0.0
+2021,18916,M. Lowton,34.0,England,Burnley,25.0,1771.0,1.0,2.0,3.0,1.0
+2021,18936,R. Bertrand,34.0,England,Leicester,4.0,338.0,0.0,,1.0,0.0
+2021,18956,S. Long,36.0,Republic of Ireland,Southampton,13.0,301.0,1.0,,1.0,0.0
+2021,18977,D. Stephens,33.0,England,Burnley,3.0,122.0,0.0,,1.0,0.0
+2021,19629,D. Martin,37.0,England,West Ham,0.0,0.0,0.0,,0.0,0.0
+2021,20126,J. Sinclair,25.0,England,Watford,,,,,,
+2021,45074,B. Graham,36.0,Scotland,Partick,0.0,0.0,0.0,,0.0,0.0
+2021,45325,C. McKenna,25.0,Scotland,Partick,0.0,0.0,0.0,,0.0,0.0
+2021,90497,W. Reid,34.0,New Zealand,West Ham,0.0,0.0,0.0,,0.0,0.0
+2021,152963,O. Otasowie,22.0,USA,Wolves,0.0,0.0,0.0,,0.0,0.0
+2021,154793,Jamie Patrick Bowden,22.0,Republic of Ireland,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2021,314661,J. Danns,,England,Liverpool,,,,,,
+2021,348461,S. Willock,20.0,England,Walsall,0.0,0.0,0.0,,0.0,0.0
+2021,348463,Jacob Bunch,0.0,England,Swindon Town,0.0,0.0,0.0,,0.0,0.0
+2021,167,D. Rose,32.0,England,Watford,8.0,689.0,0.0,,4.0,0.0
+2021,630,F. Delph,33.0,England,Everton,11.0,665.0,0.0,,2.0,0.0
+2021,888,P. Jones,31.0,England,Manchester United,4.0,162.0,0.0,,0.0,0.0
+2021,18769,T. Walcott,34.0,England,Southampton,9.0,380.0,0.0,,0.0,0.0
+2021,18770,E. Jakupović,39.0,Switzerland,Leicester,0.0,0.0,0.0,,0.0,0.0
+2021,18791,B. Foster,40.0,England,Watford,26.0,2340.0,0.0,1.0,0.0,0.0
+2021,18793,C. Cathcart,34.0,Northern Ireland,Watford,31.0,2395.0,0.0,1.0,3.0,0.0
+2021,18804,T. Cleverley,34.0,England,Watford,28.0,1623.0,0.0,2.0,2.0,0.0
+2021,18840,M. Kelly,34.0,England,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2021,18874,D. Gosling,34.0,England,Watford,4.0,165.0,1.0,,0.0,0.0
+2021,18887,R. Elliot,37.0,Republic of Ireland,Watford,0.0,0.0,0.0,,0.0,0.0
+2021,18922,J. Cork,35.0,England,Burnley,20.0,1676.0,1.0,,4.0,0.0
+2021,18925,A. Lennon,35.0,England,Burnley,28.0,1548.0,2.0,,2.0,0.0
+2021,19126,S. Dallas,33.0,Northern Ireland,Leeds,34.0,2922.0,1.0,1.0,5.0,0.0
+2021,20220,A. Jakubiak,28.0,Scotland,Partick,0.0,0.0,0.0,,0.0,0.0
+2021,21383,E. Pieters,36.0,Netherlands,Burnley,12.0,727.0,0.0,1.0,1.0,0.0
+2021,22010,S. Ojo,27.0,England,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2021,45285,D. Brownlie,30.0,Scotland,Partick,0.0,0.0,0.0,,0.0,0.0
+2021,138919,T. Dickson-Peters,22.0,Scotland,Norwich,0.0,0.0,0.0,,0.0,0.0
+2021,284208,J. McGlynn,22.0,Scotland,Burnley,0.0,0.0,0.0,,0.0,0.0
+2021,172,D. Alli,28.0,England,Everton,11.0,329.0,0.0,,3.0,0.0
+2021,190,Cédric Soares,33.0,Portugal,Arsenal,21.0,1486.0,1.0,1.0,3.0,0.0
+2021,286,J. Matip,33.0,Cameroon,Liverpool,31.0,2790.0,3.0,3.0,2.0,0.0
+2021,507,Thiago Alcântara,33.0,Spain,Liverpool,25.0,1538.0,1.0,4.0,2.0,0.0
+2021,1735,A. Firth,28.0,England,Partick,0.0,0.0,0.0,,0.0,0.0
+2021,1972,L. Karius,31.0,Germany,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2021,2699,S. Ghoddos,31.0,Iran,Brentford,17.0,527.0,1.0,1.0,2.0,0.0
+2021,2991,C. Kouyaté,35.0,Senegal,Crystal Palace,27.0,1978.0,0.0,1.0,3.0,0.0
+2021,18777,M. Albrighton,35.0,England,Leicester,17.0,1126.0,1.0,2.0,3.0,0.0
+2021,18815,R. Fredericks,32.0,England,West Ham,7.0,304.0,0.0,,1.0,0.0
+2021,18836,W. Hennessey,37.0,Wales,Burnley,2.0,180.0,0.0,,0.0,0.0
+2021,18844,J. Tomkins,35.0,England,Crystal Palace,8.0,546.0,1.0,,2.0,0.0
+2021,18891,C. Clark,35.0,Republic of Ireland,Newcastle,13.0,1015.0,0.0,1.0,2.0,1.0
+2021,18892,P. Dummett,33.0,Wales,Newcastle,3.0,198.0,0.0,,2.0,0.0
+2021,18924,J. Hendrick,32.0,Republic of Ireland,Newcastle,3.0,70.0,1.0,,0.0,0.0
+2021,19062,M. McGovern,40.0,Northern Ireland,Norwich,0.0,0.0,0.0,,0.0,0.0
+2021,19229,D. Randolph,37.0,Republic of Ireland,West Ham,0.0,0.0,0.0,,0.0,0.0
+2021,127605,N. Ferguson,24.0,England,Crystal Palace,1.0,8.0,0.0,,0.0,0.0
+2021,138806,B. Williams,24.0,England,Norwich,26.0,2121.0,0.0,,8.0,0.0
+2021,284498,H. Lindley,22.0,England,Aston Villa,0.0,0.0,0.0,,0.0,0.0
+2021,163,S. Aurier,32.0,Côte d'Ivoire,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2021,742,R. Varane,31.0,France,Manchester United,22.0,1829.0,1.0,1.0,0.0,0.0
+2021,1107,F. Benković,27.0,Croatia,Leicester,0.0,0.0,0.0,,0.0,0.0
+2021,1276,S. Kalu,27.0,Nigeria,Watford,4.0,221.0,0.0,,0.0,0.0
+2021,2777,I. Success,28.0,Nigeria,Watford,0.0,0.0,0.0,,0.0,0.0
+2021,3421,D. Amartey,30.0,Ghana,Leicester,28.0,2120.0,0.0,,4.0,0.0
+2021,17968,E. Idem,26.0,England,Swindon Town,0.0,0.0,0.0,,0.0,0.0
+2021,18808,T. Deeney,36.0,England,Watford,2.0,23.0,0.0,,0.0,0.0
+2021,18978,F. Andone,31.0,Romania,Brighton,0.0,0.0,0.0,,0.0,0.0
+2021,20328,S. Hendrie,29.0,Scotland,Partick,0.0,0.0,0.0,,0.0,0.0
+2021,44928,S. McKinstry,22.0,Scotland,Leeds,1.0,3.0,0.0,,0.0,0.0
+2021,45163,R. Crawford,30.0,Scotland,Partick,0.0,0.0,0.0,,0.0,0.0
+2021,45204,J. Sneddon,27.0,Scotland,Partick,0.0,0.0,0.0,,0.0,0.0
+2021,45213,S. Bannigan,32.0,Scotland,Partick,0.0,0.0,0.0,,0.0,0.0
+2021,108555,K. Turner,27.0,Scotland,Partick,0.0,0.0,0.0,,0.0,0.0
+2021,138839,T. Omole,25.0,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2021,138909,D. Langley,24.0,England,Newcastle,0.0,0.0,0.0,,0.0,0.0
+2021,180866,Marcelo Pitaluga,22.0,Brazil,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2021,284373,L. De Bolle,22.0,Scotland,Newcastle,0.0,0.0,0.0,,0.0,0.0
+2021,288115,J. Storer,20.0,Republic of Ireland,Wolves,0.0,0.0,0.0,,0.0,0.0
+2021,1452,Mohamed Elneny,32.0,Egypt,Arsenal,14.0,800.0,0.0,2.0,1.0,0.0
+2021,2774,O. Etebo,29.0,Nigeria,Watford,9.0,397.0,0.0,,3.0,0.0
+2021,17463,Otis Khan,29.0,Pakistan,Walsall,0.0,0.0,0.0,,0.0,0.0
+2021,18852,L. Milivojević,33.0,Serbia,Crystal Palace,15.0,776.0,0.0,,1.0,0.0
+2021,18934,H. Lewis,27.0,England,Southampton,0.0,0.0,0.0,,0.0,0.0
+2021,18981,J. Locadia,31.0,Curaçao,Brighton,1.0,22.0,0.0,,0.0,0.0
+2021,21147,A. Gomez Mancini,23.0,France,Burnley,0.0,0.0,0.0,,0.0,0.0
+2021,30503,N. Nkoulou,34.0,Cameroon,Watford,3.0,168.0,0.0,,0.0,0.0
+2021,45013,K. McAllister,25.0,Scotland,Partick,0.0,0.0,0.0,,0.0,0.0
+2021,137299,L. Richardson,21.0,England,Burnley,0.0,0.0,0.0,,0.0,0.0
+2021,138905,T. Allan,25.0,England,Newcastle,0.0,0.0,0.0,,0.0,0.0
+2021,153261,N. Young-Coombes,21.0,England,Brentford,1.0,3.0,0.0,,0.0,0.0
+2021,154800,M. Fagan-Walcott,22.0,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2021,278064,T. Springett,22.0,Republic of Ireland,Norwich,3.0,140.0,0.0,,1.0,0.0
+2021,278083,M. Haygarth,22.0,England,Brentford,0.0,0.0,0.0,,0.0,0.0
+2021,278092,J. Tomkinson,22.0,USA,Norwich,0.0,0.0,0.0,,0.0,0.0
+2021,278108,A. Kirk,22.0,England,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2021,278235,K. Moore,21.0,England,Leeds,0.0,0.0,0.0,,0.0,0.0
+2021,282901,J. Jenkins,23.0,England,Leeds,0.0,0.0,0.0,,0.0,0.0
+2021,284338,S. Waller,21.0,England,Burnley,0.0,0.0,0.0,,0.0,0.0
+2021,19188,C. Hourihane,33.0,Republic of Ireland,Aston Villa,0.0,0.0,0.0,,0.0,0.0
+2021,19251,A. Fletcher,29.0,England,Watford,3.0,27.0,0.0,,0.0,0.0
+2021,19253,J. Hugill,32.0,England,Norwich,0.0,0.0,0.0,,0.0,0.0
+2021,19437,B. Davies,29.0,England,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2021,20224,A. Lonergan,41.0,England,Everton,0.0,0.0,0.0,,0.0,0.0
+2021,123437,D. Sanderson,25.0,England,Wolves,0.0,0.0,0.0,,0.0,0.0
+2021,127469,D. Thompson,24.0,England,Brentford,2.0,148.0,0.0,,0.0,0.0
+2021,138819,M. Lavinier,24.0,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2021,138844,H. Tyrer,23.0,England,Everton,0.0,0.0,0.0,,0.0,0.0
+2021,138864,K. Chauke,21.0,South Africa,Southampton,0.0,0.0,0.0,,0.0,0.0
+2021,162493,M. Craig,21.0,Scotland,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2021,167656,M. Leonard,23.0,Scotland,Brighton,0.0,0.0,0.0,,0.0,0.0
+2021,191976,J. Hungbo,24.0,England,Watford,0.0,0.0,0.0,,0.0,0.0
+2021,231045,T. Akinola,26.0,England,Partick,0.0,0.0,0.0,,0.0,0.0
+2021,282254,O. Offiah,22.0,England,Brighton,0.0,0.0,0.0,,0.0,0.0
+2021,284418,K. Cesay,22.0,Sierra Leone,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2021,284442,C. Webster,20.0,England,Chelsea,0.0,0.0,0.0,,0.0,0.0
+2021,284551,J. Wells-Morrison,20.0,England,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2021,284556,T. O&apos;Reilly,21.0,England,Aston Villa,0.0,0.0,0.0,,0.0,0.0
+2021,298049,R. Street,23.0,England,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2021,639,T. Richards,24.0,England,Brighton,2.0,23.0,0.0,,0.0,0.0
+2021,17676,L. McCarron,23.0,Scotland,Leeds,1.0,9.0,0.0,,0.0,0.0
+2021,17772,C. Goode,29.0,England,Brentford,6.0,448.0,0.0,,3.0,0.0
+2021,18820,C. Coventry,24.0,Republic of Ireland,West Ham,0.0,0.0,0.0,,0.0,0.0
+2021,19139,T. Roberts,25.0,Wales,Leeds,23.0,974.0,1.0,1.0,5.0,0.0
+2021,19174,J. Steer,32.0,England,Aston Villa,1.0,90.0,0.0,,0.0,0.0
+2021,19831,T. Fosu,29.0,Ghana,Brentford,1.0,16.0,0.0,,0.0,0.0
+2021,138793,H. White,23.0,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2021,138890,B. Lyons-Foster,24.0,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2021,144741,L. Moulden,22.0,England,Wolves,0.0,0.0,0.0,,0.0,0.0
+2021,162446,L. Bate,22.0,England,Leeds,3.0,146.0,0.0,,0.0,0.0
+2021,162904,R. Williams,23.0,England,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2021,167657,T. Onyango,21.0,England,Everton,3.0,25.0,0.0,,0.0,0.0
+2021,171059,J. Baptiste,21.0,England,West Ham,0.0,0.0,0.0,,0.0,0.0
+2021,274550,H. Vale,21.0,England,Chelsea,0.0,0.0,0.0,,0.0,0.0
+2021,278129,L. Mbete,21.0,England,Manchester City,0.0,0.0,0.0,,0.0,0.0
+2021,280683,J. Balagizi,21.0,England,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2021,284185,C. Whitaker,21.0,England,Everton,0.0,0.0,0.0,,0.0,0.0
+2021,284311,T. Small,20.0,England,Southampton,0.0,0.0,0.0,,0.0,0.0
+2021,284493,T. Adaramola,21.0,Republic of Ireland,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2021,253,A. Areola,31.0,France,West Ham,1.0,90.0,0.0,,0.0,0.0
+2021,567,Rúben Dias,27.0,Portugal,Manchester City,29.0,2403.0,2.0,4.0,5.0,0.0
+2021,720,L. Rupp,33.0,Germany,Norwich,19.0,762.0,0.0,,0.0,0.0
+2021,1485,Bruno Fernandes,30.0,Portugal,Manchester United,36.0,3119.0,10.0,6.0,10.0,0.0
+2021,1946,L. Trossard,30.0,Belgium,Brighton,34.0,2812.0,8.0,3.0,2.0,0.0
+2021,2664,Trézéguet,30.0,Egypt,Aston Villa,1.0,10.0,0.0,,0.0,0.0
+2021,2724,L. Digne,31.0,France,Aston Villa,16.0,1272.0,0.0,4.0,2.0,0.0
+2021,2795,G. Sigurðsson,35.0,Iceland,Everton,0.0,0.0,0.0,,0.0,0.0
+2021,18931,C. Wood,33.0,New Zealand,Newcastle,17.0,1328.0,2.0,,0.0,0.0
+2021,18968,Y. Bissouma,28.0,Mali,Brighton,26.0,2117.0,1.0,2.0,10.0,0.0
+2021,19088,D. Henderson,27.0,England,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2021,40434,J. Valencia,30.0,Ecuador,Brentford,0.0,0.0,0.0,,0.0,0.0
+2021,45309,C. Murray,27.0,Scotland,Partick,0.0,0.0,0.0,,0.0,0.0
+2021,47380,Marc Cucurella,26.0,Spain,Brighton,35.0,3092.0,1.0,1.0,6.0,0.0
+2021,129643,E. Ferguson,20.0,Republic of Ireland,Brighton,1.0,22.0,0.0,,0.0,0.0
+2021,138842,M. Azeez,22.0,England,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2021,158697,J. McAtee,22.0,England,Manchester City,2.0,18.0,0.0,,0.0,0.0
+2021,162590,T. Morton,22.0,England,Liverpool,2.0,66.0,0.0,,1.0,0.0
+2021,276605,D. Agyakwa,23.0,Netherlands,Watford,0.0,0.0,0.0,,0.0,0.0
+2021,309815,T. Çukur,22.0,Türkiye,Watford,0.0,0.0,0.0,,0.0,0.0
+2021,281,C. Kelleher,26.0,Republic of Ireland,Liverpool,2.0,180.0,0.0,,0.0,0.0
+2021,301,B. Woodburn,25.0,Wales,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2021,671,B. Traoré,29.0,Burkina Faso,Aston Villa,9.0,213.0,0.0,,0.0,0.0
+2021,1145,I. Konaté,25.0,France,Liverpool,11.0,990.0,0.0,,2.0,0.0
+2021,1424,E. Kayembe,26.0,Congo DR,Watford,13.0,800.0,0.0,,0.0,0.0
+2021,2218,I. Sarr,26.0,Senegal,Watford,22.0,1864.0,5.0,2.0,2.0,0.0
+2021,2484,Y. Mina,30.0,Colombia,Everton,13.0,847.0,0.0,,3.0,0.0
+2021,2735,P. Højbjerg,29.0,Denmark,Tottenham,36.0,3199.0,2.0,2.0,3.0,0.0
+2021,3295,P. Tau,30.0,South Africa,Brighton,0.0,0.0,0.0,,0.0,0.0
+2021,18807,Domingos Quina,25.0,Portugal,Watford,0.0,0.0,0.0,,0.0,0.0
+2021,18930,M. Vydra,32.0,Czechia,Burnley,22.0,666.0,2.0,3.0,1.0,0.0
+2021,19118,L. Cooper,33.0,Scotland,Leeds,21.0,1815.0,0.0,1.0,5.0,0.0
+2021,50075,S. Perica,29.0,Croatia,Watford,0.0,0.0,0.0,,0.0,0.0
+2021,69680,D. Costelloe,22.0,Republic of Ireland,Burnley,0.0,0.0,0.0,,0.0,0.0
+2021,130418,A. SÃ¸ndergaard,23.0,Denmark,Wolves,0.0,0.0,0.0,,0.0,0.0
+2021,180940,T. Sharman-Lowe,21.0,England,Chelsea,0.0,0.0,0.0,,0.0,0.0
+2021,278118,B. Nelson,20.0,England,Leicester,0.0,0.0,0.0,,0.0,0.0
+2021,280963,J. AlegrÃ­a,22.0,Colombia,Partick,0.0,0.0,0.0,,0.0,0.0
+2021,284327,R. Welch,21.0,England,Everton,0.0,0.0,0.0,,0.0,0.0
+2021,284420,Z. Awe,20.0,England,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2021,69257,J. Furlong,22.0,Republic of Ireland,Brighton,0.0,0.0,0.0,,0.0,0.0
+2021,138411,L. Hughes,23.0,Northern Ireland,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2021,138841,M. Ogungbo,22.0,Republic of Ireland,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2021,138893,D. Markanday,23.0,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2021,138906,J. White,22.0,England,Newcastle,0.0,0.0,0.0,,0.0,0.0
+2021,138929,L. Brunt,24.0,England,Leicester,1.0,23.0,0.0,,0.0,0.0
+2021,138937,F. Marschall,21.0,England,Aston Villa,0.0,0.0,0.0,,0.0,0.0
+2021,152971,V. Campbell,23.0,England,Leicester,0.0,0.0,0.0,,0.0,0.0
+2021,153431,M. Helm,23.0,England,Burnley,0.0,0.0,0.0,,0.0,0.0
+2021,154807,D. Chesters,22.0,England,West Ham,1.0,0.0,0.0,,0.0,0.0
+2021,157025,J. Willis,23.0,England,Walsall,0.0,0.0,0.0,,0.0,0.0
+2021,158432,C. Campbell,22.0,Wales,Wolves,1.0,12.0,0.0,,0.0,0.0
+2021,167663,T. McGill,24.0,Canada,Brighton,0.0,0.0,0.0,,0.0,0.0
+2021,197811,L. Gordon,23.0,Scotland,Brentford,0.0,0.0,0.0,,0.0,0.0
+2021,231062,A. Okonkwo,23.0,England,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2021,284323,C. Savage,21.0,Wales,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2021,284408,S. Perkins,20.0,England,West Ham,1.0,3.0,0.0,,0.0,0.0
+2021,309816,S. Forde,20.0,England,Watford,0.0,0.0,0.0,,0.0,0.0
+2021,312118,J. Feeney,19.0,England,Aston Villa,0.0,0.0,0.0,,0.0,0.0
+2021,350318,K. Conteh,22.0,Sierra Leone,Watford,0.0,0.0,0.0,,0.0,0.0
+2021,84,Wesley,28.0,Brazil,Aston Villa,1.0,0.0,0.0,,0.0,0.0
+2021,305,D. Origi,29.0,Belgium,Liverpool,7.0,126.0,3.0,,0.0,0.0
+2021,935,Rodrigo,33.0,Spain,Leeds,31.0,2272.0,6.0,1.0,9.0,0.0
+2021,2716,R. SaÃ¯ss,34.0,Morocco,Wolves,31.0,2709.0,2.0,,6.0,0.0
+2021,2727,J. LÃ¶ssl,35.0,Denmark,Brentford,2.0,180.0,0.0,,0.0,0.0
+2021,2784,R. RÃºnarsson,29.0,Iceland,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2021,15928,F. Alves,25.0,Denmark,West Ham,0.0,0.0,0.0,,0.0,0.0
+2021,18800,Marc Navarro,29.0,Spain,Watford,0.0,0.0,0.0,,0.0,0.0
+2021,18834,A. Yarmolenko,35.0,Ukraine,West Ham,19.0,299.0,1.0,,1.0,0.0
+2021,18946,M. Elyounoussi,30.0,Norway,Southampton,30.0,2045.0,4.0,2.0,4.0,0.0
+2021,19071,E. BuendÃ­a,28.0,Argentina,Aston Villa,35.0,1902.0,4.0,6.0,1.0,0.0
+2021,19345,M. Bech,25.0,Denmark,Brentford,11.0,834.0,0.0,,3.0,0.0
+2021,20557,I. Diallo,25.0,France,Southampton,23.0,1014.0,0.0,2.0,1.0,0.0
+2021,31023,J. Kucka,37.0,Slovakia,Watford,26.0,1923.0,1.0,1.0,4.0,0.0
+2021,38781,X. Mbuyamba,23.0,Netherlands,Chelsea,0.0,0.0,0.0,,0.0,0.0
+2021,39105,K. Klaesson,24.0,Norway,Leeds,1.0,35.0,0.0,,0.0,0.0
+2021,45117,C. Smith,29.0,Scotland,Partick,0.0,0.0,0.0,,0.0,0.0
+2021,45161,S. Bell,39.0,Scotland,Partick,0.0,0.0,0.0,,0.0,0.0
+2021,144710,R. Hannam,24.0,England,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2021,197807,C. Chukwuemeka,22.0,England,Aston Villa,0.0,0.0,0.0,,0.0,0.0
+2021,885,E. Bailly,30.0,Côte d'Ivoire,Manchester United,4.0,218.0,0.0,,1.0,0.0
+2021,931,Ferran Torres,24.0,Spain,Manchester City,4.0,305.0,2.0,1.0,0.0,0.0
+2021,1439,Héctor Bellerín,29.0,Spain,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2021,1496,Raphinha,28.0,Brazil,Leeds,35.0,2922.0,11.0,3.0,7.0,0.0
+2021,1578,G. Lo Celso,28.0,Argentina,Tottenham,9.0,233.0,0.0,,0.0,0.0
+2021,1697,Pablo Fornals,28.0,Spain,West Ham,36.0,2804.0,6.0,3.0,4.0,0.0
+2021,2280,César Azpilicueta,35.0,Spain,Chelsea,27.0,2075.0,1.0,2.0,3.0,0.0
+2021,2282,A. Christensen,28.0,Denmark,Chelsea,19.0,1496.0,0.0,,2.0,0.0
+2021,2285,A. Rüdiger,31.0,Germany,Chelsea,34.0,3035.0,3.0,,9.0,0.0
+2021,2461,S. Rondón,35.0,Venezuela,Everton,20.0,782.0,1.0,1.0,3.0,1.0
+2021,3246,N. Pépé,29.0,Côte d'Ivoire,Arsenal,20.0,681.0,1.0,2.0,0.0,0.0
+2021,18794,Kiko Femenía,33.0,Spain,Watford,27.0,2150.0,0.0,5.0,2.0,0.0
+2021,18812,Adrián,37.0,Spain,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2021,18906,Ayoze Pérez,31.0,Spain,Leicester,14.0,443.0,2.0,3.0,0.0,1.0
+2021,19428,J. Bowen,28.0,England,West Ham,36.0,2993.0,12.0,10.0,6.0,0.0
+2021,20600,R. Perraud,27.0,France,Southampton,20.0,1625.0,0.0,1.0,3.0,0.0
+2021,25416,W. Weghorst,32.0,Netherlands,Burnley,20.0,1456.0,2.0,3.0,3.0,0.0
+2021,47302,Diego Llorente,31.0,Spain,Leeds,28.0,2344.0,3.0,,7.0,0.0
+2021,67972,C. Gallagher,24.0,England,Crystal Palace,34.0,2851.0,8.0,3.0,10.0,0.0
+2021,195962,Chiquinho,24.0,Portugal,Wolves,8.0,201.0,0.0,3.0,0.0,0.0
+2021,723,Joelinton,28.0,Brazil,Newcastle,35.0,2559.0,4.0,1.0,8.0,0.0
+2021,1231,V. Coufal,32.0,Czechia,West Ham,28.0,2210.0,0.0,4.0,4.0,0.0
+2021,1243,T. Souček,29.0,Czechia,West Ham,35.0,3062.0,5.0,1.0,3.0,0.0
+2021,1463,J. Willock,25.0,England,Newcastle,29.0,2047.0,2.0,,0.0,0.0
+2021,2284,Emerson,30.0,Italy,Chelsea,1.0,4.0,0.0,,0.0,0.0
+2021,2507,M. Almirón,30.0,Paraguay,Newcastle,30.0,1719.0,1.0,,2.0,0.0
+2021,2931,T. Heaton,38.0,England,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2021,2939,C. Wilson,32.0,England,Newcastle,18.0,1389.0,8.0,,4.0,0.0
+2021,2997,Ł. Fabiański,39.0,Poland,West Ham,37.0,3330.0,0.0,,2.0,0.0
+2021,10135,Bruno Guimarães,27.0,Brazil,Newcastle,17.0,1032.0,5.0,1.0,4.0,0.0
+2021,18744,M. Kilman,27.0,England,Wolves,30.0,2689.0,1.0,,3.0,0.0
+2021,18778,H. Barnes,27.0,England,Leicester,32.0,2104.0,6.0,10.0,2.0,0.0
+2021,18813,A. Cresswell,35.0,England,West Ham,31.0,2728.0,2.0,3.0,3.0,0.0
+2021,18819,M. Antonio,34.0,Jamaica,West Ham,36.0,2980.0,10.0,8.0,7.0,0.0
+2021,18846,A. Wan-Bissaka,27.0,England,Manchester United,20.0,1794.0,0.0,,2.0,0.0
+2021,18899,I. Hayden,29.0,England,Newcastle,14.0,1003.0,1.0,,5.0,0.0
+2021,18901,S. Longstaff,27.0,England,Newcastle,24.0,1458.0,1.0,1.0,1.0,0.0
+2021,18955,D. Ings,32.0,England,Aston Villa,30.0,1905.0,7.0,6.0,4.0,0.0
+2021,37724,C. Summerville,23.0,Netherlands,Leeds,6.0,125.0,0.0,,0.0,0.0
+2021,138787,A. Gordon,23.0,England,Everton,35.0,2285.0,4.0,2.0,4.0,0.0
+2021,169,K. Trippier,34.0,England,Newcastle,6.0,430.0,2.0,,0.0,0.0
+2021,727,R. Nelson,25.0,England,Arsenal,1.0,19.0,0.0,,0.0,0.0
+2021,1161,E. Smith Rowe,24.0,England,Arsenal,33.0,1921.0,10.0,2.0,1.0,0.0
+2021,1455,A. Iwobi,28.0,Nigeria,Everton,28.0,2037.0,2.0,2.0,1.0,0.0
+2021,2273,Kepa,30.0,Spain,Chelsea,4.0,360.0,0.0,,0.0,0.0
+2021,2806,F. Schär,33.0,Switzerland,Newcastle,25.0,2161.0,2.0,2.0,4.0,0.0
+2021,2855,E. Krafth,30.0,Sweden,Newcastle,20.0,1638.0,0.0,1.0,5.0,0.0
+2021,2887,R. Jiménez,33.0,Mexico,Wolves,34.0,2637.0,6.0,4.0,7.0,0.0
+2021,18737,J. Ruddy,38.0,England,Wolves,2.0,134.0,0.0,,0.0,0.0
+2021,18753,Adama Traoré,28.0,Spain,Wolves,20.0,1063.0,1.0,,0.0,0.0
+2021,18886,M. Dúbravka,35.0,Slovakia,Newcastle,26.0,2340.0,0.0,,1.0,0.0
+2021,18894,J. Lascelles,31.0,England,Newcastle,26.0,2055.0,1.0,,5.0,0.0
+2021,18941,M. Targett,29.0,England,Newcastle,16.0,1440.0,0.0,1.0,1.0,0.0
+2021,18961,D. Burn,32.0,England,Newcastle,16.0,1440.0,0.0,,4.0,0.0
+2021,19032,R. Sessegnon,24.0,England,Tottenham,15.0,1054.0,0.0,2.0,2.0,0.0
+2021,19070,M. Aarons,24.0,England,Norwich,34.0,2882.0,0.0,2.0,8.0,0.0
+2021,19163,J. Murphy,29.0,England,Newcastle,33.0,1457.0,1.0,2.0,4.0,0.0
+2021,44912,M. Gillespie,32.0,England,Newcastle,0.0,0.0,0.0,,0.0,0.0
+2021,158694,T. Livramento,22.0,England,Southampton,28.0,2202.0,1.0,1.0,2.0,0.0
+2021,284492,L. Hall,20.0,England,Chelsea,0.0,0.0,0.0,,0.0,0.0
+2021,899,Andreas Pereira,28.0,Brazil,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2021,1119,K. Ajer,26.0,Norway,Brentford,24.0,2000.0,1.0,3.0,5.0,0.0
+2021,1438,B. Leno,32.0,Germany,Arsenal,4.0,360.0,0.0,,0.0,0.0
+2021,2413,Richarlison,27.0,Brazil,Everton,30.0,2527.0,10.0,5.0,9.0,0.0
+2021,2729,J. Andersen,28.0,Denmark,Crystal Palace,34.0,2915.0,0.0,3.0,4.0,0.0
+2021,2920,T. Castagne,29.0,Belgium,Leicester,27.0,2124.0,1.0,,1.0,0.0
+2021,15745,M. Roerslev,25.0,Denmark,Brentford,21.0,1233.0,1.0,1.0,1.0,0.0
+2021,18814,I. Diop,27.0,France,West Ham,13.0,961.0,0.0,1.0,0.0,0.0
+2021,18917,B. Mee,35.0,England,Burnley,21.0,1840.0,3.0,,3.0,0.0
+2021,19346,R. Henry,27.0,England,Brentford,34.0,2784.0,3.0,,2.0,0.0
+2021,19362,J. Dasilva,26.0,England,Brentford,9.0,252.0,0.0,,0.0,1.0
+2021,19495,N. Collins,23.0,Republic of Ireland,Burnley,19.0,1670.0,2.0,,2.0,1.0
+2021,19789,E. Pinnock,31.0,Jamaica,Brentford,32.0,2698.0,1.0,1.0,1.0,0.0
+2021,20589,B. Mbeumo,25.0,Cameroon,Brentford,35.0,2916.0,4.0,7.0,4.0,0.0
+2021,20649,Y. Wissa,28.0,Congo DR,Brentford,30.0,1273.0,7.0,1.0,0.0,0.0
+2021,25073,V. Janelt,26.0,Germany,Brentford,31.0,2308.0,4.0,,3.0,0.0
+2021,30407,C. Nørgaard,30.0,Denmark,Brentford,35.0,3059.0,3.0,4.0,8.0,0.0
+2021,47438,M. Jensen,28.0,Denmark,Brentford,31.0,1600.0,0.0,1.0,0.0,0.0
+2021,162075,P. Maghoma,23.0,England,Brentford,0.0,0.0,0.0,,0.0,0.0
+2021,278041,M. Cox,21.0,England,Brentford,0.0,0.0,0.0,,0.0,0.0
+2021,80,E. Dennis,27.0,Nigeria,Watford,33.0,2591.0,10.0,6.0,8.0,0.0
+2021,161,A. Whiteman,26.0,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2021,164,B. Davies,31.0,Wales,Tottenham,29.0,2539.0,1.0,1.0,6.0,0.0
+2021,186,Son Heung-Min,32.0,Korea Republic,Tottenham,35.0,3021.0,23.0,7.0,2.0,0.0
+2021,739,Sergio Reguilón,28.0,Spain,Tottenham,25.0,1922.0,2.0,3.0,4.0,0.0
+2021,863,R. Bentancur,27.0,Uruguay,Tottenham,17.0,1366.0,0.0,4.0,5.0,0.0
+2021,1166,T. Werner,28.0,Germany,Chelsea,21.0,1285.0,4.0,1.0,1.0,0.0
+2021,2298,C. Hudson-Odoi,24.0,England,Chelsea,15.0,966.0,1.0,2.0,1.0,0.0
+2021,2938,J. Ward-Prowse,30.0,England,Southampton,36.0,3217.0,10.0,5.0,3.0,1.0
+2021,18739,W. Boly,33.0,Côte d'Ivoire,Wolves,10.0,900.0,0.0,,1.0,0.0
+2021,18746,M. Gibbs-White,24.0,England,Wolves,2.0,7.0,0.0,,1.0,0.0
+2021,18784,J. Maddison,28.0,England,Leicester,35.0,2466.0,12.0,8.0,3.0,0.0
+2021,18932,F. Forster,36.0,England,Southampton,19.0,1710.0,0.0,,1.0,0.0
+2021,30435,D. Kulusevski,24.0,Sweden,Tottenham,18.0,1267.0,5.0,8.0,3.0,0.0
+2021,30776,C. Romero,26.0,Argentina,Tottenham,22.0,1845.0,1.0,,8.0,0.0
+2021,138908,E. Anderson,22.0,England,Newcastle,0.0,0.0,0.0,,0.0,0.0
+2021,147835,A. Omobamidele,22.0,Republic of Ireland,Norwich,5.0,381.0,1.0,,1.0,0.0
+2021,153430,A. Elanga,22.0,Sweden,Manchester United,21.0,1216.0,2.0,2.0,0.0,0.0
+2021,156428,B. Austin,25.0,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2021,328089,A. Gray,18.0,England,Leeds,0.0,0.0,0.0,,0.0,0.0
+2021,18,J. Sancho,24.0,England,Manchester United,29.0,1900.0,3.0,3.0,0.0,0.0
+2021,296,J. Milner,38.0,England,Liverpool,24.0,843.0,0.0,1.0,2.0,0.0
+2021,537,J. Veltman,32.0,Netherlands,Brighton,34.0,2880.0,1.0,1.0,6.0,0.0
+2021,1469,D. Welbeck,34.0,England,Brighton,25.0,1475.0,6.0,2.0,0.0,0.0
+2021,1864,Pedro Neto,24.0,Portugal,Wolves,13.0,464.0,1.0,1.0,3.0,0.0
+2021,10329,João Pedro,23.0,Brazil,Watford,28.0,1636.0,3.0,1.0,1.0,0.0
+2021,18960,J. Steele,34.0,England,Brighton,1.0,90.0,0.0,,0.0,0.0
+2021,18963,L. Dunk,33.0,England,Brighton,29.0,2574.0,1.0,,2.0,1.0
+2021,18973,S. March,30.0,England,Brighton,31.0,1739.0,0.0,2.0,1.0,0.0
+2021,19265,A. Webster,29.0,England,Brighton,22.0,1431.0,2.0,,5.0,0.0
+2021,19545,R. James,25.0,England,Chelsea,26.0,1865.0,5.0,9.0,4.0,1.0
+2021,22094,W. Fofana,24.0,France,Leicester,7.0,630.0,0.0,,2.0,0.0
+2021,40911,J. Moder,25.0,Poland,Brighton,28.0,1702.0,0.0,3.0,2.0,0.0
+2021,138780,N. Williams,23.0,Wales,Liverpool,1.0,7.0,0.0,1.0,0.0,0.0
+2021,138815,T. Lamptey,24.0,Ghana,Brighton,30.0,1556.0,0.0,2.0,4.0,0.0
+2021,138935,C. Chukwuemeka,21.0,England,Aston Villa,12.0,295.0,0.0,1.0,0.0,0.0
+2021,148099,K. Dewsbury-Hall,26.0,England,Leicester,28.0,2104.0,1.0,2.0,4.0,0.0
+2021,152982,C. Palmer,22.0,England,Manchester City,4.0,121.0,0.0,,0.0,0.0
+2021,280672,E. Turns,22.0,Wales,Brighton,0.0,0.0,0.0,,0.0,0.0
+2021,282125,R. Lavia,20.0,Belgium,Manchester City,0.0,0.0,0.0,,0.0,0.0
+2021,645,R. Sterling,30.0,England,Manchester City,30.0,2127.0,13.0,5.0,1.0,0.0
+2021,766,R. Olsen,34.0,Sweden,Aston Villa,1.0,90.0,0.0,,0.0,0.0
+2021,983,L. Bailey,27.0,Jamaica,Aston Villa,18.0,755.0,1.0,2.0,3.0,0.0
+2021,2287,R. Barkley,31.0,England,Chelsea,6.0,176.0,1.0,,0.0,0.0
+2021,2926,Y. Tielemans,27.0,Belgium,Leicester,32.0,2633.0,6.0,4.0,3.0,0.0
+2021,2933,B. Chilwell,28.0,England,Chelsea,7.0,541.0,3.0,1.0,0.0,0.0
+2021,18959,Robert Sánchez,27.0,Spain,Brighton,37.0,3330.0,0.0,,4.0,1.0
+2021,19012,M. Bettinelli,32.0,England,Chelsea,0.0,0.0,0.0,,0.0,0.0
+2021,19177,K. Hause,29.0,England,Aston Villa,7.0,395.0,1.0,,0.0,0.0
+2021,19179,T. Mings,31.0,England,Aston Villa,36.0,3188.0,1.0,3.0,11.0,0.0
+2021,19191,J. McGinn,30.0,Scotland,Aston Villa,35.0,3092.0,3.0,4.0,8.0,0.0
+2021,19192,J. Ramsey,23.0,England,Aston Villa,34.0,2476.0,6.0,1.0,6.0,0.0
+2021,19298,M. Cash,27.0,Poland,Aston Villa,38.0,3380.0,4.0,3.0,8.0,0.0
+2021,19354,E. Konsa,27.0,England,Aston Villa,29.0,2482.0,2.0,,5.0,1.0
+2021,19366,O. Watkins,29.0,England,Aston Villa,35.0,2955.0,11.0,2.0,7.0,0.0
+2021,19599,E. Martínez,32.0,Argentina,Aston Villa,36.0,3240.0,0.0,,4.0,0.0
+2021,138931,J. Philogene,22.0,England,Aston Villa,1.0,4.0,0.0,,0.0,0.0
+2021,152955,L. Bergström,22.0,Finland,Chelsea,0.0,0.0,0.0,,0.0,0.0
+2021,284457,L. Bogarde,20.0,Netherlands,Aston Villa,0.0,0.0,0.0,,0.0,0.0
+2021,284523,S. Swinkels,20.0,Netherlands,Aston Villa,0.0,0.0,0.0,,0.0,0.0
+2021,49,T. Partey,31.0,Ghana,Arsenal,24.0,2032.0,2.0,1.0,5.0,0.0
+2021,293,C. Jones,23.0,England,Liverpool,15.0,853.0,1.0,1.0,0.0,0.0
+2021,306,Mohamed Salah,32.0,Egypt,Liverpool,35.0,2762.0,23.0,13.0,1.0,0.0
+2021,641,O. Zinchenko,28.0,Ukraine,Manchester City,15.0,1042.0,0.0,4.0,0.0,0.0
+2021,643,Gabriel Jesus,27.0,Brazil,Manchester City,28.0,1878.0,8.0,8.0,1.0,0.0
+2021,978,K. Havertz,25.0,Germany,Chelsea,29.0,1813.0,8.0,3.0,3.0,0.0
+2021,1117,K. Tierney,27.0,Scotland,Arsenal,22.0,1919.0,1.0,3.0,0.0,0.0
+2021,1460,B. Saka,23.0,England,Arsenal,38.0,2996.0,11.0,7.0,6.0,0.0
+2021,2289,Jorginho,33.0,Italy,Chelsea,29.0,2278.0,6.0,2.0,5.0,0.0
+2021,2489,L. Díaz,27.0,Colombia,Liverpool,13.0,963.0,4.0,3.0,0.0,0.0
+2021,2597,T. Tomiyasu,26.0,Japan,Arsenal,21.0,1681.0,0.0,1.0,2.0,0.0
+2021,2678,Diogo Jota,28.0,Portugal,Liverpool,35.0,2373.0,15.0,4.0,3.0,0.0
+2021,2937,D. Rice,25.0,England,West Ham,36.0,3178.0,1.0,4.0,8.0,0.0
+2021,19035,H. Elliott,21.0,England,Liverpool,6.0,345.0,0.0,,0.0,0.0
+2021,19465,David Raya,29.0,Spain,Brentford,24.0,2160.0,0.0,,1.0,0.0
+2021,19959,B. White,27.0,England,Arsenal,32.0,2880.0,0.0,,3.0,0.0
+2021,22224,Gabriel Magalhães,27.0,Brazil,Arsenal,35.0,3068.0,5.0,,7.0,0.0
+2021,37127,M. Ødegaard,26.0,Norway,Arsenal,36.0,2793.0,7.0,4.0,4.0,0.0
+2021,127769,Gabriel Martinelli,23.0,Brazil,Arsenal,29.0,1863.0,6.0,6.0,2.0,0.0
+2021,278074,S. Oulad M&apos;Hand,21.0,Netherlands,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2021,44,Rodri,28.0,Spain,Manchester City,33.0,2887.0,7.0,2.0,5.0,0.0
+2021,280,Alisson Becker,32.0,Brazil,Liverpool,36.0,3240.0,0.0,1.0,0.0,0.0
+2021,283,T. Alexander-Arnold,26.0,England,Liverpool,32.0,2854.0,2.0,12.0,2.0,0.0
+2021,284,J. Gomez,27.0,England,Liverpool,8.0,328.0,0.0,1.0,2.0,0.0
+2021,289,A. Robertson,30.0,Scotland,Liverpool,29.0,2541.0,3.0,10.0,5.0,1.0
+2021,290,V. van Dijk,33.0,Netherlands,Liverpool,34.0,3060.0,3.0,1.0,3.0,0.0
+2021,626,J. Stones,30.0,England,Manchester City,14.0,1118.0,1.0,,0.0,0.0
+2021,629,K. De Bruyne,33.0,Belgium,Manchester City,30.0,2205.0,15.0,8.0,2.0,0.0
+2021,631,P. Foden,24.0,England,Manchester City,28.0,2133.0,9.0,5.0,1.0,0.0
+2021,633,İ. Gündoğan,34.0,Germany,Manchester City,27.0,1855.0,8.0,4.0,1.0,0.0
+2021,636,Bernardo Silva,30.0,Portugal,Manchester City,35.0,2861.0,8.0,4.0,6.0,0.0
+2021,1600,K. Tsimikas,28.0,Greece,Liverpool,13.0,874.0,0.0,2.0,3.0,0.0
+2021,2291,M. Kovačić,30.0,Croatia,Chelsea,25.0,1555.0,2.0,5.0,4.0,0.0
+2021,6716,A. Mac Allister,26.0,Argentina,Brighton,33.0,2116.0,5.0,2.0,4.0,0.0
+2021,18861,N. Aké,29.0,Netherlands,Manchester City,14.0,921.0,2.0,,0.0,0.0
+2021,19187,J. Grealish,29.0,England,Manchester City,26.0,1917.0,3.0,3.0,3.0,0.0
+2021,19197,S. Carson,39.0,England,Manchester City,0.0,0.0,0.0,,0.0,0.0
+2021,158698,J. Quansah,21.0,England,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2021,180317,C. Bradley,21.0,Northern Ireland,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2021,278128,J. Wilson-Esbrand,22.0,England,Manchester City,0.0,0.0,0.0,,0.0,0.0
+2021,48,Saúl,30.0,Spain,Chelsea,10.0,477.0,0.0,,1.0,0.0
+2021,517,J. Rodríguez,33.0,Colombia,Everton,0.0,0.0,0.0,,0.0,0.0
+2021,547,D. van de Beek,27.0,Netherlands,Everton,7.0,483.0,1.0,,1.0,0.0
+2021,617,Ederson,31.0,Brazil,Manchester City,37.0,3330.0,0.0,,3.0,0.0
+2021,627,K. Walker,34.0,England,Manchester City,20.0,1756.0,0.0,2.0,1.0,0.0
+2021,891,L. Shaw,29.0,England,Manchester United,20.0,1603.0,0.0,3.0,8.0,0.0
+2021,1234,A. Král,26.0,Czechia,West Ham,1.0,0.0,0.0,,0.0,0.0
+2021,1427,A. Sambi Lokonga,25.0,Belgium,Arsenal,19.0,1131.0,0.0,,5.0,0.0
+2021,2061,Bryan Gil,23.0,Spain,Tottenham,9.0,85.0,0.0,,0.0,0.0
+2021,2278,Marcos Alonso,34.0,Spain,Chelsea,28.0,2173.0,4.0,4.0,8.0,0.0
+2021,2778,K. Ịheanachọ,28.0,Nigeria,Leicester,26.0,1260.0,4.0,5.0,1.0,0.0
+2021,18772,J. Evans,36.0,Northern Ireland,Leicester,18.0,1350.0,1.0,1.0,3.0,0.0
+2021,18835,Vicente Guaita,37.0,Spain,Crystal Palace,30.0,2656.0,0.0,,2.0,0.0
+2021,18896,Javier Manquillo,30.0,Spain,Newcastle,19.0,1259.0,1.0,2.0,5.0,0.0
+2021,18902,Kenedy,28.0,Brazil,Chelsea,1.0,59.0,0.0,1.0,0.0,0.0
+2021,18949,Oriol Romeu,33.0,Spain,Southampton,36.0,2899.0,2.0,2.0,9.0,0.0
+2021,19352,Sergi Canós,27.0,Spain,Brentford,31.0,2094.0,3.0,2.0,7.0,0.0
+2021,47016,Álvaro Fernández,26.0,Spain,Brentford,12.0,1080.0,0.0,,0.0,0.0
+2021,129791,Fábio Silva,22.0,Portugal,Wolves,22.0,561.0,0.0,,0.0,0.0
+2021,169295,K. Hein,22.0,Estonia,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2021,171,K. Walker-Peters,27.0,England,Southampton,32.0,2632.0,1.0,2.0,5.0,0.0
+2021,175,E. Dier,30.0,England,Tottenham,35.0,3072.0,0.0,,1.0,0.0
+2021,184,H. Kane,31.0,England,Tottenham,37.0,3232.0,17.0,9.0,5.0,0.0
+2021,295,A. Lallana,36.0,England,Brighton,24.0,1564.0,0.0,1.0,4.0,0.0
+2021,665,M. Cornet,28.0,Côte d'Ivoire,Burnley,26.0,1774.0,9.0,1.0,2.0,0.0
+2021,886,Diogo Dalot,25.0,Portugal,Manchester United,24.0,1798.0,0.0,,4.0,0.0
+2021,889,V. Lindelöf,30.0,Sweden,Manchester United,28.0,2355.0,0.0,2.0,4.0,0.0
+2021,1464,G. Xhaka,32.0,Switzerland,Arsenal,27.0,2331.0,1.0,2.0,10.0,1.0
+2021,2935,H. Maguire,31.0,England,Manchester United,30.0,2514.0,1.0,,8.0,0.0
+2021,2999,J. Bednarek,28.0,Poland,Southampton,31.0,2632.0,4.0,,10.0,0.0
+2021,18873,R. Fraser,30.0,Scotland,Newcastle,27.0,1469.0,2.0,3.0,3.0,0.0
+2021,18918,C. Taylor,31.0,England,Burnley,31.0,2730.0,0.0,3.0,3.0,0.0
+2021,18935,A. McCarthy,35.0,England,Southampton,17.0,1530.0,0.0,,1.0,0.0
+2021,18940,J. Stephens,30.0,England,Southampton,11.0,810.0,0.0,,3.0,0.0
+2021,19484,A. Armstrong,27.0,England,Southampton,23.0,1414.0,2.0,2.0,1.0,0.0
+2021,19617,M. Olise,23.0,France,Crystal Palace,26.0,1136.0,2.0,5.0,4.0,0.0
+2021,130421,W. Smallbone,24.0,Republic of Ireland,Southampton,4.0,133.0,0.0,,0.0,0.0
+2021,137302,C. Archer,23.0,England,Aston Villa,3.0,24.0,0.0,,0.0,0.0
+2021,231029,N. Tella,25.0,Nigeria,Southampton,14.0,809.0,0.0,1.0,2.0,0.0
+2021,304317,T. Dibling,18.0,England,Southampton,0.0,0.0,0.0,,0.0,0.0
+2021,130,Nélson Semedo,31.0,Portugal,Wolves,25.0,2137.0,0.0,1.0,1.0,0.0
+2021,1590,José Sá,31.0,Portugal,Wolves,37.0,3286.0,0.0,1.0,3.0,0.0
+2021,18742,M. Doherty,32.0,Republic of Ireland,Tottenham,15.0,872.0,2.0,4.0,0.0,0.0
+2021,18823,B. Johnson,24.0,England,West Ham,20.0,1396.0,1.0,,1.0,0.0
+2021,19130,K. Phillips,29.0,England,Leeds,20.0,1596.0,0.0,1.0,4.0,0.0
+2021,19136,J. Clarke,24.0,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2021,19147,C. Dawson,34.0,England,West Ham,34.0,2752.0,2.0,2.0,4.0,1.0
+2021,19182,A. Tuanzebe,27.0,Congo DR,Aston Villa,9.0,506.0,0.0,,1.0,0.0
+2021,19541,C. Walton,29.0,England,Brighton,0.0,0.0,0.0,,0.0,0.0
+2021,20355,A. Ramsdale,26.0,England,Arsenal,34.0,3060.0,0.0,,1.0,0.0
+2021,21138,R. Aït-Nouri,23.0,Algeria,Wolves,23.0,1828.0,1.0,2.0,4.0,0.0
+2021,24888,Hwang Hee-Chan,28.0,Korea Republic,Wolves,30.0,1821.0,5.0,1.0,2.0,0.0
+2021,41606,Toti Gomes,25.0,Portugal,Wolves,4.0,360.0,0.0,,1.0,0.0
+2021,126791,N. Broadhead,26.0,Wales,Everton,0.0,0.0,0.0,,0.0,0.0
+2021,144732,T. Doyle,23.0,England,Manchester City,0.0,0.0,0.0,,0.0,0.0
+2021,149564,L. Cundle,22.0,England,Wolves,4.0,179.0,0.0,,0.0,0.0
+2021,158702,C. Slicker,22.0,Scotland,Manchester City,0.0,0.0,0.0,,0.0,0.0
+2021,161948,L. Delap,21.0,England,Manchester City,1.0,9.0,0.0,,0.0,0.0
+2021,195717,Y. Mosquera,23.0,Colombia,Wolves,0.0,0.0,0.0,,0.0,0.0
+2021,284428,O. Hutchinson,21.0,England,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2021,895,J. Garner,23.0,England,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2021,1440,R. Holding,29.0,England,Arsenal,15.0,839.0,1.0,,3.0,0.0
+2021,1468,E. Nketiah,25.0,England,Arsenal,21.0,825.0,5.0,1.0,3.0,0.0
+2021,2165,V. Mykolenko,25.0,Ukraine,Everton,13.0,1056.0,1.0,,0.0,0.0
+2021,17661,J. Branthwaite,22.0,England,Everton,6.0,387.0,1.0,,0.0,1.0
+2021,18766,D. Calvert-Lewin,27.0,England,Everton,17.0,1286.0,5.0,2.0,2.0,0.0
+2021,18805,A. Doucouré,31.0,Mali,Everton,30.0,2538.0,2.0,4.0,6.0,0.0
+2021,18806,W. Hughes,29.0,England,Crystal Palace,16.0,1058.0,0.0,1.0,6.0,0.0
+2021,18843,J. Schlupp,32.0,Ghana,Crystal Palace,32.0,1846.0,4.0,1.0,1.0,0.0
+2021,18847,J. Ward,35.0,England,Crystal Palace,28.0,2486.0,0.0,,8.0,0.0
+2021,18862,N. Clyne,33.0,England,Crystal Palace,16.0,1350.0,0.0,1.0,1.0,0.0
+2021,18929,D. McNeil,25.0,England,Burnley,38.0,3114.0,0.0,1.0,1.0,0.0
+2021,19128,J. Harrison,28.0,England,Leeds,35.0,2649.0,8.0,1.0,3.0,0.0
+2021,19586,E. Eze,26.0,England,Crystal Palace,13.0,602.0,1.0,1.0,1.0,0.0
+2021,19684,R. Matthews,30.0,England,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2021,19720,T. Chalobah,25.0,England,Chelsea,20.0,1450.0,3.0,1.0,2.0,0.0
+2021,67971,M. Guéhi,24.0,England,Crystal Palace,36.0,3223.0,2.0,1.0,4.0,0.0
+2021,138822,A. Broja,23.0,Albania,Southampton,32.0,1980.0,6.0,,2.0,0.0
+2021,182201,T. Mitchell,25.0,England,Crystal Palace,36.0,3103.0,0.0,2.0,1.0,0.0
+2021,284500,T. Iroegbunam,21.0,England,Aston Villa,3.0,91.0,0.0,,1.0,0.0
+2021,180,O. Skipp,24.0,England,Tottenham,18.0,1348.0,0.0,,6.0,0.0
+2021,182,H. Winks,28.0,England,Tottenham,19.0,905.0,0.0,1.0,2.0,0.0
+2021,894,A. Young,39.0,England,Aston Villa,24.0,1240.0,0.0,2.0,2.0,0.0
+2021,1098,P. Daka,26.0,Zambia,Leicester,23.0,1160.0,5.0,3.0,2.0,0.0
+2021,1135,O. Édouard,26.0,France,Crystal Palace,28.0,1566.0,6.0,3.0,4.0,0.0
+2021,2932,J. Pickford,30.0,England,Everton,35.0,3150.0,0.0,,2.0,0.0
+2021,2934,M. Keane,31.0,England,Everton,32.0,2793.0,3.0,2.0,3.0,0.0
+2021,2936,J. Tarkowski,32.0,England,Burnley,35.0,3107.0,1.0,2.0,11.0,0.0
+2021,3428,J. Ayew,33.0,Ghana,Crystal Palace,31.0,2024.0,3.0,3.0,2.0,0.0
+2021,18755,João Virgínia,25.0,Portugal,Everton,0.0,0.0,0.0,,0.0,0.0
+2021,18758,S. Coleman,36.0,Republic of Ireland,Everton,30.0,2658.0,1.0,,4.0,0.0
+2021,18779,H. Choudhury,27.0,England,Leicester,6.0,286.0,0.0,,1.0,0.0
+2021,18786,W. Ndidi,28.0,Nigeria,Leicester,19.0,1619.0,0.0,,4.0,0.0
+2021,18788,J. Vardy,37.0,England,Leicester,25.0,1806.0,15.0,2.0,2.0,0.0
+2021,18858,A. Begović,37.0,Bosnia and Herzegovina,Everton,3.0,270.0,0.0,,0.0,0.0
+2021,22233,B. Soumaré,25.0,France,Leicester,19.0,1101.0,0.0,1.0,0.0,0.0
+2021,138417,N. Patterson,23.0,Scotland,Everton,0.0,0.0,0.0,,0.0,0.0
+2021,152969,L. Thomas,23.0,England,Leicester,22.0,1912.0,0.0,1.0,2.0,0.0
+2021,270139,J. O&apos;Brien,23.0,Republic of Ireland,Swindon Town,0.0,0.0,0.0,,0.0,0.0
+2021,283290,K. McAteer,23.0,Republic of Ireland,Leicester,1.0,2.0,0.0,,0.0,0.0
+2021,17,C. Pulišić,26.0,USA,Chelsea,22.0,1285.0,6.0,2.0,2.0,0.0
+2021,174,C. Eriksen,32.0,Denmark,Brentford,11.0,938.0,1.0,4.0,1.0,0.0
+2021,842,N. Vlašić,27.0,Croatia,West Ham,19.0,553.0,1.0,,0.0,0.0
+2021,909,M. Rashford,27.0,England,Manchester United,25.0,1233.0,4.0,2.0,2.0,0.0
+2021,1566,Emerson Royal,25.0,Brazil,Tottenham,31.0,2290.0,1.0,1.0,5.0,0.0
+2021,2292,R. Loftus-Cheek,28.0,England,Chelsea,24.0,1386.0,0.0,2.0,1.0,0.0
+2021,18146,D. Ward,31.0,Wales,Leicester,1.0,90.0,0.0,,0.0,0.0
+2021,18741,C. Coady,31.0,England,Wolves,38.0,3364.0,4.0,,5.0,0.0
+2021,18771,Ricardo Pereira,31.0,Portugal,Leicester,14.0,994.0,1.0,3.0,3.0,0.0
+2021,18797,C. Kabasele,33.0,Belgium,Watford,16.0,1189.0,0.0,,0.0,0.0
+2021,18799,A. Masina,30.0,Morocco,Watford,15.0,1077.0,0.0,1.0,0.0,0.0
+2021,18911,N. Pope,32.0,England,Burnley,36.0,3240.0,0.0,,1.0,0.0
+2021,18943,J. Vestergaard,32.0,Denmark,Leicester,10.0,564.0,0.0,,2.0,0.0
+2021,19185,K. Davis,26.0,England,Aston Villa,1.0,11.0,0.0,,0.0,0.0
+2021,19194,T. Abraham,27.0,England,Chelsea,0.0,0.0,0.0,,0.0,0.0
+2021,19220,M. Mount,25.0,England,Chelsea,32.0,2365.0,11.0,10.0,4.0,0.0
+2021,19524,C. Adams,28.0,Scotland,Southampton,30.0,2042.0,7.0,3.0,0.0,0.0
+2021,19760,J. Justin,26.0,England,Leicester,13.0,997.0,0.0,,0.0,0.0
+2021,157997,A. Diallo,22.0,Côte d'Ivoire,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2021,284324,A. Garnacho,20.0,Argentina,Manchester United,2.0,11.0,0.0,,0.0,0.0
+2021,294,N. Keïta,29.0,Guinea,Liverpool,23.0,1174.0,3.0,1.0,3.0,0.0
+2021,877,M. Kean,24.0,Italy,Everton,1.0,0.0,0.0,,0.0,0.0
+2021,882,David de Gea,34.0,Spain,Manchester United,38.0,3420.0,0.0,,0.0,0.0
+2021,903,S. McTominay,28.0,Scotland,Manchester United,30.0,2393.0,1.0,1.0,9.0,0.0
+2021,904,P. Pogba,31.0,France,Manchester United,20.0,1353.0,1.0,9.0,7.0,1.0
+2021,907,R. Lukaku,31.0,Belgium,Chelsea,26.0,1584.0,8.0,,1.0,0.0
+2021,1442,S. Kolašinac,31.0,Bosnia and Herzegovina,Arsenal,2.0,90.0,0.0,,1.0,0.0
+2021,15799,F. Onyeka,26.0,Nigeria,Brentford,20.0,1048.0,0.0,,4.0,0.0
+2021,18767,A. Lookman,27.0,Nigeria,Leicester,26.0,1456.0,6.0,,2.0,0.0
+2021,18970,P. Groß,33.0,Germany,Brighton,29.0,2043.0,2.0,4.0,1.0,0.0
+2021,19073,B. Godfrey,26.0,England,Everton,23.0,2031.0,0.0,,6.0,0.0
+2021,22007,H. Kamara,30.0,Côte d'Ivoire,Watford,19.0,1624.0,1.0,,4.0,0.0
+2021,26238,R. Koch,28.0,Germany,Leeds,20.0,1573.0,0.0,,3.0,0.0
+2021,26300,O. Kabak,24.0,Türkiye,Norwich,11.0,924.0,0.0,,2.0,0.0
+2021,41577,Nuno Tavares,24.0,Portugal,Arsenal,22.0,1170.0,1.0,1.0,2.0,0.0
+2021,47522,Douglas Luiz,26.0,Brazil,Aston Villa,34.0,2720.0,2.0,3.0,7.0,0.0
+2021,107087,S. Banks,23.0,Scotland,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2021,130423,B. Gilmour,23.0,Scotland,Norwich,24.0,1858.0,0.0,1.0,2.0,0.0
+2021,156490,N. Nkounkou,24.0,France,Everton,0.0,0.0,0.0,,0.0,0.0
+2021,276263,F. Stevens,21.0,Wales,Brentford,1.0,14.0,0.0,,0.0,0.0
+2021,285,K. Hoever,22.0,Netherlands,Wolves,8.0,305.0,0.0,,1.0,0.0
+2021,662,T. Ndombélé,28.0,France,Tottenham,9.0,486.0,1.0,1.0,1.0,0.0
+2021,897,M. Greenwood,23.0,England,Manchester United,18.0,1281.0,5.0,1.0,1.0,0.0
+2021,902,N. Matić,36.0,Serbia,Manchester United,23.0,1383.0,0.0,4.0,3.0,0.0
+2021,1101,T. Minamino,29.0,Japan,Liverpool,11.0,176.0,3.0,,1.0,0.0
+2021,1456,A. Maitland-Niles,27.0,England,Arsenal,8.0,263.0,0.0,,0.0,0.0
+2021,1467,A. Lacazette,33.0,France,Arsenal,30.0,1787.0,4.0,7.0,0.0,0.0
+2021,1914,M. Sanson,30.0,France,Aston Villa,10.0,352.0,0.0,,0.0,0.0
+2021,3240,J. Gbamin,29.0,Côte d'Ivoire,Everton,3.0,66.0,0.0,,0.0,0.0
+2021,3247,W. Zaha,32.0,Côte d'Ivoire,Crystal Palace,33.0,2761.0,14.0,1.0,5.0,0.0
+2021,18765,André Gomes,31.0,Portugal,Everton,14.0,618.0,0.0,1.0,3.0,0.0
+2021,18785,N. Mendy,32.0,Senegal,Leicester,14.0,1034.0,0.0,,3.0,0.0
+2021,18881,J. King,32.0,Norway,Watford,32.0,2250.0,5.0,3.0,5.0,0.0
+2021,19361,S. Benrahma,29.0,Algeria,West Ham,32.0,2184.0,8.0,6.0,0.0,0.0
+2021,19364,N. Maupay,28.0,France,Brighton,32.0,2275.0,8.0,2.0,7.0,0.0
+2021,22166,M. Sarr,25.0,France,Chelsea,8.0,546.0,0.0,,2.0,0.0
+2021,22170,P. Lees-Melou,31.0,France,Norwich,33.0,2271.0,1.0,,5.0,0.0
+2021,138835,F. Balogun,23.0,USA,Arsenal,2.0,70.0,0.0,,0.0,0.0
+2021,278095,J. Rowe,21.0,England,Norwich,13.0,210.0,0.0,1.0,0.0,0.0
+2021,278392,C. Cresswell,22.0,England,Leeds,5.0,137.0,0.0,,1.0,0.0
+2021,274,E. Cavani,37.0,Uruguay,Manchester United,15.0,762.0,2.0,1.0,0.0,0.0
+2021,292,J. Henderson,34.0,England,Liverpool,35.0,2602.0,2.0,5.0,3.0,0.0
+2021,625,P. Sandler,27.0,Netherlands,Manchester City,0.0,0.0,0.0,,0.0,0.0
+2021,1649,P. Cutrone,26.0,Italy,Wolves,0.0,0.0,0.0,,0.0,0.0
+2021,18893,F. Fernández,35.0,Argentina,Newcastle,7.0,522.0,0.0,,0.0,0.0
+2021,19360,J. Žambůrek,23.0,Czechia,Brentford,0.0,0.0,0.0,,0.0,0.0
+2021,21636,F. Guilbert,30.0,France,Aston Villa,0.0,0.0,0.0,,0.0,0.0
+2021,30418,P. Gollini,29.0,Italy,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2021,37276,K. Scherpen,24.0,Netherlands,Brighton,0.0,0.0,0.0,,0.0,0.0
+2021,46792,Pablo Marí,31.0,Spain,Arsenal,2.0,180.0,0.0,,1.0,0.0
+2021,47480,M. Salisu,25.0,Ghana,Southampton,34.0,2972.0,0.0,,9.0,0.0
+2021,138777,T. Anjorin,23.0,England,Chelsea,0.0,0.0,0.0,,0.0,0.0
+2021,162189,M. Bidstrup,23.0,Denmark,Brentford,4.0,37.0,0.0,,0.0,0.0
+2021,278232,P. Ekwah,22.0,France,West Ham,0.0,0.0,0.0,,0.0,0.0
+2021,280687,Hugo Bueno,22.0,Spain,Wolves,0.0,0.0,0.0,,0.0,0.0
+2021,283026,M. Biereth,21.0,Denmark,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2021,284295,Zidane Iqbal,21.0,Iraq,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2021,284362,B. Hardley,22.0,Netherlands,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2021,305819,Kayky,21.0,Brazil,Manchester City,1.0,6.0,0.0,,0.0,0.0
+2021,367472,A. Blake,19.0,England,Watford,0.0,0.0,0.0,,0.0,0.0
+2021,901,Juan Mata,36.0,Spain,Manchester United,7.0,232.0,0.0,,0.0,0.0
+2021,908,A. Martial,29.0,France,Manchester United,8.0,208.0,1.0,,0.0,0.0
+2021,2294,Willian,36.0,Brazil,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2021,2473,M. Lanzini,31.0,Argentina,West Ham,30.0,1787.0,5.0,3.0,2.0,0.0
+2021,17715,S. Alzate,26.0,Colombia,Brighton,9.0,405.0,0.0,,0.0,0.0
+2021,18740,Jonny,30.0,Spain,Wolves,13.0,1023.0,2.0,,1.0,0.0
+2021,18889,F. Woodman,27.0,England,Newcastle,4.0,360.0,0.0,,0.0,0.0
+2021,18914,B. Gibson,31.0,England,Norwich,28.0,2495.0,0.0,,4.0,0.0
+2021,19016,C. Chambers,29.0,England,Aston Villa,11.0,829.0,1.0,,1.0,0.0
+2021,30795,Samir,30.0,Brazil,Watford,19.0,1676.0,0.0,,4.0,0.0
+2021,137220,A. Moran,21.0,Republic of Ireland,Brighton,0.0,0.0,0.0,,0.0,0.0
+2021,138786,E. Simms,23.0,England,Everton,1.0,62.0,0.0,,0.0,0.0
+2021,152952,X. Simons,21.0,England,Chelsea,0.0,0.0,0.0,,0.0,0.0
+2021,153400,S. Greenwood,22.0,England,Leeds,7.0,232.0,0.0,2.0,0.0,0.0
+2021,163054,S. Shoretire,20.0,England,Manchester United,1.0,15.0,0.0,,0.0,0.0
+2021,180308,M. Peart-Harris,22.0,England,Brentford,0.0,0.0,0.0,,0.0,0.0
+2021,264437,B. Thomas,23.0,England,Burnley,0.0,0.0,0.0,,0.0,0.0
+2021,284061,M. Flores,21.0,Mexico,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2021,284441,A. Kamara,21.0,England,Norwich,0.0,0.0,0.0,,0.0,0.0
+2021,298128,K. Kesler-Hayden,22.0,England,Aston Villa,0.0,0.0,0.0,,0.0,0.0
+2021,15832,J. Sørensen,26.0,Denmark,Norwich,10.0,601.0,0.0,,0.0,0.0
+2021,18747,R. Giles,24.0,England,Wolves,0.0,0.0,0.0,,0.0,0.0
+2021,18803,N. Chalobah,30.0,England,Watford,0.0,0.0,0.0,,0.0,0.0
+2021,18927,A. Barnes,35.0,England,Burnley,23.0,800.0,1.0,,4.0,0.0
+2021,18942,Y. Valery,25.0,Tunisia,Southampton,5.0,368.0,0.0,,0.0,0.0
+2021,19074,O. Hernández,31.0,Cuba,Norwich,0.0,0.0,0.0,,0.0,0.0
+2021,19077,K. McLean,32.0,Scotland,Norwich,31.0,2706.0,1.0,,3.0,0.0
+2021,19116,L. Ayling,33.0,England,Leeds,26.0,2275.0,2.0,2.0,4.0,1.0
+2021,19363,M. Forss,25.0,Finland,Brentford,7.0,203.0,0.0,1.0,0.0,0.0
+2021,25332,J. Sargent,24.0,USA,Norwich,26.0,1578.0,2.0,1.0,1.0,0.0
+2021,40774,P. Płacheta,26.0,Poland,Norwich,12.0,504.0,0.0,,1.0,0.0
+2021,127472,N. Phillips,27.0,England,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2021,134428,B. Chrisene,20.0,England,Aston Villa,0.0,0.0,0.0,,0.0,0.0
+2021,137300,H. Roberts,22.0,England,Brighton,0.0,0.0,0.0,,0.0,0.0
+2021,149550,J. Tanganga,25.0,England,Tottenham,11.0,740.0,0.0,,3.0,0.0
+2021,153411,C. Drameh,23.0,England,Leeds,3.0,126.0,0.0,,1.0,0.0
+2021,158696,F. Burns,21.0,England,Manchester City,0.0,0.0,0.0,,0.0,0.0
+2021,162552,D. Scarlett,20.0,England,Tottenham,1.0,3.0,0.0,,0.0,0.0
+2021,171034,L. Gibbs,22.0,England,Norwich,0.0,0.0,0.0,,0.0,0.0
+2021,286764,K. Gordon,20.0,England,Liverpool,1.0,8.0,0.0,,0.0,0.0
+2021,179,M. Sissoko,35.0,France,Watford,36.0,3221.0,2.0,,5.0,0.0
+2021,2860,K. Sema,31.0,Sweden,Watford,18.0,844.0,0.0,,1.0,0.0
+2021,17832,M. Pollock,23.0,England,Watford,0.0,0.0,0.0,,0.0,0.0
+2021,18762,T. Davies,26.0,England,Everton,6.0,232.0,1.0,,1.0,0.0
+2021,18817,A. Ogbonna,36.0,Italy,West Ham,11.0,922.0,1.0,,1.0,0.0
+2021,18933,A. Gunn,28.0,Scotland,Norwich,9.0,810.0,0.0,,0.0,0.0
+2021,18962,S. Duffy,32.0,Republic of Ireland,Brighton,18.0,1433.0,1.0,,7.0,0.0
+2021,19066,G. Hanley,33.0,Scotland,Norwich,33.0,2899.0,1.0,,2.0,0.0
+2021,19072,T. Cantwell,26.0,England,Norwich,8.0,441.0,0.0,,2.0,0.0
+2021,19131,J. Shackleton,25.0,England,Leeds,14.0,706.0,0.0,,4.0,0.0
+2021,19150,M. Holgate,28.0,Jamaica,Everton,25.0,2134.0,2.0,1.0,7.0,1.0
+2021,21100,I. Louza,25.0,Morocco,Watford,20.0,1422.0,0.0,,6.0,0.0
+2021,31016,F. Sierralta,27.0,Chile,Watford,5.0,428.0,0.0,,0.0,0.0
+2021,44775,D. Bachmann,30.0,Austria,Watford,12.0,1080.0,0.0,,0.0,0.0
+2021,127470,T. Dele-Bashiru,25.0,Nigeria,Watford,0.0,0.0,0.0,,0.0,0.0
+2021,152699,K. Baah,21.0,Germany,Watford,0.0,0.0,0.0,,0.0,0.0
+2021,153425,L. Dobbin,21.0,England,Everton,3.0,29.0,0.0,,1.0,0.0
+2021,158693,O. Beck,22.0,Wales,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2021,167660,J. Morris,23.0,England,Watford,0.0,0.0,0.0,,0.0,0.0
+2021,193296,J. Ngakia,24.0,England,Watford,16.0,900.0,0.0,,0.0,0.0
+2021,638,I. Poveda,24.0,Colombia,Leeds,0.0,0.0,0.0,,0.0,0.0
+2021,1564,J. Firpo,28.0,Dominican Republic,Leeds,24.0,1714.0,0.0,2.0,11.0,0.0
+2021,2279,E. Ampadu,24.0,Wales,Chelsea,0.0,0.0,0.0,,0.0,0.0
+2021,18948,N. Redmond,30.0,England,Southampton,27.0,1833.0,1.0,5.0,0.0,0.0
+2021,19134,P. Bamford,31.0,England,Leeds,9.0,560.0,2.0,2.0,2.0,0.0
+2021,19169,J. Rodríguez,35.0,England,Burnley,29.0,1374.0,2.0,2.0,3.0,0.0
+2021,19268,J. Brownhill,29.0,England,Burnley,35.0,2953.0,2.0,3.0,10.0,0.0
+2021,19287,S. Byram,31.0,England,Norwich,15.0,1024.0,0.0,,3.0,0.0
+2021,19321,J. Rodon,27.0,Wales,Tottenham,3.0,86.0,0.0,,0.0,0.0
+2021,19329,D. James,27.0,Wales,Leeds,32.0,2374.0,4.0,4.0,7.0,1.0
+2021,19331,C. Roberts,29.0,Wales,Burnley,21.0,1692.0,1.0,1.0,2.0,0.0
+2021,19569,J. Gelhardt,22.0,England,Leeds,20.0,734.0,2.0,2.0,4.0,0.0
+2021,20619,I. Meslier,24.0,France,Leeds,38.0,3385.0,0.0,,2.0,0.0
+2021,64003,P. Struijk,25.0,Netherlands,Leeds,29.0,2051.0,1.0,,6.0,1.0
+2021,180560,H. Mejbri,21.0,Tunisia,Manchester United,2.0,68.0,0.0,,2.0,0.0
+2021,181827,C. Egan-Riley,21.0,England,Manchester City,1.0,3.0,0.0,,0.0,0.0
+2021,202086,J. Sarmiento,22.0,Ecuador,Brighton,5.0,45.0,0.0,,0.0,0.0
+2021,278079,A. Ramsey,21.0,England,Aston Villa,0.0,0.0,0.0,,0.0,0.0
+2021,284297,O. Dodgson,21.0,England,Burnley,0.0,0.0,0.0,,0.0,0.0
+2021,284449,J. Rak-Sakyi,22.0,England,Crystal Palace,2.0,81.0,0.0,,0.0,0.0
+2021,76,M. Nakamba,30.0,Zimbabwe,Aston Villa,16.0,904.0,0.0,,5.0,0.0
+2021,18736,W. Norris,31.0,England,Burnley,0.0,0.0,0.0,,0.0,0.0
+2021,18760,J. Kenny,27.0,England,Everton,15.0,1016.0,0.0,1.0,2.0,0.0
+2021,18810,A. Gray,33.0,Jamaica,Watford,0.0,0.0,0.0,,0.0,0.0
+2021,18903,M. Ritchie,35.0,Scotland,Newcastle,18.0,1334.0,0.0,2.0,5.0,0.0
+2021,18957,M. Obafemi,24.0,Republic of Ireland,Southampton,0.0,0.0,0.0,,0.0,0.0
+2021,19061,T. Krul,36.0,Netherlands,Norwich,29.0,2610.0,0.0,,1.0,0.0
+2021,19069,C. Zimmermann,31.0,Germany,Norwich,3.0,158.0,0.0,,0.0,0.0
+2021,19127,A. Forshaw,33.0,England,Leeds,22.0,1529.0,0.0,1.0,5.0,0.0
+2021,19772,A. Connolly,24.0,Republic of Ireland,Brighton,4.0,154.0,0.0,,0.0,0.0
+2021,20110,S. Baptiste,26.0,Grenada,Brentford,22.0,905.0,1.0,,1.0,0.0
+2021,125618,M. Karbownik,23.0,Poland,Brighton,0.0,0.0,0.0,,0.0,0.0
+2021,138783,Z. Swanson,24.0,England,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2021,138829,E. Dixon-Bonner,23.0,England,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2021,141133,A. Alese,23.0,England,West Ham,0.0,0.0,0.0,,0.0,0.0
+2021,153429,T. Mengi,22.0,England,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2021,171058,H. Ashby,23.0,Scotland,West Ham,1.0,6.0,0.0,,0.0,0.0
+2021,284247,H. Blair,21.0,England,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2021,284414,R. Mundle,21.0,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2021,297187,L. Hjelde,21.0,Norway,Leeds,2.0,148.0,0.0,,0.0,0.0
+2021,147,Philippe Coutinho,32.0,Brazil,Aston Villa,19.0,1339.0,5.0,3.0,0.0,0.0
+2021,178,Lucas Moura,32.0,Brazil,Tottenham,34.0,1773.0,2.0,6.0,4.0,0.0
+2021,259,Thiago Silva,40.0,Brazil,Chelsea,32.0,2648.0,3.0,,2.0,0.0
+2021,326,Allan,33.0,Brazil,Everton,28.0,2188.0,0.0,2.0,7.0,1.0
+2021,378,Alex Telles,32.0,Brazil,Manchester United,21.0,1659.0,0.0,4.0,1.0,0.0
+2021,623,B. Mendy,30.0,France,Manchester City,1.0,79.0,0.0,,0.0,0.0
+2021,640,Fernandinho,39.0,Brazil,Manchester City,19.0,958.0,2.0,1.0,1.0,0.0
+2021,652,Marçal,35.0,Brazil,Wolves,18.0,1453.0,0.0,,3.0,0.0
+2021,900,J. Lingard,32.0,England,Manchester United,16.0,355.0,2.0,,1.0,0.0
+2021,18885,K. Darlow,34.0,Wales,Newcastle,8.0,720.0,0.0,,1.0,0.0
+2021,18945,S. Armstrong,32.0,Scotland,Southampton,25.0,1470.0,2.0,,1.0,0.0
+2021,19076,J. Lewis,26.0,Northern Ireland,Newcastle,5.0,263.0,0.0,,1.0,0.0
+2021,19085,T. Pukki,34.0,Finland,Norwich,37.0,3261.0,11.0,3.0,4.0,0.0
+2021,19195,A. El Ghazi,29.0,Netherlands,Everton,2.0,11.0,0.0,1.0,0.0,0.0
+2021,19894,B. Mumba,23.0,England,Norwich,1.0,44.0,0.0,,0.0,0.0
+2021,30476,Lyanco,27.0,Brazil,Southampton,15.0,905.0,0.0,,2.0,0.0
+2021,47582,C. Hernández,25.0,Colombia,Watford,25.0,1139.0,5.0,2.0,3.0,0.0
+2021,50828,Z. Steffen,29.0,USA,Manchester City,1.0,90.0,0.0,,0.0,0.0
+2021,284407,J. Soonsup-Bell,20.0,England,Chelsea,0.0,0.0,0.0,,0.0,0.0
+2021,284466,C. Patino,21.0,England,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2021,159,H. Lloris,38.0,France,Tottenham,38.0,3420.0,0.0,,2.0,0.0
+2021,244,S. Bergwijn,27.0,Netherlands,Tottenham,25.0,547.0,3.0,1.0,1.0,0.0
+2021,299,Fabinho,31.0,Brazil,Liverpool,29.0,2316.0,5.0,1.0,7.0,0.0
+2021,304,S. Mané,32.0,Senegal,Liverpool,34.0,2825.0,16.0,2.0,5.0,0.0
+2021,622,Aymeric Laporte,30.0,Spain,Manchester City,33.0,2834.0,4.0,,5.0,1.0
+2021,855,João Cancelo,30.0,Portugal,Manchester City,36.0,3228.0,1.0,7.0,7.0,0.0
+2021,874,Cristiano Ronaldo,39.0,Portugal,Manchester United,30.0,2459.0,18.0,3.0,8.0,0.0
+2021,1605,Daniel Podence,29.0,Portugal,Wolves,26.0,1484.0,2.0,3.0,2.0,0.0
+2021,2290,N. Kanté,33.0,France,Chelsea,26.0,1777.0,2.0,4.0,2.0,0.0
+2021,2360,D. Giannoulis,29.0,Greece,Norwich,0.0,0.0,0.0,1.0,0.0,0.0
+2021,2676,Rúben Neves,27.0,Portugal,Wolves,33.0,2663.0,4.0,2.0,9.0,0.0
+2021,2928,C. Benteke,34.0,Belgium,Crystal Palace,25.0,1136.0,4.0,1.0,3.0,0.0
+2021,3008,M. Klich,34.0,Poland,Leeds,33.0,2085.0,1.0,2.0,5.0,0.0
+2021,18752,Hélder Costa,30.0,Angola,Leeds,1.0,20.0,0.0,,0.0,0.0
+2021,18915,K. Long,34.0,Republic of Ireland,Burnley,6.0,408.0,0.0,,1.0,0.0
+2021,18926,A. Westwood,34.0,England,Burnley,27.0,2289.0,0.0,3.0,7.0,0.0
+2021,25927,J. Mateta,27.0,France,Crystal Palace,7.0,300.0,1.0,1.0,0.0,0.0
+2021,116117,M. Caicedo,23.0,Ecuador,Brighton,0.0,0.0,0.0,1.0,0.0,0.0
+2021,130419,M. Longstaff,24.0,England,Newcastle,0.0,0.0,0.0,,0.0,0.0
+2021,349288,V. Angelini,21.0,Scotland,Watford,0.0,0.0,0.0,,0.0,0.0
+2021,168,D. Sánchez,28.0,Colombia,Tottenham,23.0,1625.0,2.0,,4.0,0.0
+2021,297,A. Oxlade-Chamberlain,31.0,England,Liverpool,17.0,787.0,2.0,1.0,0.0,0.0
+2021,302,Roberto Firmino,33.0,Brazil,Liverpool,20.0,986.0,5.0,4.0,3.0,0.0
+2021,548,H. Ziyech,31.0,Morocco,Chelsea,23.0,1316.0,4.0,3.0,3.0,0.0
+2021,905,Fred,31.0,Brazil,Manchester United,28.0,2034.0,4.0,4.0,5.0,0.0
+2021,1462,L. Torreira,28.0,Uruguay,Fiorentina,0.0,0.0,0.0,,0.0,0.0
+2021,2677,João Moutinho,38.0,Portugal,Wolves,35.0,2975.0,2.0,1.0,4.0,0.0
+2021,2726,K. Zouma,30.0,France,West Ham,24.0,2080.0,1.0,,1.0,0.0
+2021,2773,W. Troost-Ekong,31.0,Nigeria,Watford,17.0,1388.0,0.0,,3.0,0.0
+2021,2790,J. Guðmunds­son,34.0,Iceland,Burnley,18.0,1105.0,0.0,1.0,2.0,0.0
+2021,18768,C. Tosun,33.0,Türkiye,Everton,1.0,6.0,0.0,,0.0,0.0
+2021,18776,Ç. Söyüncü,28.0,Türkiye,Leicester,28.0,2498.0,1.0,,5.0,0.0
+2021,18781,D. Gray,28.0,Jamaica,Everton,34.0,2352.0,5.0,4.0,3.0,0.0
+2021,18816,A. Masuaku,31.0,Congo DR,West Ham,13.0,645.0,1.0,1.0,1.0,0.0
+2021,18904,J. Shelvey,32.0,England,Newcastle,24.0,1985.0,2.0,1.0,6.0,0.0
+2021,19974,I. Toney,28.0,England,Brentford,33.0,2908.0,12.0,5.0,8.0,0.0
+2021,22173,A. Saint-Maximin,27.0,France,Newcastle,35.0,2811.0,5.0,5.0,6.0,0.0
+2021,25324,M. Rashica,28.0,Kosovo,Norwich,31.0,2238.0,1.0,2.0,0.0,0.0
+2021,41112,Trincão,25.0,Portugal,Wolves,28.0,1338.0,2.0,1.0,0.0,0.0
+2021,284300,Álvaro Fernández,21.0,Spain,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2021,635,R. Mahrez,33.0,Algeria,Manchester City,28.0,1491.0,11.0,5.0,0.0,0.0
+2021,1465,P. Aubameyang,35.0,Gabon,Arsenal,14.0,1040.0,4.0,1.0,3.0,0.0
+2021,2114,M. Djenepo,26.0,Mali,Southampton,12.0,453.0,0.0,,3.0,0.0
+2021,2731,M. Jørgensen,34.0,Denmark,Brentford,8.0,517.0,1.0,,2.0,0.0
+2021,2922,L. Dendoncker,29.0,Belgium,Wolves,30.0,1945.0,2.0,2.0,4.0,0.0
+2021,2925,D. Praet,30.0,Belgium,Leicester,0.0,0.0,0.0,,0.0,0.0
+2021,2986,É. Mendy,32.0,Senegal,Chelsea,34.0,3060.0,0.0,,3.0,0.0
+2021,18853,J. Riedewald,28.0,Netherlands,Crystal Palace,3.0,116.0,0.0,,0.0,0.0
+2021,18854,A. Townsend,33.0,England,Everton,21.0,1457.0,3.0,2.0,3.0,0.0
+2021,19347,J. Jeanvier,32.0,Guinea,Brentford,0.0,0.0,0.0,,0.0,0.0
+2021,37440,H. Dervişoğlu,25.0,Türkiye,Brentford,0.0,0.0,0.0,,0.0,0.0
+2021,48649,A. Zeqiri,25.0,Switzerland,Brighton,0.0,0.0,0.0,,0.0,0.0
+2021,49942,O. Tufan,29.0,Türkiye,Watford,7.0,335.0,0.0,,0.0,0.0
+2021,53525,M. Normann,28.0,Norway,Norwich,23.0,1652.0,1.0,2.0,6.0,0.0
+2021,138874,A. Tsoungui,22.0,Belgium,Brighton,0.0,0.0,0.0,,0.0,0.0
+2021,161800,C. Tzolis,22.0,Greece,Norwich,14.0,327.0,0.0,,0.0,0.0
+2021,273757,A. Devine,20.0,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2021,278085,S. Edozie,21.0,England,Manchester City,0.0,0.0,0.0,,0.0,0.0
+2021,278107,R. Alebiosu,23.0,England,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2021,284267,I. Price,21.0,Northern Ireland,Everton,1.0,12.0,0.0,,0.0,0.0
+2021,307,X. Shaqiri,33.0,Switzerland,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2021,1131,A. Oko-Flex,22.0,Republic of Ireland,West Ham,0.0,0.0,0.0,,0.0,0.0
+2021,1853,Bruno Jordão,26.0,Portugal,Wolves,0.0,0.0,0.0,,0.0,0.0
+2021,2728,K. Schmeichel,38.0,Denmark,Leicester,37.0,3330.0,0.0,,2.0,0.0
+2021,19124,P. Jansson,33.0,Sweden,Brentford,37.0,3322.0,3.0,1.0,7.0,0.0
+2021,19166,D. Gayle,35.0,England,Newcastle,8.0,30.0,0.0,,1.0,0.0
+2021,19314,C. Carter-Vickers,27.0,USA,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2021,19350,L. Račić,25.0,Denmark,Brentford,0.0,0.0,0.0,,0.0,0.0
+2021,43071,T. Băluță,25.0,Romania,Brighton,0.0,0.0,0.0,,0.0,0.0
+2021,44953,S. Tiffoney,26.0,Scotland,Partick,0.0,0.0,0.0,,0.0,0.0
+2021,60353,M. Paskotši,21.0,Estonia,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2021,125695,L. Mayo,24.0,Scotland,Partick,0.0,0.0,0.0,,0.0,0.0
+2021,152964,Christian Marques,21.0,Portugal,Wolves,0.0,0.0,0.0,,0.0,0.0
+2021,153408,D. Oyegoke,21.0,England,Brentford,0.0,0.0,0.0,,0.0,0.0
+2021,169291,V. Sinisalo,23.0,Finland,Aston Villa,0.0,0.0,0.0,,0.0,0.0
+2021,181420,J. Alvarado,25.0,Colombia,Watford,0.0,0.0,0.0,,0.0,0.0
+2021,275576,J. McCracken,24.0,Scotland,Norwich,0.0,0.0,0.0,,0.0,0.0
+2021,284237,D. Lembikisa,21.0,Jamaica,Wolves,0.0,0.0,0.0,,0.0,0.0
+2021,291107,N. Kenneh,21.0,Liberia,Leeds,0.0,0.0,0.0,,1.0,0.0
+2021,367473,J. Grieves,20.0,England,Watford,0.0,0.0,0.0,,0.0,0.0
+2021,2930,J. Butland,31.0,England,Crystal Palace,9.0,764.0,0.0,,0.0,0.0
+2021,15430,K. Holt,31.0,Scotland,Partick,0.0,0.0,0.0,,0.0,0.0
+2021,19100,K. Dowell,27.0,England,Norwich,19.0,912.0,1.0,1.0,0.0,0.0
+2021,19343,P. Gunnarsson,24.0,Iceland,Brentford,0.0,0.0,0.0,,0.0,0.0
+2021,45164,R. Docherty,31.0,Scotland,Partick,0.0,0.0,0.0,,0.0,0.0
+2021,130417,A. Idah,23.0,Republic of Ireland,Norwich,17.0,617.0,1.0,1.0,0.0,0.0
+2021,152949,D. Simeu,22.0,England,Southampton,0.0,0.0,0.0,,0.0,0.0

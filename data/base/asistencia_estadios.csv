@@ -1,0 +1,647 @@
+Estadio,Equipo,Capacidad,Espectadores,Promedio,Partidos,Lleno,Máximo rendimiento,Temporada
+Anfield,Liverpool FC,60725,777193,37009,21,2,"61,0 %",92/93
+Old Trafford,Manchester United,74879,737768,35132,21,,"46,9 %",92/93
+Villa Park,Aston Villa,42682,621472,29594,21,,"69,3 %",92/93
+Elland Road,Leeds United,37890,613798,29228,21,,"77,1 %",92/93
+Tottenham Hotspur Stadium,Tottenham Hotspur,62850,585430,27878,21,,"44,4 %",92/93
+Hillsborough,Sheffield Wednesday,39859,572534,27264,21,,"68,4 %",92/93
+Etihad Stadium,Manchester City,55017,518655,24698,21,1,"44,9 %",92/93
+Emirates Stadium,Arsenal FC,60704,512466,24403,21,,"40,2 %",92/93
+The City Ground,Nottingham Forest,30445,460107,21910,21,,"72,0 %",92/93
+Goodison Park,Everton FC,39571,429588,20457,21,,"51,7 %",92/93
+Bramall Lane,Sheffield United,32702,394826,18801,21,,"57,5 %",92/93
+Stamford Bridge,Chelsea FC,40853,393838,18754,21,,"45,9 %",92/93
+Portman Road,Ipswich Town,29673,381883,18185,21,,"61,3 %",92/93
+Riverside Stadium,Middlesbrough FC,33746,351199,16724,21,,"49,6 %",92/93
+Carrow Road,Norwich City,27244,345518,16453,21,,"60,4 %",92/93
+Ewood Park,Blackburn Rovers,31367,341207,16248,21,,"51,8 %",92/93
+Selhurst Park,Crystal Palace,26047,330251,15726,21,1,"60,4 %",92/93
+St Mary's Stadium,Southampton FC,32384,318118,15148,21,5,"46,8 %",92/93
+Loftus Road Stadium,Queens Park Rangers,18360,315035,15002,21,3,"81,7 %",92/93
+Coventry Building Society Arena,Coventry City,32609,314897,14995,21,1,"46,0 %",92/93
+Boundary Park,Oldham Athletic,13513,270042,12859,21,6,"95,2 %",92/93
+Selhurst Park,Wimbledon FC (- 2004),26309,176505,8405,21,,"32,0 %",92/93
+Old Trafford,Manchester United,74879,929133,44244,21,,"59,1 %",93/94
+Anfield,Liverpool FC,60725,808573,38503,21,2,"63,4 %",93/94
+Elland Road,Leeds United,37890,724630,34506,21,3,"91,1 %",93/94
+St James' Park,Newcastle United,52338,709631,33792,21,1,"64,6 %",93/94
+Emirates Stadium,Arsenal FC,60704,640333,30492,21,,"50,2 %",93/94
+Villa Park,Aston Villa,42682,608364,28970,21,1,"67,9 %",93/94
+Tottenham Hotspur Stadium,Tottenham Hotspur,62850,572359,27255,21,,"43,4 %",93/94
+Hillsborough,Sheffield Wednesday,39859,570920,27187,21,,"68,2 %",93/94
+Etihad Stadium,Manchester City,55017,553017,26334,21,1,"47,9 %",93/94
+Goodison Park,Everton FC,39571,481146,22912,21,,"57,9 %",93/94
+London Stadium,West Ham United,62500,437451,20831,21,,"33,3 %",93/94
+Bramall Lane,Sheffield United,32702,408568,19456,21,,"59,5 %",93/94
+Stamford Bridge,Chelsea FC,40853,403434,19211,21,,"47,0 %",93/94
+Carrow Road,Norwich City,27244,381754,18179,21,,"66,7 %",93/94
+Ewood Park,Blackburn Rovers,31367,365697,17414,21,,"55,5 %",93/94
+Portman Road,Ipswich Town,29673,344622,16411,21,,"55,3 %",93/94
+County Ground,Swindon Town,15728,315734,15035,21,8,"95,6 %",93/94
+St Mary's Stadium,Southampton FC,32384,310338,14778,21,10,"45,6 %",93/94
+Loftus Road Stadium,Queens Park Rangers,18360,296792,14133,21,3,"77,0 %",93/94
+Coventry Building Society Arena,Coventry City,32609,284838,13564,21,,"41,6 %",93/94
+Boundary Park,Oldham Athletic,13513,263939,12569,21,8,"93,0 %",93/94
+Selhurst Park,Wimbledon FC (- 2004),26309,219698,10462,21,1,"39,8 %",93/94
+Old Trafford,Manchester United,74879,907228,43201,21,,"57,7 %",94/95
+Emirates Stadium,Arsenal FC,60704,742420,35353,21,4,"58,2 %",94/95
+St James' Park,Newcastle United,52338,728575,34694,21,,"66,3 %",94/95
+Anfield,Liverpool FC,60725,717692,34176,21,,"56,3 %",94/95
+Elland Road,Leeds United,37890,692857,32993,21,,"87,1 %",94/95
+Goodison Park,Everton FC,39571,658753,31369,21,2,"79,3 %",94/95
+Villa Park,Aston Villa,42682,624881,29756,21,,"69,7 %",94/95
+Tottenham Hotspur Stadium,Tottenham Hotspur,62850,568436,27068,21,,"43,1 %",94/95
+Hillsborough,Sheffield Wednesday,39859,558318,26587,21,,"66,7 %",94/95
+Ewood Park,Blackburn Rovers,31367,530709,25272,21,,"80,6 %",94/95
+The City Ground,Nottingham Forest,30445,496288,23633,21,,"77,6 %",94/95
+Etihad Stadium,Manchester City,55017,476158,22674,21,,"41,2 %",94/95
+Stamford Bridge,Chelsea FC,40853,442310,21062,21,,"51,6 %",94/95
+London Stadium,West Ham United,62500,424321,20206,21,,"32,3 %",94/95
+King Power Stadium,Leicester City,32273,410172,19532,21,,"60,5 %",94/95
+Carrow Road,Norwich City,27244,391124,18625,21,,"68,4 %",94/95
+Portman Road,Ipswich Town,29673,354792,16895,21,,"56,9 %",94/95
+Coventry Building Society Arena,Coventry City,32609,335576,15980,21,,"49,0 %",94/95
+Selhurst Park,Crystal Palace,26047,311138,14816,21,,"56,9 %",94/95
+St Mary's Stadium,Southampton FC,32384,308474,14689,21,11,"45,4 %",94/95
+Loftus Road Stadium,Queens Park Rangers,18360,306335,14587,21,2,"79,5 %",94/95
+Selhurst Park,Wimbledon FC (- 2004),26309,214326,10206,21,,"38,8 %",94/95
+Old Trafford,Manchester United,74879,791940,41681,19,,"55,7 %",95/96
+Anfield,Liverpool FC,60725,751501,39553,19,,"65,1 %",95/96
+Emirates Stadium,Arsenal FC,60704,713797,37568,19,8,"61,9 %",95/96
+St James' Park,Newcastle United,52338,693616,36506,19,,"69,8 %",95/96
+Goodison Park,Everton FC,39571,673115,35427,19,4,"89,5 %",95/96
+Elland Road,Leeds United,37890,619946,32629,19,,"86,1 %",95/96
+Villa Park,Aston Villa,42682,619660,32614,19,,"76,4 %",95/96
+Tottenham Hotspur Stadium,Tottenham Hotspur,62850,580418,30548,19,,"48,6 %",95/96
+Riverside Stadium,Middlesbrough FC,33746,555879,29257,19,,"86,7 %",95/96
+Etihad Stadium,Manchester City,55017,530885,27941,19,,"50,8 %",95/96
+Ewood Park,Blackburn Rovers,31367,526564,27714,19,,"88,4 %",95/96
+The City Ground,Nottingham Forest,30445,492395,25916,19,,"85,1 %",95/96
+Stamford Bridge,Chelsea FC,40853,486361,25598,19,,"62,7 %",95/96
+Hillsborough,Sheffield Wednesday,39859,472665,24877,19,,"62,4 %",95/96
+London Stadium,West Ham United,62500,424015,22317,19,,"35,7 %",95/96
+Toughsheet Community Stadium,Bolton Wanderers,28723,357625,18822,19,,"65,5 %",95/96
+Coventry Building Society Arena,Coventry City,32609,352024,18528,19,1,"56,8 %",95/96
+Loftus Road Stadium,Queens Park Rangers,18360,297775,15672,19,5,"85,4 %",95/96
+St Mary's Stadium,Southampton FC,32384,281614,14822,19,13,"45,8 %",95/96
+Selhurst Park,Wimbledon FC (- 2004),26309,251620,13243,19,,"50,3 %",95/96
+Old Trafford,Manchester United,74879,1046547,55081,19,,"73,6 %",96/97
+Anfield,Liverpool FC,60725,755757,39777,19,,"65,5 %",96/97
+Emirates Stadium,Arsenal FC,60704,718603,37821,19,5,"62,3 %",96/97
+St James' Park,Newcastle United,52338,692857,36466,19,,"69,7 %",96/97
+Goodison Park,Everton FC,39571,687572,36188,19,1,"91,5 %",96/97
+Villa Park,Aston Villa,42682,684520,36027,19,,"84,4 %",96/97
+Elland Road,Leeds United,37890,610235,32118,19,,"84,8 %",96/97
+Tottenham Hotspur Stadium,Tottenham Hotspur,62850,590276,31067,19,,"49,4 %",96/97
+Riverside Stadium,Middlesbrough FC,33746,567541,29871,19,,"88,5 %",96/97
+Stamford Bridge,Chelsea FC,40853,524722,27617,19,,"67,6 %",96/97
+Hillsborough,Sheffield Wednesday,39859,488565,25714,19,,"64,5 %",96/97
+Ewood Park,Blackburn Rovers,31367,473990,24947,19,,"79,5 %",96/97
+The City Ground,Nottingham Forest,30445,467151,24587,19,,"80,8 %",96/97
+London Stadium,West Ham United,62500,440971,23209,19,,"37,1 %",96/97
+Stadium of Light,Sunderland AFC,48707,398227,20959,19,2,"43,0 %",96/97
+King Power Stadium,Leicester City,32273,383490,20184,19,,"62,5 %",96/97
+Coventry Building Society Arena,Coventry City,32609,372560,19608,19,1,"60,1 %",96/97
+Pride Park Stadium,Derby County,33597,339885,17889,19,,"53,2 %",96/97
+Selhurst Park,Wimbledon FC (- 2004),26309,287637,15139,19,1,"57,5 %",96/97
+St Mary's Stadium,Southampton FC,32384,286986,15105,19,5,"46,6 %",96/97
+Old Trafford,Manchester United,74879,1048125,55164,19,8,"73,7 %",97/98
+Anfield,Liverpool FC,60725,771937,40628,19,,"66,9 %",97/98
+Emirates Stadium,Arsenal FC,60704,723009,38053,19,7,"62,7 %",97/98
+St James' Park,Newcastle United,52338,696762,36672,19,,"70,1 %",97/98
+Villa Park,Aston Villa,42682,686587,36136,19,,"84,7 %",97/98
+Goodison Park,Everton FC,39571,671740,35355,19,3,"89,4 %",97/98
+Elland Road,Leeds United,37890,658175,34641,19,2,"91,4 %",97/98
+Stamford Bridge,Chelsea FC,40853,634357,33387,19,,"81,7 %",97/98
+Tottenham Hotspur Stadium,Tottenham Hotspur,62850,553731,29144,19,,"46,4 %",97/98
+Pride Park Stadium,Derby County,33597,552987,29105,19,,"86,6 %",97/98
+Hillsborough,Sheffield Wednesday,39859,545423,28706,19,1,"72,0 %",97/98
+Ewood Park,Blackburn Rovers,31367,479804,25253,19,,"80,5 %",97/98
+London Stadium,West Ham United,62500,476428,25075,19,,"40,1 %",97/98
+Toughsheet Community Stadium,Bolton Wanderers,28723,462693,24352,19,,"84,8 %",97/98
+Selhurst Park,Crystal Palace,26047,417673,21983,19,3,"84,4 %",97/98
+King Power Stadium,Leicester City,32273,391689,20615,19,2,"63,9 %",97/98
+Coventry Building Society Arena,Coventry City,32609,374722,19722,19,2,"60,5 %",97/98
+Oakwell Stadium,Barnsley FC,24009,350412,18443,19,14,"76,8 %",97/98
+Selhurst Park,Wimbledon FC (- 2004),26309,316652,16666,19,1,"63,4 %",97/98
+St Mary's Stadium,Southampton FC,32384,288021,15159,19,13,"46,8 %",97/98
+Old Trafford,Manchester United,74879,1048580,55188,19,,"73,7 %",98/99
+Anfield,Liverpool FC,60725,823105,43321,19,,"71,3 %",98/99
+Emirates Stadium,Arsenal FC,60704,722450,38024,19,,"62,6 %",98/99
+Villa Park,Aston Villa,42682,701795,36937,19,,"86,5 %",98/99
+St James' Park,Newcastle United,52338,696607,36664,19,,"70,1 %",98/99
+Goodison Park,Everton FC,39571,687856,36203,19,,"91,5 %",98/99
+Elland Road,Leeds United,37890,680956,35840,19,,"94,6 %",98/99
+Stamford Bridge,Chelsea FC,40853,660276,34751,19,,"85,1 %",98/99
+Riverside Stadium,Middlesbrough FC,33746,653393,34389,19,,"101,9 %",98/99
+Tottenham Hotspur Stadium,Tottenham Hotspur,62850,649307,34174,19,,"54,4 %",98/99
+Pride Park Stadium,Derby County,33597,554698,29195,19,,"86,9 %",98/99
+Hillsborough,Sheffield Wednesday,39859,508161,26745,19,,"67,1 %",98/99
+Ewood Park,Blackburn Rovers,31367,489459,25761,19,,"82,1 %",98/99
+London Stadium,West Ham United,62500,487996,25684,19,,"41,1 %",98/99
+The City Ground,Nottingham Forest,30445,463894,24415,19,,"80,2 %",98/99
+Coventry Building Society Arena,Coventry City,32609,394791,20778,19,,"63,7 %",98/99
+King Power Stadium,Leicester City,32273,389180,20483,19,1,"63,5 %",98/99
+The Valley,Charlton Athletic,26875,376637,19823,19,,"73,8 %",98/99
+Selhurst Park,Wimbledon FC (- 2004),26309,346468,18235,19,,"69,3 %",98/99
+St Mary's Stadium,Southampton FC,32384,287653,15140,19,,"46,8 %",98/99
+Old Trafford,Manchester United,74879,1102269,58014,19,,"77,5 %",99/00
+Anfield,Liverpool FC,60725,837402,44074,19,8,"72,6 %",99/00
+Stadium of Light,Sunderland AFC,48707,786131,41375,19,,"85,0 %",99/00
+Elland Road,Leeds United,37890,743942,39155,19,7,"103,3 %",99/00
+Emirates Stadium,Arsenal FC,60704,722630,38033,19,8,"62,7 %",99/00
+St James' Park,Newcastle United,52338,690752,36355,19,,"69,5 %",99/00
+Tottenham Hotspur Stadium,Tottenham Hotspur,62850,663321,34912,19,8,"55,6 %",99/00
+Goodison Park,Everton FC,39571,662728,34880,19,1,"88,2 %",99/00
+Stamford Bridge,Chelsea FC,40853,656110,34532,19,,"84,5 %",99/00
+Riverside Stadium,Middlesbrough FC,33746,634474,33393,19,6,"99,0 %",99/00
+Villa Park,Aston Villa,42682,602237,31697,19,,"74,3 %",99/00
+Pride Park Stadium,Derby County,33597,557678,29351,19,2,"87,4 %",99/00
+London Stadium,West Ham United,62500,476769,25093,19,,"40,2 %",99/00
+Hillsborough,Sheffield Wednesday,39859,472253,24855,19,1,"62,4 %",99/00
+Coventry Building Society Arena,Coventry City,32609,395369,20809,19,3,"63,8 %",99/00
+King Power Stadium,Leicester City,32273,376720,19827,19,,"61,4 %",99/00
+Vicarage Road,Watford FC,21577,352338,18544,19,7,"85,9 %",99/00
+Northern Commercials Stadium,Bradford City,25136,342482,18025,19,,"71,7 %",99/00
+Selhurst Park,Wimbledon FC (- 2004),26309,325974,17157,19,2,"65,2 %",99/00
+St Mary's Stadium,Southampton FC,32384,287489,15131,19,11,"46,7 %",99/00
+Old Trafford,Manchester United,74879,1282308,67490,19,,"90,1 %",00/01
+St James' Park,Newcastle United,52338,974874,51309,19,6,"98,0 %",00/01
+Stadium of Light,Sunderland AFC,48707,889026,46791,19,5,"96,1 %",00/01
+Anfield,Liverpool FC,60725,830273,43699,19,,"72,0 %",00/01
+Elland Road,Leeds United,37890,740507,38974,19,9,"102,9 %",00/01
+Emirates Stadium,Arsenal FC,60704,721512,37974,19,6,"62,6 %",00/01
+Tottenham Hotspur Stadium,Tottenham Hotspur,62850,668697,35195,19,12,"56,0 %",00/01
+Stamford Bridge,Chelsea FC,40853,659302,34700,19,,"84,9 %",00/01
+Etihad Stadium,Manchester City,55017,647108,34058,19,9,"61,9 %",00/01
+Goodison Park,Everton FC,39571,639491,33657,19,1,"85,1 %",00/01
+Villa Park,Aston Villa,42682,597933,31470,19,1,"73,7 %",00/01
+Riverside Stadium,Middlesbrough FC,33746,584195,30747,19,2,"91,1 %",00/01
+Pride Park Stadium,Derby County,33597,542468,28551,19,2,"85,0 %",00/01
+London Stadium,West Ham United,62500,488248,25697,19,,"41,1 %",00/01
+Portman Road,Ipswich Town,29673,427576,22504,19,,"75,8 %",00/01
+Coventry Building Society Arena,Coventry City,32609,391064,20582,19,1,"63,1 %",00/01
+King Power Stadium,Leicester City,32273,388596,20452,19,,"63,4 %",00/01
+The Valley,Charlton Athletic,26875,380429,20023,19,,"74,5 %",00/01
+Northern Commercials Stadium,Bradford City,25136,351705,18511,19,,"73,6 %",00/01
+St Mary's Stadium,Southampton FC,32384,287189,15115,19,13,"46,7 %",00/01
+Old Trafford,Manchester United,74879,1283594,67558,19,,"90,2 %",01/02
+St James' Park,Newcastle United,52338,976079,51373,19,7,"98,2 %",01/02
+Stadium of Light,Sunderland AFC,48707,888156,46745,19,3,"96,0 %",01/02
+Anfield,Liverpool FC,60725,824395,43389,19,5,"71,5 %",01/02
+Elland Road,Leeds United,37890,755287,39752,19,10,"104,9 %",01/02
+Stamford Bridge,Chelsea FC,40853,741579,39030,19,,"95,5 %",01/02
+Emirates Stadium,Arsenal FC,60704,723422,38075,19,2,"62,7 %",01/02
+Villa Park,Aston Villa,42682,665313,35016,19,1,"82,0 %",01/02
+Tottenham Hotspur Stadium,Tottenham Hotspur,62850,665015,35001,19,7,"55,7 %",01/02
+Goodison Park,Everton FC,39571,646067,34004,19,2,"85,9 %",01/02
+London Stadium,West Ham United,62500,595800,31358,19,5,"50,2 %",01/02
+St Mary's Stadium,Southampton FC,32384,582019,30633,19,4,"94,6 %",01/02
+Pride Park Stadium,Derby County,33597,566508,29816,19,2,"88,8 %",01/02
+Riverside Stadium,Middlesbrough FC,33746,540719,28459,19,,"84,3 %",01/02
+Ewood Park,Blackburn Rovers,31367,493551,25976,19,,"82,8 %",01/02
+Toughsheet Community Stadium,Bolton Wanderers,28723,476867,25098,19,,"87,4 %",01/02
+Portman Road,Ipswich Town,29673,464086,24426,19,,"82,3 %",01/02
+The Valley,Charlton Athletic,26875,459131,24165,19,2,"89,9 %",01/02
+King Power Stadium,Leicester City,32273,376871,19835,19,,"61,5 %",01/02
+Craven Cottage,Fulham FC,25700,367519,19343,19,,"75,3 %",01/02
+Old Trafford,Manchester United,74879,1284434,67602,19,,"90,3 %",02/03
+St James' Park,Newcastle United,52338,986542,51923,19,3,"99,2 %",02/03
+Anfield,Liverpool FC,60725,821612,43243,19,,"71,2 %",02/03
+Stamford Bridge,Chelsea FC,40853,755832,39781,19,,"97,4 %",02/03
+Stadium of Light,Sunderland AFC,48707,754267,39698,19,,"81,5 %",02/03
+Elland Road,Leeds United,37890,743779,39146,19,2,"103,3 %",02/03
+Goodison Park,Everton FC,39571,731123,38480,19,5,"97,2 %",02/03
+Emirates Stadium,Arsenal FC,60704,722608,38032,19,,"62,7 %",02/03
+Tottenham Hotspur Stadium,Tottenham Hotspur,62850,682049,35897,19,4,"57,1 %",02/03
+Villa Park,Aston Villa,42682,664531,34975,19,,"81,9 %",02/03
+Etihad Stadium,Manchester City,55017,656730,34565,19,4,"62,8 %",02/03
+London Stadium,West Ham United,62500,653962,34419,19,4,"55,1 %",02/03
+Riverside Stadium,Middlesbrough FC,33746,589456,31024,19,,"91,9 %",02/03
+St Mary's Stadium,Southampton FC,32384,582928,30680,19,3,"94,7 %",02/03
+St Andrew's,Birmingham City,29409,548781,28883,19,2,"98,2 %",02/03
+The Hawthorns,West Bromwich Albion,26850,507888,26731,19,1,"99,6 %",02/03
+The Valley,Charlton Athletic,26875,498855,26256,19,3,"97,7 %",02/03
+Ewood Park,Blackburn Rovers,31367,498517,26238,19,,"83,7 %",02/03
+Toughsheet Community Stadium,Bolton Wanderers,28723,475322,25017,19,,"87,1 %",02/03
+Craven Cottage,Fulham FC,25700,317434,16707,19,,"65,0 %",02/03
+Old Trafford,Manchester United,74879,1284536,67607,19,,"90,3 %",03/04
+St James' Park,Newcastle United,52338,977358,51440,19,,"98,3 %",03/04
+Etihad Stadium,Manchester City,55017,889854,46834,19,,"85,1 %",03/04
+Anfield,Liverpool FC,60725,810867,42677,19,,"70,3 %",03/04
+Stamford Bridge,Chelsea FC,40853,783461,41235,19,1,"100,9 %",03/04
+Goodison Park,Everton FC,39571,737916,38838,19,2,"98,2 %",03/04
+Emirates Stadium,Arsenal FC,60704,723498,38079,19,,"62,7 %",03/04
+Elland Road,Leeds United,37890,696657,36666,19,,"96,8 %",03/04
+Villa Park,Aston Villa,42682,695811,36622,19,,"85,8 %",03/04
+Tottenham Hotspur Stadium,Tottenham Hotspur,62850,663840,34939,19,1,"55,6 %",03/04
+St Mary's Stadium,Southampton FC,32384,595663,31351,19,,"96,8 %",03/04
+King Power Stadium,Leicester City,32273,588674,30983,19,,"96,0 %",03/04
+Riverside Stadium,Middlesbrough FC,33746,578389,30442,19,1,"90,2 %",03/04
+Molineux Stadium,Wolverhampton Wanderers,32050,548604,28874,19,,"90,1 %",03/04
+St Andrew's,Birmingham City,29409,545969,28735,19,,"97,7 %",03/04
+Toughsheet Community Stadium,Bolton Wanderers,28723,509104,26795,19,1,"93,3 %",03/04
+The Valley,Charlton Athletic,26875,500641,26350,19,,"98,0 %",03/04
+Ewood Park,Blackburn Rovers,31367,463146,24376,19,,"77,7 %",03/04
+Fratton Park,Portsmouth FC,20688,382074,20109,19,,"97,2 %",03/04
+Craven Cottage,Fulham FC,25700,322851,16992,19,1,"66,1 %",03/04
+Old Trafford,Manchester United,74879,1289568,67872,19,,"90,6 %",04/05
+St James' Park,Newcastle United,52338,985099,51847,19,3,"99,1 %",04/05
+Etihad Stadium,Manchester City,55017,858655,45192,19,1,"82,1 %",04/05
+Anfield,Liverpool FC,60725,809118,42585,19,,"70,1 %",04/05
+Stamford Bridge,Chelsea FC,40853,795534,41870,19,1,"102,5 %",04/05
+Emirates Stadium,Arsenal FC,60704,721523,37975,19,,"62,6 %",04/05
+Villa Park,Aston Villa,42682,709721,37354,19,3,"87,5 %",04/05
+Goodison Park,Everton FC,39571,699529,36817,19,4,"93,0 %",04/05
+Tottenham Hotspur Stadium,Tottenham Hotspur,62850,679980,35788,19,3,"56,9 %",04/05
+Riverside Stadium,Middlesbrough FC,33746,608236,32012,19,,"94,9 %",04/05
+St Mary's Stadium,Southampton FC,32384,581583,30610,19,,"94,5 %",04/05
+St Andrew's,Birmingham City,29409,546422,28759,19,1,"97,8 %",04/05
+The Valley,Charlton Athletic,26875,507319,26701,19,7,"99,4 %",04/05
+Toughsheet Community Stadium,Bolton Wanderers,28723,497104,26163,19,,"91,1 %",04/05
+The Hawthorns,West Bromwich Albion,26850,493698,25984,19,1,"96,8 %",04/05
+Carrow Road,Norwich City,27244,462606,24348,19,,"89,4 %",04/05
+Selhurst Park,Crystal Palace,26047,457928,24101,19,1,"92,5 %",04/05
+Ewood Park,Blackburn Rovers,31367,435078,22899,19,,"73,0 %",04/05
+Fratton Park,Portsmouth FC,20688,381400,20074,19,1,"97,0 %",04/05
+Craven Cottage,Fulham FC,25700,376928,19838,19,,"77,2 %",04/05
+Old Trafford,Manchester United,74879,1306528,68765,19,1,"91,8 %",05/06
+St James' Park,Newcastle United,52338,988609,52032,19,,"99,4 %",05/06
+Anfield,Liverpool FC,60725,840491,44236,19,1,"72,9 %",05/06
+Etihad Stadium,Manchester City,55017,814269,42856,19,,"77,9 %",05/06
+Stamford Bridge,Chelsea FC,40853,796131,41902,19,3,"102,6 %",05/06
+Emirates Stadium,Arsenal FC,60704,725499,38184,19,,"62,9 %",05/06
+Goodison Park,Everton FC,39571,700347,36860,19,,"93,2 %",05/06
+Tottenham Hotspur Stadium,Tottenham Hotspur,62850,685399,36074,19,,"57,4 %",05/06
+Villa Park,Aston Villa,42682,648124,34112,19,,"79,9 %",05/06
+Stadium of Light,Sunderland AFC,48707,644180,33904,19,,"69,6 %",05/06
+London Stadium,West Ham United,62500,641109,33743,19,,"54,0 %",05/06
+Riverside Stadium,Middlesbrough FC,33746,540799,28463,19,,"84,4 %",05/06
+St Andrew's,Birmingham City,29409,520448,27392,19,,"93,1 %",05/06
+The Valley,Charlton Athletic,26875,497721,26196,19,1,"97,5 %",05/06
+The Hawthorns,West Bromwich Albion,26850,482667,25404,19,,"94,6 %",05/06
+Toughsheet Community Stadium,Bolton Wanderers,28723,480036,25265,19,,"88,0 %",05/06
+Ewood Park,Blackburn Rovers,31367,399288,21015,19,,"67,0 %",05/06
+Craven Cottage,Fulham FC,25700,392430,20654,19,,"80,4 %",05/06
+Brick Community Stadium,Wigan Athletic,25133,391560,20608,19,,"82,0 %",05/06
+Fratton Park,Portsmouth FC,20688,376951,19840,19,1,"95,9 %",05/06
+Old Trafford,Manchester United,74879,1440699,75826,19,9,"101,3 %",06/07
+Emirates Stadium,Arsenal FC,60704,1140758,60040,19,3,"98,9 %",06/07
+St James' Park,Newcastle United,52338,963036,50686,19,,"96,8 %",06/07
+Anfield,Liverpool FC,60725,827660,43561,19,1,"71,7 %",06/07
+Stamford Bridge,Chelsea FC,40853,788353,41492,19,2,"101,6 %",06/07
+Etihad Stadium,Manchester City,55017,759946,39997,19,,"72,7 %",06/07
+Goodison Park,Everton FC,39571,698296,36752,19,,"92,9 %",06/07
+Villa Park,Aston Villa,42682,688071,36214,19,1,"84,9 %",06/07
+Tottenham Hotspur Stadium,Tottenham Hotspur,62850,678319,35701,19,,"56,8 %",06/07
+London Stadium,West Ham United,62500,659663,34719,19,2,"55,6 %",06/07
+Bramall Lane,Sheffield United,32702,579728,30512,19,,"93,3 %",06/07
+Riverside Stadium,Middlesbrough FC,33746,526866,27730,19,,"82,2 %",06/07
+The Valley,Charlton Athletic,26875,497708,26195,19,4,"97,5 %",06/07
+Select Car Leasing Stadium,FC Reading,24161,452758,23829,19,1,"98,6 %",06/07
+Toughsheet Community Stadium,Bolton Wanderers,28723,448505,23606,19,,"82,2 %",06/07
+Craven Cottage,Fulham FC,25700,423444,22287,19,1,"86,7 %",06/07
+Ewood Park,Blackburn Rovers,31367,404233,21275,19,,"67,8 %",06/07
+Fratton Park,Portsmouth FC,20688,377380,19862,19,,"96,0 %",06/07
+Vicarage Road,Watford FC,21577,356071,18741,19,,"86,9 %",06/07
+Brick Community Stadium,Wigan Athletic,25133,345019,18159,19,,"72,3 %",06/07
+Old Trafford,Manchester United,74879,1438136,75691,19,6,"101,1 %",07/08
+Emirates Stadium,Arsenal FC,60704,1141572,60083,19,1,"99,0 %",07/08
+St James' Park,Newcastle United,52338,975093,51321,19,1,"98,1 %",07/08
+Anfield,Liverpool FC,60725,827111,43532,19,1,"71,7 %",07/08
+Stadium of Light,Sunderland AFC,48707,823540,43344,19,,"89,0 %",07/08
+Etihad Stadium,Manchester City,55017,800400,42126,19,,"76,6 %",07/08
+Stamford Bridge,Chelsea FC,40853,786549,41397,19,2,"101,3 %",07/08
+Villa Park,Aston Villa,42682,767524,40396,19,,"94,6 %",07/08
+Goodison Park,Everton FC,39571,702142,36955,19,,"93,4 %",07/08
+Tottenham Hotspur Stadium,Tottenham Hotspur,62850,683370,35967,19,1,"57,2 %",07/08
+London Stadium,West Ham United,62500,657423,34601,19,,"55,4 %",07/08
+Pride Park Stadium,Derby County,33597,616216,32432,19,1,"96,5 %",07/08
+Riverside Stadium,Middlesbrough FC,33746,507450,26708,19,,"79,1 %",07/08
+St Andrew's,Birmingham City,29409,497438,26181,19,,"89,0 %",07/08
+Ewood Park,Blackburn Rovers,31367,454928,23944,19,,"76,3 %",07/08
+Craven Cottage,Fulham FC,25700,451714,23774,19,2,"92,5 %",07/08
+Select Car Leasing Stadium,FC Reading,24161,447915,23574,19,3,"97,6 %",07/08
+Toughsheet Community Stadium,Bolton Wanderers,28723,397122,20901,19,,"72,8 %",07/08
+Fratton Park,Portsmouth FC,20688,378367,19914,19,,"96,3 %",07/08
+Brick Community Stadium,Wigan Athletic,25133,361876,19046,19,,"75,8 %",07/08
+Old Trafford,Manchester United,74879,1430143,75271,19,7,"100,5 %",08/09
+Emirates Stadium,Arsenal FC,60704,1140755,60040,19,2,"98,9 %",08/09
+St James' Park,Newcastle United,52338,926244,48750,19,,"93,1 %",08/09
+Anfield,Liverpool FC,60725,828610,43611,19,,"71,8 %",08/09
+Etihad Stadium,Manchester City,55017,815165,42903,19,,"78,0 %",08/09
+Stamford Bridge,Chelsea FC,40853,790172,41588,19,2,"101,8 %",08/09
+Stadium of Light,Sunderland AFC,48707,763198,40168,19,,"82,5 %",08/09
+Villa Park,Aston Villa,42682,756421,39812,19,1,"93,3 %",08/09
+Tottenham Hotspur Stadium,Tottenham Hotspur,62850,682646,35929,19,,"57,2 %",08/09
+Goodison Park,Everton FC,39571,677679,35667,19,1,"90,1 %",08/09
+London Stadium,West Ham United,62500,640307,33700,19,1,"53,9 %",08/09
+Riverside Stadium,Middlesbrough FC,33746,540144,28429,19,,"84,2 %",08/09
+bet365 Stadium,Stoke City,30089,509604,26821,19,,"89,1 %",08/09
+The Hawthorns,West Bromwich Albion,26850,490726,25828,19,,"96,2 %",08/09
+MKM Stadium,Hull City,25586,471507,24816,19,,"97,0 %",08/09
+Craven Cottage,Fulham FC,25700,462534,24344,19,1,"94,7 %",08/09
+Ewood Park,Blackburn Rovers,31367,446102,23479,19,,"74,9 %",08/09
+Toughsheet Community Stadium,Bolton Wanderers,28723,427228,22486,19,,"78,3 %",08/09
+Fratton Park,Portsmouth FC,20688,376762,19830,19,,"95,9 %",08/09
+Brick Community Stadium,Wigan Athletic,25133,348656,18350,19,,"73,0 %",08/09
+Old Trafford,Manchester United,74879,1422424,74864,19,1,"100,0 %",09/10
+Emirates Stadium,Arsenal FC,60704,1138613,59927,19,5,"98,7 %",09/10
+Etihad Stadium,Manchester City,55017,863930,45470,19,,"82,7 %",09/10
+Anfield,Liverpool FC,60725,814411,42864,19,,"70,6 %",09/10
+Stamford Bridge,Chelsea FC,40853,787029,41423,19,,"101,4 %",09/10
+Stadium of Light,Sunderland AFC,48707,766748,40355,19,,"82,9 %",09/10
+Villa Park,Aston Villa,42682,732895,38573,19,,"90,4 %",09/10
+Goodison Park,Everton FC,39571,697775,36725,19,,"92,8 %",09/10
+Tottenham Hotspur Stadium,Tottenham Hotspur,62850,680091,35794,19,,"57,0 %",09/10
+London Stadium,West Ham United,62500,639983,33683,19,,"53,9 %",09/10
+Molineux Stadium,Wolverhampton Wanderers,32050,538949,28366,19,,"88,5 %",09/10
+bet365 Stadium,Stoke City,30089,516082,27162,19,,"90,3 %",09/10
+Ewood Park,Blackburn Rovers,31367,483135,25428,19,,"81,1 %",09/10
+St Andrew's,Birmingham City,29409,479680,25246,19,,"85,9 %",09/10
+MKM Stadium,Hull City,25586,463406,24390,19,,"95,3 %",09/10
+Craven Cottage,Fulham FC,25700,454276,23909,19,2,"93,0 %",09/10
+Toughsheet Community Stadium,Bolton Wanderers,28723,421801,22200,19,1,"77,3 %",09/10
+Turf Moor,Burnley FC,21994,392423,20654,19,,"93,9 %",09/10
+Fratton Park,Portsmouth FC,20688,346737,18249,19,,"88,2 %",09/10
+Brick Community Stadium,Wigan Athletic,25133,342118,18006,19,,"71,6 %",09/10
+Old Trafford,Manchester United,74879,1424792,74989,19,,"100,2 %",10/11
+Emirates Stadium,Arsenal FC,60704,1140445,60023,19,1,"98,9 %",10/11
+St James' Park,Newcastle United,52338,906640,47718,19,,"91,2 %",10/11
+Etihad Stadium,Manchester City,55017,872195,45905,19,,"83,4 %",10/11
+Anfield,Liverpool FC,60725,813661,42824,19,,"70,5 %",10/11
+Stamford Bridge,Chelsea FC,40853,787271,41435,19,3,"101,4 %",10/11
+Stadium of Light,Sunderland AFC,48707,760209,40011,19,,"82,2 %",10/11
+Villa Park,Aston Villa,42682,706685,37194,19,,"87,1 %",10/11
+Goodison Park,Everton FC,39571,685222,36064,19,,"91,1 %",10/11
+Tottenham Hotspur Stadium,Tottenham Hotspur,62850,678716,35722,19,,"56,8 %",10/11
+London Stadium,West Ham United,62500,634685,33404,19,,"53,5 %",10/11
+Molineux Stadium,Wolverhampton Wanderers,32050,526225,27696,19,,"86,4 %",10/11
+bet365 Stadium,Stoke City,30089,510303,26858,19,,"89,3 %",10/11
+St Andrew's,Birmingham City,29409,483775,25462,19,,"86,6 %",10/11
+Craven Cottage,Fulham FC,25700,477862,25151,19,2,"97,9 %",10/11
+Ewood Park,Blackburn Rovers,31367,474995,25000,19,,"79,7 %",10/11
+The Hawthorns,West Bromwich Albion,26850,468976,24683,19,,"91,9 %",10/11
+Toughsheet Community Stadium,Bolton Wanderers,28723,433325,22807,19,1,"79,4 %",10/11
+Brick Community Stadium,Wigan Athletic,25133,319331,16807,19,,"66,9 %",10/11
+Bloomfield Road,Blackpool FC,16220,299815,15780,19,,"97,3 %",10/11
+Old Trafford,Manchester United,74879,1432358,75387,19,19,"100,7 %",11/12
+Emirates Stadium,Arsenal FC,60704,1139997,60000,19,17,"98,8 %",11/12
+St James' Park,Newcastle United,52338,949078,49951,19,10,"95,4 %",11/12
+Etihad Stadium,Manchester City,55017,893851,47045,19,16,"85,5 %",11/12
+Anfield,Liverpool FC,60725,840808,44253,19,13,"72,9 %",11/12
+Stamford Bridge,Chelsea FC,40853,788196,41484,19,18,"101,5 %",11/12
+Stadium of Light,Sunderland AFC,48707,741891,39047,19,,"80,2 %",11/12
+Tottenham Hotspur Stadium,Tottenham Hotspur,62850,684681,36036,19,17,"57,3 %",11/12
+Villa Park,Aston Villa,42682,643770,33883,19,,"79,4 %",11/12
+Goodison Park,Everton FC,39571,631333,33228,19,2,"84,0 %",11/12
+bet365 Stadium,Stoke City,30089,517290,27226,19,18,"90,5 %",11/12
+Carrow Road,Norwich City,27244,505509,26606,19,16,"97,7 %",11/12
+Molineux Stadium,Wolverhampton Wanderers,32050,487871,25677,19,4,"80,1 %",11/12
+Craven Cottage,Fulham FC,25700,482586,25399,19,14,"98,8 %",11/12
+The Hawthorns,West Bromwich Albion,26850,470625,24770,19,8,"92,3 %",11/12
+Toughsheet Community Stadium,Bolton Wanderers,28723,449729,23670,19,,"82,4 %",11/12
+Ewood Park,Blackburn Rovers,31367,428474,22551,19,,"71,9 %",11/12
+Swansea.com Stadium,Swansea City,21088,378978,19946,19,12,"94,6 %",11/12
+Brick Community Stadium,Wigan Athletic,25133,354038,18634,19,,"74,1 %",11/12
+Loftus Road Stadium,Queens Park Rangers,18360,328613,17295,19,11,"94,2 %",11/12
+Old Trafford,Manchester United,74879,1435063,75530,19,18,"100,9 %",12/13
+Emirates Stadium,Arsenal FC,60704,1141498,60079,19,17,"99,0 %",12/13
+St James' Park,Newcastle United,52338,959826,50517,19,8,"96,5 %",12/13
+Etihad Stadium,Manchester City,55017,892506,46974,19,17,"85,4 %",12/13
+Anfield,Liverpool FC,60725,850224,44749,19,19,"73,7 %",12/13
+Stamford Bridge,Chelsea FC,40853,787786,41462,19,16,"101,5 %",12/13
+Stadium of Light,Sunderland AFC,48707,770698,40563,19,,"83,3 %",12/13
+Goodison Park,Everton FC,39571,690763,36356,19,4,"91,9 %",12/13
+Tottenham Hotspur Stadium,Tottenham Hotspur,62850,685257,36066,19,17,"57,4 %",12/13
+Villa Park,Aston Villa,42682,666135,35060,19,2,"82,1 %",12/13
+London Stadium,West Ham United,62500,659614,34717,19,15,"55,6 %",12/13
+St Mary's Stadium,Southampton FC,32384,586242,30855,19,11,"95,3 %",12/13
+bet365 Stadium,Stoke City,30089,507727,26722,19,16,"88,8 %",12/13
+Carrow Road,Norwich City,27244,506762,26672,19,18,"97,9 %",12/13
+Craven Cottage,Fulham FC,25700,483032,25423,19,18,"98,9 %",12/13
+The Hawthorns,West Bromwich Albion,26850,478838,25202,19,14,"93,9 %",12/13
+Select Car Leasing Stadium,FC Reading,24161,453378,23862,19,14,"98,8 %",12/13
+Swansea.com Stadium,Swansea City,21088,389037,20476,19,17,"97,1 %",12/13
+Brick Community Stadium,Wigan Athletic,25133,367827,19359,19,,"77,0 %",12/13
+Loftus Road Stadium,Queens Park Rangers,18360,337799,17779,19,13,"96,8 %",12/13
+Old Trafford,Manchester United,74879,1428928,75207,19,12,"100,4 %",13/14
+Emirates Stadium,Arsenal FC,60704,1140251,60013,19,18,"98,9 %",13/14
+St James' Park,Newcastle United,52338,957511,50395,19,6,"96,3 %",13/14
+Etihad Stadium,Manchester City,55017,894527,47080,19,13,"85,6 %",13/14
+Anfield,Liverpool FC,60725,848750,44671,19,7,"73,6 %",13/14
+Stamford Bridge,Chelsea FC,40853,788153,41482,19,17,"101,5 %",13/14
+Stadium of Light,Sunderland AFC,48707,780706,41090,19,,"84,4 %",13/14
+Goodison Park,Everton FC,39571,716902,37732,19,4,"95,4 %",13/14
+Villa Park,Aston Villa,42682,685535,36081,19,1,"84,5 %",13/14
+Tottenham Hotspur Stadium,Tottenham Hotspur,62850,680360,35808,19,15,"57,0 %",13/14
+London Stadium,West Ham United,62500,649741,34197,19,13,"54,7 %",13/14
+St Mary's Stadium,Southampton FC,32384,574020,30212,19,,"93,3 %",13/14
+Cardiff City Stadium,Cardiff City,33280,521165,27430,19,13,"82,4 %",13/14
+Carrow Road,Norwich City,27244,509302,26805,19,18,"98,4 %",13/14
+bet365 Stadium,Stoke City,30089,496607,26137,19,4,"86,9 %",13/14
+The Hawthorns,West Bromwich Albion,26850,478678,25194,19,7,"93,8 %",13/14
+Craven Cottage,Fulham FC,25700,474563,24977,19,10,"97,2 %",13/14
+MKM Stadium,Hull City,25586,458217,24117,19,6,"94,3 %",13/14
+Selhurst Park,Crystal Palace,26047,458169,24114,19,,"92,6 %",13/14
+Swansea.com Stadium,Swansea City,21088,387725,20407,19,17,"96,8 %",13/14
+Old Trafford,Manchester United,74879,1431362,75335,19,3,"100,6 %",14/15
+Emirates Stadium,Arsenal FC,60704,1139843,59992,19,3,"98,8 %",14/15
+St James' Park,Newcastle United,52338,956823,50359,19,1,"96,2 %",14/15
+Etihad Stadium,Manchester City,55017,861939,45365,19,,"82,5 %",14/15
+Anfield,Liverpool FC,60725,848519,44659,19,2,"73,5 %",14/15
+Stadium of Light,Sunderland AFC,48707,820255,43171,19,,"88,6 %",14/15
+Stamford Bridge,Chelsea FC,40853,789376,41546,19,3,"101,7 %",14/15
+Goodison Park,Everton FC,39571,729711,38406,19,2,"97,1 %",14/15
+Tottenham Hotspur Stadium,Tottenham Hotspur,62850,678824,35728,19,3,"56,9 %",14/15
+London Stadium,West Ham United,62500,662552,34871,19,2,"55,8 %",14/15
+Villa Park,Aston Villa,42682,648518,34133,19,,"80,0 %",14/15
+King Power Stadium,Leicester City,32273,602165,31693,19,2,"98,2 %",14/15
+St Mary's Stadium,Southampton FC,32384,582395,30652,19,,"94,7 %",14/15
+bet365 Stadium,Stoke City,30089,514547,27081,19,2,"90,0 %",14/15
+The Hawthorns,West Bromwich Albion,26850,476211,25064,19,2,"93,4 %",14/15
+Selhurst Park,Crystal Palace,26047,463824,24412,19,2,"93,7 %",14/15
+MKM Stadium,Hull City,25586,447584,23557,19,,"92,1 %",14/15
+Swansea.com Stadium,Swansea City,21088,390544,20555,19,5,"97,5 %",14/15
+Turf Moor,Burnley FC,21994,363483,19131,19,1,"87,0 %",14/15
+Loftus Road Stadium,Queens Park Rangers,18360,338369,17809,19,,"97,0 %",14/15
+Old Trafford,Manchester United,74879,1430299,75279,19,4,"100,5 %",15/16
+Emirates Stadium,Arsenal FC,60704,1138944,59944,19,9,"98,8 %",15/16
+Etihad Stadium,Manchester City,55017,1026776,54041,19,1,"98,2 %",15/16
+St James' Park,Newcastle United,52338,945317,49754,19,2,"95,1 %",15/16
+Anfield,Liverpool FC,60725,834285,43910,19,,"72,3 %",15/16
+Stadium of Light,Sunderland AFC,48707,818351,43071,19,1,"88,4 %",15/16
+Stamford Bridge,Chelsea FC,40853,788496,41500,19,6,"101,6 %",15/16
+Goodison Park,Everton FC,39571,724356,38124,19,3,"96,3 %",15/16
+Tottenham Hotspur Stadium,Tottenham Hotspur,62850,679741,35776,19,,"56,9 %",15/16
+London Stadium,West Ham United,62500,663291,34910,19,8,"55,9 %",15/16
+Villa Park,Aston Villa,42682,640112,33690,19,1,"78,9 %",15/16
+King Power Stadium,Leicester City,32273,608393,32021,19,1,"99,2 %",15/16
+St Mary's Stadium,Southampton FC,32384,584266,30751,19,,"95,0 %",15/16
+bet365 Stadium,Stoke City,30089,523148,27534,19,1,"91,5 %",15/16
+Carrow Road,Norwich City,27244,512471,26972,19,5,"99,0 %",15/16
+Selhurst Park,Crystal Palace,26047,471683,24825,19,1,"95,3 %",15/16
+The Hawthorns,West Bromwich Albion,26850,467995,24631,19,,"91,7 %",15/16
+Swansea.com Stadium,Swansea City,21088,393508,20711,19,5,"98,2 %",15/16
+Vicarage Road,Watford FC,21577,391281,20594,19,,"95,4 %",15/16
+Vitality Stadium,AFC Bournemouth,11329,212586,11189,19,,"98,8 %",15/16
+Old Trafford,Manchester United,74879,1430502,75290,19,5,"100,6 %",16/17
+Emirates Stadium,Arsenal FC,60704,1139176,59957,19,9,"98,8 %",16/17
+London Stadium,West Ham United,62500,1082464,56972,19,,"91,2 %",16/17
+Etihad Stadium,Manchester City,55017,1026358,54019,19,1,"98,2 %",16/17
+Anfield,Liverpool FC,60725,1007311,53016,19,,"87,3 %",16/17
+Stamford Bridge,Chelsea FC,40853,788645,41508,19,8,"101,6 %",16/17
+Stadium of Light,Sunderland AFC,48707,784450,41287,19,,"84,8 %",16/17
+Goodison Park,Everton FC,39571,742521,39080,19,8,"98,8 %",16/17
+King Power Stadium,Leicester City,32273,605968,31893,19,5,"98,8 %",16/17
+Tottenham Hotspur Stadium,Tottenham Hotspur,62850,601143,31639,19,,"50,3 %",16/17
+St Mary's Stadium,Southampton FC,32384,587787,30936,19,1,"95,5 %",16/17
+Riverside Stadium,Middlesbrough FC,33746,578539,30449,19,2,"90,2 %",16/17
+bet365 Stadium,Stoke City,30089,521230,27433,19,1,"91,2 %",16/17
+Selhurst Park,Crystal Palace,26047,478052,25161,19,4,"96,6 %",16/17
+The Hawthorns,West Bromwich Albion,26850,453646,23876,19,1,"88,9 %",16/17
+MKM Stadium,Hull City,25586,392466,20656,19,1,"80,7 %",16/17
+Swansea.com Stadium,Swansea City,21088,391766,20619,19,1,"97,8 %",16/17
+Vicarage Road,Watford FC,21577,390849,20571,19,1,"95,3 %",16/17
+Turf Moor,Burnley FC,21994,390609,20558,19,4,"93,5 %",16/17
+Vitality Stadium,AFC Bournemouth,11329,212464,11182,19,4,"98,7 %",16/17
+Old Trafford,Manchester United,74879,1424537,74976,19,,"100,1 %",17/18
+Tottenham Hotspur Stadium,Tottenham Hotspur,62850,1282417,67496,19,,"107,4 %",17/18
+Emirates Stadium,Arsenal FC,60704,1127133,59323,19,,"97,7 %",17/18
+London Stadium,West Ham United,62500,1080812,56885,19,,"91,0 %",17/18
+Etihad Stadium,Manchester City,55017,1022433,53812,19,,"97,8 %",17/18
+Anfield,Liverpool FC,60725,1007931,53049,19,,"87,4 %",17/18
+St James' Park,Newcastle United,52338,987844,51992,19,1,"99,3 %",17/18
+Stamford Bridge,Chelsea FC,40853,784353,41282,19,1,"101,1 %",17/18
+Goodison Park,Everton FC,39571,737143,38797,19,,"98,0 %",17/18
+King Power Stadium,Leicester City,32273,600083,31583,19,,"97,9 %",17/18
+St Mary's Stadium,Southampton FC,32384,585084,30794,19,,"95,1 %",17/18
+AMEX Stadium,Brighton & Hove Albion,31800,577647,30402,19,1,"95,6 %",17/18
+bet365 Stadium,Stoke City,30089,556317,29280,19,,"97,3 %",17/18
+Selhurst Park,Crystal Palace,26047,476229,25065,19,,"96,2 %",17/18
+The Hawthorns,West Bromwich Albion,26850,465888,24520,19,,"91,3 %",17/18
+John Smith's Stadium,Huddersfield Town,24500,456796,24042,19,1,"98,1 %",17/18
+Turf Moor,Burnley FC,21994,393080,20688,19,,"94,1 %",17/18
+Swansea.com Stadium,Swansea City,21088,391827,20622,19,,"97,8 %",17/18
+Vicarage Road,Watford FC,21577,384385,20231,19,,"93,8 %",17/18
+Vitality Stadium,AFC Bournemouth,11329,202154,10640,19,,"93,9 %",17/18
+Old Trafford,Manchester United,74879,1415471,74498,19,,"99,5 %",18/19
+Emirates Stadium,Arsenal FC,60704,1138072,59899,19,,"98,7 %",18/19
+London Stadium,West Ham United,62500,1108375,58336,19,,"93,3 %",18/19
+Tottenham Hotspur Stadium,Tottenham Hotspur,62850,1030111,54216,19,,"86,3 %",18/19
+Etihad Stadium,Manchester City,55017,1028477,54130,19,,"98,4 %",18/19
+Anfield,Liverpool FC,60725,1006668,52983,19,,"87,3 %",18/19
+St James' Park,Newcastle United,52338,971297,51121,19,,"97,7 %",18/19
+Stamford Bridge,Chelsea FC,40853,768387,40441,19,,"99,0 %",18/19
+Goodison Park,Everton FC,39571,741815,39043,19,,"98,7 %",18/19
+King Power Stadium,Leicester City,32273,605161,31851,19,,"98,7 %",18/19
+Cardiff City Stadium,Cardiff City,33280,596751,31408,19,,"94,4 %",18/19
+Molineux Stadium,Wolverhampton Wanderers,32050,589472,31025,19,1,"96,8 %",18/19
+AMEX Stadium,Brighton & Hove Albion,31800,578085,30426,19,,"95,7 %",18/19
+St Mary's Stadium,Southampton FC,32384,572640,30139,19,,"93,1 %",18/19
+Selhurst Park,Crystal Palace,26047,483644,25455,19,,"97,7 %",18/19
+Craven Cottage,Fulham FC,25700,463051,24371,19,,"94,8 %",18/19
+John Smith's Stadium,Huddersfield Town,24500,443456,23340,19,,"95,3 %",18/19
+Turf Moor,Burnley FC,21994,390148,20534,19,,"93,4 %",18/19
+Vicarage Road,Watford FC,21577,380297,20016,19,,"92,8 %",18/19
+Vitality Stadium,AFC Bournemouth,11329,200107,10532,19,,"93,0 %",18/19
+Old Trafford,Manchester United,74879,1090656,72710,15,,"97,1 %",19/20
+Emirates Stadium,Arsenal FC,60704,904188,60279,15,2,"99,3 %",19/20
+London Stadium,West Ham United,62500,838943,59925,14,2,"95,9 %",19/20
+Tottenham Hotspur Stadium,Tottenham Hotspur,62850,831374,59384,14,,"94,5 %",19/20
+Anfield,Liverpool FC,60725,797143,53143,15,,"87,5 %",19/20
+Etihad Stadium,Manchester City,55017,704846,54219,13,,"98,6 %",19/20
+St James' Park,Newcastle United,52338,675471,48248,14,,"92,2 %",19/20
+Stamford Bridge,Chelsea FC,40853,608444,40563,15,,"99,3 %",19/20
+Goodison Park,Everton FC,39571,548103,39150,14,,"98,9 %",19/20
+Villa Park,Aston Villa,42682,541594,41661,13,,"97,6 %",19/20
+King Power Stadium,Leicester City,32273,480920,32061,15,,"99,3 %",19/20
+Molineux Stadium,Wolverhampton Wanderers,32050,470407,31360,15,,"97,9 %",19/20
+Bramall Lane,Sheffield United,32702,463569,30905,15,,"94,5 %",19/20
+St Mary's Stadium,Southampton FC,32384,445129,29675,15,,"91,6 %",19/20
+AMEX Stadium,Brighton & Hove Albion,31800,424986,30356,14,,"95,5 %",19/20
+Carrow Road,Norwich City,27244,378303,27022,14,,"99,2 %",19/20
+Selhurst Park,Crystal Palace,26047,375902,25060,15,,"96,2 %",19/20
+Turf Moor,Burnley FC,21994,303899,20260,15,,"92,1 %",19/20
+Vicarage Road,Watford FC,21577,291713,20837,14,1,"96,6 %",19/20
+Vitality Stadium,AFC Bournemouth,11329,147146,10510,14,,"92,8 %",19/20
+Anfield,Liverpool FC,60725,16000,4000,4,,"6,6 %",20/21
+Tottenham Hotspur Stadium,Tottenham Hotspur,62850,12000,6000,2,,"9,6 %",20/21
+London Stadium,West Ham United,62500,12000,6000,2,,"9,6 %",20/21
+AMEX Stadium,Brighton & Hove Albion,31800,11945,3982,3,,"12,5 %",20/21
+Goodison Park,Everton FC,39571,10068,3356,3,,"8,5 %",20/21
+Emirates Stadium,Arsenal FC,60704,10000,10000,1,,"16,5 %",20/21
+St James' Park,Newcastle United,52338,10000,10000,1,,"19,1 %",20/21
+Old Trafford,Manchester United,74879,10000,10000,1,,"13,4 %",20/21
+Etihad Stadium,Manchester City,55017,10000,10000,1,,"18,2 %",20/21
+Stamford Bridge,Chelsea FC,40853,9195,4598,2,,"11,3 %",20/21
+Selhurst Park,Crystal Palace,26047,8500,4250,2,,"16,3 %",20/21
+Elland Road,Leeds United,37890,8000,8000,1,,"21,1 %",20/21
+King Power Stadium,Leicester City,32273,8000,8000,1,,"24,8 %",20/21
+The Hawthorns,West Bromwich Albion,26850,5371,5371,1,,"20,0 %",20/21
+Bramall Lane,Sheffield United,32702,5096,5096,1,,"15,6 %",20/21
+St Mary's Stadium,Southampton FC,32384,4000,2000,2,,"6,2 %",20/21
+Craven Cottage,Fulham FC,25700,4000,2000,2,,"7,8 %",20/21
+Turf Moor,Burnley FC,21994,3500,3500,1,,"15,9 %",20/21
+Molineux Stadium,Wolverhampton Wanderers,32050,0,0,0,,"0,0 %",20/21
+Villa Park,Aston Villa,42682,0,0,0,,"0,0 %",20/21
+Old Trafford,Manchester United,74879,1389856,73150,19,,"97,7 %",21/22
+Emirates Stadium,Arsenal FC,60704,1136406,59811,19,,"98,5 %",21/22
+London Stadium,West Ham United,62500,1112814,58569,19,1,"93,7 %",21/22
+Tottenham Hotspur Stadium,Tottenham Hotspur,62850,1073936,56523,19,,"89,9 %",21/22
+Anfield,Liverpool FC,60725,1007153,53008,19,,"87,3 %",21/22
+Etihad Stadium,Manchester City,55017,1002028,52738,19,,"95,9 %",21/22
+St James' Park,Newcastle United,52338,978251,51487,19,,"98,4 %",21/22
+Goodison Park,Everton FC,39571,738758,38882,19,,"98,3 %",21/22
+Villa Park,Aston Villa,42682,708067,41651,17,,"97,6 %",21/22
+Stamford Bridge,Chelsea FC,40853,692419,36443,19,,"89,2 %",21/22
+Elland Road,Leeds United,37890,653140,36286,18,,"95,8 %",21/22
+King Power Stadium,Leicester City,32273,606869,31940,19,,"99,0 %",21/22
+AMEX Stadium,Brighton & Hove Albion,31800,587918,30943,19,,"97,3 %",21/22
+Molineux Stadium,Wolverhampton Wanderers,32050,521772,30692,17,,"95,8 %",21/22
+Selhurst Park,Crystal Palace,26047,461349,24282,19,,"93,2 %",21/22
+St Mary's Stadium,Southampton FC,32384,448223,29882,15,,"92,3 %",21/22
+Carrow Road,Norwich City,27244,430124,26883,16,,"98,7 %",21/22
+Vicarage Road,Watford FC,21577,391369,20598,19,,"95,5 %",21/22
+Turf Moor,Burnley FC,21994,347708,19317,18,,"87,8 %",21/22
+Gtech Community Stadium,Brentford FC,17250,304327,16907,18,,"98,0 %",21/22
+Old Trafford,Manchester United,74879,1402481,73815,19,1,"98,6 %",22/23
+London Stadium,West Ham United,62500,1186777,62462,19,,"99,9 %",22/23
+Tottenham Hotspur Stadium,Tottenham Hotspur,62850,1170118,61585,19,,"98,0 %",22/23
+Emirates Stadium,Arsenal FC,60704,1143626,60191,19,,"99,2 %",22/23
+Etihad Stadium,Manchester City,55017,1011732,53249,19,,"96,8 %",22/23
+Anfield,Liverpool FC,60725,1010488,53184,19,,"87,6 %",22/23
+St James' Park,Newcastle United,52338,990422,52127,19,,"99,6 %",22/23
+Villa Park,Aston Villa,42682,792431,41707,19,,"97,7 %",22/23
+Stamford Bridge,Chelsea FC,40853,760039,40002,19,,"97,9 %",22/23
+Goodison Park,Everton FC,39571,745571,39241,19,,"99,2 %",22/23
+Elland Road,Leeds United,37890,694759,36566,19,,"96,5 %",22/23
+King Power Stadium,Leicester City,32273,605857,31887,19,,"98,8 %",22/23
+AMEX Stadium,Brighton & Hove Albion,31800,598061,31477,19,,"99,0 %",22/23
+Molineux Stadium,Wolverhampton Wanderers,32050,597044,31423,19,,"98,0 %",22/23
+St Mary's Stadium,Southampton FC,32384,577895,30416,19,,"93,9 %",22/23
+The City Ground,Nottingham Forest,30445,554570,29188,19,,"95,9 %",22/23
+Selhurst Park,Crystal Palace,26047,475975,25051,19,,"96,2 %",22/23
+Craven Cottage,Fulham FC,25700,451549,23766,19,12,"92,5 %",22/23
+Gtech Community Stadium,Brentford FC,17250,324527,17080,19,,"99,0 %",22/23
+Vitality Stadium,AFC Bournemouth,11329,195829,10307,19,,"91,0 %",22/23
+Old Trafford,Manchester United,74879,1397148,73534,19,,"98,2 %",23/24
+London Stadium,West Ham United,62500,1186367,62440,19,,"99,9 %",23/24
+Tottenham Hotspur Stadium,Tottenham Hotspur,62850,1167725,61459,19,,"97,8 %",23/24
+Emirates Stadium,Arsenal FC,60704,1144488,60236,19,,"99,2 %",23/24
+Anfield,Liverpool FC,60725,1060362,55809,19,,"91,9 %",23/24
+Etihad Stadium,Manchester City,55017,1012469,53288,19,1,"96,9 %",23/24
+St James' Park,Newcastle United,52338,990904,52153,19,,"99,7 %",23/24
+Villa Park,Aston Villa,42682,796501,41921,19,,"98,2 %",23/24
+Stamford Bridge,Chelsea FC,40853,751952,39576,19,,"96,9 %",23/24
+Goodison Park,Everton FC,39571,741793,39042,19,,"98,7 %",23/24
+AMEX Stadium,Brighton & Hove Albion,31800,599319,31543,19,,"99,2 %",23/24
+Molineux Stadium,Wolverhampton Wanderers,32050,589697,31037,19,,"96,8 %",23/24
+Bramall Lane,Sheffield United,32702,569271,29962,19,,"91,6 %",23/24
+The City Ground,Nottingham Forest,30445,558326,29386,19,,"96,5 %",23/24
+Selhurst Park,Crystal Palace,26047,472742,24881,19,,"95,5 %",23/24
+Craven Cottage,Fulham FC,25700,461722,24301,19,,"94,6 %",23/24
+Turf Moor,Burnley FC,21994,401903,21153,19,,"96,2 %",23/24
+Gtech Community Stadium,Brentford FC,17250,324565,17082,19,,"99,0 %",23/24
+Kenilworth Road,Luton Town,11850,213636,11244,19,,"94,9 %",23/24
+Vitality Stadium,AFC Bournemouth,11329,210868,11098,19,1,"98,0 %",23/24

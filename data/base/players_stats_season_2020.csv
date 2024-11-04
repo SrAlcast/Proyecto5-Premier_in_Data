@@ -1,0 +1,726 @@
+season,player_id,player_name,age,nationality,team,games_played,minutes,goals,assists,yellow_cards,red_cards
+2020,883,L. Grant,39,England,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2020,3423,C. Atsu,31,Ghana,Newcastle,0.0,0.0,0.0,,0.0,0.0
+2020,18774,W. Morgan,37,Jamaica,Leicester,3.0,15.0,0.0,,0.0,0.0
+2020,18826,M. Noble,35,England,West Ham,21.0,705.0,0.0,,1.0,0.0
+2020,18839,S. Dann,36,England,Crystal Palace,15.0,1350.0,1.0,,1.0,0.0
+2020,18849,J. McArthur,36,Scotland,Crystal Palace,18.0,1471.0,0.0,2.0,3.0,0.0
+2020,18912,P. Bardsley,38,Scotland,Burnley,4.0,273.0,0.0,,2.0,0.0
+2020,18916,M. Lowton,34,England,Burnley,34.0,3060.0,1.0,1.0,5.0,0.0
+2020,18956,S. Long,36,Republic of Ireland,Southampton,11.0,201.0,0.0,,0.0,0.0
+2020,18977,D. Stephens,33,England,Burnley,7.0,259.0,0.0,,1.0,0.0
+2020,19019,M. Le Marchand,34,France,Fulham,2.0,122.0,0.0,,2.0,0.0
+2020,19095,J. O&apos;Connell,29,England,Sheffield Utd,2.0,180.0,0.0,,0.0,0.0
+2020,19117,G. Berardi,35,Switzerland,Leeds,2.0,113.0,0.0,,0.0,0.0
+2020,19533,Jota Peleteiro,30,Spain,Aston Villa,0.0,0.0,0.0,,0.0,0.0
+2020,19629,D. Martin,37,England,West Ham,0.0,0.0,0.0,,0.0,0.0
+2020,82227,Stephen Francis Henderson,34,Republic of Ireland,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2020,138936,K. Hayden,18,England,Aston Villa,0.0,0.0,0.0,,0.0,0.0
+2020,152963,O. Otasowie,22,USA,Wolves,6.0,185.0,0.0,1.0,1.0,0.0
+2020,162517,L. Dendoncker,21,Belgium,Brighton,0.0,0.0,0.0,,0.0,0.0
+2020,174926,C. Diaby,23,France,West Brom,0.0,0.0,0.0,,0.0,0.0
+2020,167,D. Rose,32,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2020,642,S. Agüero,33,Argentina,Manchester City,12.0,559.0,4.0,1.0,0.0,0.0
+2020,758,G. Bale,34,Wales,Tottenham,20.0,921.0,11.0,2.0,1.0,0.0
+2020,1200,B. Ivanović,37,Serbia,West Brom,13.0,765.0,0.0,,2.0,0.0
+2020,1448,S. Mustafi,31,Germany,Arsenal,3.0,44.0,0.0,,0.0,0.0
+2020,1458,M. Özil,35,Germany,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2020,2275,W. Caballero,42,Argentina,Chelsea,1.0,90.0,0.0,,0.0,0.0
+2020,18769,T. Walcott,34,England,Southampton,21.0,1629.0,3.0,,0.0,0.0
+2020,18773,C. Fuchs,37,Austria,Leicester,9.0,702.0,0.0,,4.0,0.0
+2020,18828,R. Snodgrass,36,Scotland,West Brom,8.0,527.0,0.0,,2.0,0.0
+2020,18936,R. Bertrand,34,England,Southampton,29.0,2599.0,0.0,1.0,5.0,0.0
+2020,18980,J. Izquierdo,30,Colombia,Brighton,1.0,8.0,0.0,,0.0,0.0
+2020,19098,K. Bryan,27,England,Sheffield Utd,13.0,1007.0,1.0,,1.0,0.0
+2020,19112,Kiko Casilla,37,Spain,Leeds,3.0,270.0,0.0,,0.0,0.0
+2020,19129,Pablo Hernández,38,Spain,Leeds,16.0,417.0,0.0,2.0,1.0,0.0
+2020,19148,K. Gibbs,34,England,West Brom,10.0,809.0,0.0,,1.0,1.0
+2020,19168,Thomas Henry Alex Robson-Kanu,34,Wales,West Brom,19.0,546.0,2.0,,2.0,0.0
+2020,19181,N. Taylor,33,Wales,Aston Villa,1.0,15.0,0.0,,1.0,0.0
+2020,19186,Ahmed El Mohamady,34,Egypt,Aston Villa,14.0,833.0,0.0,,2.0,0.0
+2020,90497,W. Reid,34,New Zealand,West Ham,0.0,0.0,0.0,,0.0,0.0
+2020,630,F. Delph,33,England,Everton,8.0,261.0,0.0,,1.0,0.0
+2020,888,P. Jones,31,England,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2020,2281,G. Cahill,37,England,Crystal Palace,20.0,1800.0,1.0,1.0,3.0,0.0
+2020,18759,P. Jagielka,41,England,Sheffield Utd,10.0,526.0,0.0,,1.0,1.0
+2020,18770,E. Jakupović,39,Switzerland,Leicester,0.0,0.0,0.0,,0.0,0.0
+2020,18782,M. James,33,England,Leicester,0.0,0.0,0.0,,0.0,0.0
+2020,18829,Jack Wilshere,30,England,West Ham,0.0,0.0,0.0,,0.0,0.0
+2020,18840,M. Kelly,34,England,Crystal Palace,1.0,1.0,0.0,,0.0,0.0
+2020,18882,L. Mousset,27,France,Sheffield Utd,11.0,289.0,0.0,,0.0,0.0
+2020,18922,J. Cork,35,England,Burnley,16.0,1352.0,0.0,,2.0,0.0
+2020,18975,D. Pröpper,33,Netherlands,Brighton,7.0,210.0,0.0,,0.0,0.0
+2020,18994,L. Peltier,38,England,West Brom,4.0,229.0,0.0,,1.0,0.0
+2020,19005,K. Zohorè,30,Denmark,West Brom,0.0,0.0,0.0,,0.0,0.0
+2020,19091,C. Basham,36,England,Sheffield Utd,31.0,2586.0,0.0,1.0,5.0,0.0
+2020,19126,S. Dallas,33,Northern Ireland,Leeds,38.0,3411.0,8.0,2.0,7.0,0.0
+2020,19153,G. Barry,39,England,West Brom,,,,,,
+2020,19190,H. Lansbury,33,England,Aston Villa,0.0,0.0,0.0,,0.0,0.0
+2020,19359,R. Sawyers,33,St. Kitts and Nevis,West Brom,19.0,1490.0,0.0,,2.0,0.0
+2020,21383,E. Pieters,36,Netherlands,Burnley,20.0,1261.0,0.0,1.0,1.0,0.0
+2020,264438,M. Thompson,22,England,Burnley,0.0,0.0,0.0,,0.0,0.0
+2020,114,Adrien Silva,35,Portugal,Leicester,0.0,0.0,0.0,,0.0,0.0
+2020,172,D. Alli,28,England,Tottenham,15.0,618.0,0.0,1.0,0.0,0.0
+2020,286,J. Matip,33,Cameroon,Liverpool,10.0,693.0,1.0,2.0,2.0,0.0
+2020,507,Thiago Alcântara,33,Spain,Liverpool,24.0,1857.0,1.0,,4.0,0.0
+2020,2700,A. Jahanbakhsh,31,Iran,Brighton,21.0,520.0,0.0,1.0,3.0,0.0
+2020,2991,C. Kouyaté,35,Senegal,Crystal Palace,36.0,3122.0,1.0,,4.0,0.0
+2020,18777,M. Albrighton,35,England,Leicester,31.0,1741.0,1.0,5.0,2.0,0.0
+2020,18815,R. Fredericks,32,England,West Ham,14.0,564.0,1.0,1.0,2.0,0.0
+2020,18836,W. Hennessey,37,Wales,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2020,18844,J. Tomkins,35,England,Crystal Palace,8.0,552.0,0.0,,1.0,0.0
+2020,18891,C. Clark,35,Republic of Ireland,Newcastle,22.0,1893.0,1.0,,3.0,0.0
+2020,18892,P. Dummett,33,Wales,Newcastle,15.0,1256.0,1.0,,2.0,0.0
+2020,18908,J. Hart,37,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2020,18924,J. Hendrick,32,Republic of Ireland,Newcastle,22.0,1423.0,2.0,1.0,2.0,0.0
+2020,19017,C. Christie,32,Republic of Ireland,Fulham,0.0,0.0,0.0,,0.0,0.0
+2020,19160,J. Livermore,35,England,West Brom,18.0,1248.0,0.0,,2.0,1.0
+2020,19229,D. Randolph,37,Republic of Ireland,West Ham,3.0,270.0,0.0,,0.0,0.0
+2020,19481,J. Rodwell,33,England,Sheffield Utd,0.0,0.0,0.0,,0.0,0.0
+2020,82022,O. Buur,26,Denmark,Wolves,1.0,22.0,0.0,,0.0,0.0
+2020,138806,B. Williams,24,England,Manchester United,4.0,186.0,0.0,,0.0,0.0
+2020,163,S. Aurier,32,Côte d'Ivoire,Tottenham,19.0,1609.0,2.0,3.0,0.0,0.0
+2020,190,Cédric Soares,33,Portugal,Arsenal,10.0,745.0,0.0,1.0,1.0,0.0
+2020,1450,S. Papastathopoulos,36,Greece,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2020,18763,J. McCarthy,34,Republic of Ireland,Crystal Palace,16.0,822.0,0.0,,1.0,0.0
+2020,18845,P. van Aanholt,34,Netherlands,Crystal Palace,22.0,1776.0,0.0,1.0,2.0,0.0
+2020,18857,C. Wickham,31,England,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2020,18972,A. Knockaert,33,France,Fulham,0.0,0.0,0.0,,0.0,0.0
+2020,18978,F. Andone,31,Romania,Brighton,0.0,0.0,0.0,,0.0,0.0
+2020,19011,Fabri,37,Spain,Fulham,0.0,0.0,0.0,,0.0,0.0
+2020,19018,T. Fosu-Mensah,26,Netherlands,Manchester United,1.0,81.0,0.0,,1.0,0.0
+2020,19029,K. McDonald,36,Scotland,Fulham,0.0,0.0,0.0,,0.0,0.0
+2020,19132,J. Stevens,24,England,Leeds,0.0,0.0,0.0,,0.0,0.0
+2020,19133,E. Alioski,32,North Macedonia,Leeds,36.0,2464.0,2.0,3.0,7.0,0.0
+2020,19157,R. Harper,24,England,West Brom,2.0,30.0,0.0,,0.0,0.0
+2020,19236,M. Bešić,32,Bosnia and Herzegovina,Everton,0.0,0.0,0.0,,0.0,0.0
+2020,19373,M. Hector,32,Jamaica,Fulham,4.0,264.0,0.0,,2.0,0.0
+2020,20055,N. Kirby,24,England,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2020,127605,N. Ferguson,24,England,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2020,138909,D. Langley,24,England,Newcastle,0.0,0.0,0.0,,0.0,0.0
+2020,180771,M. Goodridge,25,England,Burnley,0.0,0.0,0.0,,0.0,0.0
+2020,458,M. Diagne,33,Senegal,West Brom,16.0,1193.0,3.0,2.0,2.0,0.0
+2020,1107,F. Benković,27,Croatia,Leicester,0.0,0.0,0.0,,0.0,0.0
+2020,1452,Mohamed Elneny,32,Egypt,Arsenal,23.0,1542.0,1.0,,3.0,0.0
+2020,3421,D. Amartey,30,Ghana,Leicester,12.0,720.0,1.0,,3.0,0.0
+2020,18848,S. Woods,26,England,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2020,18852,L. Milivojević,33,Serbia,Crystal Palace,31.0,2365.0,1.0,1.0,8.0,1.0
+2020,18934,H. Lewis,27,England,Southampton,0.0,0.0,0.0,,0.0,0.0
+2020,19027,N. Kebano,32,Congo DR,Fulham,5.0,116.0,0.0,,0.0,0.0
+2020,19149,Ahmed Hegazy,33,Egypt,West Brom,1.0,90.0,0.0,,0.0,0.0
+2020,21147,A. Gomez Mancini,23,France,Burnley,0.0,0.0,0.0,,0.0,0.0
+2020,45027,R. Innis,29,England,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2020,100079,P. Gwargis,24,Sweden,Brighton,0.0,0.0,0.0,,0.0,0.0
+2020,137299,L. Richardson,21,England,Burnley,2.0,3.0,0.0,,0.0,0.0
+2020,151753,T. Jenks,22,England,Brighton,0.0,0.0,0.0,,0.0,0.0
+2020,162904,R. Williams,23,England,Liverpool,9.0,660.0,0.0,,0.0,0.0
+2020,204178,J. Mumbongo,25,Sweden,Burnley,4.0,36.0,0.0,,1.0,0.0
+2020,276086,T. Suengchitthawon,24,Thailand,Leicester,0.0,0.0,0.0,,0.0,0.0
+2020,277714,K. Gordon,22,England,Sheffield Utd,0.0,0.0,0.0,,0.0,0.0
+2020,282901,J. Jenkins,23,England,Leeds,0.0,0.0,0.0,,0.0,0.0
+2020,302844,F. Maguire,21,England,Sheffield Utd,0.0,0.0,0.0,,0.0,0.0
+2020,18033,N. Baxter,26,England,Chelsea,0.0,0.0,0.0,,0.0,0.0
+2020,18783,T. Leshabela,25,South Africa,Leicester,1.0,9.0,0.0,,0.0,0.0
+2020,18920,J. Benson,25,England,Burnley,6.0,261.0,0.0,,0.0,0.0
+2020,19188,C. Hourihane,33,Republic of Ireland,Aston Villa,4.0,227.0,1.0,1.0,0.0,0.0
+2020,19393,J. Onomah,27,England,Fulham,11.0,370.0,0.0,,1.0,0.0
+2020,19437,B. Davies,29,England,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2020,19565,J. Weir,22,England,Brighton,0.0,0.0,0.0,,0.0,0.0
+2020,20224,A. Lonergan,41,England,West Brom,0.0,0.0,0.0,,0.0,0.0
+2020,20319,N. Bishop,25,England,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2020,125705,T. Perry,23,England,Wolves,0.0,0.0,0.0,,0.0,0.0
+2020,127202,R. Nartey,26,England,Burnley,0.0,0.0,0.0,,0.0,0.0
+2020,129707,T. Francois,24,Australia,Fulham,1.0,14.0,0.0,,0.0,0.0
+2020,137301,A. Cochrane,24,England,Brighton,0.0,0.0,0.0,,0.0,0.0
+2020,138844,H. Tyrer,23,England,Everton,0.0,0.0,0.0,,0.0,0.0
+2020,180934,O. Casey,24,England,Leeds,0.0,0.0,0.0,,0.0,0.0
+2020,192348,J. Soule,24,England,West Brom,0.0,0.0,0.0,,0.0,0.0
+2020,231078,T. Gardner-Hickman,23,England,West Brom,0.0,0.0,0.0,,0.0,0.0
+2020,277715,Z. Brunt,23,England,Sheffield Utd,0.0,0.0,0.0,,0.0,0.0
+2020,283273,C. Taylor,21,England,West Brom,0.0,0.0,0.0,,0.0,0.0
+2020,284423,R. Finnigan,21,England,Southampton,0.0,0.0,0.0,,0.0,0.0
+2020,2795,G. Sigurðsson,35,Iceland,Everton,36.0,2255.0,6.0,5.0,2.0,0.0
+2020,18820,C. Coventry,24,Republic of Ireland,West Ham,0.0,0.0,0.0,,0.0,0.0
+2020,18842,M. Sakho,34,France,Crystal Palace,4.0,275.0,0.0,,0.0,0.0
+2020,18939,K. Ramsay,24,England,Southampton,0.0,0.0,0.0,,0.0,0.0
+2020,19090,G. Baldock,31,Greece,Sheffield Utd,32.0,2789.0,0.0,2.0,7.0,0.0
+2020,19105,O. Norwood,33,Northern Ireland,Sheffield Utd,32.0,2226.0,0.0,,6.0,0.0
+2020,19139,T. Roberts,25,Wales,Leeds,27.0,1338.0,1.0,2.0,3.0,0.0
+2020,19174,J. Steer,32,England,Aston Villa,0.0,0.0,0.0,,0.0,0.0
+2020,130422,D. Nlundulu,25,England,Southampton,13.0,98.0,0.0,,0.0,0.0
+2020,138793,H. White,23,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2020,138842,M. Azeez,22,England,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2020,138864,K. Chauke,21,South Africa,Southampton,0.0,0.0,0.0,,0.0,0.0
+2020,154804,M. Emmanuel,24,England,West Ham,0.0,0.0,0.0,,0.0,0.0
+2020,162441,J. Ojrzyński,21,Poland,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2020,167657,T. Onyango,21,England,Everton,0.0,0.0,0.0,,0.0,0.0
+2020,171059,J. Baptiste,21,England,West Ham,0.0,0.0,0.0,,0.0,0.0
+2020,237124,C. Watts,22,Australia,Southampton,3.0,36.0,0.0,,1.0,0.0
+2020,278069,T. King,22,England,West Brom,0.0,0.0,0.0,,0.0,0.0
+2020,278129,L. Mbete,21,England,Manchester City,0.0,0.0,0.0,,0.0,0.0
+2020,280685,N. Lonwijk,22,Netherlands,Wolves,0.0,0.0,0.0,,0.0,0.0
+2020,253,A. Areola,31,France,Fulham,36.0,3240.0,0.0,,2.0,0.0
+2020,281,C. Kelleher,26,Republic of Ireland,Liverpool,2.0,180.0,0.0,,0.0,0.0
+2020,518,M. Shabani,25,Germany,Wolves,0.0,0.0,0.0,,0.0,0.0
+2020,567,Rúben Dias,27,Portugal,Manchester City,32.0,2845.0,1.0,,4.0,0.0
+2020,671,B. Traoré,29,Burkina Faso,Aston Villa,36.0,2334.0,7.0,6.0,1.0,0.0
+2020,890,M. Rojo,34,Argentina,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2020,1485,Bruno Fernandes,30,Portugal,Manchester United,37.0,3109.0,18.0,12.0,6.0,0.0
+2020,1946,L. Trossard,30,Belgium,Brighton,35.0,2621.0,5.0,5.0,2.0,0.0
+2020,2484,Y. Mina,30,Colombia,Everton,24.0,1939.0,2.0,,2.0,0.0
+2020,2500,F. Balbuena,33,Paraguay,West Ham,14.0,1198.0,1.0,,1.0,1.0
+2020,2664,Trézéguet,30,Egypt,Aston Villa,21.0,1166.0,2.0,1.0,0.0,0.0
+2020,2724,L. Digne,31,France,Everton,30.0,2682.0,0.0,7.0,2.0,1.0
+2020,2735,P. Højbjerg,29,Denmark,Tottenham,38.0,3420.0,2.0,4.0,9.0,0.0
+2020,18931,C. Wood,33,New Zealand,Burnley,33.0,2750.0,12.0,3.0,0.0,0.0
+2020,18968,Y. Bissouma,28,Mali,Brighton,36.0,3114.0,1.0,,8.0,1.0
+2020,19088,D. Henderson,27,England,Manchester United,13.0,1124.0,0.0,,3.0,0.0
+2020,19118,L. Cooper,33,Scotland,Leeds,25.0,2187.0,1.0,,4.0,1.0
+2020,22090,W. Saliba,23,France,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2020,128384,Vitinha,24,Portugal,Wolves,19.0,511.0,0.0,1.0,0.0,0.0
+2020,284327,R. Welch,21,England,Everton,0.0,0.0,0.0,,0.0,0.0
+2020,301,B. Woodburn,25,Wales,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2020,574,F. KrovinoviÄ‡,29,Croatia,West Brom,11.0,543.0,0.0,,0.0,0.0
+2020,2758,L. KaliniÄ‡,34,Croatia,Aston Villa,0.0,0.0,0.0,,0.0,0.0
+2020,3295,P. Tau,30,South Africa,Brighton,3.0,102.0,0.0,1.0,0.0,0.0
+2020,18851,M. Meyer,29,Germany,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2020,18913,A. Glennon,25,England,Burnley,0.0,0.0,0.0,,0.0,0.0
+2020,18930,M. Vydra,32,Czechia,Burnley,28.0,1366.0,3.0,2.0,0.0,0.0
+2020,18952,C. Austin,35,England,West Brom,5.0,132.0,0.0,,0.0,0.0
+2020,18976,M. Sanders,25,England,Brighton,0.0,0.0,0.0,,0.0,0.0
+2020,19102,J. Fleck,33,Scotland,Sheffield Utd,31.0,2577.0,0.0,2.0,4.0,0.0
+2020,19108,D. McGoldrick,37,Republic of Ireland,Sheffield Utd,35.0,2402.0,8.0,1.0,7.0,0.0
+2020,19109,B. Sharp,38,England,Sheffield Utd,16.0,730.0,3.0,,1.0,0.0
+2020,19122,R. Gotts,25,England,Leeds,0.0,0.0,0.0,,0.0,0.0
+2020,20386,M. Macey,30,England,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2020,106721,K. Å½iger,23,Croatia,Chelsea,0.0,0.0,0.0,,0.0,0.0
+2020,130418,A. SÃ¸ndergaard,23,Denmark,Wolves,0.0,0.0,0.0,,0.0,0.0
+2020,152957,L. Richards,23,Republic of Ireland,Wolves,0.0,0.0,0.0,,0.0,0.0
+2020,152971,V. Campbell,23,England,Leicester,0.0,0.0,0.0,,0.0,0.0
+2020,167663,T. McGill,24,Canada,Brighton,0.0,0.0,0.0,,0.0,0.0
+2020,278076,M. Odubeko,22,Republic of Ireland,West Ham,0.0,0.0,0.0,,0.0,0.0
+2020,84,Wesley,28,Brazil,Aston Villa,3.0,14.0,0.0,,0.0,0.0
+2020,1945,M. Samatta,32,Tanzania,Aston Villa,0.0,0.0,0.0,,0.0,0.0
+2020,2727,J. LÃ¶ssl,35,Denmark,Everton,0.0,0.0,0.0,,0.0,0.0
+2020,2784,R. RÃºnarsson,29,Iceland,Arsenal,1.0,16.0,0.0,,0.0,0.0
+2020,15928,F. Alves,25,Denmark,West Ham,0.0,0.0,0.0,,0.0,0.0
+2020,18831,A. Carroll,35,England,Newcastle,18.0,382.0,1.0,,1.0,0.0
+2020,18834,A. Yarmolenko,35,Ukraine,West Ham,15.0,362.0,0.0,1.0,3.0,0.0
+2020,18958,D. Button,35,England,West Brom,1.0,90.0,0.0,,0.0,0.0
+2020,19115,B. Peacock-Farrell,28,Northern Ireland,Burnley,4.0,360.0,0.0,,0.0,0.0
+2020,19165,R. Tulloch,23,England,West Brom,0.0,0.0,0.0,,0.0,0.0
+2020,49923,A. Kamara,29,Mauritania,Fulham,11.0,310.0,0.0,,1.0,1.0
+2020,130420,J. Vokins,24,England,Southampton,1.0,66.0,0.0,,0.0,0.0
+2020,138411,L. Hughes,23,Northern Ireland,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2020,138849,K. John,23,England,Everton,0.0,0.0,0.0,,0.0,0.0
+2020,138877,R. Yapi,24,France,Brighton,0.0,0.0,0.0,,0.0,0.0
+2020,144710,R. Hannam,24,England,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2020,152975,J. Cain,23,England,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2020,199312,B. Pierrick,23,England,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2020,277716,A. Hackford,20,England,Sheffield Utd,1.0,10.0,0.0,,0.0,0.0
+2020,278111,S. Flynn,23,Republic of Ireland,Leicester,0.0,0.0,0.0,,0.0,0.0
+2020,166,J. Foyth,26,Argentina,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2020,300,G. Wijnaldum,34,Netherlands,Liverpool,38.0,2946.0,2.0,,1.0,0.0
+2020,305,D. Origi,29,Belgium,Liverpool,9.0,181.0,0.0,,0.0,0.0
+2020,935,Rodrigo,33,Spain,Leeds,26.0,1288.0,7.0,2.0,3.0,0.0
+2020,1439,Héctor Bellerín,29,Spain,Arsenal,25.0,2093.0,1.0,2.0,8.0,0.0
+2020,1578,G. Lo Celso,28,Argentina,Tottenham,18.0,949.0,1.0,1.0,5.0,0.0
+2020,1697,Pablo Fornals,28,Spain,West Ham,33.0,2583.0,5.0,4.0,3.0,0.0
+2020,2280,César Azpilicueta,35,Spain,Chelsea,26.0,2190.0,1.0,2.0,5.0,1.0
+2020,2716,R. SaÃ¯ss,34,Morocco,Wolves,27.0,2408.0,3.0,,2.0,0.0
+2020,3246,N. Pépé,29,Côte d'Ivoire,Arsenal,29.0,1612.0,10.0,1.0,1.0,1.0
+2020,18592,I. Ndiaye,24,Senegal,Sheffield Utd,1.0,11.0,0.0,,0.0,0.0
+2020,18812,Adrián,37,Spain,Liverpool,3.0,270.0,0.0,,0.0,0.0
+2020,18906,Ayoze Pérez,31,Spain,Leicester,25.0,1332.0,2.0,1.0,2.0,0.0
+2020,20557,I. Diallo,25,France,Southampton,22.0,1010.0,0.0,,3.0,0.0
+2020,41301,GonÃ§alo Cardoso,24,Portugal,West Ham,0.0,0.0,0.0,,0.0,0.0
+2020,47302,Diego Llorente,31,Spain,Leeds,15.0,1206.0,1.0,,1.0,0.0
+2020,67972,C. Gallagher,24,England,West Brom,30.0,2532.0,2.0,2.0,11.0,0.0
+2020,90494,N. Trott,26,England,West Ham,0.0,0.0,0.0,,0.0,0.0
+2020,144729,T. Harwood-Bellis,22,England,Manchester City,0.0,0.0,0.0,,0.0,0.0
+2020,162150,N. John,21,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2020,619,Eric García,23,Spain,Manchester City,6.0,380.0,0.0,,0.0,0.0
+2020,748,Dani Ceballos,28,Spain,Arsenal,25.0,1614.0,0.0,3.0,4.0,0.0
+2020,885,E. Bailly,30,Côte d'Ivoire,Manchester United,12.0,915.0,0.0,,3.0,0.0
+2020,931,Ferran Torres,24,Spain,Manchester City,24.0,1306.0,7.0,2.0,1.0,0.0
+2020,1231,V. Coufal,32,Czechia,West Ham,34.0,3055.0,0.0,7.0,3.0,0.0
+2020,1243,T. Souček,29,Czechia,West Ham,38.0,3420.0,10.0,1.0,7.0,1.0
+2020,1496,Raphinha,28,Brazil,Leeds,30.0,2363.0,6.0,9.0,3.0,0.0
+2020,1736,W. Foderingham,33,England,Sheffield Utd,0.0,0.0,0.0,,0.0,0.0
+2020,2282,A. Christensen,28,Denmark,Chelsea,17.0,1371.0,0.0,,2.0,1.0
+2020,2284,Emerson,30,Italy,Chelsea,2.0,89.0,0.0,,0.0,0.0
+2020,2285,A. Rüdiger,31,Germany,Chelsea,19.0,1710.0,1.0,,0.0,0.0
+2020,2931,T. Heaton,38,England,Aston Villa,0.0,0.0,0.0,,0.0,0.0
+2020,2997,Ł. Fabiański,39,Poland,West Ham,35.0,3150.0,0.0,,2.0,0.0
+2020,18744,M. Kilman,27,England,Wolves,18.0,1306.0,0.0,1.0,4.0,0.0
+2020,18813,A. Cresswell,35,England,West Ham,36.0,3172.0,0.0,8.0,3.0,0.0
+2020,18819,M. Antonio,34,Jamaica,West Ham,26.0,1984.0,10.0,5.0,3.0,0.0
+2020,18846,A. Wan-Bissaka,27,England,Manchester United,34.0,3060.0,2.0,4.0,3.0,0.0
+2020,18955,D. Ings,32,England,Southampton,29.0,2183.0,12.0,4.0,1.0,0.0
+2020,19428,J. Bowen,28,England,West Ham,38.0,2578.0,8.0,5.0,0.0,0.0
+2020,37724,C. Summerville,23,Netherlands,Leeds,0.0,0.0,0.0,,0.0,0.0
+2020,723,Joelinton,28,Brazil,Newcastle,31.0,1989.0,4.0,2.0,3.0,0.0
+2020,1463,J. Willock,25,England,Newcastle,14.0,980.0,8.0,,0.0,0.0
+2020,2273,Kepa,30,Spain,Chelsea,7.0,584.0,0.0,,1.0,0.0
+2020,2507,M. Almirón,30,Paraguay,Newcastle,34.0,2437.0,4.0,1.0,3.0,0.0
+2020,2806,F. Schär,33,Switzerland,Newcastle,18.0,1256.0,1.0,,4.0,1.0
+2020,2855,E. Krafth,30,Sweden,Newcastle,16.0,1290.0,1.0,,4.0,0.0
+2020,2939,C. Wilson,32,England,Newcastle,26.0,2085.0,12.0,5.0,2.0,0.0
+2020,18737,J. Ruddy,38,England,Wolves,2.0,90.0,0.0,,0.0,0.0
+2020,18778,H. Barnes,27,England,Leicester,25.0,1949.0,9.0,4.0,0.0,0.0
+2020,18886,M. Dúbravka,35,Slovakia,Newcastle,13.0,1170.0,0.0,,0.0,0.0
+2020,18894,J. Lascelles,31,England,Newcastle,19.0,1628.0,2.0,,4.0,0.0
+2020,18899,I. Hayden,29,England,Newcastle,24.0,1943.0,0.0,,8.0,0.0
+2020,18901,S. Longstaff,27,England,Newcastle,22.0,1405.0,0.0,1.0,2.0,0.0
+2020,18941,M. Targett,29,England,Aston Villa,38.0,3405.0,0.0,2.0,7.0,0.0
+2020,18961,D. Burn,32,England,Brighton,27.0,2060.0,1.0,,5.0,0.0
+2020,19163,J. Murphy,29,England,Newcastle,26.0,1621.0,2.0,3.0,3.0,0.0
+2020,44912,M. Gillespie,32,England,Newcastle,0.0,0.0,0.0,,0.0,0.0
+2020,138787,A. Gordon,23,England,Everton,3.0,87.0,0.0,,0.0,0.0
+2020,158694,T. Livramento,22,England,Chelsea,0.0,0.0,0.0,,0.0,0.0
+2020,315237,W. Osula,21,Denmark,Sheffield Utd,0.0,0.0,0.0,,0.0,0.0
+2020,104,Carlos Vinícius,29,Brazil,Tottenham,9.0,304.0,1.0,,2.0,0.0
+2020,657,K. Tete,29,Netherlands,Fulham,22.0,1483.0,0.0,1.0,3.0,0.0
+2020,727,R. Nelson,25,England,Arsenal,2.0,69.0,0.0,,0.0,0.0
+2020,899,Andreas Pereira,28,Brazil,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2020,1161,E. Smith Rowe,24,England,Arsenal,20.0,1448.0,2.0,4.0,0.0,0.0
+2020,1438,B. Leno,32,Germany,Arsenal,35.0,3132.0,0.0,,0.0,1.0
+2020,1455,A. Iwobi,28,Nigeria,Everton,30.0,1541.0,1.0,2.0,0.0,0.0
+2020,1934,S. Berge,26,Norway,Sheffield Utd,15.0,1119.0,1.0,1.0,4.0,0.0
+2020,2729,J. Andersen,28,Denmark,Fulham,31.0,2730.0,1.0,1.0,7.0,1.0
+2020,2887,R. Jiménez,33,Mexico,Wolves,10.0,825.0,4.0,,0.0,0.0
+2020,2920,T. Castagne,29,Belgium,Leicester,27.0,2346.0,2.0,3.0,1.0,0.0
+2020,18753,Adama Traoré,28,Spain,Wolves,37.0,2643.0,2.0,2.0,4.0,0.0
+2020,18814,I. Diop,27,France,West Ham,18.0,1378.0,2.0,,3.0,0.0
+2020,18917,B. Mee,35,England,Burnley,30.0,2694.0,2.0,,3.0,0.0
+2020,19025,T. Cairney,33,Scotland,Fulham,10.0,759.0,1.0,1.0,2.0,0.0
+2020,19032,R. Sessegnon,24,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2020,19480,H. Reed,29,England,Fulham,31.0,2250.0,0.0,2.0,5.0,0.0
+2020,19549,A. Robinson,27,USA,Fulham,28.0,2161.0,0.0,,4.0,1.0
+2020,36922,S. van den Berg,23,Netherlands,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2020,153066,Fábio Carvalho,22,Portugal,Fulham,4.0,255.0,1.0,,0.0,0.0
+2020,161,A. Whiteman,26,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2020,164,B. Davies,31,Wales,Tottenham,20.0,1340.0,0.0,1.0,1.0,0.0
+2020,186,Son Heung-Min,32,Korea Republic,Tottenham,37.0,3126.0,17.0,10.0,0.0,0.0
+2020,296,J. Milner,38,England,Liverpool,26.0,1061.0,0.0,1.0,3.0,0.0
+2020,739,Sergio Reguilón,28,Spain,Tottenham,27.0,2249.0,0.0,3.0,5.0,0.0
+2020,1166,T. Werner,28,Germany,Chelsea,35.0,2607.0,6.0,8.0,2.0,0.0
+2020,1469,D. Welbeck,34,England,Brighton,24.0,1546.0,6.0,1.0,0.0,0.0
+2020,2298,C. Hudson-Odoi,24,England,Chelsea,23.0,1055.0,2.0,3.0,0.0,0.0
+2020,2413,Richarlison,27,Brazil,Everton,34.0,2872.0,7.0,3.0,4.0,1.0
+2020,2771,O. Aina,28,Nigeria,Fulham,31.0,2671.0,2.0,1.0,3.0,0.0
+2020,2938,J. Ward-Prowse,30,England,Southampton,38.0,3420.0,8.0,7.0,5.0,0.0
+2020,18739,W. Boly,33,Côte d'Ivoire,Wolves,21.0,1880.0,1.0,1.0,2.0,0.0
+2020,18746,M. Gibbs-White,24,England,Wolves,11.0,410.0,1.0,,1.0,0.0
+2020,18784,J. Maddison,28,England,Leicester,31.0,2104.0,8.0,5.0,4.0,0.0
+2020,18932,F. Forster,36,England,Southampton,8.0,720.0,0.0,,0.0,0.0
+2020,18973,S. March,30,England,Brighton,21.0,1675.0,2.0,1.0,0.0,0.0
+2020,138780,N. Williams,23,Wales,Liverpool,6.0,248.0,0.0,,1.0,0.0
+2020,138908,E. Anderson,22,England,Newcastle,1.0,3.0,0.0,,0.0,0.0
+2020,153430,A. Elanga,22,Sweden,Manchester United,2.0,156.0,1.0,,0.0,0.0
+2020,156428,B. Austin,25,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2020,537,J. Veltman,32,Netherlands,Brighton,28.0,2281.0,1.0,1.0,3.0,0.0
+2020,1864,Pedro Neto,24,Portugal,Wolves,31.0,2559.0,5.0,6.0,4.0,0.0
+2020,2926,Y. Tielemans,27,Belgium,Leicester,38.0,3358.0,6.0,4.0,6.0,0.0
+2020,2933,B. Chilwell,28,England,Chelsea,27.0,2290.0,3.0,5.0,3.0,0.0
+2020,18959,Robert Sánchez,27,Spain,Brighton,27.0,2430.0,0.0,,2.0,0.0
+2020,18960,J. Steele,34,England,Brighton,0.0,0.0,0.0,,0.0,0.0
+2020,18963,L. Dunk,33,England,Brighton,33.0,2933.0,5.0,,5.0,2.0
+2020,19012,M. Bettinelli,32,England,Fulham,0.0,0.0,0.0,,0.0,0.0
+2020,19145,T. Adarabioyo,27,England,Fulham,33.0,2954.0,0.0,,1.0,0.0
+2020,19192,J. Ramsey,23,England,Aston Villa,22.0,618.0,0.0,,0.0,0.0
+2020,19265,A. Webster,29,England,Brighton,29.0,2595.0,1.0,,4.0,0.0
+2020,19366,O. Watkins,29,England,Aston Villa,37.0,3329.0,14.0,5.0,3.0,0.0
+2020,19545,R. James,25,England,Chelsea,32.0,2366.0,1.0,2.0,3.0,0.0
+2020,22094,W. Fofana,24,France,Leicester,28.0,2265.0,0.0,,7.0,0.0
+2020,116117,M. Caicedo,23,Ecuador,Brighton,0.0,0.0,0.0,,0.0,0.0
+2020,138815,T. Lamptey,24,Ghana,Brighton,11.0,891.0,1.0,1.0,3.0,0.0
+2020,138931,J. Philogene,22,England,Aston Villa,1.0,0.0,0.0,,0.0,0.0
+2020,138935,C. Chukwuemeka,21,England,Aston Villa,2.0,18.0,0.0,,0.0,0.0
+2020,148099,K. Dewsbury-Hall,26,England,Leicester,0.0,0.0,0.0,,0.0,0.0
+2020,152982,C. Palmer,22,England,Manchester City,0.0,0.0,0.0,,0.0,0.0
+2020,49,T. Partey,31,Ghana,Arsenal,24.0,1535.0,0.0,2.0,5.0,0.0
+2020,641,O. Zinchenko,28,Ukraine,Manchester City,20.0,1474.0,0.0,,0.0,0.0
+2020,643,Gabriel Jesus,27,Brazil,Manchester City,29.0,2060.0,9.0,4.0,2.0,0.0
+2020,645,R. Sterling,30,England,Manchester City,31.0,2537.0,10.0,7.0,4.0,0.0
+2020,766,R. Olsen,34,Sweden,Everton,7.0,630.0,0.0,,1.0,0.0
+2020,978,K. Havertz,25,Germany,Chelsea,27.0,1521.0,4.0,3.0,2.0,0.0
+2020,1460,B. Saka,23,England,Arsenal,32.0,2562.0,5.0,3.0,1.0,0.0
+2020,2287,R. Barkley,31,England,Aston Villa,24.0,1537.0,3.0,1.0,0.0,0.0
+2020,2289,Jorginho,33,Italy,Chelsea,28.0,2013.0,7.0,1.0,2.0,0.0
+2020,2937,D. Rice,25,England,West Ham,32.0,2880.0,2.0,1.0,2.0,0.0
+2020,19177,K. Hause,29,England,Aston Villa,7.0,630.0,1.0,,2.0,0.0
+2020,19179,T. Mings,31,England,Aston Villa,36.0,3195.0,2.0,2.0,5.0,0.0
+2020,19191,J. McGinn,30,Scotland,Aston Villa,37.0,3330.0,3.0,5.0,12.0,0.0
+2020,19298,M. Cash,27,Poland,Aston Villa,28.0,2378.0,0.0,2.0,7.0,0.0
+2020,19354,E. Konsa,27,England,Aston Villa,36.0,3195.0,2.0,,3.0,0.0
+2020,19599,E. Martínez,32,Argentina,Aston Villa,38.0,3420.0,0.0,,1.0,0.0
+2020,19959,B. White,27,England,Brighton,36.0,3195.0,0.0,,4.0,0.0
+2020,22224,Gabriel Magalhães,27,Brazil,Arsenal,23.0,1996.0,2.0,,3.0,0.0
+2020,37127,M. Ødegaard,26,Norway,Arsenal,14.0,866.0,1.0,2.0,0.0,0.0
+2020,127769,Gabriel Martinelli,23,Brazil,Arsenal,14.0,588.0,2.0,1.0,0.0,0.0
+2020,44,Rodri,28,Spain,Manchester City,34.0,2748.0,2.0,2.0,6.0,0.0
+2020,280,Alisson Becker,32,Brazil,Liverpool,33.0,2970.0,1.0,,1.0,0.0
+2020,283,T. Alexander-Arnold,26,England,Liverpool,36.0,3033.0,2.0,7.0,2.0,0.0
+2020,284,J. Gomez,27,England,Liverpool,7.0,590.0,0.0,,0.0,0.0
+2020,289,A. Robertson,30,Scotland,Liverpool,38.0,3386.0,1.0,7.0,2.0,0.0
+2020,290,V. van Dijk,33,Netherlands,Liverpool,5.0,371.0,1.0,,1.0,0.0
+2020,293,C. Jones,23,England,Liverpool,24.0,1177.0,1.0,2.0,2.0,0.0
+2020,306,Mohamed Salah,32,Egypt,Liverpool,37.0,3082.0,22.0,5.0,0.0,0.0
+2020,626,J. Stones,30,England,Manchester City,22.0,1934.0,4.0,,0.0,1.0
+2020,629,K. De Bruyne,33,Belgium,Manchester City,25.0,2001.0,6.0,12.0,1.0,0.0
+2020,631,P. Foden,24,England,Manchester City,28.0,1611.0,9.0,5.0,0.0,0.0
+2020,633,İ. Gündoğan,34,Germany,Manchester City,28.0,2031.0,13.0,2.0,1.0,0.0
+2020,636,Bernardo Silva,30,Portugal,Manchester City,26.0,2071.0,2.0,6.0,5.0,0.0
+2020,1117,K. Tierney,27,Scotland,Arsenal,27.0,2301.0,1.0,3.0,4.0,0.0
+2020,1600,K. Tsimikas,28,Greece,Liverpool,2.0,5.0,0.0,,0.0,0.0
+2020,2291,M. Kovačić,30,Croatia,Chelsea,27.0,1820.0,0.0,1.0,4.0,0.0
+2020,2678,Diogo Jota,28,Portugal,Liverpool,19.0,1112.0,9.0,,2.0,0.0
+2020,6716,A. Mac Allister,26,Argentina,Brighton,21.0,1116.0,1.0,1.0,1.0,0.0
+2020,18861,N. Aké,29,Netherlands,Manchester City,10.0,797.0,1.0,,4.0,0.0
+2020,19187,J. Grealish,29,England,Aston Villa,26.0,2184.0,6.0,10.0,6.0,0.0
+2020,158,P. Gazzaniga,32,Argentina,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2020,517,J. Rodríguez,33,Colombia,Everton,23.0,1776.0,6.0,4.0,4.0,0.0
+2020,547,D. van de Beek,27,Netherlands,Manchester United,19.0,512.0,1.0,1.0,1.0,0.0
+2020,617,Ederson,31,Brazil,Manchester City,36.0,3240.0,0.0,1.0,3.0,0.0
+2020,627,K. Walker,34,England,Manchester City,24.0,1946.0,1.0,1.0,1.0,0.0
+2020,886,Diogo Dalot,25,Portugal,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2020,891,L. Shaw,29,England,Manchester United,32.0,2655.0,1.0,5.0,8.0,0.0
+2020,1826,S. Haller,30,Côte d'Ivoire,West Ham,16.0,934.0,3.0,,0.0,0.0
+2020,2278,Marcos Alonso,34,Spain,Chelsea,13.0,960.0,2.0,,2.0,0.0
+2020,2778,K. Ịheanachọ,28,Nigeria,Leicester,25.0,1456.0,12.0,2.0,1.0,0.0
+2020,18772,J. Evans,36,Northern Ireland,Leicester,28.0,2476.0,2.0,2.0,7.0,0.0
+2020,18835,Vicente Guaita,37,Spain,Crystal Palace,37.0,3330.0,0.0,,2.0,0.0
+2020,18895,F. Lejeune,33,France,Newcastle,0.0,0.0,0.0,,0.0,0.0
+2020,18896,Javier Manquillo,30,Spain,Newcastle,13.0,826.0,0.0,,1.0,0.0
+2020,18949,Oriol Romeu,33,Spain,Southampton,21.0,1767.0,1.0,1.0,6.0,0.0
+2020,19172,Ø. Nyland,34,Norway,Aston Villa,0.0,0.0,0.0,,0.0,0.0
+2020,19197,S. Carson,39,England,Manchester City,1.0,90.0,0.0,,0.0,0.0
+2020,19337,O. McBurnie,28,Scotland,Sheffield Utd,23.0,1316.0,1.0,,2.0,0.0
+2020,47324,Sandro Ramírez,29,Spain,Everton,0.0,0.0,0.0,,0.0,0.0
+2020,129791,Fábio Silva,22,Portugal,Wolves,32.0,1352.0,4.0,3.0,2.0,0.0
+2020,130,Nélson Semedo,31,Portugal,Wolves,34.0,2988.0,1.0,1.0,5.0,0.0
+2020,171,K. Walker-Peters,27,England,Southampton,30.0,2649.0,0.0,2.0,4.0,0.0
+2020,175,E. Dier,30,England,Tottenham,28.0,2520.0,0.0,,3.0,0.0
+2020,184,H. Kane,31,England,Tottenham,35.0,3087.0,23.0,14.0,1.0,0.0
+2020,295,A. Lallana,36,England,Brighton,30.0,1588.0,1.0,1.0,0.0,0.0
+2020,889,V. Lindelöf,30,Sweden,Manchester United,29.0,2586.0,1.0,1.0,0.0,0.0
+2020,1464,G. Xhaka,32,Switzerland,Arsenal,31.0,2522.0,1.0,2.0,7.0,1.0
+2020,2935,H. Maguire,31,England,Manchester United,34.0,3048.0,2.0,1.0,11.0,0.0
+2020,2999,J. Bednarek,28,Poland,Southampton,36.0,3104.0,1.0,1.0,5.0,1.0
+2020,18873,R. Fraser,30,Scotland,Newcastle,18.0,925.0,0.0,2.0,1.0,0.0
+2020,18918,C. Taylor,31,England,Burnley,29.0,2429.0,0.0,1.0,1.0,0.0
+2020,18935,A. McCarthy,35,England,Southampton,30.0,2700.0,0.0,,2.0,0.0
+2020,18940,J. Stephens,30,England,Southampton,18.0,1538.0,0.0,,2.0,0.0
+2020,18947,M. Lemina,31,Gabon,Fulham,28.0,1704.0,1.0,,5.0,0.0
+2020,20355,A. Ramsdale,26,England,Sheffield Utd,38.0,3420.0,0.0,,1.0,0.0
+2020,21138,R. Aït-Nouri,23,Algeria,Wolves,21.0,1404.0,1.0,1.0,1.0,0.0
+2020,130421,W. Smallbone,24,Republic of Ireland,Southampton,3.0,173.0,0.0,,0.0,0.0
+2020,144732,T. Doyle,23,England,Manchester City,0.0,0.0,0.0,,0.0,0.0
+2020,149564,L. Cundle,22,England,Wolves,0.0,0.0,0.0,,0.0,0.0
+2020,231029,N. Tella,25,Nigeria,Southampton,18.0,741.0,1.0,1.0,2.0,0.0
+2020,1440,R. Holding,29,England,Arsenal,30.0,2557.0,0.0,1.0,2.0,0.0
+2020,1468,E. Nketiah,25,England,Arsenal,17.0,413.0,2.0,1.0,0.0,0.0
+2020,17597,D. O&apos;Shea,25,Republic of Ireland,West Brom,28.0,2102.0,0.0,,3.0,0.0
+2020,18742,M. Doherty,32,Republic of Ireland,Tottenham,17.0,1238.0,0.0,2.0,3.0,0.0
+2020,18823,B. Johnson,24,England,West Ham,14.0,519.0,1.0,,1.0,0.0
+2020,18843,J. Schlupp,32,Ghana,Crystal Palace,27.0,1425.0,2.0,3.0,3.0,0.0
+2020,18862,N. Clyne,33,England,Crystal Palace,13.0,1147.0,0.0,1.0,2.0,0.0
+2020,19119,L. Davis,25,England,Leeds,2.0,31.0,0.0,,0.0,0.0
+2020,19130,K. Phillips,29,England,Leeds,29.0,2430.0,1.0,2.0,10.0,0.0
+2020,19136,J. Clarke,24,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2020,19143,S. Johnstone,31,England,West Brom,37.0,3330.0,0.0,1.0,1.0,0.0
+2020,19147,C. Dawson,34,England,West Ham,22.0,1926.0,3.0,,4.0,0.0
+2020,19152,C. Townsend,31,England,West Brom,25.0,2235.0,0.0,2.0,0.0,0.0
+2020,19182,A. Tuanzebe,27,Congo DR,Manchester United,9.0,399.0,0.0,,2.0,0.0
+2020,19541,C. Walton,29,England,Brighton,0.0,0.0,0.0,,0.0,0.0
+2020,19586,E. Eze,26,England,Crystal Palace,34.0,2564.0,4.0,6.0,3.0,0.0
+2020,25927,J. Mateta,27,France,Crystal Palace,7.0,217.0,1.0,,0.0,0.0
+2020,126791,N. Broadhead,26,Wales,Everton,1.0,2.0,0.0,,0.0,0.0
+2020,161948,L. Delap,21,England,Manchester City,1.0,39.0,0.0,,0.0,0.0
+2020,182201,T. Mitchell,25,England,Crystal Palace,19.0,1710.0,1.0,1.0,1.0,0.0
+2020,182,H. Winks,28,England,Tottenham,15.0,860.0,0.0,,5.0,0.0
+2020,895,J. Garner,23,England,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2020,2932,J. Pickford,30,England,Everton,31.0,2743.0,0.0,,1.0,0.0
+2020,2934,M. Keane,31,England,Everton,35.0,2990.0,3.0,1.0,4.0,0.0
+2020,2936,J. Tarkowski,32,England,Burnley,36.0,3240.0,1.0,,6.0,0.0
+2020,3428,J. Ayew,33,Ghana,Crystal Palace,33.0,2097.0,1.0,3.0,4.0,0.0
+2020,17661,J. Branthwaite,22,England,Everton,0.0,0.0,0.0,,0.0,0.0
+2020,18755,João Virgínia,25,Portugal,Everton,1.0,47.0,0.0,,0.0,0.0
+2020,18758,S. Coleman,36,Republic of Ireland,Everton,25.0,1612.0,0.0,3.0,0.0,0.0
+2020,18766,D. Calvert-Lewin,27,England,Everton,33.0,2876.0,16.0,,3.0,0.0
+2020,18779,H. Choudhury,27,England,Leicester,10.0,313.0,0.0,,1.0,0.0
+2020,18786,W. Ndidi,28,Nigeria,Leicester,26.0,2179.0,1.0,4.0,6.0,0.0
+2020,18788,J. Vardy,37,England,Leicester,34.0,2845.0,15.0,9.0,1.0,0.0
+2020,18805,A. Doucouré,31,Mali,Everton,29.0,2452.0,2.0,3.0,6.0,0.0
+2020,18847,J. Ward,35,England,Crystal Palace,26.0,2255.0,0.0,1.0,5.0,0.0
+2020,18929,D. McNeil,25,England,Burnley,36.0,3070.0,2.0,5.0,1.0,0.0
+2020,19004,B. De Cordova-Reid,31,Jamaica,Fulham,33.0,2381.0,5.0,2.0,7.0,0.0
+2020,19128,J. Harrison,28,England,Leeds,36.0,2857.0,8.0,8.0,2.0,0.0
+2020,152969,L. Thomas,23,England,Leicester,14.0,971.0,1.0,,2.0,0.0
+2020,284500,T. Iroegbunam,21,England,West Brom,0.0,0.0,0.0,,0.0,0.0
+2020,17,C. Pulišić,26,USA,Chelsea,27.0,1735.0,4.0,2.0,2.0,0.0
+2020,877,M. Kean,24,Italy,Everton,2.0,13.0,0.0,,0.0,0.0
+2020,904,P. Pogba,31,France,Manchester United,26.0,1896.0,3.0,3.0,3.0,0.0
+2020,909,M. Rashford,27,England,Manchester United,37.0,2927.0,11.0,9.0,4.0,0.0
+2020,1454,M. Guendouzi,25,France,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2020,2292,R. Loftus-Cheek,28,England,Fulham,30.0,1912.0,1.0,,3.0,0.0
+2020,2741,M. Ryan,32,Australia,Arsenal,3.0,270.0,0.0,,0.0,0.0
+2020,18146,D. Ward,31,Wales,Leicester,0.0,0.0,0.0,,0.0,0.0
+2020,18741,C. Coady,31,England,Wolves,37.0,3304.0,1.0,,5.0,0.0
+2020,18771,Ricardo Pereira,31,Portugal,Leicester,15.0,959.0,0.0,1.0,3.0,0.0
+2020,18911,N. Pope,32,England,Burnley,32.0,2880.0,0.0,,1.0,0.0
+2020,18943,J. Vestergaard,32,Denmark,Southampton,30.0,2574.0,3.0,,3.0,1.0
+2020,19185,K. Davis,26,England,Aston Villa,15.0,264.0,1.0,1.0,0.0,0.0
+2020,19194,T. Abraham,27,England,Chelsea,22.0,1035.0,6.0,1.0,0.0,0.0
+2020,19209,F. Tomori,27,England,Chelsea,1.0,44.0,0.0,,0.0,0.0
+2020,19220,M. Mount,25,England,Chelsea,36.0,2891.0,6.0,5.0,2.0,0.0
+2020,19524,C. Adams,28,Scotland,Southampton,36.0,2675.0,9.0,5.0,1.0,0.0
+2020,19760,J. Justin,26,England,Leicester,23.0,2070.0,2.0,1.0,4.0,0.0
+2020,47522,Douglas Luiz,26,Brazil,Aston Villa,33.0,2790.0,0.0,2.0,9.0,0.0
+2020,157997,A. Diallo,22,Côte d'Ivoire,Manchester United,3.0,167.0,0.0,1.0,0.0,0.0
+2020,285,K. Hoever,22,Netherlands,Wolves,12.0,571.0,0.0,,1.0,0.0
+2020,294,N. Keïta,29,Guinea,Liverpool,10.0,524.0,0.0,,1.0,0.0
+2020,637,F. Nmecha,24,Germany,Manchester City,0.0,0.0,0.0,,0.0,0.0
+2020,882,David de Gea,34,Spain,Manchester United,26.0,2296.0,0.0,,0.0,0.0
+2020,903,S. McTominay,28,Scotland,Manchester United,32.0,2125.0,4.0,1.0,3.0,0.0
+2020,1124,O. Burke,27,Scotland,Sheffield Utd,25.0,1270.0,1.0,1.0,2.0,0.0
+2020,1442,S. Kolašinac,31,Bosnia and Herzegovina,Arsenal,1.0,90.0,0.0,,0.0,0.0
+2020,2674,Rui Patrício,36,Portugal,Wolves,37.0,3330.0,0.0,,1.0,0.0
+2020,3406,F. Anguissa,29,Cameroon,Fulham,36.0,2587.0,0.0,3.0,6.0,0.0
+2020,18767,A. Lookman,27,Nigeria,Fulham,34.0,2756.0,4.0,4.0,5.0,0.0
+2020,18881,J. King,32,Norway,Everton,11.0,137.0,0.0,,0.0,0.0
+2020,18964,Bernardo,29,Brazil,Brighton,3.0,204.0,0.0,,0.0,0.0
+2020,18970,P. Groß,33,Germany,Brighton,34.0,2482.0,3.0,8.0,3.0,0.0
+2020,19073,B. Godfrey,26,England,Everton,31.0,2683.0,0.0,2.0,4.0,0.0
+2020,26238,R. Koch,28,Germany,Leeds,17.0,1129.0,0.0,,1.0,0.0
+2020,26300,O. Kabak,24,Türkiye,Liverpool,9.0,803.0,0.0,,3.0,0.0
+2020,30731,E. Caprile,23,Italy,Leeds,0.0,0.0,0.0,,0.0,0.0
+2020,130423,B. Gilmour,23,Scotland,Chelsea,5.0,260.0,0.0,,0.0,0.0
+2020,156490,N. Nkounkou,24,France,Everton,2.0,81.0,0.0,,1.0,0.0
+2020,278392,C. Cresswell,22,England,Leeds,0.0,0.0,0.0,,0.0,0.0
+2020,628,Adrián Bernabé,23,Spain,Manchester City,0.0,0.0,0.0,,0.0,0.0
+2020,662,T. Ndombélé,28,France,Tottenham,33.0,2108.0,3.0,2.0,3.0,0.0
+2020,897,M. Greenwood,23,England,Manchester United,31.0,1825.0,7.0,2.0,2.0,0.0
+2020,902,N. Matić,36,Serbia,Manchester United,20.0,1099.0,0.0,,2.0,0.0
+2020,1101,T. Minamino,29,Japan,Southampton,10.0,717.0,2.0,,1.0,0.0
+2020,1456,A. Maitland-Niles,27,England,West Brom,15.0,1233.0,0.0,,2.0,0.0
+2020,1467,A. Lacazette,33,France,Arsenal,31.0,1930.0,13.0,2.0,3.0,0.0
+2020,1649,P. Cutrone,26,Italy,Wolves,2.0,23.0,0.0,,0.0,0.0
+2020,1914,M. Sanson,30,France,Aston Villa,9.0,291.0,0.0,,3.0,0.0
+2020,3240,J. Gbamin,29,Côte d'Ivoire,Everton,1.0,11.0,0.0,,0.0,0.0
+2020,3247,W. Zaha,32,Côte d'Ivoire,Crystal Palace,30.0,2613.0,11.0,2.0,6.0,0.0
+2020,18765,André Gomes,31,Portugal,Everton,28.0,1568.0,0.0,1.0,3.0,0.0
+2020,18785,N. Mendy,32,Senegal,Leicester,23.0,1457.0,0.0,1.0,5.0,0.0
+2020,19361,S. Benrahma,29,Algeria,West Ham,30.0,1388.0,1.0,6.0,0.0,0.0
+2020,19364,N. Maupay,28,France,Brighton,33.0,2519.0,8.0,2.0,1.0,1.0
+2020,19546,C. Kipré,28,Côte d'Ivoire,West Brom,0.0,0.0,0.0,,0.0,0.0
+2020,21636,F. Guilbert,30,France,Aston Villa,0.0,0.0,0.0,,0.0,0.0
+2020,46792,Pablo Marí,31,Spain,Arsenal,10.0,900.0,0.0,,2.0,0.0
+2020,47480,M. Salisu,25,Ghana,Southampton,12.0,841.0,0.0,,1.0,0.0
+2020,145476,R. Khadra,23,Germany,Brighton,1.0,4.0,0.0,,0.0,0.0
+2020,176,É. Lamela,32,Argentina,Tottenham,23.0,705.0,1.0,,5.0,0.0
+2020,274,E. Cavani,37,Uruguay,Manchester United,26.0,1368.0,10.0,3.0,4.0,0.0
+2020,292,J. Henderson,34,England,Liverpool,21.0,1707.0,1.0,1.0,0.0,0.0
+2020,884,S. Romero,37,Argentina,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2020,901,Juan Mata,36,Spain,Manchester United,9.0,510.0,1.0,2.0,0.0,0.0
+2020,908,A. Martial,29,France,Manchester United,22.0,1487.0,4.0,3.0,0.0,1.0
+2020,2294,Willian,36,Brazil,Arsenal,25.0,1406.0,1.0,5.0,0.0,0.0
+2020,2473,M. Lanzini,31,Argentina,West Ham,17.0,558.0,1.0,1.0,1.0,0.0
+2020,18740,Jonny,30,Spain,Wolves,7.0,501.0,0.0,,0.0,0.0
+2020,18893,F. Fernández,35,Argentina,Newcastle,24.0,2083.0,0.0,,4.0,0.0
+2020,19016,C. Chambers,29,England,Arsenal,10.0,752.0,0.0,2.0,0.0,0.0
+2020,19043,T. Kongolo,30,Netherlands,Fulham,1.0,90.0,0.0,,0.0,0.0
+2020,19097,E. Stevens,34,Republic of Ireland,Sheffield Utd,30.0,2700.0,0.0,1.0,6.0,0.0
+2020,70078,F. Pellistri,23,Uruguay,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2020,138777,T. Anjorin,23,England,Chelsea,0.0,0.0,0.0,,0.0,0.0
+2020,138786,E. Simms,23,England,Everton,0.0,0.0,0.0,,0.0,0.0
+2020,153434,W. Fish,21,England,Manchester United,1.0,0.0,0.0,,0.0,0.0
+2020,163054,S. Shoretire,20,England,Manchester United,2.0,9.0,0.0,,0.0,0.0
+2020,264437,B. Thomas,23,England,Burnley,0.0,0.0,0.0,,0.0,0.0
+2020,280687,Hugo Bueno,22,Spain,Wolves,0.0,0.0,0.0,,0.0,0.0
+2020,17670,R. Slater,25,England,Sheffield Utd,0.0,0.0,0.0,,0.0,0.0
+2020,17715,S. Alzate,26,Colombia,Brighton,15.0,897.0,1.0,,2.0,0.0
+2020,18921,R. Brady,32,Republic of Ireland,Burnley,19.0,1055.0,1.0,1.0,3.0,0.0
+2020,18927,A. Barnes,35,England,Burnley,22.0,1336.0,3.0,,4.0,0.0
+2020,18942,Y. Valery,25,Tunisia,Southampton,3.0,101.0,0.0,,0.0,0.0
+2020,19015,J. Bryan,31,England,Fulham,16.0,662.0,1.0,,2.0,0.0
+2020,19116,L. Ayling,33,England,Leeds,38.0,3400.0,0.0,,7.0,0.0
+2020,19155,K. Edwards,26,England,West Brom,5.0,113.0,0.0,,0.0,0.0
+2020,19164,M. Phillips,33,Scotland,West Brom,33.0,1828.0,2.0,1.0,1.0,0.0
+2020,19302,B. Osborn,30,England,Sheffield Utd,24.0,1605.0,1.0,,1.0,0.0
+2020,20179,D. Barlaser,27,England,Newcastle,0.0,0.0,0.0,,0.0,0.0
+2020,44809,M. Lowe,27,England,Sheffield Utd,8.0,552.0,0.0,,1.0,0.0
+2020,127472,N. Phillips,27,England,Liverpool,17.0,1454.0,1.0,1.0,2.0,0.0
+2020,137300,H. Roberts,22,England,Brighton,0.0,0.0,0.0,,0.0,0.0
+2020,149550,J. Tanganga,25,England,Tottenham,6.0,489.0,0.0,,2.0,0.0
+2020,153400,S. Greenwood,22,England,Leeds,0.0,0.0,0.0,,0.0,0.0
+2020,153411,C. Drameh,23,England,Leeds,0.0,0.0,0.0,,0.0,0.0
+2020,162552,D. Scarlett,20,England,Tottenham,1.0,0.0,0.0,,0.0,0.0
+2020,296458,D. Jebbison,21,Canada,Sheffield Utd,4.0,284.0,1.0,,0.0,0.0
+2020,298128,K. Kesler-Hayden,22,England,Aston Villa,0.0,0.0,0.0,,0.0,0.0
+2020,179,M. Sissoko,35,France,Tottenham,25.0,1575.0,0.0,,3.0,0.0
+2020,303,R. Brewster,24,England,Sheffield Utd,27.0,1124.0,0.0,,1.0,0.0
+2020,1279,J. Maja,26,Nigeria,Fulham,15.0,810.0,3.0,,0.0,0.0
+2020,2769,S. Ajayi,31,Nigeria,West Brom,33.0,2779.0,2.0,,3.0,1.0
+2020,17407,F. Seriki,22,England,Sheffield Utd,1.0,0.0,0.0,,0.0,0.0
+2020,18762,T. Davies,26,England,Everton,25.0,1424.0,0.0,1.0,3.0,0.0
+2020,18817,A. Ogbonna,36,Italy,West Ham,28.0,2493.0,3.0,,5.0,0.0
+2020,18821,G. Diangana,26,Congo DR,West Brom,20.0,1239.0,1.0,,0.0,0.0
+2020,18974,J. Molumby,25,Republic of Ireland,Brighton,1.0,0.0,0.0,,0.0,0.0
+2020,19055,K. Ahearne-Grant,27,England,West Brom,21.0,1133.0,1.0,,1.0,0.0
+2020,19131,J. Shackleton,25,England,Leeds,13.0,453.0,0.0,,0.0,0.0
+2020,19134,P. Bamford,31,England,Leeds,38.0,3062.0,17.0,7.0,3.0,0.0
+2020,19142,J. Bond,31,England,West Brom,0.0,0.0,0.0,,0.0,0.0
+2020,19146,K. Bartley,33,England,West Brom,30.0,2583.0,3.0,1.0,4.0,0.0
+2020,19150,M. Holgate,28,Jamaica,Everton,28.0,2289.0,1.0,,9.0,0.0
+2020,19294,J. Robinson,31,England,Sheffield Utd,11.0,875.0,0.0,1.0,3.0,0.0
+2020,19569,J. Gelhardt,22,England,Leeds,0.0,0.0,0.0,,0.0,0.0
+2020,19577,D. Furlong,29,England,West Brom,35.0,2931.0,1.0,3.0,5.0,0.0
+2020,284449,J. Rak-Sakyi,22,England,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2020,288065,H. Boyes,23,England,Sheffield Utd,0.0,0.0,0.0,,0.0,0.0
+2020,638,I. Poveda,24,Colombia,Leeds,14.0,341.0,0.0,,0.0,0.0
+2020,2279,E. Ampadu,24,Wales,Sheffield Utd,25.0,2090.0,0.0,,3.0,0.0
+2020,18760,J. Kenny,27,England,Everton,4.0,76.0,0.0,,0.0,0.0
+2020,18948,N. Redmond,30,England,Southampton,29.0,1731.0,2.0,3.0,1.0,0.0
+2020,19089,S. Moore,34,England,Sheffield Utd,0.0,0.0,0.0,,0.0,0.0
+2020,19093,J. Egan,32,Republic of Ireland,Sheffield Utd,31.0,2630.0,0.0,1.0,7.0,1.0
+2020,19169,J. Rodríguez,35,England,Burnley,31.0,1254.0,1.0,2.0,3.0,0.0
+2020,19201,J. Bogle,24,England,Sheffield Utd,16.0,1109.0,2.0,,2.0,0.0
+2020,19268,J. Brownhill,29,England,Burnley,33.0,2816.0,0.0,1.0,2.0,0.0
+2020,19321,J. Rodon,27,Wales,Tottenham,12.0,729.0,0.0,,0.0,0.0
+2020,19329,D. James,27,Wales,Manchester United,15.0,913.0,3.0,1.0,3.0,0.0
+2020,19772,A. Connolly,24,Republic of Ireland,Brighton,17.0,791.0,2.0,1.0,0.0,0.0
+2020,19827,J. Cullen,28,Republic of Ireland,West Ham,0.0,0.0,0.0,,0.0,0.0
+2020,20619,I. Meslier,24,France,Leeds,35.0,3150.0,0.0,,0.0,0.0
+2020,64003,P. Struijk,25,Netherlands,Leeds,27.0,2074.0,1.0,,3.0,0.0
+2020,141133,A. Alese,23,England,West Ham,0.0,0.0,0.0,,0.0,0.0
+2020,162076,D. Cirkin,22,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2020,162489,J. Trafford,22,England,Manchester City,0.0,0.0,0.0,,0.0,0.0
+2020,169282,N. Huggins,24,Wales,Leeds,1.0,37.0,0.0,,0.0,0.0
+2020,180560,H. Mejbri,21,Tunisia,Manchester United,1.0,8.0,0.0,,0.0,0.0
+2020,76,M. Nakamba,30,Zimbabwe,Aston Villa,13.0,749.0,0.0,,3.0,0.0
+2020,178,Lucas Moura,32,Brazil,Tottenham,30.0,1401.0,3.0,4.0,1.0,0.0
+2020,623,B. Mendy,30,France,Manchester City,13.0,955.0,2.0,1.0,2.0,0.0
+2020,632,C. Gomes,24,France,Manchester City,0.0,0.0,0.0,,0.0,0.0
+2020,900,J. Lingard,32,England,West Ham,16.0,1426.0,9.0,,3.0,0.0
+2020,18736,W. Norris,31,England,Burnley,2.0,180.0,0.0,,0.0,0.0
+2020,18885,K. Darlow,34,Wales,Newcastle,25.0,2250.0,0.0,,3.0,0.0
+2020,18903,M. Ritchie,35,Scotland,Newcastle,18.0,1352.0,0.0,2.0,2.0,0.0
+2020,18957,M. Obafemi,24,Republic of Ireland,Southampton,4.0,57.0,0.0,,0.0,0.0
+2020,19127,A. Forshaw,33,England,Leeds,0.0,0.0,0.0,,0.0,0.0
+2020,19156,S. Field,26,England,West Brom,3.0,59.0,0.0,,0.0,0.0
+2020,19195,A. El Ghazi,29,Netherlands,Aston Villa,28.0,1614.0,10.0,,2.0,0.0
+2020,19462,C. Robinson,29,Republic of Ireland,West Brom,28.0,1567.0,5.0,,0.0,0.0
+2020,19886,J. Dunne,27,Republic of Ireland,Burnley,3.0,270.0,1.0,,1.0,0.0
+2020,19955,J. Knight,27,England,Leicester,0.0,0.0,0.0,,0.0,0.0
+2020,50237,H. Saivet,34,Senegal,Newcastle,0.0,0.0,0.0,,0.0,0.0
+2020,153429,T. Mengi,22,England,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2020,171058,H. Ashby,23,Scotland,West Ham,0.0,0.0,0.0,,0.0,0.0
+2020,231065,A. Tchaptchet,23,France,Southampton,1.0,12.0,0.0,,0.0,0.0
+2020,280688,T. Corbeanu,22,Canada,Wolves,1.0,8.0,0.0,,0.0,0.0
+2020,159,H. Lloris,38,France,Tottenham,38.0,3420.0,0.0,,0.0,0.0
+2020,259,Thiago Silva,40,Brazil,Chelsea,23.0,1938.0,2.0,,4.0,0.0
+2020,326,Allan,33,Brazil,Everton,24.0,2052.0,0.0,,6.0,0.0
+2020,378,Alex Telles,32,Brazil,Manchester United,9.0,692.0,0.0,2.0,0.0,0.0
+2020,640,Fernandinho,39,Brazil,Manchester City,21.0,1181.0,0.0,2.0,6.0,0.0
+2020,652,Marçal,35,Brazil,Wolves,13.0,621.0,0.0,,2.0,0.0
+2020,1432,Y. Bolasie,35,Congo DR,Everton,0.0,0.0,0.0,,0.0,0.0
+2020,2283,David Luiz,37,Brazil,Arsenal,20.0,1397.0,1.0,,1.0,1.0
+2020,2295,O. Giroud,38,France,Chelsea,17.0,746.0,4.0,,1.0,0.0
+2020,2412,Felipe Anderson,31,Brazil,West Ham,2.0,1.0,0.0,,0.0,0.0
+2020,2584,L. Campana,24,Ecuador,Wolves,0.0,0.0,0.0,,0.0,0.0
+2020,18751,Ivan Cavaleiro,31,Angola,Fulham,36.0,2474.0,3.0,,2.0,0.0
+2020,18761,Bernard,32,Brazil,Everton,12.0,448.0,1.0,,2.0,0.0
+2020,18915,K. Long,34,Republic of Ireland,Burnley,8.0,636.0,0.0,,2.0,0.0
+2020,18945,S. Armstrong,32,Scotland,Southampton,33.0,2774.0,4.0,5.0,3.0,0.0
+2020,19076,J. Lewis,26,Northern Ireland,Newcastle,24.0,1834.0,0.0,1.0,4.0,0.0
+2020,19125,M. Bogusz,23,Poland,Leeds,0.0,0.0,0.0,,0.0,0.0
+2020,25618,Matheus Pereira,28,Brazil,West Brom,33.0,2582.0,11.0,6.0,2.0,1.0
+2020,50828,Z. Steffen,29,USA,Manchester City,1.0,90.0,0.0,,0.0,0.0
+2020,130419,M. Longstaff,24,England,Newcastle,5.0,377.0,0.0,,0.0,0.0
+2020,244,S. Bergwijn,27,Netherlands,Tottenham,21.0,1211.0,1.0,3.0,3.0,0.0
+2020,299,Fabinho,31,Brazil,Liverpool,30.0,2565.0,0.0,,6.0,0.0
+2020,304,S. Mané,32,Senegal,Liverpool,35.0,2812.0,11.0,7.0,3.0,0.0
+2020,622,Aymeric Laporte,30,Spain,Manchester City,16.0,1342.0,0.0,,1.0,0.0
+2020,855,João Cancelo,30,Portugal,Manchester City,28.0,2302.0,2.0,3.0,5.0,1.0
+2020,1605,Daniel Podence,29,Portugal,Wolves,24.0,1679.0,3.0,2.0,3.0,0.0
+2020,2290,N. Kanté,33,France,Chelsea,30.0,2145.0,0.0,2.0,7.0,0.0
+2020,2676,Rúben Neves,27,Portugal,Wolves,36.0,2680.0,5.0,1.0,8.0,0.0
+2020,2825,A. Mitrović,30,Serbia,Fulham,27.0,1389.0,3.0,3.0,3.0,0.0
+2020,2928,C. Benteke,34,Belgium,Crystal Palace,30.0,1818.0,10.0,1.0,2.0,0.0
+2020,3008,M. Klich,34,Poland,Leeds,35.0,2399.0,4.0,5.0,6.0,0.0
+2020,18752,Hélder Costa,30,Angola,Leeds,22.0,1155.0,3.0,3.0,0.0,0.0
+2020,18832,Xande Silva,27,Portugal,West Ham,0.0,0.0,0.0,,0.0,0.0
+2020,18897,D. Yedlin,31,USA,Newcastle,6.0,437.0,0.0,,0.0,0.0
+2020,18926,A. Westwood,34,England,Burnley,38.0,3411.0,3.0,3.0,7.0,0.0
+2020,19023,T. Ream,37,USA,Fulham,7.0,630.0,0.0,,0.0,0.0
+2020,40911,J. Moder,25,Poland,Brighton,0.0,0.0,0.0,,0.0,0.0
+2020,47319,Willian José,33,Brazil,Wolves,17.0,1114.0,1.0,,0.0,0.0
+2020,125618,M. Karbownik,23,Poland,Brighton,0.0,0.0,0.0,,0.0,0.0
+2020,153506,I. Vassilev,23,USA,Aston Villa,0.0,0.0,0.0,,0.0,0.0
+2020,168,D. Sánchez,28,Colombia,Tottenham,18.0,1486.0,0.0,,1.0,0.0
+2020,297,A. Oxlade-Chamberlain,31,England,Liverpool,13.0,243.0,1.0,1.0,0.0,0.0
+2020,548,H. Ziyech,31,Morocco,Chelsea,23.0,1179.0,2.0,3.0,3.0,0.0
+2020,569,Gedson Fernandes,25,Portugal,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2020,624,N. Otamendi,36,Argentina,Manchester City,0.0,0.0,0.0,,0.0,0.0
+2020,785,C. Ünder,27,Türkiye,Leicester,9.0,273.0,0.0,2.0,0.0,0.0
+2020,892,C. Smalling,35,England,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2020,905,Fred,31,Brazil,Manchester United,30.0,2396.0,1.0,,5.0,0.0
+2020,1462,L. Torreira,28,Uruguay,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2020,2677,João Moutinho,38,Portugal,Wolves,33.0,2533.0,1.0,1.0,4.0,0.0
+2020,2927,M. Batshuayi,31,Belgium,Crystal Palace,18.0,722.0,2.0,1.0,0.0,0.0
+2020,3243,J. Seri,33,Côte d'Ivoire,Fulham,0.0,0.0,0.0,,0.0,0.0
+2020,12975,O. Ighalo,35,Nigeria,Manchester United,1.0,9.0,0.0,,0.0,0.0
+2020,18768,C. Tosun,33,Türkiye,Everton,5.0,43.0,0.0,,1.0,0.0
+2020,18776,Ç. Söyüncü,28,Türkiye,Leicester,23.0,1815.0,1.0,,2.0,0.0
+2020,18816,A. Masuaku,31,Congo DR,West Ham,12.0,1011.0,0.0,2.0,2.0,0.0
+2020,18904,J. Shelvey,32,England,Newcastle,30.0,2617.0,1.0,3.0,7.0,0.0
+2020,18979,V. Gyökeres,26,Sweden,Brighton,0.0,0.0,0.0,,0.0,0.0
+2020,22173,A. Saint-Maximin,27,France,Newcastle,25.0,1568.0,3.0,4.0,0.0,0.0
+2020,231081,Sidnei Tavares,23,Portugal,Leicester,2.0,85.0,0.0,,0.0,0.0
+2020,302,Roberto Firmino,33,Brazil,Liverpool,36.0,2852.0,9.0,7.0,2.0,0.0
+2020,635,R. Mahrez,33,Algeria,Manchester City,27.0,1955.0,9.0,6.0,0.0,0.0
+2020,1465,P. Aubameyang,35,Gabon,Arsenal,29.0,2337.0,10.0,3.0,2.0,0.0
+2020,2114,M. Djenepo,26,Mali,Southampton,27.0,1239.0,1.0,,5.0,0.0
+2020,2726,K. Zouma,30,France,Chelsea,24.0,2027.0,5.0,,3.0,0.0
+2020,2790,J. Guðmunds­son,34,Iceland,Burnley,22.0,1368.0,2.0,,2.0,0.0
+2020,2922,L. Dendoncker,29,Belgium,Wolves,33.0,2501.0,1.0,,4.0,0.0
+2020,2925,D. Praet,30,Belgium,Leicester,15.0,723.0,1.0,1.0,0.0,0.0
+2020,2986,É. Mendy,32,Senegal,Chelsea,31.0,2746.0,0.0,,2.0,0.0
+2020,8924,M. Verrips,28,Netherlands,Sheffield Utd,0.0,0.0,0.0,,0.0,0.0
+2020,18780,R. Ghezzal,32,Algeria,Leicester,0.0,0.0,0.0,,0.0,0.0
+2020,18781,D. Gray,28,Jamaica,Leicester,1.0,18.0,0.0,,0.0,0.0
+2020,18854,A. Townsend,33,England,Crystal Palace,34.0,2258.0,1.0,5.0,0.0,0.0
+2020,18905,Y. Muto,32,Japan,Newcastle,0.0,0.0,0.0,,0.0,0.0
+2020,19104,J. Lundstram,30,England,Sheffield Utd,28.0,2032.0,0.0,2.0,8.0,1.0
+2020,19657,M. Rodák,28,Slovakia,Fulham,2.0,180.0,0.0,,0.0,0.0
+2020,47443,O. Yokuşlu,30,Türkiye,West Brom,16.0,1319.0,0.0,1.0,4.0,0.0
+2020,48649,A. Zeqiri,25,Switzerland,Brighton,9.0,163.0,0.0,,0.0,0.0
+2020,273757,A. Devine,20,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2020,284267,I. Price,21,Northern Ireland,Everton,0.0,0.0,0.0,,0.0,0.0
+2020,162,T. Alderweireld,35,Belgium,Tottenham,25.0,2241.0,1.0,,2.0,0.0
+2020,307,X. Shaqiri,33,Switzerland,Liverpool,14.0,552.0,0.0,2.0,2.0,0.0
+2020,2728,K. Schmeichel,38,Denmark,Leicester,38.0,3420.0,0.0,,0.0,0.0
+2020,3012,K. Grosicki,36,Poland,West Brom,3.0,149.0,0.0,1.0,0.0,0.0
+2020,18745,Rúben Vinagre,25,Portugal,Wolves,2.0,172.0,0.0,,0.0,0.0
+2020,18853,J. Riedewald,28,Netherlands,Crystal Palace,33.0,1816.0,2.0,,4.0,0.0
+2020,19022,D. Odoi,36,Ghana,Fulham,3.0,270.0,0.0,,1.0,0.0
+2020,19121,B. Douglas,35,Scotland,Leeds,0.0,0.0,0.0,,0.0,0.0
+2020,19159,S. Johansen,33,Norway,Fulham,0.0,0.0,0.0,,0.0,0.0
+2020,19166,D. Gayle,35,England,Newcastle,18.0,504.0,1.0,1.0,0.0,0.0
+2020,19314,C. Carter-Vickers,27,USA,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2020,19550,B. Baningime,26,Congo DR,Everton,0.0,0.0,0.0,,0.0,0.0
+2020,21999,B. Engels,30,Belgium,Aston Villa,0.0,0.0,0.0,,0.0,0.0
+2020,50101,F. Diabaté,29,Mali,Leicester,0.0,0.0,0.0,,0.0,0.0
+2020,105239,J. Jach,30,Poland,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2020,138850,R. Astley,23,Wales,Everton,0.0,0.0,0.0,,0.0,0.0
+2020,152964,Christian Marques,21,Portugal,Wolves,0.0,0.0,0.0,,0.0,0.0
+2020,152974,B. Koumetio,22,France,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2020,153417,S. Jasper,23,Bulgaria,Fulham,0.0,0.0,0.0,,0.0,0.0
+2020,204042,W. Ferry,24,Republic of Ireland,Southampton,0.0,0.0,0.0,,0.0,0.0
+2020,1374,I. Slimani,36,Algeria,Leicester,1.0,19.0,0.0,,0.0,0.0
+2020,2930,J. Butland,31,England,Crystal Palace,1.0,90.0,0.0,,0.0,0.0
+2020,151754,L. Clarkson,23,England,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2020,153403,A. Jankewitz,23,Switzerland,Southampton,2.0,3.0,0.0,,0.0,1.0
+2020,278116,T. Maswanhise,22,Zimbabwe,Leicester,0.0,0.0,0.0,,0.0,0.0

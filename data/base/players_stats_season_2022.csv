@@ -1,0 +1,883 @@
+season,player_id,player_name,age,nationality,team,games_played,minutes,goals,assists,yellow_cards,red_cards
+2022,623,B. Mendy,28.0,France,Manchester City,,,,,,
+2022,630,F. Delph,33.0,England,Everton,,,,,,
+2022,883,Lee Grant,39.0,England,Manchester United,,,,,,
+2022,2281,Gary Cahill,37.0,England,Bournemouth,,,,,,
+2022,2288,Daniel Noel Drinkwater,32.0,England,Chelsea,,,,,,
+2022,18826,Mark Noble,35.0,England,West Ham,,,,,,
+2022,158696,F. Burns,19.0,England,Manchester City,,,,,,
+2022,162517,L. Dendoncker,21.0,Belgium,Brighton,,,,,,
+2022,283289,A. Raikhy,20.0,England,Aston Villa,,,,,,
+2022,284247,H. Blair,19.0,England,Liverpool,,,,,,
+2022,284464,M. Cadogan,18.0,England,Crystal Palace,,,,,,
+2022,288115,James Storer,,England,Wolves,,,,,,
+2022,291022,Joshua Keeley,19.0,Republic of Ireland,Tottenham,,,,,,
+2022,293162,J. Raymond,19.0,England,Crystal Palace,,,,,,
+2022,293167,J. Sheridan,19.0,England,Crystal Palace,,,,,,
+2022,305732,T. Wilson-Brown,18.0,England,Leicester,,,,,,
+2022,328101,T. Fredricson,17.0,England,Manchester United,,,,,,
+2022,344908,M. Vigor,18.0,England,Crystal Palace,,,,,,
+2022,350590,T. Gidaree,19.0,England,Bournemouth,,,,,,
+2022,350627,J. Addae,,England,Crystal Palace,,,,,,
+2022,1093,E. Mwepu,24.0,Zambia,Brighton,6.0,211.0,0.0,1.0,0.0,0.0
+2022,2275,W. Caballero,42.0,Argentina,Southampton,0.0,0.0,0.0,,0.0,0.0
+2022,18849,J. McArthur,36.0,Scotland,Crystal Palace,4.0,51.0,0.0,,0.0,0.0
+2022,18878,J. Stanislas,34.0,England,Bournemouth,4.0,57.0,0.0,,0.0,0.0
+2022,19308,L. Grabban,34.0,England,Nottingham Forest,,,,,,
+2022,162114,D. Rankine,21.0,England,Chelsea,,,,,,
+2022,162607,M. Muir,21.0,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2022,180866,Marcelo,20.0,Brazil,Liverpool,,,,,,
+2022,181796,J. Brooking,21.0,England,Chelsea,,,,,,
+2022,196000,B. Genesini,22.0,England,Bournemouth,,,,,,
+2022,284253,D. Corness,19.0,England,Liverpool,,,,,,
+2022,284362,B. Hardley,20.0,Netherlands,Manchester United,,,,,,
+2022,284391,S. Murray,18.0,England,Manchester United,,,,,,
+2022,284405,B. Elliott,21.0,England,Chelsea,,,,,,
+2022,284459,M. Mothersille,20.0,England,Chelsea,,,,,,
+2022,284539,H. Graczyk,19.0,England,Arsenal,,,,,,
+2022,284557,Z. Monlouis,19.0,England,Arsenal,,,,,,
+2022,286764,Kaide Gordon,19.0,England,Liverpool,,,,,,
+2022,313245,M. Lewis-Skelly,16.0,England,Arsenal,,,,,,
+2022,325686,N. van Haveren,20.0,Netherlands,Vitesse,0.0,0.0,0.0,,0.0,0.0
+2022,172,D. Alli,28.0,England,Everton,2.0,38.0,0.0,,0.0,0.0
+2022,888,P. Jones,31.0,England,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2022,1003,T. Domgjoni,26.0,Kosovo,Vitesse,0.0,0.0,0.0,,0.0,0.0
+2022,2699,S. Ghoddos,31.0,Iran,Brentford,15.0,125.0,0.0,,0.0,0.0
+2022,18769,T. Walcott,34.0,England,Southampton,20.0,1134.0,2.0,2.0,1.0,0.0
+2022,18770,E. Jakupović,39.0,Switzerland,Everton,0.0,0.0,0.0,,0.0,0.0
+2022,18777,M. Albrighton,35.0,England,Leicester,6.0,233.0,1.0,,0.0,0.0
+2022,18815,R. Fredericks,32.0,England,Bournemouth,12.0,530.0,0.0,,1.0,0.0
+2022,18844,J. Tomkins,35.0,England,Crystal Palace,6.0,336.0,1.0,,2.0,0.0
+2022,18936,R. Bertrand,34.0,England,Leicester,0.0,0.0,0.0,,0.0,0.0
+2022,18985,A. Smithies,34.0,England,Leicester,0.0,0.0,0.0,,0.0,0.0
+2022,18996,H. Arter,34.0,Republic of Ireland,Nottingham Forest,0.0,0.0,0.0,,0.0,0.0
+2022,19126,S. Dallas,33.0,Northern Ireland,Leeds,0.0,0.0,0.0,,0.0,0.0
+2022,19173,M. Šarkić,27.0,Montenegro,Wolves,0.0,0.0,0.0,,0.0,0.0
+2022,19229,D. Randolph,37.0,Republic of Ireland,Bournemouth,0.0,0.0,0.0,,0.0,0.0
+2022,66240,T. Hájek,33.0,Czechia,Vitesse,0.0,0.0,0.0,,0.0,0.0
+2022,138806,B. Williams,24.0,England,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2022,181822,E. Wady,21.0,USA,Chelsea,0.0,0.0,0.0,,0.0,0.0
+2022,192349,G. Shelvey,23.0,England,Nottingham Forest,0.0,0.0,0.0,,0.0,0.0
+2022,342054,R. Flamingo,22.0,Netherlands,Vitesse,0.0,0.0,0.0,,0.0,0.0
+2022,163,S. Aurier,32.0,Côte d'Ivoire,Nottingham Forest,24.0,1947.0,1.0,,2.0,0.0
+2022,190,Cédric Soares,33.0,Portugal,Fulham,6.0,195.0,0.0,,0.0,0.0
+2022,263,L. Kurzawa,32.0,France,Fulham,3.0,135.0,0.0,,1.0,0.0
+2022,286,J. Matip,33.0,Cameroon,Liverpool,14.0,1092.0,1.0,,3.0,0.0
+2022,371,Felipe,35.0,Brazil,Nottingham Forest,16.0,1419.0,0.0,1.0,4.0,0.0
+2022,507,Thiago Alcântara,33.0,Spain,Liverpool,18.0,1254.0,0.0,,2.0,0.0
+2022,731,K. Navas,38.0,Costa Rica,Nottingham Forest,17.0,1530.0,0.0,,2.0,0.0
+2022,1972,L. Karius,31.0,Germany,Newcastle,0.0,0.0,0.0,,0.0,0.0
+2022,2991,C. Kouyaté,35.0,Senegal,Nottingham Forest,21.0,879.0,1.0,,3.0,0.0
+2022,18836,W. Hennessey,37.0,Wales,Nottingham Forest,4.0,270.0,0.0,,0.0,0.0
+2022,18892,P. Dummett,33.0,Wales,Newcastle,0.0,0.0,0.0,,0.0,0.0
+2022,18972,A. Knockaert,33.0,France,Fulham,0.0,0.0,0.0,,0.0,0.0
+2022,18978,F. Andone,31.0,Romania,Brighton,0.0,0.0,0.0,,0.0,0.0
+2022,127605,N. Ferguson,24.0,England,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2022,278240,H. Christy,21.0,England,Leeds,0.0,0.0,0.0,,0.0,0.0
+2022,284540,Mauro Bandeira,21.0,Portugal,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2022,288121,L. D&apos;Auria-Henry,22.0,England,Fulham,0.0,0.0,0.0,,0.0,0.0
+2022,382163,O. Bevan,21.0,Wales,Bournemouth,1.0,8.0,0.0,,0.0,0.0
+2022,382166,C. Plain,23.0,England,Bournemouth,0.0,0.0,0.0,,0.0,0.0
+2022,382930,F. Okoh,20.0,England,Bournemouth,0.0,0.0,0.0,,0.0,0.0
+2022,742,R. Varane,31.0,France,Manchester United,24.0,1915.0,0.0,,1.0,0.0
+2022,1452,Mohamed Elneny,32.0,Egypt,Arsenal,5.0,109.0,0.0,,0.0,0.0
+2022,3421,D. Amartey,30.0,Ghana,Leicester,20.0,1610.0,0.0,,1.0,0.0
+2022,18852,L. Milivojević,33.0,Serbia,Crystal Palace,18.0,503.0,0.0,,2.0,0.0
+2022,19027,N. Kebano,32.0,Congo DR,Fulham,17.0,764.0,0.0,3.0,0.0,0.0
+2022,144733,B. Knight,22.0,England,Manchester City,0.0,0.0,0.0,,0.0,0.0
+2022,153261,N. Young-Coombes,21.0,England,Brentford,0.0,0.0,0.0,,0.0,0.0
+2022,162904,R. Williams,23.0,England,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2022,174174,T. Ablade,23.0,Finland,Fulham,0.0,0.0,0.0,,0.0,0.0
+2022,273760,A. Miller,22.0,England,Leeds,0.0,0.0,0.0,,0.0,0.0
+2022,278235,K. Moore,21.0,England,Leeds,0.0,0.0,0.0,,0.0,0.0
+2022,278242,J. Chilokoa-Mullen,20.0,Scotland,Leeds,0.0,0.0,0.0,,0.0,0.0
+2022,284390,J. Wright,20.0,England,Aston Villa,0.0,0.0,0.0,,0.0,0.0
+2022,284409,D. Mubama,20.0,England,West Ham,3.0,35.0,0.0,,0.0,0.0
+2022,288106,Marc Jurado,20.0,Spain,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2022,289608,J. Snowdon,20.0,England,Leeds,0.0,0.0,0.0,,0.0,0.0
+2022,296085,Diogo Monteiro,19.0,Portugal,Leeds,0.0,0.0,0.0,,0.0,0.0
+2022,331009,C. Sayers,20.0,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2022,382170,M. Kinsey,19.0,England,Bournemouth,0.0,0.0,0.0,,0.0,0.0
+2022,390769,Michael Dacosta,19.0,Spain,Bournemouth,0.0,0.0,0.0,,0.0,0.0
+2022,19393,J. Onomah,27.0,England,Fulham,2.0,13.0,0.0,,0.0,0.0
+2022,20319,N. Bishop,25.0,England,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2022,144720,K. Appiah-Forson,23.0,England,West Ham,0.0,0.0,0.0,,0.0,0.0
+2022,154800,M. Fagan-Walcott,22.0,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2022,162493,M. Craig,21.0,Scotland,Tottenham,1.0,13.0,0.0,,0.0,0.0
+2022,191971,J. Stansfield,22.0,England,Fulham,3.0,86.0,0.0,,0.0,0.0
+2022,284418,K. Cesay,22.0,Sierra Leone,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2022,284475,L. Harris,19.0,Wales,Fulham,3.0,10.0,0.0,,0.0,0.0
+2022,284551,J. Wells-Morrison,20.0,England,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2022,284556,T. O&apos;Reilly,21.0,England,Aston Villa,0.0,0.0,0.0,,0.0,0.0
+2022,290962,B. Greenwood,22.0,Republic of Ireland,Bournemouth,0.0,0.0,0.0,,0.0,0.0
+2022,296121,J. Hinchy,21.0,England,Brighton,0.0,0.0,0.0,,0.0,0.0
+2022,303460,D. Ballard,19.0,England,Southampton,2.0,24.0,0.0,,0.0,0.0
+2022,325967,O. Hammond,22.0,Wales,Nottingham Forest,0.0,0.0,0.0,,0.0,0.0
+2022,334725,D. Sadi,21.0,England,Bournemouth,0.0,0.0,0.0,,0.0,0.0
+2022,337929,G. Abbott,19.0,England,Tottenham,1.0,0.0,0.0,,0.0,0.0
+2022,347066,E. Pollock,22.0,England,Bournemouth,0.0,0.0,0.0,,0.0,0.0
+2022,378868,C. McFarlane,21.0,England,Fulham,0.0,0.0,0.0,,0.0,0.0
+2022,382160,D. Adu-Adjei,19.0,England,Bournemouth,0.0,0.0,0.0,,0.0,0.0
+2022,382167,J. Wadham,21.0,England,Bournemouth,0.0,0.0,0.0,,0.0,0.0
+2022,17772,C. Goode,29.0,England,Brentford,0.0,0.0,0.0,,0.0,0.0
+2022,18820,C. Coventry,24.0,Republic of Ireland,West Ham,1.0,0.0,0.0,,0.0,0.0
+2022,19174,J. Steer,32.0,England,Aston Villa,0.0,0.0,0.0,,0.0,0.0
+2022,19831,T. Fosu,29.0,Ghana,Brentford,0.0,0.0,0.0,,0.0,0.0
+2022,20224,A. Lonergan,41.0,England,Everton,0.0,0.0,0.0,,0.0,0.0
+2022,68127,K. Watts,25.0,England,Newcastle,0.0,0.0,0.0,,0.0,0.0
+2022,135525,C. Ramsay,21.0,Scotland,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2022,138793,H. White,23.0,England,Tottenham,1.0,4.0,0.0,,0.0,0.0
+2022,153420,G. Wickens,23.0,England,Fulham,0.0,0.0,0.0,,0.0,0.0
+2022,167658,M. Smith,24.0,England,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2022,204033,J. Hodge,22.0,Republic of Ireland,Wolves,6.0,172.0,0.0,,1.0,0.0
+2022,278129,L. Mbete,21.0,England,Manchester City,0.0,0.0,0.0,,0.0,0.0
+2022,282254,O. Offiah,22.0,England,Brighton,2.0,23.0,0.0,,0.0,0.0
+2022,284286,I. Mabaya,20.0,Zimbabwe,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2022,284366,L. Chambers,20.0,England,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2022,284423,R. Finnigan,21.0,England,Southampton,0.0,0.0,0.0,,0.0,0.0
+2022,284470,M. Dibley-Dias,21.0,New Zealand,Fulham,0.0,0.0,0.0,,0.0,0.0
+2022,284474,M. Olakigbe,20.0,England,Brentford,0.0,0.0,0.0,,0.0,0.0
+2022,284493,T. Adaramola,21.0,Republic of Ireland,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2022,339138,D. Taylor,21.0,Northern Ireland,Nottingham Forest,0.0,0.0,0.0,,0.0,0.0
+2022,129707,T. Francois,24.0,Australia,Fulham,1.0,0.0,0.0,,0.0,0.0
+2022,144709,J. Anang,24.0,England,West Ham,0.0,0.0,0.0,,0.0,0.0
+2022,144741,L. Moulden,22.0,England,Wolves,0.0,0.0,0.0,,0.0,0.0
+2022,152976,T. Hill,22.0,Wales,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2022,152979,J. Norris,21.0,England,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2022,171059,J. Baptiste,21.0,England,West Ham,0.0,0.0,0.0,,0.0,0.0
+2022,191337,T. Crama,23.0,France,Brentford,0.0,0.0,0.0,,0.0,0.0
+2022,274550,H. Vale,21.0,England,Chelsea,0.0,0.0,0.0,,0.0,0.0
+2022,284059,L. Plange,22.0,England,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2022,284186,S. McAllister,22.0,Northern Ireland,Everton,0.0,0.0,0.0,,0.0,0.0
+2022,284187,S. Mills,21.0,England,Everton,0.0,0.0,0.0,,0.0,0.0
+2022,284396,J. Wormleighton,21.0,England,Leicester,0.0,0.0,0.0,,0.0,0.0
+2022,284471,S. Parkes,20.0,England,Fulham,0.0,0.0,0.0,,0.0,0.0
+2022,284549,J. Whitworth,20.0,England,Crystal Palace,2.0,180.0,0.0,,0.0,0.0
+2022,303462,K. Doyle,19.0,England,Southampton,1.0,6.0,0.0,,0.0,0.0
+2022,313636,Adler Nascimento,20.0,Portugal,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2022,327736,C. Robinson,20.0,England,Fulham,0.0,0.0,0.0,,0.0,0.0
+2022,328093,I. Samuels-Smith,18.0,England,Everton,0.0,0.0,0.0,,0.0,0.0
+2022,330982,J. Morgan,18.0,England,Southampton,0.0,0.0,0.0,,0.0,0.0
+2022,335116,K. Šekularac,21.0,Switzerland,Fulham,0.0,0.0,0.0,,0.0,0.0
+2022,5,M. Akanji,29.0,Switzerland,Manchester City,29.0,2284.0,0.0,1.0,2.0,0.0
+2022,253,A. Areola,31.0,France,West Ham,5.0,306.0,0.0,,0.0,0.0
+2022,567,Rúben Dias,27.0,Portugal,Manchester City,26.0,1997.0,0.0,,3.0,0.0
+2022,1485,Bruno Fernandes,30.0,Portugal,Manchester United,37.0,3320.0,8.0,8.0,6.0,0.0
+2022,1946,L. Trossard,30.0,Belgium,Arsenal,20.0,929.0,1.0,10.0,0.0,0.0
+2022,2724,L. Digne,31.0,France,Aston Villa,28.0,1500.0,1.0,,5.0,0.0
+2022,8694,W. Faes,26.0,Belgium,Leicester,31.0,2787.0,1.0,2.0,5.0,0.0
+2022,18931,C. Wood,33.0,New Zealand,Nottingham Forest,7.0,376.0,1.0,,0.0,0.0
+2022,18968,Y. Bissouma,28.0,Mali,Tottenham,23.0,1003.0,0.0,,6.0,0.0
+2022,19088,D. Henderson,27.0,England,Nottingham Forest,18.0,1620.0,0.0,,2.0,0.0
+2022,22090,W. Saliba,23.0,France,Arsenal,27.0,2416.0,2.0,1.0,4.0,0.0
+2022,38731,D. Reiziger,23.0,Netherlands,Vitesse,0.0,0.0,0.0,,0.0,0.0
+2022,40434,J. Valencia,30.0,Ecuador,Brentford,0.0,0.0,0.0,,0.0,0.0
+2022,47380,Marc Cucurella,26.0,Spain,Chelsea,24.0,1678.0,0.0,2.0,4.0,0.0
+2022,70747,J. Enciso,20.0,Paraguay,Brighton,20.0,800.0,4.0,2.0,1.0,0.0
+2022,90590,G. Rutter,22.0,France,Leeds,11.0,264.0,0.0,1.0,0.0,0.0
+2022,129643,E. Ferguson,20.0,Republic of Ireland,Brighton,19.0,950.0,6.0,2.0,1.0,0.0
+2022,161671,I. Zabarnyi,22.0,Ukraine,Bournemouth,5.0,297.0,0.0,,0.0,0.0
+2022,284230,R. Lewis,20.0,England,Manchester City,14.0,903.0,0.0,,1.0,0.0
+2022,284487,Wanya Marçal,22.0,Portugal,Leicester,0.0,0.0,0.0,,0.0,0.0
+2022,281,C. Kelleher,26.0,Republic of Ireland,Liverpool,1.0,90.0,0.0,,0.0,0.0
+2022,671,B. Traoré,29.0,Burkina Faso,Aston Villa,0.0,0.0,0.0,,0.0,0.0
+2022,1145,I. Konaté,25.0,France,Liverpool,18.0,1551.0,0.0,,5.0,0.0
+2022,2484,Y. Mina,30.0,Colombia,Everton,7.0,596.0,2.0,,2.0,0.0
+2022,2735,P. Højbjerg,29.0,Denmark,Tottenham,35.0,3133.0,4.0,5.0,5.0,0.0
+2022,2807,R. Freuler,32.0,Switzerland,Nottingham Forest,28.0,2165.0,0.0,,4.0,0.0
+2022,19118,L. Cooper,33.0,Scotland,Leeds,18.0,1426.0,1.0,,5.0,0.0
+2022,19804,K. Moore,32.0,Wales,Bournemouth,27.0,1270.0,4.0,,1.0,0.0
+2022,19842,L. Taylor,34.0,Montserrat,Nottingham Forest,0.0,0.0,0.0,,0.0,0.0
+2022,20069,B. Crellin,24.0,England,Everton,0.0,0.0,0.0,,0.0,0.0
+2022,21694,N. Aguerd,28.0,Morocco,West Ham,18.0,1595.0,2.0,,4.0,0.0
+2022,154807,D. Chesters,22.0,England,West Ham,0.0,0.0,0.0,,0.0,0.0
+2022,162590,T. Morton,22.0,England,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2022,266203,J. Gordon,21.0,England,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2022,284060,L. Laing,21.0,England,West Ham,0.0,0.0,0.0,,0.0,0.0
+2022,284327,R. Welch,21.0,England,Everton,0.0,0.0,0.0,,0.0,0.0
+2022,284427,L. Payne,20.0,England,Southampton,0.0,0.0,0.0,,0.0,0.0
+2022,288699,M. Perrone,21.0,Argentina,Manchester City,1.0,18.0,0.0,,0.0,0.0
+2022,303019,N. Fraser,19.0,Republic of Ireland,Wolves,0.0,0.0,0.0,,0.0,0.0
+2022,311520,Marquinhos,21.0,Brazil,Arsenal,1.0,0.0,0.0,,0.0,0.0
+2022,69257,J. Furlong,22.0,Republic of Ireland,Brighton,0.0,0.0,0.0,,0.0,0.0
+2022,138849,K. John,23.0,England,Everton,0.0,0.0,0.0,,0.0,0.0
+2022,138929,L. Brunt,24.0,England,Leicester,1.0,22.0,0.0,,0.0,0.0
+2022,138937,F. Marschall,21.0,England,Aston Villa,0.0,0.0,0.0,,0.0,0.0
+2022,144725,K. Swyer,22.0,England,West Ham,0.0,0.0,0.0,,0.0,0.0
+2022,152957,L. Richards,23.0,Republic of Ireland,Wolves U21,0.0,0.0,0.0,,0.0,0.0
+2022,167663,T. McGill,24.0,Canada,Brighton,0.0,0.0,0.0,,0.0,0.0
+2022,231062,A. Okonkwo,23.0,England,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2022,278123,S. Revan,21.0,England,Aston Villa,0.0,0.0,0.0,,0.0,0.0
+2022,284266,L. Warrington,22.0,England,Everton,0.0,0.0,0.0,,0.0,0.0
+2022,284363,R. Bennett,21.0,England,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2022,284408,S. Perkins,20.0,England,Leeds,0.0,0.0,0.0,,0.0,0.0
+2022,284424,D. Edwards,21.0,England,Southampton,0.0,0.0,0.0,,0.0,0.0
+2022,284554,O. Goodman,21.0,England,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2022,288118,L. Orford,18.0,England,West Ham,0.0,0.0,0.0,,0.0,0.0
+2022,288125,R. Clayton,20.0,England,West Ham,0.0,0.0,0.0,,0.0,0.0
+2022,288279,LuizÃ£o,22.0,Brazil,West Ham,0.0,0.0,0.0,,0.0,0.0
+2022,293163,J. Donley,19.0,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2022,312118,J. Feeney,19.0,England,Aston Villa,0.0,0.0,0.0,,0.0,0.0
+2022,327730,O. Scarles,19.0,England,West Ham,0.0,0.0,0.0,,0.0,0.0
+2022,935,Rodrigo,33.0,Spain,Leeds,31.0,1943.0,13.0,1.0,6.0,0.0
+2022,946,K. Mbabu,29.0,Switzerland,Fulham,6.0,140.0,0.0,1.0,1.0,0.0
+2022,2784,R. RÃºnarsson,29.0,Iceland,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2022,18946,M. Elyounoussi,30.0,Norway,Southampton,33.0,2180.0,1.0,1.0,4.0,0.0
+2022,19345,M. Bech,25.0,Denmark,Brentford,3.0,17.0,0.0,,0.0,0.0
+2022,20557,I. Diallo,25.0,France,Southampton,18.0,819.0,0.0,,4.0,0.0
+2022,39105,K. Klaesson,24.0,Norway,Leeds,0.0,0.0,0.0,,0.0,0.0
+2022,90494,N. Trott,26.0,England,West Ham,0.0,0.0,0.0,,0.0,0.0
+2022,129712,A. Mighten,22.0,England,Nottingham Forest,1.0,7.0,0.0,,0.0,0.0
+2022,138411,L. Hughes,23.0,Northern Ireland,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2022,138877,R. Yapi,24.0,France,Vitesse,0.0,0.0,0.0,,0.0,0.0
+2022,158432,C. Campbell,22.0,Wales,Wolves,5.0,69.0,0.0,,0.0,0.0
+2022,162148,M. Robson,22.0,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2022,272728,E. Cornelisse,22.0,Netherlands,Vitesse,0.0,0.0,0.0,,0.0,0.0
+2022,284323,C. Savage,21.0,Wales,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2022,284419,M. Forbes,20.0,Northern Ireland,West Ham,0.0,0.0,0.0,,0.0,0.0
+2022,284439,L. Sousa,19.0,England,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2022,349595,G. de Regt,21.0,Netherlands,Vitesse,0.0,0.0,0.0,,0.0,0.0
+2022,357047,S. van Duivenbooden,22.0,South Africa,Vitesse,0.0,0.0,0.0,,0.0,0.0
+2022,364809,M. Jonathans,20.0,Netherlands,Vitesse,0.0,0.0,0.0,,0.0,0.0
+2022,133,C. Lenglet,29.0,France,Tottenham,26.0,2027.0,0.0,2.0,4.0,0.0
+2022,1439,Héctor Bellerín,29.0,Spain,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2022,1578,G. Lo Celso,28.0,Argentina,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2022,1697,Pablo Fornals,28.0,Spain,West Ham,32.0,1502.0,3.0,1.0,0.0,0.0
+2022,2280,César Azpilicueta,35.0,Spain,Chelsea,25.0,1522.0,0.0,,3.0,0.0
+2022,2461,S. Rondón,35.0,Venezuela,Everton,7.0,104.0,0.0,,0.0,0.0
+2022,6009,J. Alvarez,24.0,Argentina,Manchester City,31.0,1451.0,9.0,,0.0,0.0
+2022,18812,Adrián,37.0,Spain,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2022,18906,Ayoze Pérez,31.0,Spain,Leicester,8.0,380.0,0.0,1.0,0.0,0.0
+2022,19071,E. BuendÃ­a,28.0,Argentina,Aston Villa,38.0,2420.0,5.0,2.0,0.0,0.0
+2022,20600,R. Perraud,27.0,France,Southampton,29.0,1838.0,2.0,2.0,4.0,0.0
+2022,20850,C. Arcus,28.0,Haiti,Vitesse,0.0,0.0,0.0,,0.0,0.0
+2022,25416,W. Weghorst,32.0,Netherlands,Manchester United,17.0,797.0,0.0,1.0,1.0,0.0
+2022,47302,Diego Llorente,31.0,Spain,Leeds,8.0,648.0,0.0,,1.0,0.0
+2022,47341,Marc Roca,28.0,Spain,Leeds,32.0,2329.0,1.0,2.0,7.0,0.0
+2022,67972,C. Gallagher,24.0,England,Chelsea,35.0,1614.0,3.0,1.0,10.0,0.0
+2022,131278,C. Allen,21.0,Northern Ireland,Leeds,0.0,0.0,0.0,,0.0,0.0
+2022,162150,N. John,21.0,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2022,195962,Chiquinho,24.0,Portugal,Wolves,0.0,0.0,0.0,,0.0,0.0
+2022,284262,H. Griffiths,21.0,England,Wolves,0.0,0.0,0.0,,0.0,0.0
+2022,723,Joelinton,28.0,Brazil,Newcastle,32.0,2664.0,6.0,1.0,12.0,0.0
+2022,1231,V. Coufal,32.0,Czechia,West Ham,27.0,2139.0,0.0,1.0,5.0,0.0
+2022,1243,T. Souček,29.0,Czechia,West Ham,36.0,2819.0,2.0,3.0,3.0,0.0
+2022,1646,Lucas Paquetá,27.0,Brazil,West Ham,28.0,2170.0,4.0,3.0,5.0,0.0
+2022,2284,Emerson,30.0,Italy,West Ham,22.0,1321.0,1.0,,2.0,0.0
+2022,2467,Lisandro Martínez,26.0,Argentina,Manchester United,27.0,2116.0,1.0,,6.0,0.0
+2022,2864,A. Isak,25.0,Sweden,Newcastle,22.0,1527.0,10.0,1.0,3.0,0.0
+2022,2931,T. Heaton,38.0,England,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2022,2939,C. Wilson,32.0,England,Newcastle,31.0,1885.0,18.0,5.0,4.0,0.0
+2022,2997,Ł. Fabiański,39.0,Poland,West Ham,36.0,3114.0,0.0,,1.0,0.0
+2022,3246,N. Pépé,29.0,Côte d'Ivoire,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2022,18744,M. Kilman,27.0,England,Wolves,37.0,3308.0,0.0,,3.0,0.0
+2022,18813,A. Cresswell,35.0,England,West Ham,28.0,2235.0,0.0,1.0,3.0,0.0
+2022,18819,M. Antonio,34.0,Jamaica,West Ham,33.0,1836.0,5.0,3.0,2.0,0.0
+2022,18846,A. Wan-Bissaka,27.0,England,Manchester United,19.0,1436.0,0.0,,2.0,0.0
+2022,18955,D. Ings,32.0,England,West Ham,17.0,771.0,2.0,,1.0,0.0
+2022,19428,J. Bowen,28.0,England,West Ham,38.0,3237.0,6.0,5.0,2.0,0.0
+2022,37724,C. Summerville,23.0,Netherlands,Leeds,28.0,1417.0,4.0,2.0,4.0,0.0
+2022,138787,A. Gordon,23.0,England,Newcastle,16.0,480.0,1.0,,1.0,0.0
+2022,288116,K. Casey,20.0,England,West Ham,0.0,0.0,0.0,,0.0,0.0
+2022,169,K. Trippier,34.0,England,Newcastle,38.0,3348.0,1.0,7.0,5.0,0.0
+2022,1463,J. Willock,25.0,England,Newcastle,35.0,2577.0,3.0,6.0,1.0,0.0
+2022,2507,M. Almirón,30.0,Paraguay,Newcastle,34.0,2508.0,11.0,2.0,2.0,0.0
+2022,2806,F. Schär,33.0,Switzerland,Newcastle,36.0,3209.0,1.0,3.0,7.0,0.0
+2022,2855,E. Krafth,30.0,Sweden,Newcastle,1.0,0.0,0.0,,0.0,0.0
+2022,10135,Bruno Guimarães,27.0,Brazil,Newcastle,32.0,2735.0,4.0,5.0,7.0,0.0
+2022,18778,H. Barnes,27.0,England,Leicester,34.0,2720.0,13.0,1.0,3.0,0.0
+2022,18886,M. Dúbravka,35.0,Slovakia,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2022,18894,J. Lascelles,31.0,England,Newcastle,7.0,214.0,0.0,,4.0,0.0
+2022,18901,S. Longstaff,27.0,England,Newcastle,33.0,2517.0,1.0,4.0,2.0,0.0
+2022,18941,M. Targett,29.0,England,Newcastle,17.0,602.0,0.0,,1.0,0.0
+2022,18961,D. Burn,32.0,England,Newcastle,38.0,3116.0,1.0,,6.0,0.0
+2022,19163,J. Murphy,29.0,England,Newcastle,36.0,1243.0,4.0,2.0,0.0,0.0
+2022,19263,L. Kelly,26.0,England,Bournemouth,23.0,2041.0,0.0,2.0,3.0,0.0
+2022,19281,A. Semenyo,24.0,Ghana,Bournemouth,11.0,250.0,1.0,,0.0,0.0
+2022,38734,S. Botman,24.0,Netherlands,Newcastle,36.0,3128.0,0.0,,2.0,0.0
+2022,44912,M. Gillespie,32.0,England,Newcastle,0.0,0.0,0.0,,0.0,0.0
+2022,158694,T. Livramento,22.0,England,Southampton,2.0,26.0,0.0,,0.0,0.0
+2022,284492,L. Hall,20.0,England,Chelsea,9.0,658.0,0.0,,1.0,0.0
+2022,328105,L. Miley,18.0,England,Newcastle,1.0,15.0,0.0,,0.0,0.0
+2022,104,Carlos Vinícius,29.0,Brazil,Fulham,28.0,1097.0,5.0,2.0,3.0,0.0
+2022,727,R. Nelson,25.0,England,Arsenal,11.0,201.0,3.0,2.0,0.0,0.0
+2022,1125,R. Christie,29.0,Scotland,Bournemouth,32.0,1841.0,1.0,1.0,2.0,0.0
+2022,1150,T. Adams,25.0,USA,Leeds,24.0,2157.0,0.0,,5.0,0.0
+2022,1455,A. Iwobi,28.0,Nigeria,Everton,38.0,3382.0,2.0,7.0,2.0,0.0
+2022,2273,Kepa,30.0,Spain,Chelsea,29.0,2566.0,0.0,,1.0,0.0
+2022,2734,P. Billing,28.0,Denmark,Bournemouth,36.0,2786.0,7.0,1.0,5.0,0.0
+2022,6610,M. Senesi,27.0,Argentina,Bournemouth,31.0,2496.0,2.0,,7.0,0.0
+2022,18753,Adama Traoré,28.0,Spain,Wolves,34.0,1483.0,2.0,1.0,2.0,0.0
+2022,18860,M. Travers,25.0,Republic of Ireland,Bournemouth,12.0,1034.0,0.0,,0.0,0.0
+2022,18869,A. Smith,33.0,England,Bournemouth,37.0,2949.0,0.0,1.0,11.0,0.0
+2022,18870,D. Brooks,27.0,Wales,Bournemouth,6.0,170.0,0.0,,1.0,0.0
+2022,18872,L. Cook,27.0,England,Bournemouth,28.0,1712.0,0.0,2.0,4.0,0.0
+2022,19245,M. Tavernier,25.0,England,Bournemouth,23.0,1748.0,5.0,4.0,1.0,0.0
+2022,20093,J. Hill,22.0,England,Bournemouth,0.0,0.0,0.0,,0.0,0.0
+2022,37161,L. Sinisterra,25.0,Colombia,Leeds,19.0,874.0,5.0,,2.0,0.0
+2022,151756,W. Dennis,24.0,England,Bournemouth,0.0,0.0,0.0,,0.0,0.0
+2022,195106,Rodrigo Muniz,23.0,Brazil,Fulham,0.0,0.0,0.0,,0.0,0.0
+2022,284797,D. Ouattara,22.0,Burkina Faso,Bournemouth,19.0,1245.0,1.0,3.0,1.0,0.0
+2022,359386,M. Godo,21.0,England,Fulham,0.0,0.0,0.0,,0.0,0.0
+2022,657,K. Tete,29.0,Netherlands,Fulham,31.0,2575.0,1.0,5.0,8.0,0.0
+2022,899,Andreas Pereira,28.0,Brazil,Fulham,33.0,2718.0,4.0,6.0,8.0,0.0
+2022,1161,E. Smith Rowe,24.0,England,Arsenal,12.0,162.0,0.0,2.0,0.0,0.0
+2022,1438,B. Leno,32.0,Germany,Fulham,36.0,3240.0,0.0,,3.0,0.0
+2022,2729,J. Andersen,28.0,Denmark,Crystal Palace,32.0,2784.0,1.0,,8.0,0.0
+2022,2823,S. Lukić,28.0,Serbia,Fulham,12.0,407.0,0.0,,1.0,0.0
+2022,2887,R. Jiménez,33.0,Mexico,Wolves,15.0,842.0,0.0,1.0,0.0,0.0
+2022,2920,T. Castagne,29.0,Belgium,Leicester,37.0,3256.0,2.0,3.0,3.0,0.0
+2022,18814,I. Diop,27.0,France,Fulham,25.0,2010.0,1.0,,2.0,0.0
+2022,19025,T. Cairney,33.0,Scotland,Fulham,33.0,967.0,2.0,,2.0,0.0
+2022,19032,R. Sessegnon,24.0,England,Tottenham,17.0,811.0,2.0,,4.0,0.0
+2022,19221,H. Wilson,27.0,Wales,Fulham,29.0,1096.0,2.0,3.0,1.0,0.0
+2022,19480,H. Reed,29.0,England,Fulham,37.0,2882.0,3.0,4.0,5.0,0.0
+2022,19549,A. Robinson,27.0,USA,Fulham,35.0,3089.0,0.0,1.0,8.0,0.0
+2022,20589,B. Mbeumo,25.0,Cameroon,Brentford,38.0,2931.0,9.0,8.0,5.0,0.0
+2022,25073,V. Janelt,26.0,Germany,Brentford,35.0,2208.0,3.0,1.0,3.0,0.0
+2022,106725,K. Lewis-Potter,23.0,England,Brentford,10.0,317.0,0.0,1.0,0.0,0.0
+2022,153066,Fábio Carvalho,22.0,Portugal,Liverpool,13.0,342.0,2.0,,0.0,0.0
+2022,263538,Y. Yarmoliuk,20.0,Ukraine,Brentford,0.0,0.0,0.0,,0.0,0.0
+2022,382925,R. Trevitt,21.0,England,Brentford,0.0,0.0,0.0,,0.0,0.0
+2022,1119,K. Ajer,26.0,Norway,Brentford,9.0,766.0,0.0,,0.0,0.0
+2022,1166,T. Werner,28.0,Germany,Chelsea,0.0,0.0,0.0,,0.0,0.0
+2022,2413,Richarlison,27.0,Brazil,Tottenham,27.0,1006.0,1.0,3.0,3.0,0.0
+2022,15745,M. Roerslev,25.0,Denmark,Brentford,20.0,1102.0,0.0,,0.0,0.0
+2022,18883,D. Solanke,27.0,England,Bournemouth,33.0,2872.0,6.0,7.0,2.0,0.0
+2022,18917,B. Mee,35.0,England,Brentford,37.0,3272.0,3.0,1.0,2.0,0.0
+2022,19346,R. Henry,27.0,England,Brentford,37.0,3244.0,0.0,2.0,4.0,0.0
+2022,19362,J. Dasilva,26.0,England,Brentford,36.0,1380.0,4.0,2.0,1.0,0.0
+2022,19495,N. Collins,23.0,Republic of Ireland,Wolves,26.0,1808.0,0.0,,2.0,1.0
+2022,19789,E. Pinnock,31.0,Jamaica,Brentford,30.0,2700.0,3.0,,0.0,0.0
+2022,20649,Y. Wissa,28.0,Congo DR,Brentford,38.0,1599.0,7.0,3.0,3.0,0.0
+2022,30407,C. Nørgaard,30.0,Denmark,Brentford,22.0,1771.0,1.0,3.0,6.0,0.0
+2022,36922,S. van den Berg,23.0,Netherlands,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2022,44871,A. Hickey,22.0,Scotland,Brentford,26.0,1929.0,0.0,1.0,7.0,0.0
+2022,47438,M. Jensen,28.0,Denmark,Brentford,37.0,2830.0,5.0,6.0,5.0,0.0
+2022,129711,B. Johnson,23.0,Wales,Nottingham Forest,38.0,2941.0,8.0,3.0,6.0,0.0
+2022,178077,K. Schade,23.0,Germany,Brentford,18.0,727.0,0.0,1.0,2.0,0.0
+2022,237129,P. Sarr,22.0,Senegal,Tottenham,11.0,211.0,0.0,1.0,1.0,0.0
+2022,278041,M. Cox,21.0,England,Brentford,0.0,0.0,0.0,,0.0,0.0
+2022,393195,W. Lankshear,19.0,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2022,80,E. Dennis,27.0,Nigeria,Nottingham Forest,19.0,714.0,2.0,2.0,3.0,0.0
+2022,161,A. Whiteman,26.0,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2022,164,B. Davies,31.0,Wales,Tottenham,31.0,2289.0,2.0,2.0,4.0,0.0
+2022,186,Son Heung-Min,32.0,Korea Republic,Tottenham,36.0,2899.0,10.0,6.0,2.0,0.0
+2022,739,Sergio Reguilón,28.0,Spain,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2022,863,R. Bentancur,27.0,Uruguay,Tottenham,18.0,1506.0,5.0,2.0,8.0,0.0
+2022,2298,C. Hudson-Odoi,24.0,England,Chelsea,0.0,0.0,0.0,,0.0,0.0
+2022,2938,J. Ward-Prowse,30.0,England,Southampton,38.0,3373.0,9.0,4.0,6.0,0.0
+2022,8598,T. Awoniyi,27.0,Nigeria,Nottingham Forest,27.0,1411.0,10.0,1.0,2.0,0.0
+2022,18784,J. Maddison,28.0,England,Leicester,30.0,2485.0,10.0,9.0,10.0,0.0
+2022,18932,F. Forster,36.0,England,Tottenham,14.0,1214.0,0.0,,1.0,0.0
+2022,19235,D. Spence,24.0,England,Tottenham,4.0,3.0,0.0,,0.0,0.0
+2022,19305,R. Yates,27.0,England,Nottingham Forest,26.0,1839.0,0.0,2.0,5.0,0.0
+2022,30435,D. Kulusevski,24.0,Sweden,Tottenham,30.0,2079.0,2.0,7.0,2.0,0.0
+2022,47519,Pedro Porro,25.0,Spain,Tottenham,15.0,1137.0,3.0,3.0,0.0,0.0
+2022,153430,A. Elanga,22.0,Sweden,Manchester United,16.0,420.0,0.0,1.0,0.0,0.0
+2022,156428,B. Austin,25.0,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2022,275170,Danilo,23.0,Brazil,Nottingham Forest,13.0,982.0,3.0,2.0,1.0,0.0
+2022,311817,A. Dorrington,19.0,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2022,328089,A. Gray,18.0,England,Leeds,0.0,0.0,0.0,,0.0,0.0
+2022,296,J. Milner,38.0,England,Liverpool,31.0,893.0,0.0,1.0,2.0,0.0
+2022,537,J. Veltman,32.0,Netherlands,Brighton,31.0,2194.0,1.0,1.0,6.0,0.0
+2022,1469,D. Welbeck,34.0,England,Brighton,31.0,1858.0,6.0,3.0,0.0,0.0
+2022,17365,H. Toffolo,29.0,England,Nottingham Forest,19.0,933.0,0.0,,2.0,0.0
+2022,18739,W. Boly,33.0,Côte d'Ivoire,Nottingham Forest,11.0,687.0,0.0,1.0,2.0,0.0
+2022,18746,M. Gibbs-White,24.0,England,Nottingham Forest,35.0,2978.0,5.0,8.0,5.0,0.0
+2022,18963,L. Dunk,33.0,England,Brighton,36.0,3240.0,1.0,,4.0,0.0
+2022,18973,S. March,30.0,England,Brighton,33.0,2726.0,7.0,7.0,2.0,0.0
+2022,38695,J. van Hecke,24.0,Netherlands,Brighton,8.0,291.0,0.0,,2.0,0.0
+2022,40911,J. Moder,25.0,Poland,Brighton,0.0,0.0,0.0,,0.0,0.0
+2022,46731,P. Estupiñán,26.0,Ecuador,Brighton,35.0,2682.0,1.0,5.0,4.0,0.0
+2022,47547,Álex Moreno,31.0,Spain,Aston Villa,19.0,1334.0,0.0,3.0,3.0,0.0
+2022,106835,K. Mitoma,27.0,Japan,Brighton,33.0,2316.0,7.0,5.0,0.0,0.0
+2022,138780,N. Williams,23.0,Wales,Nottingham Forest,31.0,1876.0,1.0,,7.0,0.0
+2022,138908,E. Anderson,22.0,England,Newcastle,22.0,393.0,0.0,1.0,0.0,0.0
+2022,216809,C. Peupion,22.0,Australia,Brighton,1.0,5.0,0.0,,0.0,0.0
+2022,265820,Y. Ayari,21.0,Sweden,Brighton,3.0,66.0,0.0,,0.0,0.0
+2022,273758,I. Samuels,21.0,England,Brighton,0.0,0.0,0.0,,0.0,0.0
+2022,280672,E. Turns,22.0,Wales,Brighton,0.0,0.0,0.0,,0.0,0.0
+2022,305730,J. Hinshelwood,19.0,England,Brighton,1.0,1.0,0.0,,0.0,0.0
+2022,18,J. Sancho,24.0,England,Manchester United,26.0,1698.0,6.0,3.0,0.0,0.0
+2022,95,B. Badiashile,23.0,France,Chelsea,11.0,904.0,1.0,,2.0,0.0
+2022,583,João Félix,25.0,Portugal,Chelsea,16.0,944.0,4.0,,1.0,1.0
+2022,1864,Pedro Neto,24.0,Portugal,Wolves,18.0,970.0,0.0,,2.0,0.0
+2022,2933,B. Chilwell,28.0,England,Chelsea,23.0,1407.0,2.0,2.0,3.0,0.0
+2022,5996,E. Fernández,23.0,Argentina,Chelsea,18.0,1551.0,0.0,2.0,3.0,0.0
+2022,18960,J. Steele,34.0,England,Brighton,15.0,1350.0,0.0,1.0,1.0,0.0
+2022,19145,T. Adarabioyo,27.0,England,Fulham,25.0,2083.0,1.0,,4.0,0.0
+2022,19265,A. Webster,29.0,England,Brighton,27.0,1987.0,0.0,,2.0,0.0
+2022,19545,R. James,25.0,England,Chelsea,16.0,1244.0,1.0,1.0,4.0,0.0
+2022,22094,W. Fofana,24.0,France,Chelsea,15.0,1185.0,1.0,,3.0,0.0
+2022,63577,M. Mudryk,23.0,Ukraine,Chelsea,15.0,655.0,0.0,2.0,1.0,0.0
+2022,116117,M. Caicedo,23.0,Ecuador,Brighton,37.0,3140.0,1.0,1.0,10.0,0.0
+2022,136723,N. Madueke,22.0,England,Chelsea,12.0,645.0,1.0,,0.0,0.0
+2022,138815,T. Lamptey,24.0,Ghana,Brighton,20.0,438.0,0.0,,1.0,0.0
+2022,138935,C. Chukwuemeka,21.0,England,Chelsea,14.0,344.0,0.0,,0.0,0.0
+2022,148099,K. Dewsbury-Hall,26.0,England,Leicester,31.0,2315.0,2.0,2.0,4.0,0.0
+2022,152953,L. Colwill,21.0,England,Brighton,17.0,1218.0,0.0,2.0,1.0,0.0
+2022,152982,C. Palmer,22.0,England,Manchester City,14.0,358.0,0.0,1.0,1.0,0.0
+2022,282125,R. Lavia,20.0,Belgium,Southampton,29.0,2229.0,1.0,,9.0,0.0
+2022,983,L. Bailey,27.0,Jamaica,Aston Villa,33.0,1983.0,4.0,4.0,4.0,0.0
+2022,1904,B. Kamara,25.0,France,Aston Villa,24.0,1779.0,0.0,1.0,4.0,0.0
+2022,2287,R. Barkley,31.0,England,Chelsea,0.0,0.0,0.0,,0.0,0.0
+2022,2926,Y. Tielemans,27.0,Belgium,Leicester,31.0,2351.0,3.0,2.0,4.0,0.0
+2022,13489,J. Durán,21.0,Colombia,Aston Villa,12.0,124.0,0.0,,1.0,0.0
+2022,18959,Robert Sánchez,27.0,Spain,Brighton,23.0,2070.0,0.0,,2.0,0.0
+2022,19012,M. Bettinelli,32.0,England,Chelsea,0.0,0.0,0.0,,0.0,0.0
+2022,19177,K. Hause,29.0,England,Aston Villa,0.0,0.0,0.0,,0.0,0.0
+2022,19179,T. Mings,31.0,England,Aston Villa,35.0,3150.0,1.0,2.0,7.0,0.0
+2022,19191,J. McGinn,30.0,Scotland,Aston Villa,34.0,2697.0,1.0,3.0,7.0,0.0
+2022,19192,J. Ramsey,23.0,England,Aston Villa,35.0,2647.0,6.0,7.0,5.0,0.0
+2022,19298,M. Cash,27.0,Poland,Aston Villa,26.0,1819.0,0.0,1.0,4.0,0.0
+2022,19366,O. Watkins,29.0,England,Aston Villa,37.0,3136.0,15.0,6.0,4.0,0.0
+2022,21090,Diego Carlos,31.0,Brazil,Aston Villa,3.0,205.0,0.0,,0.0,0.0
+2022,152955,L. Bergström,22.0,Finland,Chelsea,0.0,0.0,0.0,,0.0,0.0
+2022,162714,A. Onana,23.0,Belgium,Everton,33.0,2496.0,1.0,2.0,9.0,0.0
+2022,284457,L. Bogarde,20.0,Netherlands,Aston Villa,0.0,0.0,0.0,,0.0,0.0
+2022,284523,S. Swinkels,20.0,Netherlands,Aston Villa,0.0,0.0,0.0,,0.0,0.0
+2022,308843,T. Patterson,19.0,England,Aston Villa,0.0,0.0,0.0,,0.0,0.0
+2022,312260,K. Young,18.0,England,Aston Villa,0.0,0.0,0.0,,0.0,0.0
+2022,49,T. Partey,31.0,Ghana,Arsenal,33.0,2485.0,3.0,,5.0,0.0
+2022,641,O. Zinchenko,28.0,Ukraine,Arsenal,27.0,2135.0,1.0,2.0,3.0,0.0
+2022,643,Gabriel Jesus,27.0,Brazil,Arsenal,26.0,2075.0,11.0,6.0,6.0,0.0
+2022,645,R. Sterling,30.0,England,Chelsea,28.0,1903.0,6.0,3.0,4.0,0.0
+2022,766,R. Olsen,34.0,Sweden,Aston Villa,4.0,279.0,0.0,,0.0,0.0
+2022,978,K. Havertz,25.0,Germany,Chelsea,35.0,2579.0,7.0,1.0,5.0,0.0
+2022,1460,B. Saka,23.0,England,Arsenal,38.0,3194.0,14.0,11.0,6.0,0.0
+2022,2289,Jorginho,33.0,Italy,Arsenal,14.0,853.0,0.0,1.0,0.0,0.0
+2022,2597,T. Tomiyasu,26.0,Japan,Arsenal,21.0,652.0,0.0,1.0,2.0,0.0
+2022,2937,D. Rice,25.0,England,West Ham,37.0,3272.0,4.0,2.0,5.0,0.0
+2022,19354,E. Konsa,27.0,England,Aston Villa,38.0,3322.0,0.0,,6.0,0.0
+2022,19599,E. Martínez,32.0,Argentina,Aston Villa,36.0,3141.0,0.0,,7.0,0.0
+2022,19959,B. White,27.0,England,Arsenal,38.0,3067.0,2.0,5.0,5.0,0.0
+2022,22224,Gabriel Magalhães,27.0,Brazil,Arsenal,38.0,3411.0,3.0,,5.0,0.0
+2022,37127,M. Ødegaard,26.0,Norway,Arsenal,37.0,3149.0,15.0,7.0,4.0,0.0
+2022,61431,J. Kiwior,24.0,Poland,Arsenal,7.0,427.0,1.0,,0.0,0.0
+2022,127769,Gabriel Martinelli,23.0,Brazil,Arsenal,36.0,2806.0,15.0,5.0,3.0,0.0
+2022,148270,O. Zych,20.0,Poland,Aston Villa,0.0,0.0,0.0,,0.0,0.0
+2022,153407,N. Butler-Oyedeji,21.0,England,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2022,313236,E. Nwaneri,17.0,England,Arsenal,1.0,0.0,0.0,,0.0,0.0
+2022,247,C. Gakpo,25.0,Netherlands,Liverpool,21.0,1465.0,7.0,2.0,0.0,0.0
+2022,280,Alisson Becker,32.0,Brazil,Liverpool,37.0,3330.0,0.0,1.0,1.0,0.0
+2022,283,T. Alexander-Arnold,26.0,England,Liverpool,37.0,2931.0,2.0,9.0,5.0,0.0
+2022,284,J. Gomez,27.0,England,Liverpool,21.0,1460.0,0.0,,3.0,0.0
+2022,289,A. Robertson,30.0,Scotland,Liverpool,34.0,2587.0,0.0,8.0,3.0,0.0
+2022,290,V. van Dijk,33.0,Netherlands,Liverpool,32.0,2836.0,3.0,1.0,3.0,0.0
+2022,293,C. Jones,23.0,England,Liverpool,18.0,1039.0,3.0,1.0,2.0,0.0
+2022,306,Mohamed Salah,32.0,Egypt,Liverpool,38.0,3297.0,19.0,12.0,2.0,0.0
+2022,912,Neto,35.0,Brazil,Bournemouth,27.0,2386.0,0.0,,4.0,0.0
+2022,1100,E. Haaland,24.0,Norway,Manchester City,35.0,2779.0,36.0,8.0,5.0,0.0
+2022,1117,K. Tierney,27.0,Scotland,Arsenal,27.0,777.0,0.0,1.0,0.0,0.0
+2022,1600,K. Tsimikas,28.0,Greece,Liverpool,20.0,768.0,0.0,4.0,3.0,0.0
+2022,2489,L. Díaz,27.0,Colombia,Liverpool,17.0,996.0,4.0,2.0,2.0,0.0
+2022,2678,Diogo Jota,28.0,Portugal,Liverpool,22.0,1131.0,7.0,4.0,2.0,0.0
+2022,6716,A. Mac Allister,26.0,Argentina,Brighton,35.0,2886.0,10.0,2.0,8.0,0.0
+2022,19035,H. Elliott,21.0,England,Liverpool,32.0,1613.0,1.0,2.0,2.0,0.0
+2022,19465,David Raya,29.0,Spain,Brentford,38.0,3420.0,0.0,,1.0,0.0
+2022,51617,D. Núñez,25.0,Uruguay,Liverpool,29.0,1699.0,9.0,3.0,1.0,1.0
+2022,158698,J. Quansah,21.0,England,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2022,180316,H. Davies,21.0,England,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2022,44,Rodri,28.0,Spain,Manchester City,36.0,2920.0,2.0,6.0,5.0,0.0
+2022,617,Ederson,31.0,Brazil,Manchester City,35.0,3150.0,0.0,1.0,3.0,0.0
+2022,626,J. Stones,30.0,England,Manchester City,23.0,1849.0,2.0,2.0,2.0,0.0
+2022,627,K. Walker,34.0,England,Manchester City,27.0,1957.0,0.0,,3.0,0.0
+2022,629,K. De Bruyne,33.0,Belgium,Manchester City,32.0,2425.0,7.0,16.0,1.0,0.0
+2022,631,P. Foden,24.0,England,Manchester City,32.0,1844.0,11.0,5.0,1.0,0.0
+2022,633,İ. Gündoğan,34.0,Germany,Manchester City,31.0,2359.0,8.0,4.0,0.0,0.0
+2022,636,Bernardo Silva,30.0,Portugal,Manchester City,34.0,2203.0,4.0,5.0,5.0,0.0
+2022,2291,M. Kovačić,30.0,Croatia,Chelsea,27.0,1704.0,1.0,2.0,8.0,0.0
+2022,18861,N. Aké,29.0,Netherlands,Manchester City,26.0,1875.0,1.0,,2.0,0.0
+2022,18902,Kenedy,28.0,Brazil,Chelsea,0.0,0.0,0.0,,0.0,0.0
+2022,19187,J. Grealish,29.0,England,Manchester City,28.0,2062.0,5.0,7.0,4.0,0.0
+2022,19197,S. Carson,39.0,England,Manchester City,0.0,0.0,0.0,,0.0,0.0
+2022,19352,Sergi Canós,27.0,Spain,Brentford,5.0,72.0,0.0,,0.0,0.0
+2022,25004,S. Ortega,32.0,Germany,Manchester City,3.0,270.0,0.0,,0.0,0.0
+2022,41621,Matheus Nunes,26.0,Portugal,Wolves,34.0,2479.0,1.0,1.0,2.0,1.0
+2022,169295,K. Hein,22.0,Estonia,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2022,278128,J. Wilson-Esbrand,22.0,England,Manchester City,0.0,0.0,0.0,,0.0,0.0
+2022,278133,O. Bobb,21.0,Norway,Manchester City,0.0,0.0,0.0,,0.0,0.0
+2022,307123,N. O&apos;Reilly,19.0,England,Manchester City,0.0,0.0,0.0,,0.0,0.0
+2022,23,Sergio Gómez,24.0,Spain,Manchester City,12.0,340.0,0.0,1.0,0.0,0.0
+2022,83,A. Danjuma,27.0,Netherlands,Tottenham,9.0,162.0,1.0,,0.0,0.0
+2022,158,P. Gazzaniga,32.0,Argentina,Fulham,0.0,0.0,0.0,,0.0,0.0
+2022,547,D. van de Beek,27.0,Netherlands,Manchester United,7.0,164.0,0.0,,0.0,0.0
+2022,886,Diogo Dalot,25.0,Portugal,Manchester United,26.0,2155.0,1.0,2.0,6.0,0.0
+2022,889,V. Lindelöf,30.0,Sweden,Manchester United,20.0,1360.0,0.0,,1.0,0.0
+2022,891,L. Shaw,29.0,England,Manchester United,31.0,2557.0,1.0,2.0,8.0,0.0
+2022,1427,A. Sambi Lokonga,25.0,Belgium,Crystal Palace,9.0,536.0,0.0,,2.0,0.0
+2022,1464,G. Xhaka,32.0,Switzerland,Arsenal,37.0,3004.0,7.0,7.0,5.0,0.0
+2022,2061,Bryan Gil,23.0,Spain,Tottenham,4.0,148.0,0.0,1.0,1.0,0.0
+2022,2278,Marcos Alonso,34.0,Spain,Chelsea,0.0,0.0,0.0,,0.0,0.0
+2022,2778,K. Ịheanachọ,28.0,Nigeria,Leicester,28.0,1120.0,5.0,5.0,0.0,0.0
+2022,2935,H. Maguire,31.0,England,Manchester United,16.0,759.0,0.0,,4.0,0.0
+2022,18772,J. Evans,36.0,Northern Ireland,Leicester,13.0,1052.0,0.0,,1.0,0.0
+2022,18835,Vicente Guaita,37.0,Spain,Crystal Palace,27.0,2430.0,0.0,,1.0,0.0
+2022,18896,Javier Manquillo,30.0,Spain,Newcastle,4.0,33.0,0.0,,0.0,0.0
+2022,18949,Oriol Romeu,33.0,Spain,Southampton,1.0,75.0,0.0,,0.0,0.0
+2022,37145,T. Malacia,25.0,Netherlands,Manchester United,22.0,1392.0,0.0,,6.0,0.0
+2022,44811,S. McKenna,28.0,Scotland,Nottingham Forest,20.0,1573.0,0.0,,4.0,0.0
+2022,174918,L. Badé,24.0,France,Nottingham Forest,0.0,0.0,0.0,,0.0,0.0
+2022,175,E. Dier,30.0,England,Tottenham,33.0,2817.0,2.0,1.0,3.0,0.0
+2022,184,H. Kane,31.0,England,Tottenham,38.0,3408.0,30.0,3.0,6.0,0.0
+2022,295,A. Lallana,36.0,England,Brighton,16.0,729.0,2.0,1.0,0.0,0.0
+2022,665,M. Cornet,28.0,Côte d'Ivoire,West Ham,14.0,234.0,0.0,,0.0,0.0
+2022,2999,J. Bednarek,28.0,Poland,Aston Villa,3.0,99.0,0.0,,0.0,0.0
+2022,15812,P. Onuachu,30.0,Nigeria,Southampton,11.0,404.0,0.0,,0.0,0.0
+2022,18873,R. Fraser,30.0,Scotland,Newcastle,8.0,311.0,0.0,,1.0,0.0
+2022,19484,A. Armstrong,27.0,England,Southampton,30.0,1334.0,2.0,1.0,2.0,0.0
+2022,19617,M. Olise,23.0,France,Crystal Palace,37.0,2757.0,2.0,11.0,2.0,0.0
+2022,19719,J. Bree,27.0,England,Southampton,5.0,368.0,0.0,,1.0,0.0
+2022,19733,F. Downes,25.0,England,West Ham,21.0,754.0,0.0,,2.0,0.0
+2022,19825,J. Aribo,28.0,Nigeria,Southampton,21.0,1226.0,2.0,,2.0,0.0
+2022,25061,A. Bella-Kotchap,23.0,Germany,Southampton,24.0,1885.0,0.0,2.0,4.0,0.0
+2022,41104,João Palhinha,29.0,Portugal,Fulham,35.0,3113.0,3.0,,14.0,0.0
+2022,137302,C. Archer,23.0,England,Aston Villa,6.0,43.0,0.0,,0.0,0.0
+2022,138804,M. Kovář,24.0,Czechia,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2022,199837,K. Sulemana,22.0,Ghana,Southampton,18.0,967.0,2.0,1.0,1.0,0.0
+2022,231029,N. Tella,25.0,Nigeria,Southampton,0.0,0.0,0.0,,0.0,0.0
+2022,284264,Juan Larios,20.0,Spain,Southampton,5.0,151.0,0.0,,0.0,0.0
+2022,334035,S. Amo-Ameyaw,18.0,England,Southampton,1.0,3.0,0.0,,0.0,0.0
+2022,130,Nélson Semedo,31.0,Portugal,Wolves,36.0,2635.0,0.0,1.0,11.0,1.0
+2022,171,K. Walker-Peters,27.0,England,Southampton,31.0,2653.0,1.0,,4.0,0.0
+2022,925,Gonçalo Guedes,28.0,Portugal,Wolves,13.0,709.0,1.0,1.0,1.0,0.0
+2022,1165,Matheus Cunha,25.0,Brazil,Wolves,17.0,971.0,2.0,,1.0,0.0
+2022,2056,Pablo Sarabia,32.0,Spain,Wolves,13.0,768.0,1.0,,3.0,0.0
+2022,7722,S. Kalajdžić,27.0,Austria,Wolves,1.0,46.0,0.0,,0.0,0.0
+2022,18742,M. Doherty,32.0,Republic of Ireland,Tottenham,12.0,667.0,1.0,,0.0,0.0
+2022,18935,A. McCarthy,35.0,England,Southampton,6.0,540.0,0.0,,0.0,0.0
+2022,18940,J. Stephens,30.0,England,Bournemouth,15.0,1171.0,0.0,,3.0,0.0
+2022,18947,M. Lemina,31.0,Gabon,Wolves,19.0,1306.0,0.0,1.0,3.0,0.0
+2022,19147,C. Dawson,34.0,England,Wolves,17.0,1417.0,1.0,,4.0,0.0
+2022,20355,A. Ramsdale,26.0,England,Arsenal,38.0,3420.0,0.0,,1.0,0.0
+2022,21138,R. Aït-Nouri,23.0,Algeria,Wolves,21.0,1068.0,1.0,,4.0,0.0
+2022,24888,Hwang Hee-Chan,28.0,Korea Republic,Wolves,27.0,1128.0,3.0,1.0,1.0,0.0
+2022,41606,Toti Gomes,25.0,Portugal,Wolves,17.0,980.0,1.0,,6.0,0.0
+2022,105971,G. Bazunu,22.0,Republic of Ireland,Southampton,32.0,2880.0,0.0,,0.0,0.0
+2022,149564,L. Cundle,22.0,England,Wolves,0.0,0.0,0.0,,0.0,0.0
+2022,157912,B. Traoré,23.0,Mali,Wolves,10.0,406.0,0.0,1.0,2.0,0.0
+2022,195103,João Gomes,23.0,Brazil,Wolves,11.0,651.0,1.0,,5.0,0.0
+2022,195717,Y. Mosquera,23.0,Colombia,Wolves,0.0,0.0,0.0,,0.0,0.0
+2022,1468,E. Nketiah,25.0,England,Arsenal,30.0,1069.0,4.0,1.0,3.0,0.0
+2022,1590,José Sá,31.0,Portugal,Wolves,36.0,3240.0,0.0,,2.0,0.0
+2022,2490,J. Lerma,30.0,Colombia,Bournemouth,37.0,3256.0,5.0,,7.0,0.0
+2022,3339,C. Doucouré,24.0,Mali,Crystal Palace,34.0,2786.0,0.0,3.0,10.0,0.0
+2022,18806,W. Hughes,29.0,England,Crystal Palace,27.0,828.0,1.0,1.0,4.0,0.0
+2022,18823,B. Johnson,24.0,England,West Ham,17.0,859.0,0.0,,0.0,0.0
+2022,18843,J. Schlupp,32.0,Ghana,Crystal Palace,34.0,2546.0,3.0,1.0,7.0,0.0
+2022,18862,N. Clyne,33.0,England,Crystal Palace,22.0,1642.0,0.0,,3.0,0.0
+2022,19130,K. Phillips,29.0,England,Manchester City,12.0,290.0,0.0,,1.0,0.0
+2022,19143,S. Johnstone,31.0,England,Crystal Palace,9.0,810.0,0.0,,1.0,0.0
+2022,19182,A. Tuanzebe,27.0,Congo DR,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2022,19341,D. Bentley,31.0,England,Wolves,2.0,180.0,0.0,,0.0,0.0
+2022,19586,E. Eze,26.0,England,Crystal Palace,38.0,2643.0,10.0,4.0,3.0,0.0
+2022,19720,T. Chalobah,25.0,England,Chelsea,25.0,1604.0,0.0,,4.0,0.0
+2022,25927,J. Mateta,27.0,France,Crystal Palace,29.0,753.0,2.0,,3.0,0.0
+2022,126791,N. Broadhead,26.0,Wales,Everton,0.0,0.0,0.0,,0.0,0.0
+2022,126949,C. Richards,24.0,USA,Crystal Palace,9.0,442.0,0.0,,0.0,0.0
+2022,161948,L. Delap,21.0,England,Manchester City,0.0,0.0,0.0,,0.0,0.0
+2022,284428,O. Hutchinson,21.0,England,Chelsea,1.0,22.0,0.0,,0.0,0.0
+2022,301295,K. Rodney,20.0,England,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2022,894,A. Young,39.0,England,Aston Villa,29.0,2038.0,1.0,,7.0,0.0
+2022,895,J. Garner,23.0,England,Everton,16.0,795.0,0.0,1.0,3.0,0.0
+2022,1440,R. Holding,29.0,England,Arsenal,14.0,558.0,1.0,,0.0,0.0
+2022,2165,V. Mykolenko,25.0,Ukraine,Everton,34.0,2655.0,0.0,,4.0,0.0
+2022,2934,M. Keane,31.0,England,Everton,12.0,983.0,1.0,2.0,0.0,0.0
+2022,2936,J. Tarkowski,32.0,England,Everton,38.0,3420.0,1.0,1.0,6.0,0.0
+2022,2990,I. Gueye,35.0,Senegal,Everton,33.0,2594.0,0.0,1.0,7.0,0.0
+2022,18758,S. Coleman,36.0,Republic of Ireland,Everton,23.0,1663.0,1.0,,1.0,0.0
+2022,18766,D. Calvert-Lewin,27.0,England,Everton,17.0,1174.0,2.0,1.0,3.0,0.0
+2022,18805,A. Doucouré,31.0,Mali,Everton,25.0,1526.0,5.0,2.0,6.0,1.0
+2022,18847,J. Ward,35.0,England,Crystal Palace,28.0,2254.0,1.0,,6.0,0.0
+2022,18929,D. McNeil,25.0,England,Everton,36.0,2500.0,7.0,3.0,5.0,0.0
+2022,19128,J. Harrison,28.0,England,Leeds,36.0,2728.0,5.0,7.0,2.0,0.0
+2022,24882,O. Mangala,26.0,Belgium,Nottingham Forest,27.0,1557.0,1.0,1.0,3.0,0.0
+2022,50999,M. Turner,30.0,USA,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2022,67971,M. Guéhi,24.0,England,Crystal Palace,37.0,3330.0,1.0,,8.0,0.0
+2022,138417,N. Patterson,23.0,Scotland,Everton,19.0,1277.0,0.0,,3.0,0.0
+2022,138822,A. Broja,23.0,Albania,Chelsea,12.0,286.0,1.0,,0.0,0.0
+2022,182201,T. Mitchell,25.0,England,Crystal Palace,36.0,2896.0,0.0,2.0,5.0,1.0
+2022,284500,T. Iroegbunam,21.0,England,Aston Villa,0.0,0.0,0.0,,0.0,0.0
+2022,180,O. Skipp,24.0,England,Tottenham,23.0,1496.0,1.0,,7.0,0.0
+2022,182,H. Winks,28.0,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2022,1098,P. Daka,26.0,Zambia,Leicester,30.0,1181.0,4.0,4.0,2.0,0.0
+2022,1135,O. Édouard,26.0,France,Crystal Palace,35.0,1806.0,5.0,2.0,3.0,0.0
+2022,2932,J. Pickford,30.0,England,Everton,37.0,3330.0,0.0,1.0,6.0,0.0
+2022,3428,J. Ayew,33.0,Ghana,Crystal Palace,38.0,2721.0,4.0,3.0,5.0,0.0
+2022,18741,C. Coady,31.0,England,Everton,24.0,2096.0,1.0,1.0,2.0,0.0
+2022,18771,Ricardo Pereira,31.0,Portugal,Leicester,10.0,451.0,1.0,1.0,2.0,0.0
+2022,18779,H. Choudhury,27.0,England,Leicester,0.0,0.0,0.0,,0.0,0.0
+2022,18786,W. Ndidi,28.0,Nigeria,Leicester,27.0,1682.0,0.0,,4.0,0.0
+2022,18788,J. Vardy,37.0,England,Leicester,37.0,1852.0,3.0,4.0,1.0,0.0
+2022,18858,A. Begović,37.0,Bosnia and Herzegovina,Everton,1.0,90.0,0.0,,0.0,0.0
+2022,18943,J. Vestergaard,32.0,Denmark,Leicester,0.0,0.0,0.0,,0.0,0.0
+2022,19004,B. De Cordova-Reid,31.0,Jamaica,Fulham,36.0,2486.0,4.0,1.0,8.0,0.0
+2022,22233,B. Soumaré,25.0,France,Leicester,26.0,1634.0,0.0,,9.0,0.0
+2022,152969,L. Thomas,23.0,England,Leicester,17.0,1070.0,0.0,,3.0,0.0
+2022,158710,V. Kristiansen,22.0,Denmark,Leicester,12.0,895.0,0.0,1.0,2.0,0.0
+2022,283290,K. McAteer,23.0,Republic of Ireland,Leicester,0.0,0.0,0.0,,0.0,0.0
+2022,305733,W. Alves,19.0,England,Leicester,0.0,0.0,0.0,,0.0,0.0
+2022,311334,F. Buonanotte,20.0,Argentina,Brighton,13.0,563.0,1.0,1.0,2.0,0.0
+2022,17,C. Pulišić,26.0,USA,Chelsea,24.0,812.0,1.0,1.0,1.0,0.0
+2022,174,C. Eriksen,32.0,Denmark,Manchester United,28.0,2062.0,1.0,8.0,3.0,0.0
+2022,747,Casemiro,32.0,Brazil,Manchester United,28.0,2126.0,4.0,3.0,7.0,2.0
+2022,842,N. Vlašić,27.0,Croatia,West Ham,0.0,0.0,0.0,,0.0,0.0
+2022,909,M. Rashford,27.0,England,Manchester United,35.0,2889.0,17.0,5.0,2.0,0.0
+2022,1566,Emerson Royal,25.0,Brazil,Tottenham,26.0,1736.0,2.0,1.0,2.0,1.0
+2022,2292,R. Loftus-Cheek,28.0,England,Chelsea,25.0,1543.0,0.0,1.0,1.0,0.0
+2022,9971,Antony,24.0,Brazil,Manchester United,25.0,1817.0,4.0,2.0,5.0,0.0
+2022,15908,M. Damsgaard,24.0,Denmark,Brentford,26.0,980.0,0.0,,4.0,0.0
+2022,17736,D. Iversen,27.0,Denmark,Leicester,12.0,1080.0,0.0,,0.0,0.0
+2022,18146,D. Ward,31.0,Wales,Leicester,26.0,2340.0,0.0,,0.0,0.0
+2022,18911,N. Pope,32.0,England,Newcastle,37.0,3262.0,0.0,,3.0,1.0
+2022,19185,K. Davis,26.0,England,Aston Villa,0.0,0.0,0.0,,0.0,0.0
+2022,19220,M. Mount,25.0,England,Chelsea,24.0,1657.0,3.0,2.0,4.0,0.0
+2022,19524,C. Adams,28.0,Scotland,Southampton,28.0,1998.0,5.0,3.0,1.0,0.0
+2022,19760,J. Justin,26.0,England,Leicester,14.0,1254.0,0.0,,0.0,0.0
+2022,19824,J. Zemura,25.0,Zimbabwe,Bournemouth,19.0,1457.0,0.0,1.0,1.0,0.0
+2022,157997,A. Diallo,22.0,Côte d'Ivoire,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2022,284322,K. Mainoo,19.0,England,Manchester United,1.0,10.0,0.0,,0.0,0.0
+2022,284324,A. Garnacho,20.0,Argentina,Manchester United,19.0,562.0,3.0,2.0,3.0,0.0
+2022,150,Arthur,28.0,Brazil,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2022,294,N. Keïta,29.0,Guinea,Liverpool,8.0,292.0,0.0,,1.0,0.0
+2022,415,W. McKennie,26.0,USA,Leeds,19.0,1440.0,0.0,1.0,7.0,0.0
+2022,533,R. Kristensen,27.0,Denmark,Leeds,26.0,1959.0,3.0,1.0,4.0,0.0
+2022,882,David de Gea,34.0,Spain,Manchester United,38.0,3420.0,0.0,,0.0,0.0
+2022,903,S. McTominay,28.0,Scotland,Manchester United,24.0,1149.0,1.0,,8.0,0.0
+2022,1159,M. Sabitzer,30.0,Austria,Manchester United,11.0,628.0,0.0,1.0,1.0,0.0
+2022,15799,F. Onyeka,26.0,Nigeria,Brentford,21.0,843.0,0.0,2.0,0.0,0.0
+2022,18970,P. Groß,33.0,Germany,Brighton,37.0,3246.0,9.0,8.0,7.0,0.0
+2022,19073,B. Godfrey,26.0,England,Everton,13.0,803.0,0.0,1.0,2.0,0.0
+2022,26238,R. Koch,28.0,Germany,Leeds,36.0,3178.0,0.0,,7.0,0.0
+2022,26475,D. Undav,28.0,Germany,Brighton,22.0,618.0,5.0,,2.0,0.0
+2022,30544,G. Scamacca,25.0,Italy,West Ham,16.0,929.0,3.0,,3.0,0.0
+2022,37122,M. Bero,29.0,Slovakia,Vitesse,0.0,0.0,0.0,,0.0,0.0
+2022,41577,Nuno Tavares,24.0,Portugal,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2022,47522,Douglas Luiz,26.0,Brazil,Aston Villa,37.0,2933.0,6.0,6.0,6.0,1.0
+2022,130423,B. Gilmour,23.0,Scotland,Brighton,14.0,506.0,0.0,1.0,1.0,0.0
+2022,148284,B. Białek,23.0,Poland,Vitesse,0.0,0.0,0.0,,0.0,0.0
+2022,156490,N. Nkounkou,24.0,France,Everton,0.0,0.0,0.0,,0.0,0.0
+2022,280334,G. Vidović,21.0,Croatia,Vitesse,0.0,0.0,0.0,,0.0,0.0
+2022,261,T. Kehrer,28.0,Germany,West Ham,27.0,2230.0,0.0,2.0,4.0,0.0
+2022,662,T. Ndombélé,28.0,France,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2022,1456,A. Maitland-Niles,27.0,England,Southampton,22.0,1404.0,0.0,,3.0,0.0
+2022,1902,D. Ćaleta-Car,28.0,Croatia,Southampton,13.0,945.0,1.0,,2.0,0.0
+2022,1914,M. Sanson,30.0,France,Aston Villa,2.0,9.0,0.0,,0.0,0.0
+2022,2810,D. Zakaria,28.0,Switzerland,Chelsea,7.0,413.0,0.0,,0.0,0.0
+2022,3240,J. Gbamin,29.0,Côte d'Ivoire,Everton,0.0,0.0,0.0,,0.0,0.0
+2022,3247,W. Zaha,32.0,Côte d'Ivoire,Crystal Palace,27.0,2294.0,7.0,2.0,5.0,0.0
+2022,18765,André Gomes,31.0,Portugal,Everton,0.0,0.0,0.0,,0.0,0.0
+2022,18785,N. Mendy,32.0,Senegal,Leicester,19.0,749.0,1.0,,1.0,0.0
+2022,19361,S. Benrahma,29.0,Algeria,West Ham,35.0,2070.0,6.0,3.0,0.0,0.0
+2022,19364,N. Maupay,28.0,France,Everton,27.0,1113.0,1.0,,4.0,0.0
+2022,21636,F. Guilbert,30.0,France,Aston Villa,0.0,0.0,0.0,,0.0,0.0
+2022,22166,M. Sarr,25.0,France,Chelsea,0.0,0.0,0.0,,0.0,0.0
+2022,25916,M. Niakhaté,28.0,Senegal,Nottingham Forest,14.0,1166.0,0.0,,1.0,0.0
+2022,31057,H. Traorè,24.0,Côte d'Ivoire,Bournemouth,7.0,429.0,0.0,,0.0,0.0
+2022,47480,M. Salisu,25.0,Ghana,Southampton,22.0,1973.0,0.0,1.0,5.0,0.0
+2022,138835,F. Balogun,23.0,USA,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2022,152418,N. Ahamada,22.0,France,Crystal Palace,8.0,86.0,0.0,,1.0,0.0
+2022,190686,S. Mara,22.0,France,Southampton,22.0,540.0,1.0,2.0,1.0,0.0
+2022,207,I. Perišić,35.0,Croatia,Tottenham,34.0,2110.0,1.0,8.0,6.0,0.0
+2022,292,J. Henderson,34.0,England,Liverpool,35.0,2075.0,0.0,2.0,2.0,0.0
+2022,691,Tetê,24.0,Brazil,Leicester,13.0,739.0,1.0,,0.0,0.0
+2022,1370,A. Ayew,35.0,Ghana,Nottingham Forest,13.0,305.0,0.0,,1.0,0.0
+2022,1649,P. Cutrone,26.0,Italy,Wolves,0.0,0.0,0.0,,0.0,0.0
+2022,2473,M. Lanzini,31.0,Argentina,West Ham,10.0,245.0,1.0,,0.0,0.0
+2022,18893,F. Fernández,35.0,Argentina,Newcastle,0.0,0.0,0.0,,0.0,0.0
+2022,19043,T. Kongolo,30.0,Netherlands,Fulham,0.0,0.0,0.0,,0.0,0.0
+2022,19307,Léo Bonatini,30.0,Brazil,Wolves,0.0,0.0,0.0,,0.0,0.0
+2022,19309,J. Lolley,32.0,England,Nottingham Forest,0.0,0.0,0.0,,0.0,0.0
+2022,30471,M. Dijks,31.0,Netherlands,Vitesse,0.0,0.0,0.0,,0.0,0.0
+2022,37130,T. Buitink,24.0,Netherlands,Vitesse,0.0,0.0,0.0,,0.0,0.0
+2022,37276,K. Scherpen,24.0,Netherlands,Brighton,0.0,0.0,0.0,,0.0,0.0
+2022,46792,Pablo Marí,31.0,Spain,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2022,92987,J. Houwen,28.0,Netherlands,Vitesse,0.0,0.0,0.0,,0.0,0.0
+2022,278232,P. Ekwah,22.0,France,West Ham,0.0,0.0,0.0,,0.0,0.0
+2022,280687,Hugo Bueno,22.0,Spain,Wolves,21.0,1314.0,0.0,1.0,1.0,0.0
+2022,284295,Zidane Iqbal,21.0,Iraq,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2022,310187,Stefan Bajčetić,20.0,Spain,Liverpool,11.0,527.0,1.0,,2.0,0.0
+2022,334729,B. Clark,19.0,England,Liverpool,1.0,7.0,0.0,,0.0,0.0
+2022,908,A. Martial,29.0,France,Manchester United,21.0,979.0,6.0,2.0,0.0,0.0
+2022,1835,T. Strakosha,29.0,Albania,Brentford,0.0,0.0,0.0,,0.0,0.0
+2022,2294,Willian,36.0,Brazil,Fulham,27.0,2142.0,5.0,5.0,2.0,0.0
+2022,17715,S. Alzate,26.0,Colombia,Brighton,0.0,0.0,0.0,,0.0,0.0
+2022,18740,Jonny,30.0,Spain,Wolves,18.0,1262.0,1.0,,3.0,1.0
+2022,19016,C. Chambers,29.0,England,Aston Villa,14.0,342.0,0.0,,2.0,0.0
+2022,19454,B. Pearson,29.0,England,Bournemouth,7.0,285.0,0.0,,1.0,0.0
+2022,19964,S. Dembélé,28.0,Scotland,Bournemouth,6.0,104.0,0.0,,0.0,0.0
+2022,70078,F. Pellistri,23.0,Uruguay,Manchester United,4.0,60.0,0.0,,0.0,0.0
+2022,84081,G. Biancone,24.0,France,Nottingham Forest,2.0,16.0,0.0,,0.0,0.0
+2022,137220,A. Moran,21.0,Republic of Ireland,Brighton,1.0,11.0,0.0,,0.0,0.0
+2022,138786,E. Simms,23.0,England,Everton,11.0,221.0,1.0,,0.0,0.0
+2022,152977,L. Stewart,22.0,England,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2022,153400,S. Greenwood,22.0,England,Leeds,18.0,411.0,1.0,2.0,1.0,0.0
+2022,153411,C. Drameh,23.0,England,Leeds,1.0,70.0,0.0,,0.0,0.0
+2022,163054,S. Shoretire,20.0,England,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2022,215874,T. Cannon,22.0,Republic of Ireland,Everton,2.0,23.0,0.0,,0.0,0.0
+2022,272730,M. Manhoef,22.0,Netherlands,Vitesse,0.0,0.0,0.0,,0.0,0.0
+2022,288109,A. Robertson,21.0,Australia,Manchester City,0.0,0.0,0.0,,0.0,0.0
+2022,328808,M. Ebiowei,21.0,England,Crystal Palace,3.0,31.0,0.0,,0.0,0.0
+2022,18762,T. Davies,26.0,England,Everton,19.0,528.0,0.0,,3.0,0.0
+2022,18803,N. Chalobah,30.0,England,Fulham,4.0,10.0,0.0,,0.0,1.0
+2022,18817,A. Ogbonna,36.0,Italy,West Ham,16.0,1236.0,0.0,,0.0,0.0
+2022,18942,Y. Valery,25.0,Tunisia,Southampton,1.0,46.0,0.0,,0.0,0.0
+2022,18962,S. Duffy,32.0,Republic of Ireland,Brighton,0.0,0.0,0.0,,0.0,0.0
+2022,19015,J. Bryan,31.0,England,Fulham,0.0,0.0,0.0,,0.0,0.0
+2022,19116,L. Ayling,33.0,England,Leeds,29.0,2048.0,2.0,1.0,3.0,0.0
+2022,19150,M. Holgate,28.0,Jamaica,Everton,8.0,507.0,0.0,,2.0,0.0
+2022,19356,E. Marcondes,29.0,Denmark,Bournemouth,1.0,8.0,0.0,,0.0,0.0
+2022,19769,J. Stacey,28.0,England,Bournemouth,10.0,293.0,0.0,,2.0,0.0
+2022,19860,M. Clarke,28.0,England,Brighton,0.0,0.0,0.0,,0.0,0.0
+2022,19866,J. Lowe,30.0,Jamaica,Bournemouth,2.0,10.0,0.0,,0.0,0.0
+2022,39243,S. Tronstad,29.0,Norway,Vitesse,0.0,0.0,0.0,,0.0,0.0
+2022,127472,N. Phillips,27.0,England,Liverpool,2.0,66.0,0.0,,0.0,0.0
+2022,149550,J. Tanganga,25.0,England,Tottenham,4.0,146.0,0.0,,0.0,0.0
+2022,215873,A. Gilbert,23.0,Republic of Ireland,Brentford,0.0,0.0,0.0,,0.0,0.0
+2022,284356,S. Charles,21.0,Northern Ireland,Manchester City,1.0,27.0,0.0,,0.0,0.0
+2022,304320,D. Ozoh,19.0,England,Crystal Palace,1.0,0.0,0.0,,0.0,0.0
+2022,309501,A. Cozier-Duberry,19.0,England,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2022,343576,B. Doak,19.0,Scotland,Liverpool,2.0,24.0,0.0,,0.0,0.0
+2022,697,M. Solomon,25.0,Israel,Fulham,19.0,560.0,4.0,,0.0,0.0
+2022,1564,J. Firpo,28.0,Dominican Republic,Leeds,19.0,1368.0,1.0,1.0,6.0,0.0
+2022,2048,M. Wöber,26.0,Austria,Leeds,16.0,1264.0,0.0,,3.0,0.0
+2022,2279,E. Ampadu,24.0,Wales,Chelsea,0.0,0.0,0.0,,0.0,0.0
+2022,19134,P. Bamford,31.0,England,Leeds,28.0,1521.0,4.0,2.0,3.0,0.0
+2022,19329,D. James,27.0,Wales,Fulham,20.0,611.0,2.0,1.0,0.0,0.0
+2022,19482,J. Rothwell,29.0,England,Bournemouth,20.0,1018.0,0.0,1.0,2.0,0.0
+2022,19569,J. Gelhardt,22.0,England,Leeds,15.0,200.0,0.0,2.0,1.0,0.0
+2022,20079,H. Souttar,26.0,Australia,Leicester,12.0,991.0,0.0,1.0,2.0,0.0
+2022,20619,I. Meslier,24.0,France,Leeds,34.0,3060.0,0.0,,3.0,0.0
+2022,50739,B. Aaronson,24.0,USA,Leeds,36.0,2384.0,1.0,3.0,2.0,0.0
+2022,64003,P. Struijk,25.0,Netherlands,Leeds,29.0,2204.0,2.0,1.0,5.0,0.0
+2022,162128,W. Gnonto,21.0,Italy,Leeds,24.0,1350.0,2.0,4.0,7.0,0.0
+2022,180560,H. Mejbri,21.0,Tunisia,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2022,196855,J. Anthony,25.0,England,Bournemouth,30.0,1245.0,3.0,1.0,2.0,0.0
+2022,202086,J. Sarmiento,22.0,Ecuador,Brighton,9.0,169.0,0.0,1.0,1.0,0.0
+2022,284406,A. Gilchrist,21.0,England,Chelsea,0.0,0.0,0.0,,0.0,0.0
+2022,284449,J. Rak-Sakyi,22.0,England,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2022,313059,Mateo Joseph,21.0,Spain,Leeds,3.0,23.0,0.0,,0.0,0.0
+2022,334734,J. Debayo,19.0,England,Leeds,0.0,0.0,0.0,,0.0,0.0
+2022,76,M. Nakamba,30.0,Zimbabwe,Aston Villa,0.0,0.0,0.0,,0.0,0.0
+2022,638,I. Poveda,24.0,Colombia,Leeds,0.0,0.0,0.0,,0.0,0.0
+2022,906,T. Chong,25.0,Netherlands,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2022,1746,J. Worrall,27.0,England,Nottingham Forest,30.0,2216.0,1.0,,6.0,0.0
+2022,18863,S. Cook,33.0,England,Nottingham Forest,12.0,959.0,0.0,,4.0,0.0
+2022,18866,C. Mepham,27.0,Wales,Bournemouth,26.0,2198.0,0.0,,7.0,0.0
+2022,18903,M. Ritchie,35.0,Scotland,Newcastle,7.0,32.0,0.0,,0.0,0.0
+2022,18948,N. Redmond,30.0,England,Southampton,1.0,0.0,0.0,,0.0,0.0
+2022,19127,A. Forshaw,33.0,England,Leeds,12.0,477.0,0.0,,0.0,0.0
+2022,19299,J. Colback,35.0,England,Nottingham Forest,11.0,492.0,0.0,,0.0,0.0
+2022,20110,S. Baptiste,26.0,Grenada,Brentford,23.0,604.0,0.0,1.0,2.0,0.0
+2022,25114,M. Schubert,26.0,Germany,Vitesse,0.0,0.0,0.0,,0.0,0.0
+2022,153429,T. Mengi,22.0,England,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2022,171058,H. Ashby,23.0,Scotland,Newcastle,0.0,0.0,0.0,,0.0,0.0
+2022,180289,C. Saydee,22.0,England,Bournemouth,0.0,0.0,0.0,,0.0,0.0
+2022,181797,B. Humphreys,21.0,England,Chelsea,0.0,0.0,0.0,,0.0,0.0
+2022,284414,R. Mundle,21.0,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2022,284446,F. Potts,21.0,England,West Ham,0.0,0.0,0.0,,0.0,0.0
+2022,297187,L. Hjelde,21.0,Norway,Leeds,0.0,0.0,0.0,,0.0,0.0
+2022,309505,R. Walters,20.0,England,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2022,54,Diego Costa,36.0,Spain,Wolves,23.0,1248.0,1.0,,5.0,1.0
+2022,178,Lucas Moura,32.0,Brazil,Tottenham,15.0,139.0,1.0,,0.0,1.0
+2022,259,Thiago Silva,40.0,Brazil,Chelsea,27.0,2352.0,0.0,2.0,2.0,0.0
+2022,326,Allan,33.0,Brazil,Everton,0.0,0.0,0.0,,0.0,0.0
+2022,378,Alex Telles,32.0,Brazil,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2022,632,C. Gomes,24.0,France,Manchester City,0.0,0.0,0.0,,0.0,0.0
+2022,900,J. Lingard,32.0,England,Nottingham Forest,17.0,928.0,0.0,,1.0,0.0
+2022,9926,Gustavo Scarpa,30.0,Brazil,Nottingham Forest,6.0,179.0,0.0,,1.0,0.0
+2022,18751,Ivan Cavaleiro,31.0,Angola,Fulham,0.0,0.0,0.0,,0.0,0.0
+2022,18885,K. Darlow,34.0,Wales,Newcastle,0.0,0.0,0.0,,0.0,0.0
+2022,19076,J. Lewis,26.0,Northern Ireland,Newcastle,2.0,9.0,0.0,,0.0,0.0
+2022,19195,A. El Ghazi,29.0,Netherlands,Aston Villa,0.0,0.0,0.0,,0.0,0.0
+2022,30476,Lyanco,27.0,Brazil,Southampton,21.0,1172.0,1.0,1.0,4.0,0.0
+2022,36865,M. Meulensteen,25.0,Netherlands,Vitesse,0.0,0.0,0.0,,0.0,0.0
+2022,51572,M. Viña,27.0,Uruguay,Bournemouth,12.0,454.0,2.0,,1.0,0.0
+2022,195993,C. Alcaraz,22.0,Argentina,Southampton,18.0,1035.0,4.0,2.0,3.0,0.0
+2022,282124,D. Gyabi,20.0,England,Leeds,1.0,7.0,0.0,,0.0,0.0
+2022,284248,M. Frauendorf,20.0,Germany,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2022,284415,Yago Santiago,21.0,Spain,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2022,286373,M. Sankoh,21.0,Netherlands,Vitesse,0.0,0.0,0.0,,0.0,0.0
+2022,147,Philippe Coutinho,32.0,Brazil,Aston Villa,20.0,781.0,1.0,,3.0,0.0
+2022,159,H. Lloris,38.0,France,Tottenham,25.0,2206.0,0.0,,0.0,0.0
+2022,299,Fabinho,31.0,Brazil,Liverpool,36.0,2677.0,0.0,2.0,11.0,0.0
+2022,622,Aymeric Laporte,30.0,Spain,Manchester City,12.0,993.0,0.0,,0.0,0.0
+2022,874,Cristiano Ronaldo,39.0,Portugal,Manchester United,10.0,520.0,1.0,,2.0,0.0
+2022,1605,Daniel Podence,29.0,Portugal,Wolves,32.0,1771.0,6.0,,5.0,0.0
+2022,2290,N. Kanté,33.0,France,Chelsea,7.0,520.0,0.0,1.0,1.0,0.0
+2022,2825,A. Mitrović,30.0,Serbia,Fulham,24.0,2015.0,14.0,1.0,7.0,0.0
+2022,2928,C. Benteke,34.0,Belgium,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2022,3008,M. Klich,34.0,Poland,Leeds,14.0,266.0,0.0,,2.0,0.0
+2022,18884,S. Surridge,26.0,England,Nottingham Forest,20.0,305.0,1.0,,2.0,0.0
+2022,18945,S. Armstrong,32.0,Scotland,Southampton,32.0,1403.0,2.0,1.0,6.0,0.0
+2022,19023,T. Ream,37.0,USA,Fulham,33.0,2899.0,1.0,,2.0,0.0
+2022,20503,L. O&apos;Brien,26.0,England,Nottingham Forest,13.0,580.0,1.0,,2.0,0.0
+2022,30776,C. Romero,26.0,Argentina,Tottenham,2.0,180.0,0.0,1.0,0.0,0.0
+2022,50816,R. Laryea,29.0,Canada,Nottingham Forest,0.0,0.0,0.0,,0.0,0.0
+2022,61178,C. Ronan,26.0,Republic of Ireland,Wolves,1.0,0.0,0.0,,0.0,0.0
+2022,70767,B. Ojeda,24.0,Paraguay,Nottingham Forest,0.0,0.0,0.0,,0.0,0.0
+2022,130419,M. Longstaff,24.0,England,Newcastle,0.0,0.0,0.0,,0.0,0.0
+2022,276263,F. Stevens,21.0,Wales,Brentford,0.0,0.0,0.0,,0.0,0.0
+2022,168,D. Sánchez,28.0,Colombia,Tottenham,18.0,852.0,0.0,,1.0,0.0
+2022,297,A. Oxlade-Chamberlain,31.0,England,Liverpool,9.0,334.0,1.0,,0.0,0.0
+2022,318,K. Koulibaly,33.0,Senegal,Chelsea,23.0,1800.0,2.0,1.0,6.0,0.0
+2022,548,H. Ziyech,31.0,Morocco,Chelsea,18.0,653.0,0.0,3.0,1.0,0.0
+2022,566,Ferro,27.0,Portugal,Vitesse,0.0,0.0,0.0,,0.0,0.0
+2022,855,João Cancelo,30.0,Portugal,Manchester City,17.0,1279.0,2.0,1.0,3.0,1.0
+2022,905,Fred,31.0,Brazil,Manchester United,35.0,1233.0,2.0,2.0,6.0,0.0
+2022,1558,Joel Robles,34.0,Spain,Leeds,4.0,360.0,0.0,,1.0,0.0
+2022,2676,Rúben Neves,27.0,Portugal,Wolves,35.0,3020.0,6.0,1.0,12.0,0.0
+2022,2677,João Moutinho,38.0,Portugal,Wolves,31.0,1784.0,0.0,2.0,3.0,0.0
+2022,2726,K. Zouma,30.0,France,West Ham,25.0,1991.0,2.0,,0.0,0.0
+2022,2927,M. Batshuayi,31.0,Belgium,Chelsea,0.0,0.0,0.0,,0.0,0.0
+2022,10122,Renan Lodi,26.0,Brazil,Nottingham Forest,28.0,2222.0,0.0,1.0,7.0,0.0
+2022,18752,Hélder Costa,30.0,Angola,Leeds,0.0,0.0,0.0,,0.0,0.0
+2022,18776,Ç. Söyüncü,28.0,Türkiye,Leicester,7.0,529.0,1.0,,2.0,0.0
+2022,18904,J. Shelvey,32.0,England,Nottingham Forest,8.0,542.0,0.0,,2.0,0.0
+2022,19610,O. Richards,26.0,England,Nottingham Forest,0.0,0.0,0.0,,0.0,0.0
+2022,22173,A. Saint-Maximin,27.0,France,Newcastle,25.0,1117.0,1.0,5.0,1.0,0.0
+2022,41725,Fábio Vieira,24.0,Portugal,Arsenal,22.0,499.0,1.0,2.0,0.0,0.0
+2022,291476,D. Fofana,22.0,Côte d'Ivoire,Chelsea,3.0,69.0,0.0,,0.0,0.0
+2022,302,Roberto Firmino,33.0,Brazil,Liverpool,25.0,1211.0,11.0,4.0,0.0,0.0
+2022,635,R. Mahrez,33.0,Algeria,Manchester City,30.0,1923.0,5.0,10.0,2.0,0.0
+2022,1330,M. Oršić,32.0,Croatia,Southampton,1.0,6.0,0.0,,0.0,0.0
+2022,1465,P. Aubameyang,35.0,Gabon,Chelsea,15.0,550.0,1.0,,1.0,0.0
+2022,2114,M. Djenepo,26.0,Mali,Southampton,16.0,706.0,0.0,2.0,1.0,0.0
+2022,2731,M. Jørgensen,34.0,Denmark,Brentford,18.0,1098.0,0.0,,2.0,0.0
+2022,2922,L. Dendoncker,29.0,Belgium,Aston Villa,20.0,689.0,0.0,,0.0,0.0
+2022,2986,É. Mendy,32.0,Senegal,Chelsea,10.0,854.0,0.0,,1.0,0.0
+2022,18781,D. Gray,28.0,Jamaica,Everton,33.0,2512.0,4.0,1.0,3.0,0.0
+2022,18854,A. Townsend,33.0,England,Everton,0.0,0.0,0.0,,0.0,0.0
+2022,19657,M. Rodák,28.0,Slovakia,Fulham,2.0,180.0,0.0,,0.0,0.0
+2022,19974,I. Toney,28.0,England,Brentford,33.0,2955.0,20.0,4.0,9.0,0.0
+2022,22265,Nuno da Costa,33.0,Cape Verde,Nottingham Forest,0.0,0.0,0.0,,0.0,0.0
+2022,37440,H. Dervişoğlu,25.0,Türkiye,Brentford,1.0,7.0,0.0,,0.0,0.0
+2022,40401,Cafú,31.0,Portugal,Nottingham Forest,1.0,6.0,0.0,,0.0,0.0
+2022,64304,K. Kozłowski,21.0,Poland,Vitesse,0.0,0.0,0.0,,0.0,0.0
+2022,273757,A. Devine,20.0,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2022,278085,S. Edozie,21.0,England,Southampton,17.0,559.0,0.0,,0.0,0.0
+2022,282903,D. van den Heuvel,21.0,Netherlands,Leeds,0.0,0.0,0.0,,0.0,0.0
+2022,284267,I. Price,21.0,Northern Ireland,Everton,1.0,32.0,0.0,,1.0,0.0
+2022,279,L. Mbe Soh,23.0,France,Nottingham Forest,0.0,0.0,0.0,,0.0,0.0
+2022,1131,A. Oko-Flex,22.0,Republic of Ireland,West Ham,0.0,0.0,0.0,,0.0,0.0
+2022,1853,Bruno Jordão,26.0,Portugal,Wolves,0.0,0.0,0.0,,0.0,0.0
+2022,2852,L. Augustinsson,30.0,Sweden,Aston Villa,3.0,76.0,0.0,,1.0,0.0
+2022,2925,D. Praet,30.0,Belgium,Leicester,22.0,639.0,1.0,,1.0,0.0
+2022,2930,J. Butland,31.0,England,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2022,17448,J. Smith,30.0,England,Nottingham Forest,0.0,0.0,0.0,,0.0,0.0
+2022,18745,Rúben Vinagre,25.0,Portugal,Everton,2.0,24.0,0.0,,0.0,0.0
+2022,18853,J. Riedewald,28.0,Netherlands,Crystal Palace,6.0,58.0,0.0,,0.0,0.0
+2022,19124,P. Jansson,33.0,Sweden,Brentford,12.0,723.0,1.0,,0.0,0.0
+2022,19350,L. Račić,25.0,Denmark,Brentford,0.0,0.0,0.0,,0.0,0.0
+2022,56296,N. Frederiksen,24.0,Denmark,Vitesse,0.0,0.0,0.0,,0.0,0.0
+2022,60353,M. Paskotši,21.0,Estonia,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2022,106086,K. Balmer,24.0,Northern Ireland,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2022,144723,K. Hegyi,22.0,Hungary,West Ham,0.0,0.0,0.0,,0.0,0.0
+2022,169291,V. Sinisalo,23.0,Finland,Aston Villa,0.0,0.0,0.0,,0.0,0.0
+2022,270357,K. Phillips,22.0,Republic of Ireland,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2022,284237,D. Lembikisa,21.0,Jamaica,Wolves,1.0,22.0,0.0,,0.0,0.0
+2022,287111,F. Mrozek,21.0,Poland,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2022,289624,S. Braybrooke,20.0,England,Leicester,0.0,0.0,0.0,,0.0,0.0
+2022,151754,L. Clarkson,23.0,England,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2022,152949,D. Simeu,22.0,England,Southampton,0.0,0.0,0.0,,0.0,0.0

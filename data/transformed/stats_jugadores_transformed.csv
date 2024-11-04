@@ -1,0 +1,415 @@
+temporada,id_jugador,nombre_jugador,edad,nacionalidad,equipo,partidos_jugados,minutos,goles,tarjetas_amarillas,tarjetas_rojas
+2005,18099,Darren Carter,38,England,West Bromwich Albion,20,1102,1,2,0
+2005,18826,M. Noble,35,England,West Ham United,5,325,0,2,0
+2005,19332,W. Routledge,36,England,Portsmouth FC,13,434,0,0,0
+2005,19526,C. Gardner,34,England,Aston Villa,8,299,0,2,0
+2005,44326,Ali Al Habsi,40,Oman,Bolton Wanderers,0,0,0,0,0
+2005,90505,S. Taylor,41,England,Aston Villa,2,180,0,0,0
+2005,90511,Victor Chinedu Anichebe,29,Nigeria,Everton FC,2,28,1,0,0
+2005,114743,K. Nolan,39,England,Bolton Wanderers,36,3114,9,7,0
+2005,114818,Titus Malachi Bramble,32,England,Newcastle United,24,1944,2,4,0
+2005,115941,Stuart Parnaby,33,England,Middlesbrough FC,20,1650,2,1,0
+2005,115964,J. Greening,42,England,West Bromwich Albion,38,3302,2,2,0
+2005,115988,M. Bent,43,England,Charlton Athletic,13,982,2,0,0
+2005,116996,N. Pamarot,42,France,Portsmouth FC,8,452,0,0,0
+2005,117390,Gregory Vignal,33,France,Portsmouth FC,14,1172,0,3,0
+2005,117513,Y. Folly,36,Togo,Southampton FC,14,0,0,0,0
+2005,155214,Julio Arca,38,Argentina,Sunderland AFC,24,1979,1,5,0
+2005,167501,Mathew Birley,33,England,Birmingham City,1,25,0,0,0
+2005,231014,S. Davis,42,England,Portsmouth FC,17,1240,1,1,0
+2005,233992,J. Clapham,46,England,Birmingham City,16,1204,1,2,0
+2005,280956,Alan Stubbs,42,England,Everton FC,13,1139,0,2,0
+2005,18032,Jon Stead,38,England,Sunderland AFC,30,1697,1,3,0
+2005,18494,Matthew Bates,33,England,Middlesbrough FC,16,1048,0,4,0
+2005,19581,J. Lynch,36,Wales,Brighton & Hove Albion,0,0,0,0,0
+2005,19899,L. Cattermole,32,England,Middlesbrough FC,13,966,1,4,0
+2005,19904,Grant Leadbitter,35,England,Sunderland AFC,12,748,0,2,0
+2005,20292,Mathew John Sadler,37,England,Birmingham City,8,720,0,1,0
+2005,45001,A. Ferdinand,36,England,West Ham United,33,2884,2,5,0
+2005,45024,Andrew  Davies,36,England,Middlesbrough FC,12,569,0,0,0
+2005,50978,J. Hoyte,36,Trinidad and Tobago,Sunderland AFC,27,2376,1,2,0
+2005,51199,N. Onuoha,35,England,Manchester City,10,721,0,1,0
+2005,83020,L. Rosenior,37,England,Fulham FC,24,1986,0,5,0
+2005,87873,J. Thomas,38,England,Charlton Athletic,24,1398,1,1,0
+2005,101798,Williams Guillermo Martínez Fracchia,39,Uruguay,West Bromwich Albion,2,134,1,1,0
+2005,106724,Tommy Miller,40,England,Sunderland AFC,29,2316,3,4,0
+2005,114755,Tony Hibbert,35,England,Everton FC,29,2568,0,8,0
+2005,114814,Luke  Moore,30,England,Aston Villa,27,1480,8,1,0
+2005,114833,H. Ephraim,33,England,West Ham United,1,0,0,0,0
+2005,115933,M. Harewood,42,England,West Ham United,36,2818,14,5,0
+2005,230938,J. Ashdown,41,England,Portsmouth FC,17,1530,0,0,0
+2005,230940,Martin Taylor,42,England,Birmingham City,21,1800,0,1,0
+2005,17898,Jimmy Dean Smith,35,England,Chelsea FC,1,9,0,0,0
+2005,19879,James Vaughan,33,England,Everton FC,1,13,0,0,0
+2005,50970,B. Wright-Phillips,36,England,Manchester City,18,321,1,1,0
+2005,82894,J. Walker,48,England,West Ham United,3,270,0,0,0
+2005,87790,J. Jackson,39,England,Tottenham Hotspur,1,44,0,0,0
+2005,87798,N. Reo-Coker,37,England,West Ham United,31,2731,5,3,0
+2005,87842,L. Croft,36,England,Manchester City,21,632,1,1,0
+2005,106733,Lenny Pidgeley,35,England,Chelsea FC,1,90,0,0,0
+2005,113811,D. Traoré,41,Mali,Liverpool FC,14,795,0,1,0
+2005,114849,Zak Whitbread,32,USA,Liverpool FC,0,0,0,0,0
+2005,230906,D. Ambrose,37,England,Charlton Athletic,27,1673,3,2,1
+2005,230909,N. Nosworthy,41,Jamaica,Sunderland AFC,30,2251,0,5,0
+2005,230912,R. Lee,39,England,Blackburn Rovers,0,0,0,0,0
+2005,230964,Marcos Painter,28,England,Birmingham City,4,205,0,0,0
+2005,231257,T. Caig,47,England,Newcastle United,0,0,0,0,0
+2005,231261,D. Leacock,37,England,Fulham FC,5,417,0,1,0
+2005,231359,R. Jones,35,England,Manchester United,0,0,0,0,0
+2005,231503,Neil Mellor,31,England,Wigan Athletic,3,246,1,1,0
+2005,232241,J. Gray,42,England,Birmingham City,21,1693,1,1,0
+2005,240294,Ryan Smith,27,England,Arsenal FC,0,0,0,0,0
+2005,19417,L. Ridgewell,37,England,Aston Villa,32,2729,5,6,0
+2005,20014,S. Bywater,40,England,West Ham United,1,30,0,0,0
+2005,20080,R. Taylor,37,England,Wigan Athletic,11,380,0,2,0
+2005,20731,Anthony Le Tallec,37,France,Sunderland AFC,27,1235,4,0,0
+2005,37893,M. El Hamdaoui,37,Morocco,Tottenham Hotspur,0,0,0,0,0
+2005,87780,Lloyd Ekow Sam,37,Ghana,Charlton Athletic,2,75,0,0,0
+2005,94031,Quincy Owusu-Abeyie,30,Ghana,Arsenal FC,4,43,0,0,0
+2005,99038,Collins Ntofontofo Mbesuma,38,Zambia,Portsmouth FC,4,51,0,0,0
+2005,110275,Zeshan Rehman,37,Pakistan,Fulham FC,3,270,0,1,0
+2005,114760,Steve Harper,41,England,Newcastle United,1,0,0,0,0
+2005,114792,A. Fayé,43,Senegal,Bolton Wanderers,27,2012,1,7,0
+2005,114797,Joseph Phillip Yobo,34,Nigeria,Everton FC,29,2610,1,1,0
+2005,114878,Salif Alassane Diao,36,Senegal,Portsmouth FC,10,639,0,3,0
+2005,117003,Frédéric Oumar Kanouté,36,Mali,Tottenham Hotspur,1,9,0,0,0
+2005,117530,M. Chopra,38,England,Newcastle United,13,592,1,0,0
+2005,117973,Nwankwo Christian Kanu,37,Nigeria,West Bromwich Albion,25,1598,5,0,0
+2005,145607,Giannis Skopelitis,43,Greece,Portsmouth FC,5,71,0,1,0
+2005,230965,P. Diop,43,Senegal,Fulham FC,22,1814,2,6,0
+2005,230994,A. Griffin,42,England,Portsmouth FC,22,1772,0,6,0
+2005,230999,J. Bullard,43,England,Wigan Athletic,36,3136,4,0,0
+2005,44837,J. Spector,35,USA,Charlton Athletic,20,1247,0,1,0
+2005,49861,Emmanuel Adebayor,36,Togo,Arsenal FC,13,1005,4,0,0
+2005,78738,Ricardo Vaz Tê,35,Portugal,Bolton Wanderers,22,834,3,3,0
+2005,82138,Shola Ameobi,37,Nigeria,Newcastle United,30,2138,9,4,0
+2005,88681,K. Chalkias,47,Greece,Portsmouth FC,0,0,0,0,0
+2005,89051,Z. Gera,42,Hungary,West Bromwich Albion,15,1086,2,1,0
+2005,104323,Young-Pyo Lee,37,Korea Republic,Tottenham Hotspur,31,2734,0,2,0
+2005,113823,Carlos Manuel Bocanegra,35,USA,Fulham FC,21,1831,1,5,0
+2005,114745,Mikel Arteta Amatriain,34,Spain,Everton FC,29,2380,1,5,0
+2005,114827,M. Pollitt,49,England,Wigan Athletic,24,2114,0,0,0
+2005,114869,Heiðar Helguson,45,Iceland,Fulham FC,27,1386,8,4,0
+2005,114900,Manuel Almunia Rivero,37,Spain,Arsenal FC,0,0,0,0,0
+2005,115707,G. Sorondo,42,Uruguay,Charlton Athletic,7,589,0,2,0
+2005,115959,D. Kamara,41,Senegal,West Bromwich Albion,25,1776,1,3,0
+2005,118028,S. Elliott,47,New Zealand,Fulham FC,12,1001,0,1,0
+2005,124634,Z. Khizanishvili,40,Georgia,Blackburn Rovers,26,2212,1,2,0
+2005,155779,I. Pearce,47,England,Fulham FC,10,900,0,0,0
+2005,232646,J. Fortune,41,England,Charlton Athletic,11,735,0,2,0
+2005,255383,J. Colin,40,Netherlands,Norwich City,24,0,0,0,0
+2005,258155,H. Camara,44,Senegal,Wigan Athletic,29,2278,12,0,0
+2005,19609,J. O&apos;Shea,38,Republic of Ireland,Manchester United,34,2836,1,5,0
+2005,29848,A. Stokes,32,Republic of Ireland,Arsenal FC,1,0,0,0,0
+2005,32138,Massimo Maccarone,41,Italy,Middlesbrough FC,16,671,2,3,0
+2005,44780,A. Bruce,37,Northern Ireland,Birmingham City,6,275,0,1,0
+2005,83259,S. Kelly,38,Republic of Ireland,Tottenham Hotspur,9,779,0,0,0
+2005,87893,L. Lawrence,40,Republic of Ireland,Sunderland AFC,29,1806,3,0,0
+2005,90512,R. Huth,37,Germany,Chelsea FC,13,534,0,3,0
+2005,106799,Michael Essien,38,Ghana,Chelsea FC,30,2427,2,5,0
+2005,106805,Y. Benayoun,41,Israel,West Ham United,34,2736,5,3,0
+2005,114775,Damien  Duff,36,Republic of Ireland,Chelsea FC,28,1590,3,3,0
+2005,114825,C. Cudicini,48,Italy,Chelsea FC,4,314,0,0,0
+2005,115936,Stephen Carr,37,Ireland Republic,Newcastle United,18,1576,0,3,0
+2005,115953,A. Reid,39,Republic of Ireland,Tottenham Hotspur,13,601,0,2,0
+2005,115966,A. O&apos;Brien,42,Republic of Ireland,Portsmouth FC,29,2610,0,0,0
+2005,115984,D. Kiely,51,Republic of Ireland,Portsmouth FC,15,1350,0,0,0
+2005,210669,Yaniv Katan,34,Israel,West Ham United,6,150,0,1,0
+2005,230996,Kevin  Kilbane,36,Ireland Republic,Everton FC,32,1875,0,3,0
+2005,230997,George Boateng,38,Netherlands,Middlesbrough FC,26,2301,2,5,0
+2005,231208,C. Morrison,42,Republic of Ireland,Birmingham City,1,3,0,0,0
+2005,240249,Matteo Ferrari,35,Italy,Everton FC,8,591,0,2,0
+2005,516,A. Robben,37,Netherlands,Chelsea FC,28,1812,6,2,1
+2005,37162,Robin van Persie,36,Netherlands,Arsenal FC,23,1138,6,2,0
+2005,39221,A. Karadas,40,Norway,Portsmouth FC,17,486,1,3,0
+2005,44863,A. Hughes,42,Northern Ireland,Aston Villa,35,3021,0,2,0
+2005,82000,Tomasz  Kuszczak,36,Poland,West Bromwich Albion,28,2491,0,1,0
+2005,87726,Ross Turnbull,32,England,Middlesbrough FC,2,180,0,0,0
+2005,114759,S. Reid,40,Republic of Ireland,Blackburn Rovers,34,2816,4,6,0
+2005,114788,G. McCartney,40,Northern Ireland,Sunderland AFC,13,1092,0,4,0
+2005,114811,J. Roberts,43,Grenada,Wigan Athletic,34,3012,8,4,1
+2005,114828,Paulo Renato Rebocho Ferreira,34,Portugal,Chelsea FC,21,1666,0,1,0
+2005,115931,Luís Boa Morte Pereira,36,Portugal,Fulham FC,35,3049,6,9,0
+2005,115945,Boudewijn Zenden,37,Netherlands,Liverpool FC,7,451,2,0,0
+2005,115975,Maik Taylor,50,Northern Ireland,Birmingham City,34,3060,0,0,0
+2005,116217,W. Bouma,43,Netherlands,Aston Villa,20,1737,0,2,0
+2005,117006,Walter Gerardo Pandiani Urquiza,40,Uruguay,Birmingham City,17,720,2,1,0
+2005,118000,A. Mokoena,41,South Africa,Blackburn Rovers,22,647,0,0,0
+2005,118126,Mario Melchiot,37,Netherlands,Birmingham City,23,1855,1,3,0
+2005,232494,C. John,36,Netherlands,Fulham FC,35,1627,11,4,0
+2005,232495,Edgar  Davids,40,Netherlands,Tottenham Hotspur,31,2431,1,8,0
+2005,259171,Emmanuel Olisadebe,35,Poland,Portsmouth FC,2,66,0,0,0
+2005,108,Cesc Fàbregas,36,Spain,Arsenal FC,35,2657,3,5,1
+2005,18912,P. Bardsley,38,Scotland,Manchester United,8,303,0,1,0
+2005,19162,James  Morrison,33,Scotland,Middlesbrough FC,24,1713,1,0,0
+2005,19683,Ben Alnwick,33,England,Sunderland AFC,5,450,0,0,0
+2005,47034,José Antonio Reyes,36,Spain,Arsenal FC,26,1795,5,5,0
+2005,60072,Matt Mills,34,England,Manchester City,1,6,0,0,0
+2005,82446,J. McEveley,36,Scotland,Blackburn Rovers,0,0,0,0,0
+2005,97943,James McFadden,35,Scotland,Everton FC,32,2059,6,3,0
+2005,114836,D. Campbell,40,England,Birmingham City,11,501,0,0,0
+2005,114862,Yakubu Aiyegbeni,35,Nigeria,Middlesbrough FC,33,2546,13,0,0
+2005,115985,S. Caldwell,41,Scotland,Sunderland AFC,24,1976,1,7,1
+2005,116663,Pedro Mendes,42,Portugal,Portsmouth FC,14,1221,3,4,0
+2005,117014,Asier del Horno Cosgaya,32,Spain,Chelsea FC,25,2047,1,1,0
+2005,117104,Albert Marcos Luque,35,Spain,Newcastle United,14,649,1,1,0
+2005,117365,Gary Naysmith,35,Scotland,Everton FC,7,620,0,1,0
+2005,117522,David Weir,43,Scotland,Everton FC,33,2882,1,3,0
+2005,118155,K. Kyle,40,Scotland,Sunderland AFC,13,895,1,5,0
+2005,230924,R. Hughes,42,Scotland,Portsmouth FC,26,1821,0,8,0
+2005,230954,A. Gray,44,Scotland,Sunderland AFC,21,1123,1,1,0
+2005,230986,C. Dailly,48,Scotland,West Ham United,21,866,0,4,0
+2005,2859,S. Larsson,38,Sweden,Arsenal FC,3,207,0,2,0
+2005,17360,Neal James Eardley,34,Wales,Oldham Athletic,1,0,0,0,0
+2005,17828,D. Collins,41,Wales,Sunderland AFC,23,2000,1,0,0
+2005,19722,J. Collins,38,Wales,West Ham United,14,1135,2,0,0
+2005,49849,E. Belözoğlu,40,Turkey,Newcastle United,20,1598,2,4,0
+2005,90657,Xabier Alonso Olano,36,Spain,Liverpool FC,34,2559,3,6,0
+2005,91964,Junichi Inamoto,43,Japan,West Bromwich Albion,21,1478,0,0,0
+2005,104780,P. Senderos,36,Switzerland,Arsenal FC,20,1674,2,2,0
+2005,105424,Robbie Keane,38,Republic of Ireland,Tottenham Hotspur,35,2292,16,1,0
+2005,114787,J. Riise,41,Norway,Liverpool FC,32,2263,1,0,0
+2005,114838,Simon Davies,34,Wales,Everton FC,29,1774,1,2,0
+2005,115980,Jens Lehmann,44,Germany,Arsenal FC,38,3420,0,1,0
+2005,117093,Jerzy  Dudek,40,Poland,Liverpool FC,6,457,0,1,0
+2005,163805,R. Earnshaw,40,Wales,West Bromwich Albion,11,403,1,0,0
+2005,210426,Zvonimir Vukic,37,Serbia,Portsmouth FC,9,519,1,1,0
+2005,219697,Luis Javier García Sanz,38,Spain,Liverpool FC,31,1574,7,4,1
+2005,230989,D. Connolly,44,Republic of Ireland,Wigan Athletic,17,491,1,0,0
+2005,231354,G. Williams,41,Wales,West Ham United,1,0,0,0,0
+2005,234123,M. Crossley,52,Wales,Fulham FC,13,1170,0,0,0
+2005,258514,José Miguel González Rey,37,Spain,Liverpool FC,6,262,0,1,0
+2005,6809,N. Kilkenny,38,Australia,Birmingham City,18,668,0,0,1
+2005,10391,A. D&apos;Alessandro,41,Argentina,Portsmouth FC,13,1078,1,0,0
+2005,41310,Aymen Tahar,33,Algeria,Blackpool FC,3,0,0,0,0
+2005,44297,B. Jones,41,Australia,Middlesbrough FC,9,810,0,0,0
+2005,56600,A. Lupoli,34,Italy,Arsenal FC,1,8,0,0,0
+2005,77105,T. Cahill,40,Australia,Everton FC,32,2746,6,8,0
+2005,81539,Hussein Yasser,39,Qatar,Manchester City,0,0,0,0,0
+2005,90516,Shay Given,41,Republic of Ireland,Newcastle United,38,3420,0,2,0
+2005,97908,W. Flood,36,Republic of Ireland,Manchester City,5,130,0,0,0
+2005,104255,Harry Kewell,39,Australia,Liverpool FC,27,2010,3,2,0
+2005,104311,Mark Schwarzer,44,Australia,Middlesbrough FC,27,2430,0,0,0
+2005,114757,Richard  Dunne,36,Republic of Ireland,Manchester City,32,2792,3,9,0
+2005,114773,Craig Bellamy,35,Wales,Blackburn Rovers,27,2012,13,5,0
+2005,114848,F. Muamba,33,England,Arsenal FC,0,0,0,0,0
+2005,115946,B. Mwaruwari,43,Zimbabwe,Portsmouth FC,16,1281,1,1,0
+2005,115962,E. Diouf,40,Senegal,Bolton Wanderers,20,1412,3,4,0
+2005,118018,Craig Andrew Moore,38,Australia,Newcastle United,8,720,0,4,0
+2005,179968,Albert Riera Ortega,34,Spain,Manchester City,15,1070,1,2,0
+2005,210695,A. Johansson,43,Sweden,Wigan Athletic,16,614,4,0,1
+2005,232987,Radhi Ben Abdelmajid Jaidi,38,Tunisia,Bolton Wanderers,16,1229,3,1,0
+2005,136,Piqué,35,Spain,Manchester United,3,95,0,0,0
+2005,2312,Aleksandr Hleb,38,Belarus,Arsenal FC,24,1463,3,0,0
+2005,7526,E. Pogatetz,37,Austria,Middlesbrough FC,24,1954,1,5,0
+2005,17528,Ishmael Miller,33,England,Manchester City,1,29,0,0,0
+2005,19504,Darren  Fletcher,35,Scotland,Manchester United,27,1908,1,3,0
+2005,19708,G. O&apos;Neil,38,England,Portsmouth FC,36,3131,6,2,0
+2005,40576,Jarosław Fojut,34,Poland,Bolton Wanderers,1,4,0,0,0
+2005,51298,Timothy Matthew Howard,42,USA,Manchester United,1,44,0,0,0
+2005,89733,B. Viðarsson,33,Iceland,Everton FC,0,0,0,0,0
+2005,90492,S. Ireland,32,Republic of Ireland,Manchester City,23,1259,0,0,0
+2005,91303,Johan Danon Djourou-Gbadjere,34,Switzerland,Arsenal FC,7,563,0,0,0
+2005,104259,Brett  Emerton,35,Australia,Blackburn Rovers,30,1608,1,2,0
+2005,104312,Lucas  Neill,36,Australia,Blackburn Rovers,35,3150,1,10,0
+2005,111327,Tal Ben Haim,39,Israel,Bolton Wanderers,35,2840,0,7,0
+2005,113701,D. Bellion,39,France,West Ham United,8,216,0,0,0
+2005,114774,Ryan  Giggs,41,Wales,Manchester United,27,1860,3,3,0
+2005,114782,Nemanja Vidic,35,Serbia,Manchester United,11,859,0,3,0
+2005,115074,Ruud van Nistelrooy,37,Netherlands,Manchester United,35,2596,21,5,0
+2005,153869,Robert Sissons,35,England,Bolton Wanderers,0,0,0,0,0
+2005,225884,Khalilou Fadiga,39,Senegal,Bolton Wanderers,8,310,1,2,0
+2005,48528,Alexandre Dimitri Song-Billong,36,Cameroon,Arsenal FC,5,254,0,0,0
+2005,51004,M. Mancienne,35,Seychelles,Chelsea FC,0,0,0,0,0
+2005,69261,Joseph Martin O'Brien,36,Republic of Ireland,Bolton Wanderers,23,1977,0,2,0
+2005,91429,G. Rossi,36,Italy,Manchester United,5,131,1,0,0
+2005,103381,Liam  Miller,37,Republic of Ireland,Manchester United,1,1,0,0,0
+2005,104256,Ji-Sung Park,33,Korea Republic,Manchester United,34,2022,1,0,0
+2005,114571,Gilberto Silva,45,Brazil,Arsenal FC,33,2904,2,4,0
+2005,114747,Sylvain Distin,39,France,Manchester City,31,2783,0,1,0
+2005,114839,P. Scharner,41,Austria,Wigan Athletic,16,1307,3,5,0
+2005,115674,Fábio Rochemback,33,Brazil,Middlesbrough FC,22,1849,2,4,0
+2005,115977,E. van der Sar,51,Netherlands,Manchester United,38,3376,0,0,0
+2005,116005,Joseph-Desire Job,36,Cameroon,Middlesbrough FC,1,12,0,0,0
+2005,116023,T. Radziński,48,Canada,Fulham FC,33,2282,2,3,0
+2005,117327,Eric Daniel Djemba-Djemba,37,Cameroon,Aston Villa,4,108,0,0,0
+2005,117444,S. Elliott,37,Republic of Ireland,Sunderland AFC,15,1062,2,0,0
+2005,118023,G. N&apos;Djitap,43,Cameroon,Chelsea FC,15,775,2,1,0
+2005,208961,K. Treacy,33,Republic of Ireland,Blackburn Rovers,0,0,0,0,0
+2005,210627,K. Gilbert,34,England,Arsenal FC,2,117,0,0,0
+2005,240309,F. Songo&apos;o,34,Cameroon,Portsmouth FC,2,31,0,0,0
+2005,240320,Juan Pablo Ángel Arango,39,Colombia,Aston Villa,31,1498,3,3,0
+2005,1280,Stephan Maigaard Andersen,40,Denmark,Charlton Athletic,15,1350,0,1,0
+2005,1436,Petr Čech,40,Czech Republic,Chelsea FC,34,3016,0,1,0
+2005,19670,D. Potter,37,Republic of Ireland,Liverpool FC,0,0,0,0,0
+2005,25444,Jaroslav Drobný,42,Czech Republic,Fulham FC,0,0,0,0,0
+2005,66078,M. Baroš,40,Czech Republic,Aston Villa,25,2040,8,6,0
+2005,87877,Jermaine Pennant,35,England,Birmingham City,38,3143,2,4,0
+2005,87925,Jamie O'Hara,33,England,Tottenham Hotspur,0,0,0,0,0
+2005,102731,Didier Yves Drogba Tébily,40,Côte d'Ivoire,Chelsea FC,28,1946,12,7,0
+2005,104129,Kolo Habib Touré,36,Côte d'Ivoire,Arsenal FC,33,2970,0,3,0
+2005,114778,Daniel Munthe Agger,32,Denmark,Liverpool FC,4,360,0,1,0
+2005,114871,S. Ebanks-Blake,35,England,Manchester United,0,0,0,0,0
+2005,114898,Radek Cerný,40,Czech Republic,Tottenham Hotspur,0,0,0,0,0
+2005,115001,M. Latka,37,Czech Republic,Birmingham City,6,521,0,2,0
+2005,115095,M. Volz,38,Germany,Fulham FC,23,2050,0,2,0
+2005,115938,Emmanuel Eboué,33,Côte d'Ivoire,Arsenal FC,18,1124,0,0,0
+2005,117089,Jirí Jarosík,38,Czech Republic,Birmingham City,24,1661,5,2,0
+2005,118963,Robert John Davies,32,Wales,West Bromwich Albion,0,0,0,0,0
+2005,190610,M. Albrechtsen,41,Denmark,West Bromwich Albion,28,2401,1,2,0
+2005,225949,H. Pedersen,46,Denmark,Bolton Wanderers,21,1450,1,0,0
+2005,231008,L. LuaLua,41,Congo DR,Portsmouth FC,25,2108,7,2,0
+2005,1187,N. Bendtner,33,Denmark,Arsenal FC,0,0,0,0,0
+2005,44499,Ahmed Hossam Hussein Abdelhamid,30,Egypt,Tottenham Hotspur,27,2110,11,4,1
+2005,77110,T. Sørensen,45,Denmark,Aston Villa,36,3240,0,0,0
+2005,82713,Lee Barnard,34,England,Tottenham Hotspur,3,68,0,1,0
+2005,83019,Micah Richards,30,England,Manchester City,13,1007,0,2,0
+2005,90514,Joey  Barton,35,England,Manchester City,31,2769,6,9,0
+2005,104686,Hossam El Sayed Ghaly,37,Egypt,Tottenham Hotspur,0,0,0,0,0
+2005,114746,Leon Osman,35,England,Everton FC,35,2546,3,2,0
+2005,114758,C. Cole,38,England,Chelsea FC,9,222,0,2,0
+2005,114761,B. Zamora,40,England,West Ham United,32,1631,6,0,0
+2005,114790,Kevin  Phillips,41,England,Aston Villa,23,1511,4,0,0
+2005,114801,Phil Neville,36,England,Everton FC,31,2790,0,10,0
+2005,114866,Danny Murphy,36,England,Tottenham Hotspur,10,295,0,1,0
+2005,114884,Z. Knight,41,England,Fulham FC,30,2543,0,2,0
+2005,115299,Per Billeskov Krøldrup,36,Denmark,Everton FC,1,90,0,0,0
+2005,117726,Stephen Jordan,37,England,Manchester City,18,1580,0,2,0
+2005,117966,D. Rommedahl,43,Denmark,Charlton Athletic,21,1412,2,1,0
+2005,230926,Anthony Gardner,34,England,Tottenham Hotspur,17,1405,0,2,0
+2005,233049,David Knight,26,England,Middlesbrough FC,0,0,0,0,0
+2005,252757,U. de la Cruz,47,Ecuador,Aston Villa,7,422,0,0,0
+2005,18757,L. Baines,37,England,Wigan Athletic,37,3103,0,3,0
+2005,18769,T. Walcott,34,England,Arsenal FC,0,0,0,0,0
+2005,19153,G. Barry,39,England,Aston Villa,36,3137,3,9,0
+2005,19238,S. Downing,37,England,Middlesbrough FC,12,984,1,0,0
+2005,20511,Billy Clarke,34,Republic of Ireland,Ipswich Town,2,0,0,0,0
+2005,82011,D. Bent,37,England,Charlton Athletic,36,3163,18,2,0
+2005,82150,Alan Smith,38,England,Manchester United,21,1467,1,4,0
+2005,83032,Scott Parker,37,England,Newcastle United,26,2312,1,7,0
+2005,87315,Kieran  Richardson,32,England,Manchester United,22,1159,1,4,0
+2005,87896,P. Konchesky,40,England,West Ham United,37,3257,1,4,0
+2005,90490,M. Carrick,40,England,Tottenham Hotspur,35,3123,2,2,0
+2005,114744,Adam Johnson,29,England,Middlesbrough FC,13,709,1,0,0
+2005,114753,Richard Wright,39,England,Everton FC,14,1224,0,0,0
+2005,114764,R. Ferdinand,43,England,Manchester United,37,3302,3,0,0
+2005,114802,Paul Scholes,39,England,Manchester United,20,1616,2,3,0
+2005,114819,J. Carragher,43,England,Liverpool FC,36,3240,0,5,0
+2005,114850,L. Young,42,England,Charlton Athletic,32,2835,1,8,0
+2005,114851,E. Heskey,43,England,Birmingham City,34,2832,4,3,0
+2005,154212,Tony Stokes,34,England,West Ham United,0,0,0,0,0
+2005,233864,R. Hoult,49,England,West Bromwich Albion,1,29,0,0,0
+2005,1758,J. Defoe,40,England,Tottenham Hotspur,36,2220,9,3,0
+2005,2281,G. Cahill,37,England,Aston Villa,7,578,1,3,0
+2005,6929,S. Taylor,35,England,Newcastle United,12,974,0,4,0
+2005,18791,B. Foster,40,England,Manchester United,0,0,0,0,0
+2005,18925,A. Lennon,35,England,Tottenham Hotspur,27,1826,2,0,0
+2005,18928,P. Crouch,40,England,Liverpool FC,32,2153,8,4,0
+2005,19203,A. Cole,41,England,Arsenal FC,11,891,0,3,0
+2005,19289,M. Dawson,38,England,Tottenham Hotspur,32,2798,0,4,0
+2005,82340,Stephen  Warnock,37,England,Liverpool FC,20,1335,1,1,0
+2005,83131,Wes Brown,39,England,Manchester United,19,1475,0,3,0
+2005,90491,G. Johnson,37,England,Chelsea FC,4,330,0,1,0
+2005,90517,P. Robinson,42,England,Tottenham Hotspur,38,3420,0,1,0
+2005,102748,J. Cole,40,England,Chelsea FC,34,2111,7,7,0
+2005,114763,Matthew  Upson,37,England,Birmingham City,24,2080,1,2,0
+2005,114815,M. Owen,42,England,Newcastle United,11,885,7,0,0
+2005,114817,J. Jenas,38,England,Tottenham Hotspur,30,2580,5,2,0
+2005,114822,Kieron  Dyer,35,England,Newcastle United,11,448,0,0,0
+2005,114865,Ledley King,33,England,Tottenham Hotspur,26,2317,3,1,0
+2005,114879,W. Bridge,41,England,Fulham FC,12,1080,0,1,0
+2005,115949,James  Beattie,36,England,Everton FC,32,2510,10,3,0
+2005,32995,Jay Bothroyd,40,England,Charlton Athletic,17,572,2,0,0
+2005,47261,Mathieu Flamini,35,France,Arsenal FC,30,1823,0,4,0
+2005,82009,J. Terry,41,England,Chelsea FC,36,3240,4,3,0
+2005,83315,M. Forssell,40,Finland,Birmingham City,27,1294,3,1,0
+2005,100726,Florent Sinama-Pongolle,34,France,Blackburn Rovers,10,709,1,0,0
+2005,103165,S. Wright-Phillips,40,England,Chelsea FC,26,975,0,0,0
+2005,114752,Charles N'Zogbia,30,France,Newcastle United,32,2321,5,3,0
+2005,114765,J. Jääskeläinen,46,Finland,Bolton Wanderers,38,3420,0,2,0
+2005,114859,David Dunn,37,England,Birmingham City,15,565,2,0,0
+2005,115080,Sami Hyypia,40,Finland,Liverpool FC,35,3004,1,2,0
+2005,115954,D. Bentley,37,England,Blackburn Rovers,29,2015,3,7,0
+2005,116362,Teemu Tainio,36,Finland,Tottenham Hotspur,24,1717,1,4,0
+2005,117424,P. Enckelman,44,Finland,Blackburn Rovers,0,0,0,0,0
+2005,118882,Tom Craddock,32,England,Middlesbrough FC,1,9,0,0,0
+2005,155217,Matthew Pattison,35,South Africa,Newcastle United,3,148,0,0,0
+2005,158905,Josh Walker,30,England,Middlesbrough FC,1,28,0,0,0
+2005,231000,Darius Vassell,33,England,Manchester City,36,3043,8,4,0
+2005,231479,Alan O'Brien,33,Republic of Ireland,Newcastle United,3,47,0,0,0
+2005,232314,O. Sankofa,36,England,Charlton Athletic,4,258,0,0,0
+2005,232807,Kris Gate,28,England,Newcastle United,0,0,0,0,0
+2005,17976,J. Hodgkiss,37,England,West Bromwich Albion,0,0,0,0,0
+2005,19691,J. Hobbs,33,England,Liverpool FC,0,0,0,0,0
+2005,20165,Anthony Randolph Warner,45,Trinidad and Tobago,Fulham FC,16,1440,0,0,0
+2005,20462,Anthony McMahon,35,England,Middlesbrough FC,3,162,0,0,0
+2005,49840,G. Clichy,38,France,Arsenal FC,7,476,0,2,0
+2005,87053,Jérémie Aliadière,34,France,West Ham United,7,172,0,0,0
+2005,87077,Patrice Evra,37,France,Manchester United,11,571,0,1,0
+2005,90608,Vassiriki Abou Diaby,31,France,Arsenal FC,11,788,1,2,0
+2005,113868,Claude Makelele,40,France,Chelsea FC,31,2544,0,7,0
+2005,114808,William Gallas,37,France,Chelsea FC,34,2927,5,5,1
+2005,114820,Louis  Saha,35,France,Manchester United,19,1145,7,0,0
+2005,114876,Thierry  Henry,37,France,Arsenal FC,32,2672,27,2,0
+2005,115062,Mikaël Silvestre,38,France,Manchester United,33,2647,1,4,0
+2005,115955,Robert  Pirès,42,France,Arsenal FC,33,2173,7,2,0
+2005,115967,Pascal Chimbonda,36,Guadeloupe,Wigan Athletic,37,3262,2,6,0
+2005,118127,Jean-Alain Boumsong Somkong,34,France,Newcastle United,31,2573,0,2,0
+2005,168576,K. Youga,36,Central African Republic,Charlton Athletic,0,0,0,0,0
+2005,230958,N. Ellington,40,England,West Bromwich Albion,31,1529,5,0,0
+2005,231311,Andy Welsh,31,England,Sunderland AFC,14,1000,0,0,0
+2005,232119,Lee Hendrie,36,England,Aston Villa,16,660,1,1,0
+2005,8563,Lassana Diarra,36,France,Chelsea FC,3,186,0,0,0
+2005,19448,P. Gallagher,37,Scotland,Blackburn Rovers,1,0,0,0,0
+2005,19488,Danny Graham,36,England,Middlesbrough FC,1,0,0,0,0
+2005,19696,Andrew Taylor,33,England,Middlesbrough FC,13,0,0,0,0
+2005,21013,Mohamed Sissoko,34,Mali,Liverpool FC,25,1935,0,8,0
+2005,80933,Ricardo Carvalho,40,Portugal,Chelsea FC,24,1982,1,5,0
+2005,82882,Iain Turner,34,Scotland,Everton FC,3,0,0,0,0
+2005,83026,Peter Whittingham,34,England,Aston Villa,3,232,0,0,0
+2005,100486,Eiður Smári Gudjohnsen,38,Iceland,Chelsea FC,26,1580,2,2,0
+2005,100491,A. Guatelli,39,Italy,Portsmouth FC,0,0,0,0,0
+2005,102734,R. Chaplow,36,England,West Bromwich Albion,7,372,0,0,0
+2005,103146,P. Ramage,35,England,Newcastle United,23,2026,0,4,0
+2005,105043,Georgios Samaras,33,Greece,Manchester City,14,946,4,1,0
+2005,113662,D. Cissé,34,France,Liverpool FC,33,1718,9,3,0
+2005,113887,F. Queudrue,43,France,Middlesbrough FC,29,2156,3,6,0
+2005,116053,G. De Vlieger,50,Belgium,Manchester City,0,0,0,0,0
+2005,117328,Nicky Weaver,35,England,Manchester City,0,0,0,0,0
+2005,117996,J. Kozák,33,Slovakia,West Bromwich Albion,6,348,0,0,0
+2005,217278,Chris Brown,33,England,Sunderland AFC,1,24,1,0,0
+2005,231288,K. Lisbie,43,Jamaica,Charlton Athletic,6,0,0,0,0
+2005,1749,S. Davis,39,Northern Ireland,Aston Villa,35,2961,4,0,0
+2005,6902,S. Jamieson,35,Australia,Bolton Wanderers,0,0,0,0,0
+2005,13109,S. Aluko,35,Nigeria,Birmingham City,0,0,0,0,0
+2005,17666,J. Kennedy,38,England,Middlesbrough FC,3,120,0,0,0
+2005,17681,N. Hunt,40,England,Bolton Wanderers,20,1238,0,1,0
+2005,17921,L. Joyce,37,England,Wigan Athletic,0,0,0,0,0
+2005,18015,Elliott Ward,36,England,West Ham United,1,7,0,0,0
+2005,18451,K. Reid,36,England,West Ham United,2,95,0,0,0
+2005,19204,C. Davies,39,Sierra Leone,West Bromwich Albion,33,2970,1,0,0
+2005,19215,T. Huddlestone,38,England,Tottenham Hotspur,0,0,0,0,0
+2005,19229,D. Randolph,37,Republic of Ireland,Charlton Athletic,0,0,0,0,0
+2005,19310,Daryl Michael Murphy,39,Republic of Ireland,Sunderland AFC,2,93,1,0,0
+2005,19697,D. Wheater,37,England,Middlesbrough FC,1,28,0,0,0
+2005,39358,M. Pedersen,43,Norway,Blackburn Rovers,34,2813,9,3,0
+2005,45043,M. Woods,38,Scotland,Sunderland AFC,7,169,0,1,0
+2005,82435,Gabriel  Imuetinyan Agbonlahor,32,England,Aston Villa,9,0,1,0,0
+2005,87295,S. Malbranque,43,France,Fulham FC,34,2900,6,4,0
+2005,102441,J. Johnson,39,USA,Blackburn Rovers,3,12,0,0,0
+2005,124184,R. Carroll,46,Northern Ireland,West Ham United,19,1710,0,2,0
+2005,401541,S. Nicholson,37,England,West Bromwich Albion,4,58,0,0,0
+2005,296,J. Milner,38,England,Aston Villa,27,2338,1,3,0
+2005,874,Cristiano Ronaldo,39,Portugal,Manchester United,33,2286,9,8,1
+2005,1133,S. Sinclair,35,England,Chelsea FC,0,0,0,0,0
+2005,1624,Pepe Reina,42,Spain,Liverpool FC,33,2962,0,0,1
+2005,2728,K. Schmeichel,38,Denmark,Manchester City,0,0,0,0,0
+2005,2931,T. Heaton,38,England,Manchester United,0,0,0,0,0
+2005,17387,J. Murphy,43,Republic of Ireland,Sunderland AFC,0,0,0,0,0
+2005,18737,J. Ruddy,38,England,Everton FC,1,80,0,0,0
+2005,18772,J. Evans,36,Northern Ireland,Manchester United,0,0,0,0,0
+2005,19197,S. Carson,39,England,Liverpool FC,0,0,0,0,0
+2005,43147,Ricardo Batista,38,Angola,Fulham FC,0,0,0,0,0
+2005,51128,R. Ziegler,38,Switzerland,Wigan Athletic,10,552,0,0,0
+2005,223395,S. Wright,44,England,Sunderland AFC,2,170,0,1,0
+2005,495015,R. Savage,47,Wales,Blackburn Rovers,34,3015,1,10,0
