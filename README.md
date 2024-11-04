@@ -1,6 +1,6 @@
 # ⚽ Premier in Data: Análisis de Clasificaciones y Estadísticas en la Premier League
 
-![imagen](https://raw.githubusercontent.com/SrAlcast/Proyecto5-Premier_in_Data/refs/heads/main/PREMIER%20IN%20DATA.jpg)
+![imagen](https://raw.githubusercontent.com/SrAlcast/Proyecto5-Premier_in_Data/refs/heads/main/src/PREMIER%20IN%20DATA.jpg)
 
 ## 📖 Descripción
 
@@ -30,11 +30,10 @@ Proyecto5-Premier_in_Data/
 
 Este proyecto utiliza Python y las siguientes bibliotecas:
 
-- pandas
-- matplotlib
-- requests (para consumo de APIs)
-- beautifulsoup4 (para web scraping)
-- lxml (parser para Beautiful Soup)
+- [Pandas](https://pandas.pydata.org/docs/)
+- [Matplotlib](https://matplotlib.org/stable/contents.html)
+- [Requests](https://docs.python-requests.org/en/latest/)
+- [Beautifulsoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 ### Instalación
 
@@ -55,7 +54,30 @@ Este proyecto utiliza Python y las siguientes bibliotecas:
 
 ## 📊 Resultados y Conclusiones
 
-*(Por completar)*
+### Rendimiento de los Equipos:
+
+- Dominancia de Manchester City y Liverpool FC: Estos equipos han mostrado un desempeño sobresaliente, consolidando su posición en el Top 3.
+- Brecha competitiva: Hay una diferencia notable en el rendimiento entre los equipos de élite y los de posiciones más bajas, subrayando la importancia de la gestión estratégica y las inversiones.
+
+### Asistencia y Estadios:
+
+- Recuperación post-pandemia: La asistencia a los estadios se recuperó rápidamente tras el impacto de la pandemia, reflejando el fuerte compromiso de los aficionados.
+- Importancia de los estadios grandes: Equipos como Manchester United, con estadios de gran capacidad, se benefician de una base de seguidores leal y consistente.
+
+### Edad y Desempeño:
+
+- Enfoque en jugadores jóvenes: La liga está apostando por la juventud, con un rendimiento óptimo entre los 20 y 30 años.
+- Valor de la experiencia: Jugadores mayores muestran mayor disciplina en el campo, lo que se traduce en menos tarjetas amarillas.
+
+### Disciplina y Goles:
+
+- Mayor intensidad en el juego: Se observa un incremento en tarjetas amarillas, indicando un juego más competitivo y regulado.
+- Enfoque ofensivo: El aumento en la cantidad de goles refleja tácticas más ofensivas y un juego más atractivo para los espectadores.
+
+### Diversidad de Nacionalidades:
+
+- Crecimiento de jugadores internacionales: La Premier League sigue atrayendo talento global, con un aumento de jugadores de países como España, Francia, y Alemania.
+- Fuerte base local: A pesar de la internacionalización, los jugadores ingleses continúan siendo predominantes, manteniendo la identidad de la liga.
 
 ## 🤝 Contribuciones
 
