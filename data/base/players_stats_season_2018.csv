@@ -1,0 +1,597 @@
+season,player_id,player_name,age,nationality,team,games_played,minutes,goals,assists,yellow_cards,red_cards
+2018,298,Rafael Camacho,23,Portugal,Liverpool,1.0,0.0,0.0,,0.0,0.0
+2018,883,L. Grant,39,England,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2018,3423,C. Atsu,31,Ghana,Newcastle,28.0,1487.0,1.0,,2.0,0.0
+2018,18774,W. Morgan,37,Jamaica,Leicester,22.0,1926.0,3.0,,3.0,0.0
+2018,18826,M. Noble,35,England,West Ham,31.0,2308.0,5.0,5.0,6.0,1.0
+2018,18837,J. Speroni,42,Argentina,Crystal Palace,1.0,90.0,0.0,,0.0,0.0
+2018,18839,S. Dann,36,England,Crystal Palace,10.0,660.0,0.0,1.0,1.0,0.0
+2018,18864,Charlie John Daniels,36,England,Bournemouth,21.0,1583.0,1.0,,4.0,0.0
+2018,18865,S. Francis,35,England,Bournemouth,17.0,1226.0,0.0,2.0,1.0,0.0
+2018,18879,Andrew Surman,35,England,Bournemouth,18.0,1438.0,0.0,,2.0,0.0
+2018,18916,M. Lowton,34,England,Burnley,21.0,1748.0,0.0,,7.0,0.0
+2018,18956,S. Long,36,Republic of Ireland,Southampton,26.0,1269.0,5.0,1.0,3.0,0.0
+2018,18966,Bruno Saltor,41,Spain,Brighton,14.0,1136.0,0.0,1.0,2.0,0.0
+2018,18977,D. Stephens,33,England,Brighton,30.0,2487.0,1.0,1.0,6.0,1.0
+2018,18982,G. Murray,38,England,Brighton,38.0,2513.0,13.0,1.0,5.0,0.0
+2018,19019,M. Le Marchand,34,France,Fulham,26.0,2251.0,0.0,1.0,5.0,0.0
+2018,19052,J. Puncheon,37,England,Huddersfield,6.0,383.0,0.0,,1.0,0.0
+2018,19423,Marc Pugh,34,England,Bournemouth,0.0,0.0,0.0,,0.0,0.0
+2018,81993,J. Walters,38,Republic of Ireland,Burnley,0.0,0.0,0.0,,0.0,0.0
+2018,83132,Jesús Gámez Duarte,33,Spain,Newcastle,,,,,,
+2018,108,Cesc Fàbregas,36,Spain,Chelsea,6.0,175.0,0.0,,1.0,0.0
+2018,160,M. Vorm,38,Netherlands,Tottenham,2.0,180.0,0.0,,0.0,0.0
+2018,185,Fernando Llorente,37,Spain,Tottenham,20.0,683.0,1.0,4.0,2.0,0.0
+2018,634,David Silva,37,Spain,Manchester City,33.0,2411.0,6.0,8.0,3.0,0.0
+2018,642,S. Agüero,33,Argentina,Manchester City,33.0,2480.0,21.0,8.0,3.0,0.0
+2018,1444,S. Lichtsteiner,37,Switzerland,Arsenal,14.0,940.0,0.0,,3.0,0.0
+2018,1447,Nacho Monreal,36,Spain,Arsenal,22.0,1861.0,1.0,3.0,5.0,0.0
+2018,1458,M. Özil,35,Germany,Arsenal,24.0,1741.0,5.0,2.0,2.0,0.0
+2018,2297,G. Higuaín,36,Argentina,Chelsea,14.0,1092.0,5.0,,0.0,0.0
+2018,18756,M. Stekelenburg,41,Netherlands,Everton,0.0,0.0,0.0,,0.0,0.0
+2018,18792,M. Britos,36,Uruguay,Watford,3.0,185.0,0.0,,0.0,0.0
+2018,18796,Daryl Janmaat,33,Netherlands,Watford,18.0,1521.0,0.0,2.0,3.0,0.0
+2018,18818,P. Zabaleta,35,Argentina,West Ham,26.0,2092.0,0.0,1.0,4.0,0.0
+2018,18828,R. Snodgrass,36,Scotland,West Ham,33.0,2222.0,2.0,5.0,10.0,0.0
+2018,18849,J. McArthur,36,Scotland,Crystal Palace,38.0,3071.0,3.0,6.0,7.0,0.0
+2018,18859,Artur Boruc,42,Poland,Bournemouth,12.0,1080.0,0.0,,2.0,0.0
+2018,18912,P. Bardsley,38,Scotland,Burnley,19.0,1672.0,0.0,,9.0,0.0
+2018,18919,Stephen Robert Ward,37,Republic of Ireland,Burnley,3.0,230.0,0.0,,1.0,0.0
+2018,19031,A. Schürrle,30,Germany,Fulham,24.0,1650.0,6.0,,2.0,0.0
+2018,19514,Lee Camp,38,Northern Ireland,Cardiff,0.0,0.0,0.0,,0.0,0.0
+2018,1436,Petr Čech,40,Czech Republic,Arsenal,7.0,585.0,0.0,,0.0,0.0
+2018,1448,S. Mustafi,31,Germany,Arsenal,31.0,2617.0,2.0,,9.0,0.0
+2018,2275,W. Caballero,42,Argentina,Chelsea,2.0,180.0,0.0,,0.0,0.0
+2018,2296,E. Hazard,32,Belgium,Chelsea,37.0,2926.0,16.0,15.0,2.0,0.0
+2018,2921,M. Dembélé,35,Belgium,Tottenham,10.0,516.0,0.0,,1.0,0.0
+2018,3398,G. Bong,34,Cameroon,Brighton,22.0,1805.0,0.0,,0.0,0.0
+2018,18773,C. Fuchs,37,Austria,Leicester,3.0,206.0,0.0,,0.0,0.0
+2018,18789,Gomes,40,Brazil,Watford,0.0,0.0,0.0,,0.0,0.0
+2018,18878,J. Stanislas,34,England,Bournemouth,23.0,1027.0,2.0,3.0,1.0,0.0
+2018,18923,S. Defour,33,Belgium,Burnley,6.0,452.0,0.0,,0.0,0.0
+2018,18980,J. Izquierdo,30,Colombia,Brighton,15.0,794.0,0.0,1.0,1.0,0.0
+2018,18984,Brian Edward Murphy,40,Republic of Ireland,Cardiff,0.0,0.0,0.0,,0.0,0.0
+2018,18986,S. Bamba,37,Côte d'Ivoire,Cardiff,28.0,2475.0,4.0,1.0,7.0,0.0
+2018,18988,Matthew Connolly,32,England,Cardiff,0.0,0.0,0.0,,0.0,0.0
+2018,19021,Håvard Nordtveit,32,Norway,Fulham,5.0,361.0,0.0,1.0,0.0,0.0
+2018,19050,A. Mooy,33,Australia,Huddersfield,29.0,2327.0,3.0,1.0,4.0,0.0
+2018,19054,Daniel Williams,31,USA,Huddersfield,5.0,93.0,0.0,,1.0,0.0
+2018,19747,C. Quaner,30,Germany,Huddersfield,2.0,37.0,0.0,,0.0,0.0
+2018,25454,M. Suttner,35,Austria,Brighton,0.0,0.0,0.0,,0.0,0.0
+2018,82983,Frédéric Gounongbe,30,Benin,Cardiff,,,,,,
+2018,167,D. Rose,32,England,Tottenham,26.0,1798.0,0.0,3.0,5.0,0.0
+2018,308,Daniel Andre Sturridge,33,England,Liverpool,18.0,496.0,2.0,1.0,1.0,0.0
+2018,630,F. Delph,33,England,Manchester City,11.0,725.0,0.0,1.0,1.0,1.0
+2018,888,P. Jones,31,England,Manchester United,18.0,1263.0,0.0,1.0,1.0,0.0
+2018,893,A. Valencia,36,Ecuador,Manchester United,6.0,466.0,0.0,,2.0,0.0
+2018,1758,J. Defoe,40,England,Bournemouth,4.0,21.0,0.0,,0.0,0.0
+2018,2281,G. Cahill,37,England,Chelsea,2.0,22.0,0.0,,0.0,0.0
+2018,2288,D. Drinkwater,32,England,Chelsea,0.0,0.0,0.0,,0.0,0.0
+2018,18757,L. Baines,37,England,Everton,6.0,376.0,0.0,,0.0,0.0
+2018,18759,P. Jagielka,41,England,Everton,7.0,329.0,1.0,,0.0,1.0
+2018,18769,T. Walcott,34,England,Everton,37.0,2122.0,5.0,2.0,1.0,0.0
+2018,18791,B. Foster,40,England,Watford,38.0,3420.0,0.0,,1.0,0.0
+2018,18795,José Holebas,37,Greece,Watford,28.0,2394.0,3.0,6.0,12.0,1.0
+2018,18801,S. Prödl,34,Austria,Watford,1.0,13.0,0.0,,0.0,0.0
+2018,18804,T. Cleverley,34,England,Watford,13.0,470.0,1.0,,2.0,0.0
+2018,18829,Jack Wilshere,30,England,West Ham,8.0,389.0,0.0,1.0,2.0,0.0
+2018,18925,A. Lennon,35,England,Burnley,16.0,1217.0,1.0,1.0,1.0,0.0
+2018,18928,P. Crouch,40,England,Burnley,6.0,86.0,0.0,,1.0,0.0
+2018,18936,R. Bertrand,34,England,Southampton,24.0,2160.0,1.0,,8.0,0.0
+2018,19020,Alfie Mawson,29,England,Fulham,15.0,1131.0,0.0,,2.0,0.0
+2018,1443,Laurent Koscielny,37,France,Arsenal,17.0,1328.0,3.0,,1.0,0.0
+2018,1749,S. Davis,39,Northern Ireland,Southampton,3.0,96.0,0.0,1.0,0.0,0.0
+2018,12753,M. Fellaini,37,Belgium,Manchester United,14.0,744.0,0.0,1.0,1.0,0.0
+2018,18001,R. Schofield,25,England,Huddersfield,0.0,0.0,0.0,,0.0,0.0
+2018,18793,C. Cathcart,34,Northern Ireland,Watford,36.0,3099.0,3.0,,2.0,0.0
+2018,18825,Samir Nasri,34,France,West Ham,5.0,246.0,0.0,2.0,0.0,0.0
+2018,18838,Joe Daniel Tupper,25,England,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2018,18840,M. Kelly,34,England,Crystal Palace,13.0,1110.0,0.0,,2.0,0.0
+2018,18841,P. Souaré,34,Senegal,Crystal Palace,1.0,0.0,0.0,,0.0,0.0
+2018,18856,B. Sako,35,Mali,Crystal Palace,4.0,25.0,0.0,,0.0,0.0
+2018,18874,D. Gosling,34,England,Bournemouth,25.0,1737.0,2.0,1.0,8.0,0.0
+2018,18882,L. Mousset,27,France,Bournemouth,24.0,345.0,1.0,,1.0,0.0
+2018,18922,J. Cork,35,England,Burnley,37.0,3313.0,1.0,2.0,6.0,0.0
+2018,18985,A. Smithies,34,England,Cardiff,0.0,0.0,0.0,,0.0,0.0
+2018,18994,L. Peltier,38,England,Cardiff,20.0,1542.0,0.0,,4.0,0.0
+2018,19005,K. Zohorè,30,Denmark,Cardiff,19.0,746.0,1.0,1.0,1.0,0.0
+2018,19034,R. Babel,38,Netherlands,Fulham,16.0,1260.0,5.0,3.0,3.0,0.0
+2018,19040,E. Durm,32,Germany,Huddersfield,28.0,2052.0,0.0,1.0,0.0,0.0
+2018,30816,S. Okaka,34,Italy,Watford,2.0,22.0,0.0,,1.0,0.0
+2018,87077,Patrice Evra,37,France,West Ham,,,,,,
+2018,114,Adrien Silva,35,Portugal,Leicester,2.0,88.0,0.0,,0.0,0.0
+2018,172,D. Alli,28,England,Tottenham,25.0,1835.0,5.0,3.0,4.0,0.0
+2018,286,J. Matip,33,Cameroon,Liverpool,22.0,1532.0,1.0,,3.0,0.0
+2018,1972,L. Karius,31,Germany,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2018,2700,A. Jahanbakhsh,31,Iran,Brighton,19.0,1022.0,0.0,,2.0,0.0
+2018,2991,C. Kouyaté,35,Senegal,Crystal Palace,31.0,1897.0,0.0,2.0,3.0,0.0
+2018,18777,M. Albrighton,35,England,Leicester,27.0,1626.0,2.0,2.0,3.0,0.0
+2018,18787,S. Okazaki,38,Japan,Leicester,21.0,269.0,0.0,1.0,0.0,0.0
+2018,18815,R. Fredericks,32,England,West Ham,15.0,1085.0,1.0,,5.0,0.0
+2018,18836,W. Hennessey,37,Wales,Crystal Palace,18.0,1575.0,0.0,,0.0,0.0
+2018,18844,J. Tomkins,35,England,Crystal Palace,29.0,2563.0,1.0,1.0,6.0,0.0
+2018,18891,C. Clark,35,Republic of Ireland,Newcastle,11.0,857.0,3.0,,1.0,0.0
+2018,18892,P. Dummett,33,Wales,Newcastle,26.0,1986.0,0.0,,1.0,0.0
+2018,18908,J. Hart,37,England,Burnley,19.0,1710.0,0.0,,0.0,0.0
+2018,18924,J. Hendrick,32,Republic of Ireland,Burnley,32.0,2069.0,3.0,,4.0,0.0
+2018,18975,D. Pröpper,33,Netherlands,Brighton,30.0,2551.0,1.0,1.0,2.0,0.0
+2018,18992,S. Morrison,33,England,Cardiff,34.0,3040.0,1.0,3.0,6.0,0.0
+2018,19017,C. Christie,32,Republic of Ireland,Fulham,28.0,1943.0,0.0,1.0,7.0,0.0
+2018,19056,L. Depoitre,36,Belgium,Huddersfield,23.0,1059.0,0.0,1.0,1.0,0.0
+2018,19246,R. van La Parra,33,Netherlands,Huddersfield,5.0,407.0,0.0,,0.0,0.0
+2018,163,S. Aurier,32,Côte d'Ivoire,Tottenham,8.0,564.0,0.0,2.0,1.0,0.0
+2018,165,T. Eyoma,24,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2018,190,Cédric Soares,33,Portugal,Southampton,18.0,1494.0,1.0,2.0,4.0,0.0
+2018,614,C. Bravo,41,Chile,Manchester City,0.0,0.0,0.0,,0.0,0.0
+2018,1450,S. Papastathopoulos,36,Greece,Arsenal,25.0,2199.0,1.0,2.0,12.0,0.0
+2018,18738,R. Bennett,34,England,Wolves,34.0,3060.0,1.0,,12.0,0.0
+2018,18808,T. Deeney,36,England,Watford,32.0,2548.0,9.0,5.0,4.0,1.0
+2018,18822,N. Holland,26,England,West Ham,0.0,0.0,0.0,,0.0,0.0
+2018,18845,P. van Aanholt,34,Netherlands,Crystal Palace,36.0,3198.0,3.0,2.0,3.0,0.0
+2018,18857,C. Wickham,31,England,Crystal Palace,6.0,61.0,0.0,1.0,0.0,0.0
+2018,18876,J. Ibe,29,England,Bournemouth,19.0,795.0,1.0,1.0,1.0,0.0
+2018,18880,K. Taylor,25,England,Bournemouth,0.0,0.0,0.0,,0.0,0.0
+2018,18972,A. Knockaert,33,France,Brighton,30.0,1832.0,2.0,6.0,4.0,1.0
+2018,18996,H. Arter,35,Republic of Ireland,Cardiff,25.0,2008.0,0.0,1.0,10.0,0.0
+2018,18999,L. Damour,33,France,Cardiff,2.0,21.0,0.0,,0.0,0.0
+2018,19000,K. Harris,31,England,Cardiff,13.0,366.0,1.0,,1.0,0.0
+2018,19011,Fabri,37,Spain,Fulham,2.0,180.0,0.0,,0.0,0.0
+2018,19018,T. Fosu-Mensah,26,Netherlands,Fulham,12.0,795.0,0.0,,3.0,0.0
+2018,19044,C. Löwe,35,Germany,Huddersfield,29.0,2056.0,0.0,2.0,2.0,0.0
+2018,19045,C. Schindler,34,Germany,Huddersfield,37.0,3262.0,1.0,,5.0,0.0
+2018,2777,I. Success,28,Nigeria,Watford,30.0,1037.0,1.0,1.0,4.0,0.0
+2018,3421,D. Amartey,30,Ghana,Leicester,9.0,640.0,0.0,,2.0,0.0
+2018,18763,J. McCarthy,34,Republic of Ireland,Everton,1.0,14.0,0.0,,0.0,0.0
+2018,18764,M. Schneiderlin,35,France,Everton,14.0,833.0,0.0,1.0,2.0,0.0
+2018,18775,D. Simpson,37,England,Leicester,6.0,291.0,0.0,,0.0,0.0
+2018,18802,É. Capoue,36,France,Watford,33.0,2947.0,1.0,3.0,14.0,1.0
+2018,18848,S. Woods,26,England,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2018,18852,L. Milivojević,33,Serbia,Crystal Palace,38.0,3420.0,12.0,2.0,10.0,0.0
+2018,18875,E. Hyndman,28,USA,Bournemouth,1.0,37.0,0.0,,0.0,0.0
+2018,18978,F. Andone,31,Romania,Brighton,23.0,874.0,3.0,,5.0,0.0
+2018,18981,J. Locadia,31,Curaçao,Brighton,26.0,1227.0,2.0,,1.0,0.0
+2018,18995,J. Richards,33,Wales,Cardiff,4.0,128.0,0.0,,0.0,0.0
+2018,19009,O. Niasse,34,Senegal,Cardiff,13.0,940.0,0.0,,0.0,0.0
+2018,19029,K. McDonald,36,Scotland,Fulham,15.0,842.0,0.0,,5.0,0.0
+2018,19039,D. Duhaney,26,England,Huddersfield,1.0,46.0,0.0,,0.0,0.0
+2018,19053,A. Sabiri,28,Morocco,Huddersfield,2.0,49.0,0.0,,0.0,0.0
+2018,19386,R. Aarons,29,Jamaica,Newcastle,0.0,0.0,0.0,,0.0,0.0
+2018,50291,Mohamed Ismail,33,United Arab Emirates,Shabab Al Ahli Dubai,0.0,0.0,0.0,,0.0,0.0
+2018,50298,Salmin Khamis,33,United Arab Emirates,Shabab Al Ahli Dubai,0.0,0.0,0.0,,0.0,0.0
+2018,50302,Saud Abdelrazaq,26,United Arab Emirates,Shabab Al Ahli Dubai,0.0,0.0,0.0,,0.0,0.0
+2018,1452,Mohamed Elneny,32,Egypt,Arsenal,8.0,381.0,0.0,,0.0,0.0
+2018,3125,I. Cissé,30,Guinea,Fulham,3.0,87.0,0.0,,0.0,0.0
+2018,17585,C. Roberts,27,England,Newcastle,0.0,0.0,0.0,,0.0,0.0
+2018,18743,C. John,25,England,Wolves,0.0,0.0,0.0,,0.0,0.0
+2018,18754,M. Hewelt,28,Poland,Everton,0.0,0.0,0.0,,0.0,0.0
+2018,18798,A. Mariappa,38,Jamaica,Watford,26.0,1921.0,0.0,,3.0,0.0
+2018,18937,T. Johnson,26,England,Southampton,1.0,0.0,0.0,,0.0,0.0
+2018,18983,N. Etheridge,34,Philippines,Cardiff,38.0,3420.0,0.0,,2.0,0.0
+2018,19027,N. Kebano,32,Congo DR,Fulham,7.0,103.0,0.0,,0.0,0.0
+2018,19028,L. Marković,30,Serbia,Fulham,1.0,44.0,0.0,,0.0,0.0
+2018,19107,G. Madine,34,England,Cardiff,5.0,32.0,0.0,,0.0,0.0
+2018,30462,M. Gabbiadini,33,Italy,Southampton,12.0,470.0,1.0,,0.0,0.0
+2018,50284,Majed Naser,40,United Arab Emirates,Shabab Al Ahli Dubai,0.0,0.0,0.0,,0.0,0.0
+2018,50290,Mohammed Marzooq,35,United Arab Emirates,Shabab Al Ahli Dubai,0.0,0.0,0.0,,0.0,0.0
+2018,50297,Abdelaziz Alkaabi,26,United Arab Emirates,Shabab Al Ahli Dubai,0.0,0.0,0.0,,0.0,0.0
+2018,50308,Marwan Fahad,25,United Arab Emirates,Shabab Al Ahli Dubai,0.0,0.0,0.0,,0.0,0.0
+2018,50309,Waleed Hussain,32,United Arab Emirates,Shabab Al Ahli Dubai,0.0,0.0,0.0,,0.0,0.0
+2018,68124,N. Tavares,25,Croatia,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2018,68125,L. Dreher,26,England,Crystal Palace,1.0,0.0,0.0,,0.0,0.0
+2018,73822,Marcelo Djaló,31,Guinea-Bissau,Fulham,0.0,0.0,0.0,,0.0,0.0
+2018,17711,A. Koiki,25,England,Burnley,0.0,0.0,0.0,,0.0,0.0
+2018,17794,J. Powell,26,England,West Ham,0.0,0.0,0.0,,0.0,0.0
+2018,18820,C. Coventry,24,Republic of Ireland,West Ham,0.0,0.0,0.0,,0.0,0.0
+2018,18842,M. Sakho,34,France,Crystal Palace,27.0,2417.0,0.0,,2.0,0.0
+2018,18871,M. Butcher,27,England,Bournemouth,0.0,0.0,0.0,,0.0,0.0
+2018,18920,J. Benson,25,England,Burnley,0.0,0.0,0.0,,0.0,0.0
+2018,18939,K. Ramsay,24,England,Southampton,1.0,90.0,0.0,,0.0,0.0
+2018,18991,B. Ecuele Manga,36,Gabon,Cardiff,38.0,3375.0,0.0,1.0,0.0,0.0
+2018,19006,R. Healey,30,England,Cardiff,3.0,49.0,0.0,,0.0,0.0
+2018,19010,D. Ward,34,England,Cardiff,14.0,440.0,1.0,,0.0,0.0
+2018,19024,S. Sessegnon,24,England,Fulham,0.0,0.0,0.0,,0.0,0.0
+2018,19033,F. Ayité,36,Togo,Fulham,16.0,465.0,1.0,,0.0,0.0
+2018,19037,J. Coleman,29,England,Huddersfield,1.0,90.0,0.0,,0.0,0.0
+2018,19049,J. Hogg,36,England,Huddersfield,29.0,2377.0,0.0,1.0,8.0,1.0
+2018,19058,E. Kachunga,32,Congo DR,Huddersfield,20.0,1181.0,0.0,,2.0,0.0
+2018,19208,S. Malone,33,England,Huddersfield,0.0,0.0,0.0,,0.0,0.0
+2018,19513,S. Vokes,35,Wales,Burnley,20.0,913.0,3.0,,0.0,0.0
+2018,19728,M. Pennington,30,England,Everton,0.0,0.0,0.0,,0.0,0.0
+2018,38700,S. Kaikai,29,Sierra Leone,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2018,68127,K. Watts,25,England,Newcastle,0.0,0.0,0.0,,0.0,0.0
+2018,1441,C. Jenkinson,32,England,Arsenal,3.0,166.0,0.0,,0.0,0.0
+2018,1446,Z. Medley,24,England,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2018,2484,Y. Mina,30,Colombia,Everton,13.0,890.0,1.0,,3.0,0.0
+2018,2500,F. Balbuena,33,Paraguay,West Ham,23.0,2014.0,1.0,,2.0,0.0
+2018,2724,L. Digne,31,France,Everton,35.0,2966.0,4.0,4.0,5.0,1.0
+2018,2735,P. Højbjerg,29,Denmark,Southampton,31.0,2764.0,4.0,3.0,8.0,1.0
+2018,2795,G. Sigurðsson,35,Iceland,Everton,38.0,3134.0,13.0,6.0,3.0,0.0
+2018,16821,Ramadan Sobhi,27,Egypt,Huddersfield,4.0,75.0,0.0,,0.0,0.0
+2018,18807,Domingos Quina,25,Portugal,Watford,8.0,335.0,1.0,,0.0,0.0
+2018,18851,M. Meyer,29,Germany,Crystal Palace,29.0,1414.0,1.0,2.0,3.0,0.0
+2018,18913,A. Glennon,25,England,Burnley,0.0,0.0,0.0,,0.0,0.0
+2018,18930,M. Vydra,32,Czechia,Burnley,13.0,311.0,1.0,1.0,1.0,0.0
+2018,18931,C. Wood,33,New Zealand,Burnley,38.0,2595.0,10.0,2.0,2.0,0.0
+2018,18952,C. Austin,35,England,Southampton,25.0,980.0,2.0,2.0,1.0,0.0
+2018,18968,Y. Bissouma,28,Mali,Brighton,28.0,1769.0,0.0,,5.0,0.0
+2018,18976,M. Sanders,25,England,Brighton,0.0,0.0,0.0,,0.0,0.0
+2018,18990,G. Cunningham,33,Republic of Ireland,Cardiff,7.0,630.0,0.0,,3.0,0.0
+2018,19048,M. Daly,23,England,Huddersfield,2.0,73.0,0.0,,0.0,0.0
+2018,19060,A. Rowe,24,England,Huddersfield,2.0,69.0,0.0,,0.0,0.0
+2018,68126,L. Cass,24,England,Newcastle,0.0,0.0,0.0,,0.0,0.0
+2018,305,D. Origi,29,Belgium,Liverpool,12.0,366.0,3.0,1.0,0.0,0.0
+2018,2716,R. SaÃ¯ss,34,Morocco,Wolves,19.0,1144.0,2.0,,7.0,0.0
+2018,2727,J. LÃ¶ssl,35,Denmark,Huddersfield,31.0,2777.0,0.0,1.0,1.0,0.0
+2018,2792,A. Gunnarsson,35,Iceland,Cardiff,28.0,2274.0,1.0,1.0,5.0,0.0
+2018,18800,Marc Navarro,29,Spain,Watford,2.0,84.0,0.0,,0.0,0.0
+2018,18831,A. Carroll,35,England,West Ham,12.0,454.0,0.0,,2.0,0.0
+2018,18834,A. Yarmolenko,35,Ukraine,West Ham,9.0,459.0,2.0,,2.0,0.0
+2018,18868,J. Simpson,28,England,Bournemouth,6.0,403.0,0.0,,0.0,0.0
+2018,18877,N. Ofoborh,25,Nigeria,Bournemouth,0.0,0.0,0.0,,0.0,0.0
+2018,18907,Joselu,34,Spain,Newcastle,16.0,586.0,2.0,,1.0,0.0
+2018,18946,M. Elyounoussi,30,Norway,Southampton,16.0,790.0,0.0,,0.0,0.0
+2018,18950,J. Sims,27,England,Southampton,7.0,209.0,0.0,1.0,0.0,0.0
+2018,18958,D. Button,35,England,Brighton,4.0,360.0,0.0,,0.0,0.0
+2018,18971,B. Kayal,36,Israel,Brighton,18.0,934.0,1.0,1.0,4.0,0.0
+2018,19014,Sergio Rico,31,Spain,Fulham,29.0,2610.0,0.0,,1.0,0.0
+2018,19057,A. Diakhaby,28,France,Huddersfield,12.0,551.0,0.0,,1.0,0.0
+2018,19917,K. Sterling,26,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2018,20008,B. Enobakhare,26,Nigeria,Wolves,0.0,0.0,0.0,,0.0,0.0
+2018,49923,A. Kamara,29,Mauritania,Fulham,13.0,687.0,3.0,,2.0,0.0
+2018,82100,J. Sterry,29,England,Newcastle,0.0,0.0,0.0,,0.0,0.0
+2018,166,J. Foyth,26,Argentina,Tottenham,12.0,888.0,1.0,,3.0,1.0
+2018,177,G. Marsh,26,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2018,300,G. Wijnaldum,34,Netherlands,Liverpool,35.0,2735.0,3.0,,3.0,0.0
+2018,885,E. Bailly,30,Côte d'Ivoire,Manchester United,12.0,637.0,0.0,,0.0,1.0
+2018,898,Ander Herrera,35,Spain,Manchester United,22.0,1404.0,2.0,3.0,4.0,0.0
+2018,1439,Héctor Bellerín,29,Spain,Arsenal,19.0,1535.0,0.0,5.0,3.0,0.0
+2018,1461,Denis Suárez,30,Spain,Arsenal,4.0,67.0,0.0,,0.0,0.0
+2018,2280,César Azpilicueta,35,Spain,Chelsea,38.0,3403.0,1.0,5.0,4.0,0.0
+2018,2282,A. Christensen,28,Denmark,Chelsea,8.0,615.0,0.0,,1.0,0.0
+2018,2284,Emerson,30,Italy,Chelsea,10.0,660.0,0.0,,0.0,0.0
+2018,2285,A. Rüdiger,31,Germany,Chelsea,33.0,2874.0,1.0,,7.0,0.0
+2018,2461,S. Rondón,35,Venezuela,Newcastle,32.0,2609.0,11.0,7.0,1.0,0.0
+2018,2931,T. Heaton,38,England,Burnley,19.0,1710.0,0.0,,3.0,0.0
+2018,8492,A. Sørloth,29,Norway,Crystal Palace,12.0,173.0,0.0,,0.0,0.0
+2018,18794,Kiko Femenía,33,Spain,Watford,29.0,2045.0,1.0,1.0,1.0,0.0
+2018,18812,Adrián,37,Spain,West Ham,0.0,0.0,0.0,,0.0,0.0
+2018,18819,M. Antonio,34,Jamaica,West Ham,33.0,2099.0,6.0,4.0,3.0,0.0
+2018,18898,M. DiamÃ©,37,Senegal,Newcastle,29.0,2165.0,0.0,,3.0,0.0
+2018,18906,Ayoze Pérez,31,Spain,Newcastle,37.0,2929.0,12.0,2.0,2.0,0.0
+2018,18955,D. Ings,32,England,Southampton,24.0,1668.0,7.0,3.0,1.0,0.0
+2018,169,K. Trippier,34,England,Tottenham,27.0,2278.0,1.0,3.0,2.0,0.0
+2018,1445,K. Mavropanos,27,Greece,Arsenal,4.0,150.0,0.0,,1.0,0.0
+2018,1463,J. Willock,25,England,Arsenal,2.0,64.0,0.0,,0.0,0.0
+2018,2507,M. Almirón,30,Paraguay,Newcastle,10.0,763.0,0.0,,0.0,0.0
+2018,2734,P. Billing,28,Denmark,Huddersfield,27.0,2192.0,2.0,,7.0,0.0
+2018,2806,F. Schär,33,Switzerland,Newcastle,24.0,2002.0,4.0,1.0,12.0,0.0
+2018,2939,C. Wilson,32,England,Bournemouth,30.0,2535.0,14.0,9.0,3.0,0.0
+2018,2997,Ł. Fabiański,39,Poland,West Ham,38.0,3420.0,0.0,,0.0,0.0
+2018,18737,J. Ruddy,38,England,Wolves,1.0,90.0,0.0,,0.0,0.0
+2018,18744,M. Kilman,27,England,Wolves,1.0,0.0,0.0,,0.0,0.0
+2018,18778,H. Barnes,27,England,Leicester,16.0,1007.0,1.0,2.0,0.0,0.0
+2018,18813,A. Cresswell,35,England,West Ham,20.0,1589.0,0.0,1.0,1.0,0.0
+2018,18846,A. Wan-Bissaka,27,England,Crystal Palace,35.0,3135.0,0.0,3.0,4.0,1.0
+2018,18886,M. Dúbravka,35,Slovakia,Newcastle,38.0,3420.0,0.0,,1.0,0.0
+2018,18894,J. Lascelles,31,England,Newcastle,32.0,2748.0,0.0,1.0,4.0,0.0
+2018,18899,I. Hayden,29,England,Newcastle,25.0,1862.0,1.0,4.0,3.0,1.0
+2018,18901,S. Longstaff,27,England,Newcastle,9.0,688.0,1.0,,2.0,0.0
+2018,18941,M. Targett,29,England,Southampton,16.0,1185.0,1.0,3.0,2.0,0.0
+2018,18961,D. Burn,32,England,Brighton,0.0,0.0,0.0,,0.0,0.0
+2018,19163,J. Murphy,29,England,Newcastle,9.0,300.0,0.0,1.0,0.0,0.0
+2018,186,Son Heung-Min,32,Korea Republic,Tottenham,31.0,2048.0,12.0,6.0,2.0,1.0
+2018,727,R. Nelson,25,England,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2018,899,Andreas Pereira,28,Brazil,Manchester United,15.0,595.0,1.0,1.0,5.0,0.0
+2018,1161,E. Smith Rowe,24,England,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2018,1438,B. Leno,32,Germany,Arsenal,32.0,2835.0,0.0,,0.0,0.0
+2018,1455,A. Iwobi,28,Nigeria,Arsenal,35.0,1972.0,3.0,6.0,0.0,0.0
+2018,2273,Kepa,30,Spain,Chelsea,36.0,3240.0,0.0,,2.0,0.0
+2018,2413,Richarlison,27,Brazil,Everton,35.0,2679.0,13.0,1.0,5.0,1.0
+2018,2887,R. Jiménez,33,Mexico,Wolves,38.0,3124.0,13.0,7.0,4.0,0.0
+2018,18753,Adama Traoré,28,Spain,Wolves,29.0,890.0,1.0,1.0,1.0,0.0
+2018,18784,J. Maddison,28,England,Leicester,36.0,2850.0,7.0,7.0,4.0,0.0
+2018,18814,I. Diop,27,France,West Ham,33.0,2970.0,1.0,,4.0,0.0
+2018,18860,M. Travers,25,Republic of Ireland,Bournemouth,2.0,180.0,0.0,,0.0,0.0
+2018,18869,A. Smith,33,England,Bournemouth,25.0,2073.0,1.0,1.0,5.0,1.0
+2018,18870,D. Brooks,27,Wales,Bournemouth,30.0,2278.0,7.0,5.0,3.0,0.0
+2018,18872,L. Cook,27,England,Bournemouth,13.0,721.0,0.0,,2.0,0.0
+2018,18883,D. Solanke,27,England,Bournemouth,10.0,341.0,0.0,1.0,0.0,0.0
+2018,18917,B. Mee,35,England,Burnley,38.0,3420.0,0.0,2.0,9.0,0.0
+2018,19025,T. Cairney,33,Scotland,Fulham,31.0,2198.0,1.0,1.0,0.0,0.0
+2018,19032,R. Sessegnon,24,England,Fulham,35.0,2298.0,2.0,6.0,0.0,0.0
+2018,161,A. Whiteman,26,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2018,164,B. Davies,31,Wales,Tottenham,27.0,1839.0,0.0,,2.0,0.0
+2018,296,J. Milner,38,England,Liverpool,31.0,1785.0,5.0,4.0,6.0,0.0
+2018,645,R. Sterling,30,England,Manchester City,34.0,2777.0,17.0,10.0,3.0,0.0
+2018,1469,D. Welbeck,34,England,Arsenal,8.0,147.0,1.0,1.0,0.0,0.0
+2018,2287,R. Barkley,31,England,Chelsea,27.0,1241.0,3.0,5.0,1.0,0.0
+2018,2298,C. Hudson-Odoi,24,England,Chelsea,10.0,391.0,0.0,1.0,0.0,0.0
+2018,2926,Y. Tielemans,27,Belgium,Leicester,13.0,1092.0,3.0,4.0,2.0,0.0
+2018,2933,B. Chilwell,28,England,Leicester,36.0,3240.0,0.0,4.0,4.0,0.0
+2018,2938,J. Ward-Prowse,30,England,Southampton,26.0,1942.0,7.0,,4.0,0.0
+2018,18739,W. Boly,33,Côte d'Ivoire,Wolves,36.0,3169.0,4.0,,2.0,1.0
+2018,18746,M. Gibbs-White,24,England,Wolves,26.0,647.0,0.0,1.0,1.0,0.0
+2018,18932,F. Forster,36,England,Southampton,1.0,90.0,0.0,,0.0,0.0
+2018,18960,J. Steele,34,England,Brighton,0.0,0.0,0.0,,0.0,0.0
+2018,18963,L. Dunk,33,England,Brighton,36.0,3153.0,2.0,1.0,6.0,0.0
+2018,18973,S. March,30,England,Brighton,35.0,2473.0,1.0,5.0,1.0,0.0
+2018,19012,M. Bettinelli,32,England,Fulham,7.0,630.0,0.0,,1.0,0.0
+2018,19177,K. Hause,29,England,Wolves,0.0,0.0,0.0,,0.0,0.0
+2018,19179,T. Mings,31,England,Bournemouth,5.0,141.0,0.0,,0.0,0.0
+2018,19599,E. Martínez,32,Argentina,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2018,280,Alisson Becker,32,Brazil,Liverpool,38.0,3420.0,0.0,,1.0,0.0
+2018,283,T. Alexander-Arnold,26,England,Liverpool,29.0,2467.0,1.0,12.0,3.0,0.0
+2018,284,J. Gomez,27,England,Liverpool,16.0,1060.0,0.0,,2.0,0.0
+2018,289,A. Robertson,30,Scotland,Liverpool,36.0,3219.0,0.0,11.0,4.0,0.0
+2018,290,V. van Dijk,33,Netherlands,Liverpool,38.0,3385.0,4.0,2.0,1.0,0.0
+2018,293,C. Jones,23,England,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2018,306,Mohamed Salah,32,Egypt,Liverpool,38.0,3262.0,22.0,8.0,1.0,0.0
+2018,629,K. De Bruyne,33,Belgium,Manchester City,19.0,974.0,2.0,2.0,2.0,0.0
+2018,631,P. Foden,24,England,Manchester City,13.0,327.0,1.0,,0.0,0.0
+2018,633,İ. Gündoğan,34,Germany,Manchester City,31.0,2135.0,6.0,3.0,3.0,0.0
+2018,636,Bernardo Silva,30,Portugal,Manchester City,36.0,2853.0,7.0,7.0,3.0,0.0
+2018,641,O. Zinchenko,28,Ukraine,Manchester City,14.0,1153.0,0.0,3.0,1.0,0.0
+2018,643,Gabriel Jesus,27,Brazil,Manchester City,29.0,1019.0,7.0,3.0,1.0,0.0
+2018,1460,B. Saka,23,England,Arsenal,1.0,7.0,0.0,,0.0,0.0
+2018,2289,Jorginho,33,Italy,Chelsea,37.0,3165.0,2.0,,8.0,0.0
+2018,2291,M. Kovačić,30,Croatia,Chelsea,32.0,1743.0,0.0,2.0,3.0,0.0
+2018,2678,Diogo Jota,28,Portugal,Wolves,33.0,2371.0,9.0,5.0,11.0,0.0
+2018,2937,D. Rice,25,England,West Ham,34.0,3005.0,2.0,,4.0,0.0
+2018,19035,H. Elliott,21,England,Fulham,2.0,18.0,0.0,,0.0,0.0
+2018,19959,B. White,27,England,Brighton,0.0,0.0,0.0,,0.0,0.0
+2018,158,P. Gazzaniga,32,Argentina,Tottenham,3.0,270.0,0.0,,0.0,0.0
+2018,617,Ederson,31,Brazil,Manchester City,38.0,3420.0,0.0,1.0,2.0,0.0
+2018,626,J. Stones,30,England,Manchester City,24.0,1762.0,0.0,,1.0,0.0
+2018,627,K. Walker,34,England,Manchester City,33.0,2777.0,1.0,1.0,3.0,0.0
+2018,886,Diogo Dalot,25,Portugal,Manchester United,16.0,1015.0,0.0,2.0,3.0,0.0
+2018,889,V. Lindelöf,30,Sweden,Manchester United,30.0,2602.0,1.0,1.0,1.0,0.0
+2018,891,L. Shaw,29,England,Manchester United,29.0,2592.0,1.0,4.0,11.0,0.0
+2018,2278,Marcos Alonso,34,Spain,Chelsea,31.0,2761.0,2.0,4.0,6.0,0.0
+2018,2778,K. Ịheanachọ,28,Nigeria,Leicester,30.0,926.0,1.0,3.0,2.0,0.0
+2018,2935,H. Maguire,31,England,Leicester,31.0,2599.0,3.0,,6.0,1.0
+2018,18772,J. Evans,36,Northern Ireland,Leicester,24.0,1995.0,1.0,,2.0,0.0
+2018,18835,Vicente Guaita,37,Spain,Crystal Palace,20.0,1755.0,0.0,,2.0,0.0
+2018,18861,N. Aké,29,Netherlands,Bournemouth,38.0,3412.0,4.0,,3.0,0.0
+2018,18867,Diego Rico,31,Spain,Bournemouth,12.0,607.0,0.0,,1.0,0.0
+2018,18895,F. Lejeune,33,France,Newcastle,12.0,1055.0,0.0,,0.0,0.0
+2018,18896,Javier Manquillo,30,Spain,Newcastle,18.0,1097.0,0.0,3.0,2.0,0.0
+2018,18902,Kenedy,28,Brazil,Newcastle,25.0,1344.0,1.0,1.0,1.0,0.0
+2018,18949,Oriol Romeu,33,Spain,Southampton,31.0,2140.0,1.0,,11.0,0.0
+2018,19026,L. de la Torre,26,USA,Fulham,0.0,0.0,0.0,,0.0,0.0
+2018,47324,Sandro Ramírez,29,Spain,Everton,0.0,0.0,0.0,,0.0,0.0
+2018,171,K. Walker-Peters,27,England,Tottenham,6.0,374.0,0.0,3.0,1.0,0.0
+2018,175,E. Dier,30,England,Tottenham,20.0,1510.0,3.0,,4.0,0.0
+2018,184,H. Kane,31,England,Tottenham,28.0,2427.0,17.0,4.0,5.0,0.0
+2018,295,A. Lallana,36,England,Liverpool,13.0,465.0,0.0,,1.0,0.0
+2018,616,A. Murić,26,Kosovo,Manchester City,0.0,0.0,0.0,,0.0,0.0
+2018,644,L. Sané,28,Germany,Manchester City,31.0,1867.0,10.0,10.0,1.0,0.0
+2018,1464,G. Xhaka,32,Switzerland,Arsenal,29.0,2502.0,4.0,2.0,10.0,0.0
+2018,1468,E. Nketiah,25,England,Arsenal,5.0,62.0,1.0,,0.0,0.0
+2018,2490,J. Lerma,30,Colombia,Bournemouth,30.0,2511.0,2.0,,12.0,0.0
+2018,2999,J. Bednarek,28,Poland,Southampton,25.0,2151.0,0.0,1.0,7.0,0.0
+2018,18742,M. Doherty,32,Republic of Ireland,Wolves,38.0,3147.0,4.0,5.0,5.0,0.0
+2018,18806,W. Hughes,29,England,Watford,32.0,2436.0,2.0,4.0,5.0,0.0
+2018,18823,B. Johnson,24,England,West Ham,1.0,63.0,0.0,,0.0,0.0
+2018,18843,J. Schlupp,32,Ghana,Crystal Palace,30.0,1665.0,4.0,1.0,1.0,0.0
+2018,18862,N. Clyne,33,England,Bournemouth,14.0,1146.0,0.0,1.0,2.0,0.0
+2018,18873,R. Fraser,30,Scotland,Bournemouth,38.0,3173.0,7.0,14.0,2.0,0.0
+2018,18918,C. Taylor,31,England,Burnley,38.0,3240.0,0.0,1.0,2.0,0.0
+2018,18935,A. McCarthy,35,England,Southampton,25.0,2250.0,0.0,,1.0,0.0
+2018,18940,J. Stephens,30,England,Southampton,24.0,1697.0,1.0,,4.0,0.0
+2018,18947,M. Lemina,31,Gabon,Southampton,21.0,1615.0,1.0,1.0,5.0,0.0
+2018,180,O. Skipp,24,England,Tottenham,8.0,216.0,0.0,,0.0,0.0
+2018,182,H. Winks,28,England,Tottenham,26.0,1591.0,1.0,,4.0,0.0
+2018,894,A. Young,39,England,Manchester United,30.0,2568.0,2.0,2.0,9.0,0.0
+2018,895,J. Garner,23,England,Manchester United,1.0,0.0,0.0,,0.0,0.0
+2018,1440,R. Holding,29,England,Arsenal,10.0,807.0,0.0,,1.0,0.0
+2018,2932,J. Pickford,30,England,Everton,38.0,3420.0,0.0,,1.0,0.0
+2018,2934,M. Keane,31,England,Everton,33.0,2970.0,1.0,2.0,2.0,0.0
+2018,2936,J. Tarkowski,32,England,Burnley,35.0,3087.0,3.0,1.0,8.0,0.0
+2018,2990,I. Gueye,35,Senegal,Everton,33.0,2825.0,0.0,2.0,6.0,0.0
+2018,3428,J. Ayew,33,Ghana,Crystal Palace,20.0,1186.0,1.0,2.0,3.0,0.0
+2018,18758,S. Coleman,36,Republic of Ireland,Everton,29.0,2560.0,2.0,2.0,1.0,0.0
+2018,18766,D. Calvert-Lewin,27,England,Everton,35.0,1774.0,6.0,2.0,3.0,0.0
+2018,18779,H. Choudhury,27,England,Leicester,9.0,596.0,0.0,,0.0,0.0
+2018,18788,J. Vardy,37,England,Leicester,34.0,2735.0,18.0,4.0,3.0,1.0
+2018,18805,A. Doucouré,31,Mali,Watford,35.0,3062.0,5.0,6.0,7.0,0.0
+2018,18847,J. Ward,35,England,Crystal Palace,7.0,551.0,1.0,,1.0,0.0
+2018,18858,A. Begović,37,Bosnia and Herzegovina,Bournemouth,24.0,2160.0,0.0,,0.0,0.0
+2018,18929,D. McNeil,25,England,Burnley,21.0,1599.0,3.0,5.0,2.0,0.0
+2018,19004,B. De Cordova-Reid,31,Jamaica,Cardiff,27.0,1422.0,5.0,2.0,0.0,0.0
+2018,67971,M. Guéhi,24,England,Chelsea,0.0,0.0,0.0,,0.0,0.0
+2018,59,Álvaro Morata,32,Spain,Chelsea,16.0,943.0,5.0,,3.0,0.0
+2018,174,C. Eriksen,32,Denmark,Tottenham,35.0,2772.0,8.0,12.0,3.0,0.0
+2018,618,Danilo,33,Brazil,Manchester City,11.0,806.0,1.0,,1.0,0.0
+2018,882,David de Gea,34,Spain,Manchester United,38.0,3420.0,0.0,,1.0,0.0
+2018,904,P. Pogba,31,France,Manchester United,35.0,3011.0,13.0,9.0,6.0,0.0
+2018,909,M. Rashford,27,England,Manchester United,33.0,2343.0,10.0,6.0,3.0,1.0
+2018,910,A. Sánchez,36,Chile,Manchester United,20.0,877.0,1.0,3.0,3.0,0.0
+2018,1454,M. Guendouzi,25,France,Arsenal,33.0,2143.0,0.0,,9.0,0.0
+2018,2292,R. Loftus-Cheek,28,England,Chelsea,24.0,983.0,6.0,2.0,0.0,0.0
+2018,2299,Pedro,37,Spain,Chelsea,31.0,1780.0,8.0,2.0,2.0,0.0
+2018,2741,M. Ryan,32,Australia,Brighton,34.0,3060.0,0.0,,2.0,0.0
+2018,18146,D. Ward,31,Wales,Leicester,0.0,0.0,0.0,,0.0,0.0
+2018,18741,C. Coady,31,England,Wolves,38.0,3420.0,0.0,,5.0,0.0
+2018,18771,Ricardo Pereira,31,Portugal,Leicester,35.0,3125.0,2.0,6.0,7.0,0.0
+2018,18786,W. Ndidi,28,Nigeria,Leicester,38.0,3299.0,2.0,,8.0,0.0
+2018,18797,C. Kabasele,33,Belgium,Watford,21.0,1587.0,0.0,,3.0,0.0
+2018,18799,A. Masina,30,Morocco,Watford,14.0,1003.0,0.0,1.0,5.0,0.0
+2018,18809,Deulofeu,30,Spain,Watford,30.0,2082.0,10.0,5.0,3.0,0.0
+2018,18943,J. Vestergaard,32,Denmark,Southampton,23.0,2030.0,0.0,,2.0,0.0
+2018,19194,T. Abraham,27,England,Chelsea,0.0,0.0,0.0,,0.0,0.0
+2018,294,N. Keïta,29,Guinea,Liverpool,25.0,1392.0,2.0,1.0,0.0,0.0
+2018,887,M. Darmian,35,Italy,Manchester United,6.0,443.0,0.0,,0.0,0.0
+2018,902,N. Matić,36,Serbia,Manchester United,28.0,2441.0,1.0,,7.0,0.0
+2018,903,S. McTominay,28,Scotland,Manchester United,16.0,861.0,2.0,,1.0,0.0
+2018,907,R. Lukaku,31,Belgium,Manchester United,32.0,2130.0,12.0,,4.0,0.0
+2018,1442,S. Kolašinac,31,Bosnia and Herzegovina,Arsenal,24.0,1891.0,0.0,5.0,5.0,0.0
+2018,1456,A. Maitland-Niles,27,England,Arsenal,16.0,985.0,1.0,1.0,2.0,0.0
+2018,1467,A. Lacazette,33,France,Arsenal,35.0,2503.0,13.0,8.0,2.0,0.0
+2018,2286,D. Zappacosta,32,Italy,Chelsea,4.0,125.0,0.0,,0.0,0.0
+2018,2674,Rui Patrício,36,Portugal,Wolves,37.0,3330.0,0.0,,0.0,0.0
+2018,3247,W. Zaha,32,Côte d'Ivoire,Crystal Palace,34.0,3041.0,10.0,5.0,9.0,0.0
+2018,3395,S. Mounié,30,Benin,Huddersfield,31.0,1777.0,2.0,3.0,1.0,1.0
+2018,3406,F. Anguissa,29,Cameroon,Fulham,22.0,1518.0,0.0,,2.0,0.0
+2018,18767,A. Lookman,27,Nigeria,Everton,21.0,601.0,0.0,2.0,0.0,0.0
+2018,18785,N. Mendy,32,Senegal,Leicester,31.0,2088.0,0.0,,5.0,0.0
+2018,18830,M. Arnautović,35,Austria,West Ham,28.0,2000.0,10.0,4.0,3.0,0.0
+2018,18881,J. King,32,Norway,Bournemouth,35.0,2974.0,12.0,3.0,3.0,0.0
+2018,18964,Bernardo,29,Brazil,Brighton,22.0,1750.0,0.0,1.0,4.0,0.0
+2018,18967,L. Østigård,25,Norway,Brighton,0.0,0.0,0.0,,0.0,0.0
+2018,18970,P. Groß,33,Germany,Brighton,25.0,1878.0,3.0,3.0,1.0,0.0
+2018,176,É. Lamela,32,Argentina,Tottenham,19.0,971.0,4.0,2.0,2.0,0.0
+2018,287,D. Lovren,35,Croatia,Liverpool,13.0,985.0,1.0,,1.0,0.0
+2018,288,Alberto Moreno,32,Spain,Liverpool,2.0,155.0,0.0,,0.0,0.0
+2018,292,J. Henderson,34,England,Liverpool,32.0,1983.0,1.0,3.0,2.0,0.0
+2018,625,P. Sandler,27,Netherlands,Manchester City,0.0,0.0,0.0,,0.0,0.0
+2018,896,A. Gomes,24,England,Manchester United,2.0,25.0,0.0,,0.0,0.0
+2018,897,M. Greenwood,23,England,Manchester United,3.0,115.0,0.0,,0.0,0.0
+2018,908,A. Martial,29,France,Manchester United,27.0,1623.0,10.0,2.0,2.0,0.0
+2018,1457,H. Mkhitaryan,35,Armenia,Arsenal,25.0,1643.0,6.0,4.0,1.0,0.0
+2018,1459,A. Ramsey,34,Wales,Arsenal,28.0,1327.0,4.0,6.0,0.0,0.0
+2018,1635,T. Bakayoko,30,France,Chelsea,0.0,0.0,0.0,,0.0,0.0
+2018,2294,Willian,36,Brazil,Chelsea,32.0,2108.0,3.0,6.0,2.0,0.0
+2018,2475,R. Pereyra,33,Argentina,Watford,33.0,2825.0,6.0,1.0,3.0,0.0
+2018,2886,J. Hernández,36,Mexico,West Ham,25.0,1335.0,7.0,1.0,2.0,0.0
+2018,18765,André Gomes,31,Portugal,Everton,27.0,1986.0,1.0,1.0,7.0,0.0
+2018,18965,Martín Montoya,33,Spain,Brighton,25.0,2166.0,0.0,1.0,4.0,0.0
+2018,18997,L. Bacuna,33,Curaçao,Cardiff,11.0,554.0,0.0,,2.0,0.0
+2018,19003,J. Ralls,31,England,Cardiff,28.0,1959.0,0.0,,4.0,1.0
+2018,19043,T. Kongolo,30,Netherlands,Huddersfield,32.0,2722.0,1.0,1.0,4.0,0.0
+2018,19307,Léo Bonatini,30,Brazil,Wolves,7.0,128.0,0.0,1.0,0.0,0.0
+2018,179,M. Sissoko,35,France,Tottenham,29.0,2336.0,0.0,3.0,2.0,0.0
+2018,18747,R. Giles,24,England,Wolves,0.0,0.0,0.0,,0.0,0.0
+2018,18803,N. Chalobah,30,England,Watford,9.0,266.0,0.0,,2.0,0.0
+2018,18889,F. Woodman,27,England,Newcastle,0.0,0.0,0.0,,0.0,0.0
+2018,18914,B. Gibson,31,England,Burnley,1.0,63.0,1.0,,1.0,0.0
+2018,18921,R. Brady,32,Republic of Ireland,Burnley,16.0,715.0,0.0,1.0,3.0,1.0
+2018,18927,A. Barnes,35,England,Burnley,37.0,2387.0,12.0,2.0,8.0,0.0
+2018,18933,A. Gunn,28,Scotland,Southampton,12.0,1080.0,0.0,,0.0,0.0
+2018,18938,A. Jones,27,England,Southampton,0.0,0.0,0.0,,0.0,0.0
+2018,18942,Y. Valery,25,Tunisia,Southampton,23.0,1715.0,2.0,1.0,4.0,0.0
+2018,18954,S. Gallagher,29,England,Southampton,4.0,30.0,0.0,,0.0,0.0
+2018,18962,S. Duffy,32,Republic of Ireland,Brighton,35.0,3088.0,5.0,1.0,4.0,1.0
+2018,18987,J. Bennett,34,England,Cardiff,30.0,2641.0,0.0,1.0,5.0,0.0
+2018,18993,C. Paterson,30,Scotland,Cardiff,27.0,1996.0,4.0,1.0,4.0,0.0
+2018,19008,N. Mendez-Laing,32,Guatemala,Cardiff,20.0,984.0,4.0,1.0,0.0,0.0
+2018,19015,J. Bryan,31,England,Fulham,28.0,2350.0,0.0,1.0,5.0,0.0
+2018,19016,C. Chambers,29,England,Fulham,31.0,2587.0,2.0,,9.0,0.0
+2018,19038,B. Hamer,37,England,Huddersfield,7.0,553.0,0.0,,0.0,0.0
+2018,19046,T. Smith,32,England,Huddersfield,15.0,1141.0,0.0,,2.0,1.0
+2018,30800,B. Wilmot,25,England,Watford,2.0,26.0,0.0,,0.0,0.0
+2018,906,T. Chong,25,Netherlands,Manchester United,2.0,36.0,0.0,,0.0,0.0
+2018,1347,V. Moses,34,Nigeria,Chelsea,2.0,26.0,0.0,,0.0,0.0
+2018,2279,E. Ampadu,24,Wales,Chelsea,0.0,0.0,0.0,,0.0,0.0
+2018,2860,K. Sema,31,Sweden,Watford,17.0,755.0,1.0,2.0,1.0,0.0
+2018,18736,W. Norris,31,England,Wolves,1.0,0.0,0.0,,0.0,0.0
+2018,18760,J. Kenny,27,England,Everton,10.0,790.0,0.0,1.0,1.0,0.0
+2018,18762,T. Davies,26,England,Everton,16.0,975.0,0.0,,3.0,0.0
+2018,18810,A. Gray,33,Jamaica,Watford,29.0,1358.0,7.0,2.0,2.0,0.0
+2018,18817,A. Ogbonna,36,Italy,West Ham,24.0,1870.0,1.0,1.0,2.0,0.0
+2018,18821,G. Diangana,26,Congo DR,West Ham,17.0,604.0,0.0,1.0,0.0,0.0
+2018,18863,S. Cook,33,England,Bournemouth,31.0,2787.0,1.0,1.0,3.0,0.0
+2018,18866,C. Mepham,27,Wales,Bournemouth,13.0,849.0,0.0,1.0,1.0,0.0
+2018,18903,M. Ritchie,35,Scotland,Newcastle,36.0,2940.0,2.0,8.0,9.0,0.0
+2018,18948,N. Redmond,30,England,Southampton,38.0,3276.0,6.0,4.0,3.0,0.0
+2018,18974,J. Molumby,25,Republic of Ireland,Brighton,0.0,0.0,0.0,,0.0,0.0
+2018,19002,J. Murphy,29,England,Cardiff,29.0,1825.0,3.0,2.0,2.0,0.0
+2018,19055,K. Ahearne-Grant,27,England,Huddersfield,13.0,874.0,4.0,,0.0,0.0
+2018,19150,M. Holgate,28,Jamaica,Everton,5.0,407.0,0.0,,1.0,0.0
+2018,19955,J. Knight,27,England,Leicester,0.0,0.0,0.0,,0.0,0.0
+2018,44775,D. Bachmann,30,Austria,Watford,0.0,0.0,0.0,,0.0,0.0
+2018,178,Lucas Moura,32,Brazil,Tottenham,32.0,2127.0,10.0,,3.0,0.0
+2018,623,B. Mendy,30,France,Manchester City,10.0,900.0,0.0,5.0,1.0,0.0
+2018,640,Fernandinho,39,Brazil,Manchester City,29.0,2381.0,1.0,3.0,5.0,0.0
+2018,900,J. Lingard,32,England,Manchester United,27.0,1668.0,4.0,2.0,3.0,0.0
+2018,1699,Vicente Iborra,36,Spain,Leicester,8.0,226.0,0.0,,0.0,0.0
+2018,2283,David Luiz,37,Brazil,Chelsea,36.0,3239.0,3.0,2.0,3.0,0.0
+2018,2412,Felipe Anderson,31,Brazil,West Ham,36.0,3054.0,9.0,4.0,3.0,0.0
+2018,18751,Ivan Cavaleiro,31,Angola,Wolves,23.0,683.0,3.0,1.0,1.0,0.0
+2018,18761,Bernard,32,Brazil,Everton,34.0,2128.0,1.0,3.0,5.0,0.0
+2018,18824,Pedro Obiang,32,Equatorial Guinea,West Ham,24.0,1121.0,0.0,1.0,0.0,0.0
+2018,18833,Lucas Pérez,36,Spain,West Ham,15.0,468.0,3.0,,0.0,0.0
+2018,18885,K. Darlow,34,Wales,Newcastle,0.0,0.0,0.0,,0.0,0.0
+2018,18890,A. Barreca,29,Italy,Newcastle,1.0,4.0,0.0,,0.0,0.0
+2018,18900,Ki Sung-Yueng,35,Korea Republic,Newcastle,18.0,1302.0,0.0,1.0,2.0,0.0
+2018,18944,M. Yoshida,36,Japan,Southampton,17.0,1520.0,0.0,1.0,0.0,0.0
+2018,18945,S. Armstrong,32,Scotland,Southampton,29.0,1432.0,3.0,2.0,2.0,0.0
+2018,18957,M. Obafemi,24,Republic of Ireland,Southampton,6.0,134.0,1.0,1.0,1.0,0.0
+2018,18998,Víctor Camarasa,30,Spain,Cardiff,32.0,2579.0,5.0,4.0,6.0,0.0
+2018,50237,H. Saivet,34,Senegal,Newcastle,0.0,0.0,0.0,,0.0,0.0
+2018,51106,B. Smith,30,Australia,Bournemouth,0.0,0.0,0.0,,0.0,0.0
+2018,159,H. Lloris,38,France,Tottenham,33.0,2970.0,0.0,,0.0,0.0
+2018,181,V. Wanyama,33,Kenya,Tottenham,13.0,509.0,1.0,,2.0,0.0
+2018,299,Fabinho,31,Brazil,Liverpool,28.0,2013.0,1.0,2.0,6.0,0.0
+2018,304,S. Mané,32,Senegal,Liverpool,36.0,3086.0,22.0,1.0,2.0,0.0
+2018,622,Aymeric Laporte,30,Spain,Manchester City,35.0,3057.0,3.0,3.0,3.0,0.0
+2018,2290,N. Kanté,33,France,Chelsea,36.0,3096.0,4.0,4.0,3.0,0.0
+2018,2295,O. Giroud,38,France,Chelsea,27.0,832.0,2.0,4.0,1.0,0.0
+2018,2676,Rúben Neves,27,Portugal,Wolves,35.0,3009.0,4.0,3.0,8.0,0.0
+2018,2677,João Moutinho,38,Portugal,Wolves,38.0,3040.0,1.0,8.0,4.0,0.0
+2018,2825,A. Mitrović,30,Serbia,Fulham,37.0,3282.0,11.0,3.0,7.0,0.0
+2018,2928,C. Benteke,34,Belgium,Crystal Palace,16.0,813.0,1.0,1.0,1.0,0.0
+2018,18740,Jonny,30,Spain,Wolves,20.0,1715.0,1.0,1.0,5.0,0.0
+2018,18752,Hélder Costa,30,Angola,Wolves,25.0,1345.0,1.0,2.0,3.0,0.0
+2018,18832,Xande Silva,27,Portugal,West Ham,1.0,17.0,0.0,,0.0,0.0
+2018,18884,S. Surridge,26,England,Bournemouth,2.0,11.0,0.0,,0.0,0.0
+2018,18897,D. Yedlin,31,USA,Newcastle,29.0,2475.0,1.0,2.0,6.0,1.0
+2018,18915,K. Long,34,Republic of Ireland,Burnley,6.0,513.0,0.0,1.0,0.0,0.0
+2018,18926,A. Westwood,34,England,Burnley,34.0,2822.0,2.0,7.0,5.0,0.0
+2018,19023,T. Ream,37,USA,Fulham,26.0,2051.0,0.0,,1.0,0.0
+2018,47430,W. Hoedt,30,Netherlands,Southampton,13.0,1170.0,0.0,,2.0,0.0
+2018,113,G. Nkoudou,29,Cameroon,Tottenham,1.0,4.0,0.0,1.0,0.0,0.0
+2018,168,D. Sánchez,28,Colombia,Tottenham,23.0,1943.0,1.0,1.0,2.0,0.0
+2018,297,A. Oxlade-Chamberlain,31,England,Liverpool,2.0,19.0,0.0,,0.0,0.0
+2018,302,Roberto Firmino,33,Brazil,Liverpool,34.0,2620.0,12.0,6.0,0.0,0.0
+2018,624,N. Otamendi,36,Argentina,Manchester City,18.0,1233.0,0.0,,1.0,0.0
+2018,892,C. Smalling,35,England,Manchester United,24.0,2128.0,1.0,,1.0,0.0
+2018,905,Fred,31,Brazil,Manchester United,17.0,1045.0,1.0,1.0,2.0,0.0
+2018,1462,L. Torreira,28,Uruguay,Arsenal,34.0,2377.0,2.0,2.0,7.0,1.0
+2018,2726,K. Zouma,30,France,Everton,32.0,2610.0,2.0,2.0,4.0,0.0
+2018,2790,J. Guðmunds­son,34,Iceland,Burnley,29.0,1748.0,3.0,6.0,2.0,0.0
+2018,2927,M. Batshuayi,31,Belgium,Crystal Palace,11.0,756.0,5.0,,0.0,0.0
+2018,3243,J. Seri,33,Côte d'Ivoire,Fulham,32.0,2252.0,1.0,2.0,6.0,0.0
+2018,18768,C. Tosun,33,Türkiye,Everton,25.0,1050.0,3.0,3.0,3.0,0.0
+2018,18776,Ç. Söyüncü,28,Türkiye,Leicester,6.0,371.0,0.0,,1.0,0.0
+2018,18781,D. Gray,28,Jamaica,Leicester,34.0,1992.0,4.0,1.0,2.0,0.0
+2018,18816,A. Masuaku,31,Congo DR,West Ham,23.0,1756.0,0.0,1.0,2.0,0.0
+2018,18904,J. Shelvey,32,England,Newcastle,16.0,944.0,1.0,1.0,1.0,0.0
+2018,18979,V. Gyökeres,26,Sweden,Brighton,0.0,0.0,0.0,,0.0,0.0
+2018,19047,J. Bacuna,27,Curaçao,Huddersfield,21.0,1414.0,1.0,,4.0,0.0
+2018,19051,A. Pritchard,31,England,Huddersfield,30.0,2092.0,2.0,,2.0,0.0
+2018,162,T. Alderweireld,35,Belgium,Tottenham,34.0,2924.0,0.0,,3.0,0.0
+2018,170,J. Vertonghen,37,Belgium,Tottenham,22.0,1915.0,1.0,,4.0,0.0
+2018,183,V. Janssen,30,Netherlands,Tottenham,3.0,36.0,0.0,,0.0,0.0
+2018,282,S. Mignolet,36,Belgium,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2018,635,R. Mahrez,33,Algeria,Manchester City,27.0,1339.0,7.0,4.0,0.0,0.0
+2018,1465,P. Aubameyang,35,Gabon,Arsenal,36.0,2731.0,22.0,5.0,0.0,0.0
+2018,2728,K. Schmeichel,38,Denmark,Leicester,38.0,3420.0,0.0,,3.0,0.0
+2018,2731,M. Jørgensen,34,Denmark,Huddersfield,24.0,2148.0,3.0,1.0,6.0,0.0
+2018,2922,L. Dendoncker,29,Belgium,Wolves,19.0,1469.0,2.0,,1.0,0.0
+2018,12709,Jiang Guangtai,30,China PR,Everton,0.0,0.0,0.0,,0.0,0.0
+2018,18745,Rúben Vinagre,25,Portugal,Wolves,17.0,703.0,0.0,,1.0,0.0
+2018,18780,R. Ghezzal,32,Algeria,Leicester,19.0,738.0,1.0,,3.0,0.0
+2018,18811,A. Peñaranda,27,Venezuela,Watford,0.0,0.0,0.0,,0.0,0.0
+2018,18853,J. Riedewald,28,Netherlands,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2018,18854,A. Townsend,33,England,Crystal Palace,38.0,3018.0,6.0,4.0,1.0,0.0
+2018,18905,Y. Muto,32,Japan,Newcastle,17.0,516.0,1.0,,1.0,0.0
+2018,19022,D. Odoi,36,Ghana,Fulham,31.0,2593.0,0.0,1.0,4.0,0.0
+2018,19042,F. Hadergjonaj,30,Kosovo,Huddersfield,24.0,1840.0,0.0,,1.0,0.0
+2018,19059,I. Mbenza,28,Belgium,Huddersfield,22.0,981.0,1.0,1.0,1.0,0.0
+2018,19159,S. Johansen,33,Norway,Fulham,12.0,412.0,0.0,,4.0,0.0
+2018,173,L. Amos,27,England,Tottenham,1.0,2.0,0.0,,0.0,0.0
+2018,307,X. Shaqiri,33,Switzerland,Liverpool,24.0,1058.0,6.0,3.0,2.0,0.0
+2018,884,S. Romero,37,Argentina,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2018,890,M. Rojo,34,Argentina,Manchester United,5.0,211.0,0.0,,2.0,0.0
+2018,901,Juan Mata,36,Spain,Manchester United,22.0,1294.0,3.0,2.0,3.0,0.0
+2018,2473,M. Lanzini,31,Argentina,West Ham,10.0,688.0,1.0,1.0,2.0,0.0
+2018,2767,L. Balogun,36,Nigeria,Brighton,8.0,591.0,1.0,,2.0,0.0
+2018,18827,C. Sánchez,38,Colombia,West Ham,7.0,240.0,0.0,,0.0,0.0
+2018,18893,F. Fernández,35,Argentina,Newcastle,19.0,1484.0,0.0,1.0,2.0,0.0
+2018,18951,C. Slattery,25,England,Southampton,3.0,110.0,0.0,,0.0,0.0
+2018,19007,J. Hoilett,34,Canada,Cardiff,32.0,2142.0,3.0,1.0,4.0,0.0
+2018,19036,L. Vietto,31,Argentina,Fulham,20.0,983.0,1.0,4.0,1.0,0.0
+2018,19041,J. Gorenc Stankovič,28,Slovenia,Huddersfield,11.0,718.0,1.0,,2.0,0.0
+2018,19100,K. Dowell,27,England,Everton,0.0,0.0,0.0,,0.0,0.0
+2018,19550,B. Baningime,26,Congo DR,Everton,0.0,0.0,0.0,,0.0,0.0
+2018,50101,F. Diabaté,29,Mali,Leicester,1.0,55.0,0.0,,0.0,0.0

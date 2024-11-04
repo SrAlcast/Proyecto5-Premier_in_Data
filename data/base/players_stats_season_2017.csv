@@ -1,0 +1,695 @@
+season,player_id,player_name,age,nationality,team,games_played,minutes,goals,assists,yellow_cards,red_cards
+2017,298,Rafael Camacho,23,Portugal,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2017,17749,Zachary Harry Dearnley,24,England,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2017,18074,Jamie Lee Peter Turley,32,England,Boreham Wood,0.0,0.0,0.0,,0.0,0.0
+2017,18826,M. Noble,35,England,West Ham,29.0,2404.0,4.0,,6.0,0.0
+2017,18837,J. Speroni,42,Argentina,Crystal Palace,11.0,990.0,0.0,,0.0,0.0
+2017,18966,Bruno Saltor,41,Spain,Brighton,25.0,2018.0,0.0,,3.0,0.0
+2017,19135,I. Brown,25,England,Brighton,13.0,306.0,0.0,,0.0,0.0
+2017,19325,N. Dyer,34,England,Swansea,24.0,1312.0,0.0,,2.0,0.0
+2017,19332,W. Routledge,36,England,Swansea,15.0,421.0,0.0,,1.0,0.0
+2017,19494,M. Bauer,31,Austria,Stoke City,15.0,1309.0,0.0,,4.0,0.0
+2017,30801,M. Zeegelaar,33,Netherlands,Watford,12.0,995.0,0.0,1.0,4.0,1.0
+2017,34739,J. Mutch,32,England,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2017,82099,Vashon Neufville,23,England,West Ham,0.0,0.0,0.0,,0.0,0.0
+2017,82615,Erbil Bozkurt,28,England,Boreham Wood,0.0,0.0,0.0,,0.0,0.0
+2017,83018,S. Sidwell,39,England,Brighton,0.0,0.0,0.0,,0.0,0.0
+2017,83020,L. Rosenior,37,England,Brighton,3.0,162.0,0.0,,0.0,0.0
+2017,83132,Jesús Gámez Duarte,33,Spain,Newcastle,2.0,97.0,0.0,,0.0,0.0
+2017,90505,S. Taylor,41,England,Southampton,0.0,0.0,0.0,,0.0,0.0
+2017,138785,Alexander James Denny,22,England,Everton,0.0,0.0,0.0,,0.0,0.0
+2017,208916,Michael Collins,20,England,Everton,0.0,0.0,0.0,,0.0,0.0
+2017,883,L. Grant,39,England,Stoke City,3.0,270.0,0.0,,0.0,0.0
+2017,17636,Kusu Moses Makasi,27,England,West Ham,0.0,0.0,0.0,,0.0,0.0
+2017,18585,Dan Woodards,38,England,Boreham Wood,0.0,0.0,0.0,,0.0,0.0
+2017,18839,S. Dann,36,England,Crystal Palace,17.0,1435.0,1.0,,4.0,0.0
+2017,18864,Charlie John Daniels,36,England,Bournemouth,35.0,3005.0,1.0,3.0,0.0,0.0
+2017,18865,S. Francis,35,England,Bournemouth,32.0,2706.0,0.0,1.0,9.0,0.0
+2017,18879,Andrew Surman,35,England,Bournemouth,25.0,1852.0,2.0,5.0,2.0,0.0
+2017,18977,D. Stephens,33,England,Brighton,36.0,3240.0,0.0,3.0,6.0,0.0
+2017,18982,G. Murray,38,England,Brighton,35.0,2197.0,12.0,,9.0,0.0
+2017,19092,M. Cranie,35,England,Huddersfield,3.0,180.0,0.0,,0.0,0.0
+2017,19232,S. McQueen,25,England,Southampton,7.0,142.0,0.0,,0.0,0.0
+2017,19303,Benjamin Watson,37,England,Watford,8.0,458.0,0.0,,1.0,0.0
+2017,19423,Marc Pugh,34,England,Bournemouth,20.0,983.0,0.0,,2.0,0.0
+2017,19583,Àngel Rangel,38,Spain,Swansea,4.0,155.0,0.0,,0.0,0.0
+2017,20032,William Miller,23,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2017,20082,D. Marney,37,England,Burnley,0.0,0.0,0.0,,0.0,0.0
+2017,20539,E. Rivière,31,Martinique,Newcastle,0.0,0.0,0.0,,0.0,0.0
+2017,22226,Jérémy Pied,33,France,Southampton,2.0,180.0,0.0,1.0,0.0,0.0
+2017,82463,Paul Benson,41,England,Boreham Wood,0.0,0.0,0.0,,0.0,0.0
+2017,87909,A. King,28,Scotland,Swansea,0.0,0.0,0.0,,0.0,0.0
+2017,160,M. Vorm,38,Netherlands,Tottenham,1.0,90.0,0.0,,0.0,0.0
+2017,311,O. Karnezis,37,Greece,Watford,15.0,1291.0,0.0,,0.0,0.0
+2017,1742,G. McAuley,42,Northern Ireland,West Brom,9.0,456.0,0.0,,0.0,0.0
+2017,3423,C. Atsu,31,Ghana,Newcastle,28.0,1782.0,2.0,2.0,1.0,0.0
+2017,18756,M. Stekelenburg,41,Netherlands,Everton,0.0,0.0,0.0,,0.0,0.0
+2017,18774,W. Morgan,37,Jamaica,Leicester,32.0,2818.0,0.0,,4.0,0.0
+2017,18792,M. Britos,36,Uruguay,Watford,12.0,797.0,1.0,,3.0,1.0
+2017,18796,Daryl Janmaat,33,Netherlands,Watford,23.0,1822.0,3.0,,3.0,0.0
+2017,18859,Artur Boruc,42,Poland,Bournemouth,0.0,0.0,0.0,,0.0,0.0
+2017,18916,M. Lowton,34,England,Burnley,26.0,2294.0,0.0,3.0,1.0,0.0
+2017,18919,Stephen Robert Ward,37,Republic of Ireland,Burnley,28.0,2462.0,1.0,1.0,1.0,0.0
+2017,18956,S. Long,36,Republic of Ireland,Southampton,30.0,1577.0,2.0,1.0,6.0,0.0
+2017,19052,J. Puncheon,37,England,Crystal Palace,10.0,570.0,0.0,,5.0,0.0
+2017,19154,C. Brunt,37,Northern Ireland,West Brom,26.0,1923.0,0.0,7.0,5.0,0.0
+2017,19575,G. Cameron,38,USA,Stoke City,20.0,1525.0,0.0,,2.0,0.0
+2017,37112,Eduardo,39,Portugal,Chelsea,0.0,0.0,0.0,,0.0,0.0
+2017,50247,D. Sakho,34,Senegal,West Ham,14.0,292.0,2.0,,2.0,0.0
+2017,72157,I. Afellay,35,Netherlands,Stoke City,6.0,162.0,0.0,,1.0,0.0
+2017,81993,J. Walters,38,Republic of Ireland,Burnley,3.0,36.0,0.0,,0.0,0.0
+2017,90512,R. Huth,37,Germany,Leicester,0.0,0.0,0.0,,0.0,0.0
+2017,108,Cesc Fàbregas,36,Spain,Chelsea,32.0,2309.0,2.0,4.0,5.0,0.0
+2017,185,Fernando Llorente,37,Spain,Tottenham,16.0,224.0,1.0,,1.0,0.0
+2017,634,David Silva,37,Spain,Manchester City,29.0,2437.0,9.0,11.0,5.0,0.0
+2017,1447,Nacho Monreal,36,Spain,Arsenal,28.0,2244.0,5.0,2.0,3.0,0.0
+2017,1458,M. Özil,35,Germany,Arsenal,26.0,2164.0,4.0,8.0,4.0,0.0
+2017,18828,R. Snodgrass,36,Scotland,West Ham,0.0,0.0,0.0,,0.0,0.0
+2017,18849,J. McArthur,36,Scotland,Crystal Palace,33.0,2434.0,5.0,1.0,5.0,0.0
+2017,18912,P. Bardsley,38,Scotland,Burnley,13.0,1126.0,0.0,,5.0,0.0
+2017,19144,B. Myhill,39,Wales,West Brom,1.0,90.0,0.0,,1.0,0.0
+2017,19162,James  Morrison,33,Scotland,West Brom,4.0,206.0,1.0,,0.0,0.0
+2017,19168,Thomas Henry Alex Robson-Kanu,34,Wales,West Brom,21.0,821.0,2.0,,2.0,1.0
+2017,19284,C. Pantilimon,34,Romania,Watford,0.0,0.0,0.0,,0.0,0.0
+2017,19295,M. Wagué,31,Mali,Watford,6.0,439.0,1.0,,0.0,0.0
+2017,19500,Ashley Williams,36,Wales,Everton,24.0,1833.0,1.0,,3.0,1.0
+2017,19501,Charles Graham Adam,37,Scotland,Stoke City,11.0,408.0,0.0,,2.0,1.0
+2017,19722,J. Collins,38,Wales,West Ham,13.0,1050.0,1.0,,3.0,0.0
+2017,20126,J. Sinclair,25,England,Watford,4.0,27.0,0.0,,0.0,0.0
+2017,35672,L. Ulloa,35,Argentina,Brighton,10.0,261.0,1.0,,0.0,0.0
+2017,90489,P. Mertesacker,37,Germany,Arsenal,6.0,365.0,1.0,,0.0,0.0
+2017,90518,Florin Gardoș,34,Romania,Southampton,0.0,0.0,0.0,,0.0,0.0
+2017,642,S. Agüero,33,Argentina,Manchester City,25.0,1969.0,21.0,6.0,2.0,0.0
+2017,2275,W. Caballero,42,Argentina,Chelsea,3.0,270.0,0.0,,0.0,0.0
+2017,2296,E. Hazard,32,Belgium,Chelsea,34.0,2433.0,12.0,4.0,2.0,0.0
+2017,2921,M. Dembélé,35,Belgium,Tottenham,28.0,1885.0,0.0,,6.0,0.0
+2017,18773,C. Fuchs,37,Austria,Leicester,25.0,1918.0,0.0,1.0,1.0,0.0
+2017,18818,P. Zabaleta,35,Argentina,West Ham,37.0,3291.0,0.0,1.0,9.0,0.0
+2017,18923,S. Defour,33,Belgium,Burnley,24.0,2009.0,1.0,1.0,6.0,0.0
+2017,19050,A. Mooy,33,Australia,Huddersfield,36.0,3070.0,4.0,3.0,5.0,0.0
+2017,19286,Y. Benalouane,36,Tunisia,Leicester,1.0,90.0,0.0,,0.0,0.0
+2017,19304,Claudio Ariel Yacob,35,Argentina,West Brom,16.0,899.0,0.0,,5.0,0.0
+2017,19376,A. Lazaar,31,Morocco,Newcastle,0.0,0.0,0.0,,0.0,0.0
+2017,19504,Darren  Fletcher,35,Scotland,Stoke City,27.0,2223.0,1.0,1.0,0.0,0.0
+2017,19512,Bojan Krkić,33,Spain,Stoke City,1.0,72.0,0.0,,0.0,0.0
+2017,19747,C. Quaner,30,Germany,Huddersfield,26.0,1272.0,0.0,4.0,4.0,0.0
+2017,24819,U. Hünemeier,37,Germany,Brighton,1.0,17.0,0.0,,0.0,0.0
+2017,25454,M. Suttner,35,Austria,Brighton,14.0,1178.0,0.0,,0.0,0.0
+2017,30412,Kevin Mirallas,36,Belgium,Everton,5.0,138.0,0.0,,1.0,0.0
+2017,44827,Á. Bogdán,36,Hungary,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2017,90492,S. Ireland,32,Republic of Ireland,Stoke City,4.0,128.0,0.0,,1.0,0.0
+2017,90497,W. Reid,34,New Zealand,West Ham,17.0,1454.0,0.0,,5.0,0.0
+2017,893,A. Valencia,36,Ecuador,Manchester United,31.0,2743.0,3.0,1.0,7.0,0.0
+2017,1436,Petr Čech,40,Czech Republic,Arsenal,34.0,3040.0,0.0,,1.0,0.0
+2017,1448,S. Mustafi,31,Germany,Arsenal,27.0,2273.0,3.0,1.0,6.0,0.0
+2017,3032,B. Afobe,30,Congo DR,Bournemouth,17.0,532.0,0.0,,0.0,0.0
+2017,3398,G. Bong,34,Cameroon,Brighton,25.0,2238.0,0.0,,2.0,0.0
+2017,10045,Diego Cavalieri,40,Brazil,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2017,18650,A. Eleftheriou,26,England,Watford,0.0,0.0,0.0,,0.0,0.0
+2017,18789,Gomes,40,Brazil,Watford,24.0,2129.0,0.0,,0.0,0.0
+2017,18801,S. Prödl,34,Austria,Watford,21.0,1568.0,0.0,,5.0,0.0
+2017,18878,J. Stanislas,34,England,Bournemouth,19.0,1296.0,5.0,2.0,1.0,0.0
+2017,18910,A. Lindegaard,39,Denmark,Burnley,0.0,0.0,0.0,,0.0,0.0
+2017,18980,J. Izquierdo,30,Colombia,Brighton,32.0,1987.0,5.0,3.0,2.0,0.0
+2017,19054,Daniel Williams,31,USA,Huddersfield,20.0,1117.0,0.0,,2.0,0.0
+2017,19290,M. Hefele,31,Germany,Huddersfield,2.0,31.0,0.0,,1.0,0.0
+2017,51070,Z. Ibrahimović,42,Sweden,Manchester United,5.0,103.0,0.0,,0.0,0.0
+2017,53466,Leon Britton,40,England,Swansea,5.0,305.0,0.0,,1.0,0.0
+2017,69388,D. Delaney,40,Republic of Ireland,Crystal Palace,2.0,95.0,0.0,,0.0,0.0
+2017,82117,Daniel Holman,32,England,Boreham Wood,0.0,0.0,0.0,,0.0,0.0
+2017,82119,Dean Wells,33,England,Boreham Wood,0.0,0.0,0.0,,0.0,0.0
+2017,231094,Desmond Hutchinson,23,Republic of Ireland,Brighton,0.0,0.0,0.0,,0.0,0.0
+2017,167,D. Rose,32,England,Tottenham,10.0,802.0,0.0,1.0,4.0,0.0
+2017,888,P. Jones,31,England,Manchester United,23.0,1975.0,0.0,,2.0,0.0
+2017,1739,Jonathon Patrick Flanagan,29,England,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2017,2277,R. Green,41,England,Huddersfield,0.0,0.0,0.0,,0.0,0.0
+2017,2281,G. Cahill,37,England,Chelsea,27.0,2084.0,0.0,,1.0,1.0
+2017,2288,D. Drinkwater,32,England,Chelsea,12.0,522.0,1.0,,0.0,0.0
+2017,18757,L. Baines,37,England,Everton,22.0,1910.0,2.0,3.0,1.0,0.0
+2017,18759,P. Jagielka,41,England,Everton,25.0,2065.0,0.0,,2.0,0.0
+2017,18769,T. Walcott,34,England,Everton,14.0,1153.0,3.0,,2.0,0.0
+2017,18804,T. Cleverley,34,England,Watford,23.0,1905.0,1.0,2.0,2.0,0.0
+2017,18829,Jack Wilshere,30,England,Arsenal,20.0,1187.0,1.0,3.0,6.0,0.0
+2017,18936,R. Bertrand,34,England,Southampton,35.0,3137.0,0.0,4.0,2.0,0.0
+2017,19020,Alfie Mawson,29,England,Swansea,38.0,3420.0,2.0,1.0,3.0,0.0
+2017,19148,K. Gibbs,34,England,West Brom,33.0,2831.0,0.0,1.0,3.0,0.0
+2017,19153,G. Barry,39,England,West Brom,25.0,1926.0,1.0,1.0,4.0,0.0
+2017,19498,R. Shawcross,35,England,Stoke City,27.0,2372.0,1.0,1.0,2.0,0.0
+2017,20348,H. Bunn,31,England,Huddersfield,0.0,0.0,0.0,,0.0,0.0
+2017,90490,M. Carrick,40,England,Manchester United,2.0,109.0,0.0,,0.0,0.0
+2017,90514,Joey  Barton,35,England,Burnley,,,,,,
+2017,90523,Alexander Manninger,40,Austria,Liverpool,,,,,,
+2017,308,Daniel Andre Sturridge,33,England,West Brom,6.0,116.0,0.0,1.0,0.0,0.0
+2017,630,F. Delph,33,England,Manchester City,22.0,1746.0,1.0,2.0,2.0,0.0
+2017,1443,Laurent Koscielny,37,France,Arsenal,25.0,2227.0,2.0,,4.0,0.0
+2017,1758,J. Defoe,40,England,Bournemouth,24.0,1084.0,4.0,1.0,1.0,0.0
+2017,18593,Ricky Shakes,36,Guyana,Boreham Wood,0.0,0.0,0.0,,0.0,0.0
+2017,18791,B. Foster,40,England,West Brom,37.0,3330.0,0.0,,2.0,0.0
+2017,18795,José Holebas,37,Greece,Watford,28.0,2382.0,0.0,4.0,7.0,0.0
+2017,18882,L. Mousset,27,France,Bournemouth,23.0,581.0,2.0,,1.0,0.0
+2017,18925,A. Lennon,35,England,Burnley,14.0,1124.0,0.0,2.0,2.0,0.0
+2017,18928,P. Crouch,40,England,Stoke City,31.0,1554.0,5.0,2.0,4.0,0.0
+2017,20467,Y. Ben El-Mhanni,28,England,Newcastle,0.0,0.0,0.0,,0.0,0.0
+2017,22085,M. Debuchy,38,France,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2017,22240,L. Rémy,36,France,Chelsea,0.0,0.0,0.0,,0.0,0.0
+2017,87077,Patrice Evra,37,France,West Ham,5.0,228.0,0.0,,0.0,0.0
+2017,87328,Philipp Wollscheid,29,Germany,Stoke City,0.0,0.0,0.0,,0.0,0.0
+2017,90488,Y. Cabaye,35,France,Crystal Palace,31.0,2388.0,0.0,1.0,7.0,0.0
+2017,90491,G. Johnson,37,England,Stoke City,9.0,549.0,0.0,,3.0,0.0
+2017,90493,Yaya Touré,37,Côte d'Ivoire,Manchester City,10.0,228.0,0.0,2.0,1.0,0.0
+2017,90500,Carl Leon Stewart,24,England,Watford,0.0,0.0,0.0,,0.0,0.0
+2017,90503,Y. Kaboul,35,France,Watford,2.0,151.0,0.0,,0.0,0.0
+2017,1585,Jesé,30,Spain,Stoke City,13.0,617.0,1.0,1.0,0.0,0.0
+2017,1749,S. Davis,39,Northern Ireland,Southampton,23.0,1521.0,3.0,,0.0,0.0
+2017,3106,S. Berahino,31,Burundi,Stoke City,15.0,484.0,0.0,1.0,0.0,0.0
+2017,5983,M. Zárate,37,Argentina,Watford,0.0,0.0,0.0,,0.0,0.0
+2017,12753,M. Fellaini,37,Belgium,Manchester United,16.0,612.0,4.0,,1.0,0.0
+2017,17766,L. Coddington,29,England,Huddersfield,0.0,0.0,0.0,,0.0,0.0
+2017,18770,E. Jakupović,39,Switzerland,Leicester,2.0,180.0,0.0,,0.0,0.0
+2017,18793,C. Cathcart,34,Northern Ireland,Watford,7.0,495.0,0.0,,1.0,0.0
+2017,18840,M. Kelly,34,England,Crystal Palace,15.0,1194.0,0.0,,1.0,0.0
+2017,18841,P. Souaré,34,Senegal,Crystal Palace,1.0,8.0,0.0,,0.0,0.0
+2017,18856,B. Sako,35,Mali,Crystal Palace,16.0,468.0,3.0,,0.0,0.0
+2017,18874,D. Gosling,34,England,Bournemouth,28.0,1942.0,2.0,1.0,8.0,0.0
+2017,18887,R. Elliot,37,Republic of Ireland,Newcastle,16.0,1440.0,0.0,,0.0,0.0
+2017,18922,J. Cork,35,England,Burnley,38.0,3420.0,2.0,1.0,7.0,0.0
+2017,19161,J. Montero,35,Ecuador,Swansea,0.0,0.0,0.0,,0.0,0.0
+2017,19217,A. King,36,Wales,Swansea,11.0,718.0,2.0,,1.0,0.0
+2017,19620,S. Baldock,34,England,Brighton,2.0,30.0,0.0,,0.0,0.0
+2017,30816,S. Okaka,34,Italy,Watford,15.0,444.0,1.0,1.0,2.0,0.0
+2017,42246,W. Bony,36,Côte d'Ivoire,Swansea,15.0,704.0,2.0,,2.0,0.0
+2017,50139,B. Dja Djédjé,34,Côte d'Ivoire,Watford,0.0,0.0,0.0,,0.0,0.0
+2017,172,D. Alli,28,England,Tottenham,36.0,2972.0,9.0,10.0,7.0,0.0
+2017,286,J. Matip,33,Cameroon,Liverpool,25.0,1994.0,1.0,,3.0,0.0
+2017,1972,L. Karius,31,Germany,Liverpool,19.0,1710.0,0.0,,1.0,0.0
+2017,2991,C. Kouyaté,35,Senegal,West Ham,33.0,2803.0,2.0,3.0,5.0,0.0
+2017,6894,M. Birighitti,33,Australia,Swansea,0.0,0.0,0.0,,0.0,0.0
+2017,18777,M. Albrighton,35,England,Leicester,34.0,2544.0,2.0,7.0,5.0,1.0
+2017,18782,M. James,33,England,Leicester,13.0,995.0,0.0,,2.0,0.0
+2017,18787,S. Okazaki,38,Japan,Leicester,27.0,1329.0,6.0,2.0,2.0,0.0
+2017,18836,W. Hennessey,37,Wales,Crystal Palace,27.0,2430.0,0.0,,1.0,0.0
+2017,18844,J. Tomkins,35,England,Crystal Palace,28.0,2388.0,3.0,,8.0,0.0
+2017,18891,C. Clark,35,Republic of Ireland,Newcastle,20.0,1745.0,2.0,1.0,3.0,0.0
+2017,18892,P. Dummett,33,Wales,Newcastle,20.0,1603.0,0.0,,1.0,0.0
+2017,18924,J. Hendrick,32,Republic of Ireland,Burnley,34.0,2342.0,2.0,2.0,1.0,0.0
+2017,18975,D. Pröpper,33,Netherlands,Brighton,35.0,3120.0,0.0,4.0,2.0,1.0
+2017,19056,L. Depoitre,36,Belgium,Huddersfield,33.0,1808.0,6.0,1.0,1.0,0.0
+2017,19160,J. Livermore,35,England,West Brom,34.0,2675.0,2.0,2.0,5.0,0.0
+2017,19246,R. van La Parra,33,Netherlands,Huddersfield,33.0,2145.0,3.0,,3.0,1.0
+2017,19503,S. Clucas,34,England,Swansea,29.0,2045.0,3.0,1.0,2.0,0.0
+2017,20112,M. Browne,27,England,West Ham,0.0,0.0,0.0,,0.0,0.0
+2017,21383,E. Pieters,36,Netherlands,Stoke City,31.0,2720.0,0.0,1.0,5.0,0.0
+2017,106,N. Chadli,35,Belgium,West Brom,5.0,215.0,1.0,,1.0,0.0
+2017,114,Adrien Silva,35,Portugal,Leicester,12.0,762.0,0.0,1.0,3.0,0.0
+2017,190,Cédric Soares,33,Portugal,Southampton,32.0,2797.0,0.0,3.0,3.0,0.0
+2017,275,E. Choupo-Moting,35,Cameroon,Stoke City,30.0,2248.0,5.0,5.0,3.0,0.0
+2017,614,C. Bravo,41,Chile,Manchester City,3.0,225.0,0.0,,0.0,0.0
+2017,18808,T. Deeney,36,England,Watford,29.0,1841.0,5.0,2.0,1.0,1.0
+2017,18845,P. van Aanholt,34,Netherlands,Crystal Palace,28.0,2185.0,5.0,1.0,7.0,0.0
+2017,18880,K. Taylor,25,England,Bournemouth,0.0,0.0,0.0,,0.0,0.0
+2017,18908,J. Hart,37,England,West Ham,19.0,1710.0,0.0,1.0,0.0,0.0
+2017,18972,A. Knockaert,33,France,Brighton,33.0,2425.0,3.0,1.0,4.0,1.0
+2017,18996,H. Arter,35,Republic of Ireland,Bournemouth,13.0,962.0,1.0,,4.0,0.0
+2017,19018,T. Fosu-Mensah,26,Netherlands,Crystal Palace,21.0,1594.0,0.0,,2.0,0.0
+2017,19236,M. Bešić,32,Bosnia and Herzegovina,Everton,2.0,44.0,0.0,,0.0,0.0
+2017,19313,E. Mulder,35,Netherlands,Swansea,0.0,0.0,0.0,,0.0,0.0
+2017,19593,T. Hemed,37,Israel,Brighton,16.0,848.0,2.0,2.0,0.0,0.0
+2017,19761,K. LuaLua,34,Congo DR,Brighton,0.0,0.0,0.0,,0.0,0.0
+2017,37146,C. Martina,35,Curaçao,Everton,21.0,1830.0,0.0,2.0,1.0,0.0
+2017,90501,M. Melbourne,26,England,West Brom,0.0,0.0,0.0,,0.0,0.0
+2017,127580,L. Ndukwu,26,England,Leicester,0.0,0.0,0.0,,0.0,0.0
+2017,127605,N. Ferguson,24,England,West Brom,0.0,0.0,0.0,,0.0,0.0
+2017,163,S. Aurier,32,Côte d'Ivoire,Tottenham,17.0,1429.0,2.0,2.0,2.0,0.0
+2017,924,F. Coquelin,33,France,Arsenal,7.0,164.0,0.0,,0.0,0.0
+2017,1762,J. Murphy,35,Scotland,Brighton,4.0,165.0,0.0,,0.0,0.0
+2017,2053,Roque Mesa,35,Spain,Swansea,11.0,757.0,0.0,,3.0,0.0
+2017,2777,I. Success,28,Nigeria,Watford,0.0,0.0,0.0,,0.0,0.0
+2017,3421,D. Amartey,30,Ghana,Leicester,8.0,488.0,0.0,,1.0,0.0
+2017,18763,J. McCarthy,34,Republic of Ireland,Everton,4.0,207.0,0.0,,0.0,0.0
+2017,18775,D. Simpson,37,England,Leicester,28.0,2312.0,0.0,,4.0,0.0
+2017,18802,É. Capoue,36,France,Watford,23.0,1542.0,1.0,,3.0,0.0
+2017,18876,J. Ibe,29,England,Bournemouth,32.0,1999.0,2.0,6.0,1.0,0.0
+2017,18981,J. Locadia,31,Curaçao,Brighton,6.0,224.0,1.0,1.0,0.0,0.0
+2017,19009,O. Niasse,34,Senegal,Everton,22.0,1081.0,8.0,2.0,2.0,0.0
+2017,19044,C. Löwe,35,Germany,Huddersfield,23.0,1593.0,0.0,,1.0,0.0
+2017,19045,C. Schindler,34,Germany,Huddersfield,37.0,3266.0,0.0,1.0,7.0,0.0
+2017,19149,Ahmed Hegazy,33,Egypt,West Brom,21.0,1857.0,1.0,,3.0,0.0
+2017,19157,R. Harper,24,England,West Brom,1.0,20.0,0.0,,0.0,0.0
+2017,19386,R. Aarons,29,Jamaica,Newcastle,4.0,137.0,0.0,,0.0,0.0
+2017,19511,M. Diouf,37,Senegal,Stoke City,35.0,2602.0,6.0,2.0,6.0,0.0
+2017,20055,N. Kirby,24,England,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2017,25294,K. Stafylidis,31,Greece,Stoke City,5.0,335.0,0.0,,0.0,0.0
+2017,1452,Mohamed Elneny,32,Egypt,Arsenal,13.0,870.0,0.0,1.0,3.0,1.0
+2017,18524,O. Harfield,26,England,Bournemouth,0.0,0.0,0.0,,0.0,0.0
+2017,18623,R. Booty,26,England,Huddersfield,0.0,0.0,0.0,,0.0,0.0
+2017,18706,D. Henry,27,England,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2017,18754,M. Hewelt,28,Poland,Everton,0.0,0.0,0.0,,0.0,0.0
+2017,18764,M. Schneiderlin,35,France,Everton,30.0,2128.0,0.0,,6.0,0.0
+2017,18798,A. Mariappa,38,Jamaica,Watford,28.0,2209.0,0.0,,4.0,0.0
+2017,18852,L. Milivojević,33,Serbia,Crystal Palace,36.0,3082.0,10.0,1.0,8.0,0.0
+2017,18875,E. Hyndman,28,USA,Bournemouth,1.0,59.0,0.0,,0.0,0.0
+2017,19053,A. Sabiri,28,Morocco,Huddersfield,5.0,219.0,0.0,1.0,1.0,0.0
+2017,19326,L. Fer,34,Netherlands,Swansea,20.0,1397.0,1.0,1.0,5.0,0.0
+2017,19988,B. Mason,27,England,Watford,0.0,0.0,0.0,,0.0,0.0
+2017,20378,M. Folivi,26,England,Watford,0.0,0.0,0.0,,0.0,0.0
+2017,20637,J. Lokilo,26,Congo DR,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2017,30462,M. Gabbiadini,33,Italy,Southampton,28.0,1072.0,5.0,,2.0,0.0
+2017,30743,E. Schelotto,35,Italy,Brighton,20.0,1316.0,0.0,,3.0,0.0
+2017,87627,R. Ince,32,Montserrat,Brighton,0.0,0.0,0.0,,0.0,0.0
+2017,87918,J. Pask,27,England,West Ham,0.0,0.0,0.0,,0.0,0.0
+2017,90502,K. Scott,27,USA,Chelsea,0.0,0.0,0.0,,0.0,0.0
+2017,90504,T. Oakley-Boothe,24,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2017,1449,J. Osei-Tutu,26,England,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2017,1747,S. Arfield,36,Canada,Burnley,18.0,1336.0,2.0,1.0,3.0,0.0
+2017,17728,K. Anderson,29,England,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2017,18855,L. Lumeka,26,England,Crystal Palace,1.0,25.0,0.0,,0.0,0.0
+2017,18871,M. Butcher,27,England,Bournemouth,0.0,0.0,0.0,,0.0,0.0
+2017,19049,J. Hogg,36,England,Huddersfield,30.0,2408.0,0.0,,9.0,0.0
+2017,19139,T. Roberts,25,Wales,West Brom,0.0,0.0,0.0,,0.0,0.0
+2017,19208,S. Malone,33,England,Huddersfield,22.0,1115.0,0.0,1.0,3.0,0.0
+2017,19251,A. Fletcher,29,England,West Ham,0.0,0.0,0.0,,0.0,0.0
+2017,19253,J. Hugill,32,England,West Ham,3.0,22.0,0.0,,0.0,0.0
+2017,19393,J. Onomah,27,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2017,19508,L. Sørensen,25,Denmark,Stoke City,1.0,76.0,0.0,1.0,0.0,0.0
+2017,19513,S. Vokes,35,Wales,Burnley,30.0,978.0,4.0,1.0,3.0,0.0
+2017,19556,C. McManaman,33,England,West Brom,0.0,0.0,0.0,,0.0,0.0
+2017,19826,K. Bielik,26,Poland,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2017,20242,E. Hamilton,26,Scotland,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2017,20415,F. Ladapo,31,England,Crystal Palace,1.0,16.0,0.0,,0.0,0.0
+2017,56089,A. Georgiou,27,Cyprus,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2017,82026,C. Bramall,28,England,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2017,90499,J. Mukena,25,England,Watford,0.0,0.0,0.0,,0.0,0.0
+2017,1756,R. Kent,28,England,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2017,2735,P. Højbjerg,29,Denmark,Southampton,23.0,1671.0,0.0,,6.0,0.0
+2017,2779,A. Musa,32,Nigeria,Leicester,0.0,0.0,0.0,,0.0,0.0
+2017,2795,G. Sigurðsson,35,Iceland,Everton,27.0,2262.0,4.0,3.0,2.0,0.0
+2017,17601,H. Boateng,28,England,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2017,18715,M. Phillips,27,England,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2017,18842,M. Sakho,34,France,Crystal Palace,19.0,1600.0,1.0,2.0,1.0,0.0
+2017,18931,C. Wood,33,New Zealand,Burnley,24.0,1633.0,10.0,1.0,1.0,0.0
+2017,19037,J. Coleman,29,England,Huddersfield,0.0,0.0,0.0,,0.0,0.0
+2017,19058,E. Kachunga,32,Congo DR,Huddersfield,19.0,1338.0,1.0,1.0,1.0,0.0
+2017,19256,N. Mäenpää,39,Finland,Brighton,0.0,0.0,0.0,,0.0,0.0
+2017,19330,A. Marić,27,Sweden,Swansea,0.0,0.0,0.0,,0.0,0.0
+2017,19673,R. Towell,33,Republic of Ireland,Brighton,0.0,0.0,0.0,,0.0,0.0
+2017,20479,G. Thomas,27,Wales,Leicester,0.0,0.0,0.0,,0.0,0.0
+2017,30550,R. Klavan,39,Estonia,Liverpool,19.0,1448.0,1.0,,0.0,0.0
+2017,38700,S. Kaikai,29,Sierra Leone,Crystal Palace,1.0,13.0,0.0,,0.0,0.0
+2017,45324,S. Lavery,26,Northern Ireland,Everton,0.0,0.0,0.0,,0.0,0.0
+2017,82781,S. Hughes,27,England,Leicester,0.0,0.0,0.0,,0.0,0.0
+2017,93168,S. Ahannach,29,Netherlands,Brighton,0.0,0.0,0.0,,0.0,0.0
+2017,117609,K. Perntreou,29,Albania,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2017,301,B. Woodburn,25,Wales,Liverpool,1.0,6.0,0.0,,0.0,0.0
+2017,1441,C. Jenkinson,32,England,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2017,1740,C. Goldson,32,England,Brighton,3.0,199.0,0.0,,1.0,0.0
+2017,2653,Ali Gabr,35,Egypt,West Brom,0.0,0.0,0.0,,0.0,0.0
+2017,16821,Ramadan Sobhi,27,Egypt,Stoke City,24.0,1233.0,2.0,,2.0,0.0
+2017,18328,K. Jameson,26,England,West Brom,0.0,0.0,0.0,,0.0,0.0
+2017,18807,Domingos Quina,25,Portugal,West Ham,0.0,0.0,0.0,,0.0,0.0
+2017,18952,C. Austin,35,England,Southampton,24.0,1030.0,7.0,,2.0,0.0
+2017,19184,T. Carroll,32,England,Swansea,37.0,2569.0,0.0,4.0,3.0,0.0
+2017,19339,L. Narsingh,34,Netherlands,Swansea,18.0,616.0,1.0,,0.0,0.0
+2017,19496,T. Edwards,25,England,Stoke City,6.0,483.0,0.0,,0.0,0.0
+2017,19643,J. SkalÃ¡k,32,Czechia,Brighton,0.0,0.0,0.0,,0.0,0.0
+2017,19837,J. Williams,31,Wales,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2017,20104,L. Garbutt,31,England,Everton,0.0,0.0,0.0,,0.0,0.0
+2017,20386,M. Macey,30,England,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2017,47311,Mikel Merino,28,Spain,Newcastle,17.0,1142.0,1.0,1.0,4.0,0.0
+2017,69437,J. Tilley,26,England,Brighton,0.0,0.0,0.0,,0.0,0.0
+2017,90495,J. Daly,24,England,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2017,90496,C. Masterson,26,Republic of Ireland,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2017,140665,S. Duke-McKenna,24,Guyana,Everton,0.0,0.0,0.0,,0.0,0.0
+2017,2727,J. LÃ¶ssl,35,Denmark,Huddersfield,38.0,3420.0,0.0,1.0,1.0,0.0
+2017,8522,Joel Pereira,28,Portugal,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2017,18831,A. Carroll,35,England,West Ham,16.0,745.0,3.0,,6.0,0.0
+2017,18868,J. Simpson,28,England,Bournemouth,1.0,72.0,0.0,,0.0,0.0
+2017,18950,J. Sims,27,England,Southampton,6.0,159.0,0.0,,0.0,0.0
+2017,18971,B. Kayal,36,Israel,Brighton,19.0,739.0,0.0,,2.0,0.0
+2017,18976,M. Sanders,25,England,Brighton,0.0,0.0,0.0,,0.0,0.0
+2017,19165,R. Tulloch,23,England,West Brom,0.0,0.0,0.0,,0.0,0.0
+2017,19167,J. Leko,25,England,West Brom,0.0,0.0,0.0,,0.0,0.0
+2017,19324,G. Byers,28,Scotland,Swansea,0.0,0.0,0.0,,0.0,0.0
+2017,19507,J. McClean,35,Republic of Ireland,West Brom,30.0,1396.0,1.0,,7.0,0.0
+2017,19531,C. Mahoney,27,England,Bournemouth,0.0,0.0,0.0,,0.0,0.0
+2017,19917,K. Sterling,26,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2017,21504,D. Ndong,30,Gabon,Watford,0.0,0.0,0.0,,0.0,0.0
+2017,25374,K. Wimmer,32,Austria,Stoke City,17.0,1321.0,0.0,,5.0,0.0
+2017,50892,D. Pereira,25,Antigua and Barbuda,Watford,0.0,0.0,0.0,,0.0,0.0
+2017,82100,J. Sterry,29,England,Newcastle,0.0,0.0,0.0,,0.0,0.0
+2017,90494,N. Trott,26,England,West Ham,0.0,0.0,0.0,,0.0,0.0
+2017,138846,M. Feeney,25,England,Everton,0.0,0.0,0.0,,0.0,0.0
+2017,144742,T. Wilson,25,Republic of Ireland,Manchester City,0.0,0.0,0.0,,0.0,0.0
+2017,166,J. Foyth,26,Argentina,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2017,300,G. Wijnaldum,34,Netherlands,Liverpool,33.0,2387.0,1.0,2.0,1.0,0.0
+2017,305,D. Origi,29,Belgium,Liverpool,1.0,9.0,0.0,,0.0,0.0
+2017,481,G. Krychowiak,34,Poland,West Brom,27.0,1643.0,0.0,2.0,2.0,0.0
+2017,730,T. Courtois,32,Belgium,Chelsea,35.0,3150.0,0.0,,2.0,0.0
+2017,744,Brahim Díaz,25,Morocco,Manchester City,5.0,50.0,0.0,,0.0,0.0
+2017,885,E. Bailly,30,Côte d'Ivoire,Manchester United,13.0,999.0,1.0,,2.0,0.0
+2017,898,Ander Herrera,35,Spain,Manchester United,26.0,1261.0,0.0,2.0,5.0,0.0
+2017,1439,Héctor Bellerín,29,Spain,Arsenal,35.0,3051.0,2.0,3.0,5.0,0.0
+2017,2280,César Azpilicueta,35,Spain,Chelsea,37.0,3330.0,2.0,6.0,1.0,0.0
+2017,2285,A. Rüdiger,31,Germany,Chelsea,27.0,2336.0,2.0,1.0,4.0,0.0
+2017,2461,S. Rondón,35,Venezuela,West Brom,36.0,2772.0,7.0,3.0,4.0,0.0
+2017,8492,A. Sørloth,29,Norway,Crystal Palace,4.0,360.0,0.0,,0.0,0.0
+2017,18794,Kiko Femenía,33,Spain,Watford,23.0,1715.0,1.0,1.0,2.0,0.0
+2017,18812,Adrián,37,Spain,West Ham,19.0,1710.0,0.0,,2.0,0.0
+2017,18898,M. DiamÃ©,37,Senegal,Newcastle,31.0,2042.0,2.0,,3.0,0.0
+2017,18906,Ayoze Pérez,31,Spain,Newcastle,36.0,2497.0,8.0,5.0,3.0,0.0
+2017,18907,Joselu,34,Spain,Newcastle,30.0,1716.0,4.0,1.0,2.0,0.0
+2017,26302,Pablo Maffeo,27,Argentina,Manchester City,0.0,0.0,0.0,,0.0,0.0
+2017,37125,C. Musonda,28,Belgium,Chelsea,3.0,34.0,0.0,1.0,0.0,0.0
+2017,169,K. Trippier,34,England,Tottenham,24.0,1914.0,0.0,5.0,1.0,0.0
+2017,1445,K. Mavropanos,27,Greece,Arsenal,3.0,195.0,0.0,,0.0,1.0
+2017,1463,J. Willock,25,England,Arsenal,2.0,82.0,0.0,,0.0,0.0
+2017,2282,A. Christensen,28,Denmark,Chelsea,27.0,2071.0,0.0,,0.0,0.0
+2017,2284,Emerson,30,Italy,Chelsea,5.0,279.0,0.0,1.0,0.0,0.0
+2017,2734,P. Billing,28,Denmark,Huddersfield,16.0,760.0,0.0,,3.0,0.0
+2017,2931,T. Heaton,38,England,Burnley,4.0,306.0,0.0,,0.0,0.0
+2017,2939,C. Wilson,32,England,Bournemouth,28.0,1990.0,8.0,2.0,0.0,0.0
+2017,2997,Ł. Fabiański,39,Poland,Swansea,38.0,3420.0,0.0,,0.0,0.0
+2017,18778,H. Barnes,27,England,Leicester,3.0,7.0,0.0,,0.0,0.0
+2017,18813,A. Cresswell,35,England,West Ham,36.0,3073.0,1.0,7.0,7.0,0.0
+2017,18819,M. Antonio,34,Jamaica,West Ham,21.0,1357.0,3.0,1.0,1.0,0.0
+2017,18846,A. Wan-Bissaka,27,England,Crystal Palace,7.0,628.0,0.0,,1.0,0.0
+2017,18886,M. Dúbravka,35,Slovakia,Newcastle,12.0,1080.0,0.0,,0.0,0.0
+2017,18894,J. Lascelles,31,England,Newcastle,33.0,2928.0,3.0,,5.0,0.0
+2017,18899,I. Hayden,29,England,Newcastle,26.0,1370.0,1.0,,7.0,0.0
+2017,18941,M. Targett,29,England,Southampton,2.0,167.0,0.0,,0.0,0.0
+2017,18955,D. Ings,32,England,Liverpool,8.0,265.0,1.0,,0.0,0.0
+2017,19163,J. Murphy,29,England,Newcastle,25.0,1144.0,1.0,1.0,0.0,0.0
+2017,138787,A. Gordon,23,England,Everton,0.0,0.0,0.0,,0.0,0.0
+2017,161,A. Whiteman,26,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2017,164,B. Davies,31,Wales,Tottenham,29.0,2323.0,2.0,6.0,3.0,0.0
+2017,186,Son Heung-Min,32,Korea Republic,Tottenham,37.0,2311.0,12.0,6.0,0.0,0.0
+2017,296,J. Milner,38,England,Liverpool,32.0,1762.0,0.0,3.0,3.0,0.0
+2017,727,R. Nelson,25,England,Arsenal,3.0,146.0,0.0,,0.0,0.0
+2017,899,Andreas Pereira,28,Brazil,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2017,1455,A. Iwobi,28,Nigeria,Arsenal,26.0,1843.0,3.0,5.0,1.0,0.0
+2017,1469,D. Welbeck,34,England,Arsenal,28.0,1185.0,5.0,2.0,1.0,0.0
+2017,2298,C. Hudson-Odoi,24,England,Chelsea,2.0,27.0,0.0,,0.0,0.0
+2017,2413,Richarlison,27,Brazil,Watford,38.0,2827.0,5.0,4.0,4.0,0.0
+2017,2933,B. Chilwell,28,England,Leicester,24.0,1852.0,0.0,2.0,2.0,0.0
+2017,2938,J. Ward-Prowse,30,England,Southampton,30.0,1716.0,3.0,3.0,3.0,0.0
+2017,18869,A. Smith,33,England,Bournemouth,27.0,2068.0,1.0,3.0,6.0,0.0
+2017,18872,L. Cook,27,England,Bournemouth,29.0,2238.0,0.0,2.0,5.0,0.0
+2017,18883,D. Solanke,27,England,Liverpool,21.0,582.0,1.0,1.0,0.0,0.0
+2017,18917,B. Mee,35,England,Burnley,29.0,2610.0,0.0,,5.0,0.0
+2017,18932,F. Forster,36,England,Southampton,20.0,1800.0,0.0,,0.0,0.0
+2017,18963,L. Dunk,33,England,Brighton,38.0,3420.0,1.0,1.0,7.0,0.0
+2017,18973,S. March,30,England,Brighton,36.0,1841.0,1.0,1.0,3.0,0.0
+2017,19362,J. Dasilva,26,England,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2017,283,T. Alexander-Arnold,26,England,Liverpool,19.0,1576.0,1.0,1.0,3.0,0.0
+2017,284,J. Gomez,27,England,Liverpool,23.0,1900.0,0.0,2.0,3.0,0.0
+2017,289,A. Robertson,30,Scotland,Liverpool,22.0,1943.0,1.0,5.0,2.0,0.0
+2017,290,V. van Dijk,33,Netherlands,Liverpool,14.0,1260.0,0.0,,1.0,0.0
+2017,293,C. Jones,23,England,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2017,306,Mohamed Salah,32,Egypt,Liverpool,36.0,2922.0,32.0,10.0,1.0,0.0
+2017,626,J. Stones,30,England,Manchester City,18.0,1305.0,0.0,,0.0,0.0
+2017,629,K. De Bruyne,33,Belgium,Manchester City,37.0,3085.0,8.0,16.0,2.0,0.0
+2017,631,P. Foden,24,England,Manchester City,5.0,44.0,0.0,1.0,0.0,0.0
+2017,633,İ. Gündoğan,34,Germany,Manchester City,30.0,1508.0,4.0,1.0,3.0,0.0
+2017,636,Bernardo Silva,30,Portugal,Manchester City,35.0,1519.0,6.0,4.0,0.0,0.0
+2017,641,O. Zinchenko,28,Ukraine,Manchester City,8.0,533.0,0.0,,1.0,0.0
+2017,643,Gabriel Jesus,27,Brazil,Manchester City,29.0,1672.0,13.0,3.0,6.0,0.0
+2017,645,R. Sterling,30,England,Manchester City,33.0,2592.0,18.0,11.0,4.0,0.0
+2017,2287,R. Barkley,31,England,Chelsea,2.0,131.0,0.0,,0.0,0.0
+2017,2937,D. Rice,25,England,West Ham,26.0,1422.0,0.0,,1.0,0.0
+2017,18861,N. Aké,29,Netherlands,Bournemouth,38.0,3353.0,2.0,3.0,5.0,0.0
+2017,19145,T. Adarabioyo,27,England,Manchester City,0.0,0.0,0.0,,0.0,0.0
+2017,19179,T. Mings,31,England,Bournemouth,4.0,202.0,0.0,,1.0,0.0
+2017,19599,E. Martínez,32,Argentina,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2017,158,P. Gazzaniga,32,Argentina,Tottenham,1.0,90.0,0.0,,0.0,0.0
+2017,531,D. Blind,34,Netherlands,Manchester United,7.0,360.0,0.0,,0.0,0.0
+2017,617,Ederson,31,Brazil,Manchester City,36.0,3195.0,0.0,,1.0,0.0
+2017,627,K. Walker,34,England,Manchester City,32.0,2787.0,0.0,6.0,3.0,0.0
+2017,889,V. Lindelöf,30,Sweden,Manchester United,17.0,1281.0,0.0,,1.0,0.0
+2017,891,L. Shaw,29,England,Manchester United,11.0,788.0,0.0,,2.0,0.0
+2017,1464,G. Xhaka,32,Switzerland,Arsenal,38.0,3266.0,1.0,7.0,10.0,0.0
+2017,2278,Marcos Alonso,34,Spain,Chelsea,33.0,2860.0,7.0,2.0,6.0,0.0
+2017,2778,K. Ịheanachọ,28,Nigeria,Leicester,21.0,823.0,3.0,3.0,2.0,0.0
+2017,2935,H. Maguire,31,England,Leicester,38.0,3420.0,2.0,4.0,7.0,0.0
+2017,18772,J. Evans,36,Northern Ireland,West Brom,28.0,2272.0,2.0,2.0,7.0,0.0
+2017,18895,F. Lejeune,33,France,Newcastle,24.0,2104.0,0.0,2.0,3.0,0.0
+2017,18896,Javier Manquillo,30,Spain,Newcastle,21.0,1759.0,0.0,1.0,2.0,0.0
+2017,18902,Kenedy,28,Brazil,Newcastle,13.0,1030.0,2.0,2.0,1.0,0.0
+2017,18949,Oriol Romeu,33,Spain,Southampton,34.0,2903.0,1.0,,11.0,0.0
+2017,19337,O. McBurnie,28,Scotland,Swansea,11.0,269.0,0.0,1.0,0.0,0.0
+2017,25458,D. Lukébakio,27,Belgium,Watford,1.0,15.0,0.0,,0.0,0.0
+2017,47181,Toni Martínez,27,Spain,West Ham,0.0,0.0,0.0,,0.0,0.0
+2017,47324,Sandro Ramírez,29,Spain,Everton,8.0,276.0,0.0,,0.0,0.0
+2017,47407,A. Nyom,36,Cameroon,West Brom,29.0,2308.0,0.0,1.0,7.0,0.0
+2017,171,K. Walker-Peters,27,England,Tottenham,3.0,188.0,0.0,2.0,0.0,0.0
+2017,175,E. Dier,30,England,Tottenham,34.0,2827.0,0.0,2.0,4.0,0.0
+2017,184,H. Kane,31,England,Tottenham,37.0,3083.0,30.0,2.0,5.0,0.0
+2017,295,A. Lallana,36,England,Liverpool,12.0,235.0,0.0,,1.0,0.0
+2017,616,A. Murić,26,Kosovo,Manchester City,0.0,0.0,0.0,,0.0,0.0
+2017,644,L. Sané,28,Germany,Manchester City,32.0,2423.0,10.0,15.0,4.0,0.0
+2017,1468,E. Nketiah,25,England,Arsenal,3.0,17.0,0.0,,0.0,0.0
+2017,2999,J. Bednarek,28,Poland,Southampton,5.0,428.0,1.0,,1.0,0.0
+2017,18806,W. Hughes,29,England,Watford,15.0,995.0,2.0,3.0,0.0,0.0
+2017,18823,B. Johnson,24,England,West Ham,0.0,0.0,0.0,,0.0,0.0
+2017,18843,J. Schlupp,32,Ghana,Crystal Palace,24.0,1748.0,0.0,1.0,3.0,0.0
+2017,18873,R. Fraser,30,Scotland,Bournemouth,26.0,2009.0,5.0,3.0,0.0,0.0
+2017,18918,C. Taylor,31,England,Burnley,11.0,949.0,0.0,,3.0,0.0
+2017,18935,A. McCarthy,35,England,Southampton,18.0,1620.0,0.0,,2.0,0.0
+2017,18940,J. Stephens,30,England,Southampton,22.0,1980.0,2.0,,6.0,1.0
+2017,18947,M. Lemina,31,Gabon,Southampton,25.0,1723.0,1.0,1.0,2.0,0.0
+2017,19147,C. Dawson,34,England,West Brom,28.0,2511.0,2.0,,6.0,0.0
+2017,19182,A. Tuanzebe,27,Congo DR,Manchester United,1.0,0.0,0.0,,0.0,0.0
+2017,20355,A. Ramsdale,26,England,Bournemouth,0.0,0.0,0.0,,0.0,0.0
+2017,126791,N. Broadhead,26,Wales,Everton,0.0,0.0,0.0,,0.0,0.0
+2017,182,H. Winks,28,England,Tottenham,16.0,771.0,0.0,1.0,0.0,0.0
+2017,894,A. Young,39,England,Manchester United,30.0,2447.0,2.0,4.0,7.0,0.0
+2017,1440,R. Holding,29,England,Arsenal,12.0,820.0,0.0,,3.0,0.0
+2017,2932,J. Pickford,30,England,Everton,38.0,3420.0,0.0,,0.0,0.0
+2017,2934,M. Keane,31,England,Everton,30.0,2561.0,0.0,1.0,3.0,0.0
+2017,2936,J. Tarkowski,32,England,Burnley,31.0,2790.0,0.0,,5.0,0.0
+2017,2990,I. Gueye,35,Senegal,Everton,33.0,2757.0,2.0,1.0,7.0,0.0
+2017,3428,J. Ayew,33,Ghana,Swansea,36.0,2859.0,7.0,2.0,2.0,1.0
+2017,18146,D. Ward,31,Wales,Liverpool,0.0,0.0,0.0,,0.0,0.0
+2017,18758,S. Coleman,36,Republic of Ireland,Everton,12.0,1036.0,0.0,1.0,0.0,0.0
+2017,18766,D. Calvert-Lewin,27,England,Everton,32.0,1874.0,4.0,6.0,4.0,0.0
+2017,18779,H. Choudhury,27,England,Leicester,8.0,376.0,0.0,1.0,1.0,0.0
+2017,18786,W. Ndidi,28,Nigeria,Leicester,33.0,2899.0,0.0,3.0,8.0,0.0
+2017,18788,J. Vardy,37,England,Leicester,37.0,3258.0,20.0,1.0,3.0,0.0
+2017,18805,A. Doucouré,31,Mali,Watford,37.0,3325.0,7.0,3.0,10.0,0.0
+2017,18847,J. Ward,35,England,Crystal Palace,19.0,1616.0,0.0,1.0,4.0,0.0
+2017,18858,A. Begović,37,Bosnia and Herzegovina,Bournemouth,38.0,3420.0,0.0,,2.0,0.0
+2017,18862,N. Clyne,33,England,Liverpool,3.0,174.0,0.0,,1.0,0.0
+2017,18929,D. McNeil,25,England,Burnley,1.0,0.0,0.0,,0.0,0.0
+2017,19720,T. Chalobah,25,England,Chelsea,0.0,0.0,0.0,,0.0,0.0
+2017,59,Álvaro Morata,32,Spain,Chelsea,31.0,2066.0,11.0,6.0,7.0,0.0
+2017,174,C. Eriksen,32,Denmark,Tottenham,37.0,3226.0,10.0,10.0,0.0,0.0
+2017,618,Danilo,33,Brazil,Manchester City,23.0,1341.0,3.0,2.0,2.0,0.0
+2017,842,N. Vlašić,27,Croatia,Everton,12.0,575.0,0.0,,0.0,0.0
+2017,882,David de Gea,34,Spain,Manchester United,37.0,3330.0,0.0,,0.0,0.0
+2017,904,P. Pogba,31,France,Manchester United,27.0,2151.0,6.0,10.0,5.0,1.0
+2017,909,M. Rashford,27,England,Manchester United,35.0,1805.0,7.0,5.0,3.0,0.0
+2017,910,A. Sánchez,36,Chile,Manchester United,12.0,1048.0,2.0,3.0,1.0,0.0
+2017,1442,S. Kolašinac,31,Bosnia and Herzegovina,Arsenal,27.0,2151.0,2.0,4.0,3.0,0.0
+2017,2286,D. Zappacosta,32,Italy,Chelsea,22.0,1095.0,1.0,1.0,0.0,0.0
+2017,2292,R. Loftus-Cheek,28,England,Crystal Palace,24.0,1875.0,2.0,3.0,1.0,0.0
+2017,2299,Pedro,37,Spain,Chelsea,31.0,1522.0,4.0,2.0,1.0,0.0
+2017,2741,M. Ryan,32,Australia,Brighton,38.0,3420.0,0.0,,0.0,0.0
+2017,18767,A. Lookman,27,Nigeria,Everton,7.0,154.0,0.0,1.0,0.0,0.0
+2017,18797,C. Kabasele,33,Belgium,Watford,28.0,2332.0,2.0,,5.0,0.0
+2017,18809,Deulofeu,30,Spain,Watford,7.0,438.0,1.0,,0.0,0.0
+2017,18830,M. Arnautović,35,Austria,West Ham,31.0,2323.0,11.0,6.0,5.0,1.0
+2017,18911,N. Pope,32,England,Burnley,35.0,3114.0,0.0,,3.0,0.0
+2017,19194,T. Abraham,27,England,Swansea,31.0,1716.0,5.0,1.0,0.0,0.0
+2017,19209,F. Tomori,27,England,Chelsea,0.0,0.0,0.0,,0.0,0.0
+2017,249,D. Malen,25,Netherlands,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2017,375,C. Mbemba,30,Congo DR,Newcastle,9.0,672.0,0.0,,0.0,0.0
+2017,887,M. Darmian,35,Italy,Manchester United,8.0,442.0,0.0,,0.0,0.0
+2017,896,A. Gomes,24,England,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2017,902,N. Matić,36,Serbia,Manchester United,36.0,3119.0,1.0,1.0,6.0,0.0
+2017,903,S. McTominay,28,Scotland,Manchester United,13.0,629.0,0.0,,2.0,0.0
+2017,907,R. Lukaku,31,Belgium,Manchester United,34.0,2869.0,16.0,7.0,4.0,0.0
+2017,1124,O. Burke,27,Scotland,West Brom,15.0,356.0,0.0,2.0,0.0,0.0
+2017,1456,A. Maitland-Niles,27,England,Arsenal,15.0,907.0,0.0,,1.0,0.0
+2017,1467,A. Lacazette,33,France,Arsenal,32.0,2212.0,14.0,4.0,1.0,0.0
+2017,3247,W. Zaha,32,Côte d'Ivoire,Crystal Palace,29.0,2550.0,9.0,3.0,5.0,0.0
+2017,3333,M. Haïdara,32,Mali,Newcastle,1.0,3.0,0.0,,0.0,0.0
+2017,3395,S. Mounié,30,Benin,Huddersfield,28.0,1857.0,7.0,1.0,2.0,0.0
+2017,18785,N. Mendy,32,Senegal,Leicester,0.0,0.0,0.0,,0.0,0.0
+2017,18881,J. King,32,Norway,Bournemouth,33.0,2456.0,8.0,3.0,3.0,0.0
+2017,18970,P. Groß,33,Germany,Brighton,38.0,2949.0,7.0,8.0,2.0,0.0
+2017,19461,L. Nmecha,26,Germany,Manchester City,2.0,14.0,0.0,,0.0,0.0
+2017,25293,R. Oxford,26,England,West Ham,1.0,4.0,0.0,,0.0,0.0
+2017,30405,E. Fernandes,28,Switzerland,West Ham,14.0,846.0,0.0,1.0,1.0,0.0
+2017,30531,J. Boga,27,Côte d'Ivoire,Chelsea,1.0,18.0,0.0,,0.0,0.0
+2017,176,É. Lamela,32,Argentina,Tottenham,25.0,832.0,2.0,2.0,4.0,0.0
+2017,287,D. Lovren,35,Croatia,Liverpool,29.0,2124.0,2.0,1.0,4.0,0.0
+2017,288,Alberto Moreno,32,Spain,Liverpool,16.0,1264.0,0.0,,1.0,0.0
+2017,292,J. Henderson,34,England,Liverpool,27.0,2173.0,1.0,1.0,1.0,0.0
+2017,864,E. Can,30,Germany,Liverpool,26.0,2094.0,3.0,4.0,8.0,0.0
+2017,908,A. Martial,29,France,Manchester United,30.0,1583.0,9.0,5.0,1.0,0.0
+2017,1370,A. Ayew,35,Ghana,Swansea,12.0,951.0,0.0,2.0,3.0,0.0
+2017,1457,H. Mkhitaryan,35,Armenia,Arsenal,11.0,796.0,2.0,4.0,0.0,0.0
+2017,1635,T. Bakayoko,30,France,Chelsea,29.0,2124.0,2.0,2.0,4.0,0.0
+2017,2294,Willian,36,Brazil,Chelsea,36.0,1883.0,6.0,7.0,1.0,0.0
+2017,2380,C. Akpom,29,England,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2017,2475,R. Pereyra,33,Argentina,Watford,32.0,1622.0,5.0,2.0,3.0,0.0
+2017,2719,N. Amrabat,37,Morocco,Watford,3.0,200.0,0.0,,0.0,0.0
+2017,2886,J. Hernández,36,Mexico,West Ham,28.0,1543.0,8.0,,3.0,0.0
+2017,6797,J. Davidson,33,Australia,Huddersfield,0.0,0.0,0.0,,0.0,0.0
+2017,19043,T. Kongolo,30,Netherlands,Huddersfield,13.0,1047.0,0.0,,0.0,0.0
+2017,19322,M. van der Hoorn,32,Netherlands,Swansea,24.0,1952.0,1.0,,4.0,0.0
+2017,19497,B. Martins Indi,32,Netherlands,Stoke City,17.0,1244.0,0.0,,3.0,0.0
+2017,25321,D. Klaassen,31,Netherlands,Everton,7.0,250.0,0.0,,0.0,0.0
+2017,37154,J. Clasie,33,Netherlands,Southampton,0.0,0.0,0.0,,0.0,0.0
+2017,1459,A. Ramsey,34,Wales,Arsenal,24.0,1848.0,7.0,8.0,0.0,0.0
+2017,17599,K. Wilson,24,England,West Brom,0.0,0.0,0.0,,0.0,0.0
+2017,18803,N. Chalobah,30,England,Watford,6.0,448.0,0.0,,1.0,0.0
+2017,18889,F. Woodman,27,England,Newcastle,0.0,0.0,0.0,,0.0,0.0
+2017,18921,R. Brady,32,Republic of Ireland,Burnley,15.0,1279.0,1.0,2.0,3.0,0.0
+2017,18927,A. Barnes,35,England,Burnley,36.0,2157.0,9.0,,10.0,0.0
+2017,18962,S. Duffy,32,Republic of Ireland,Brighton,37.0,3294.0,0.0,1.0,8.0,0.0
+2017,19016,C. Chambers,29,England,Arsenal,12.0,869.0,0.0,,1.0,0.0
+2017,19038,B. Hamer,37,England,Leicester,4.0,274.0,0.0,,0.0,0.0
+2017,19046,T. Smith,32,England,Huddersfield,24.0,1907.0,0.0,1.0,7.0,0.0
+2017,19066,G. Hanley,33,Scotland,Newcastle,0.0,0.0,0.0,,0.0,0.0
+2017,19164,M. Phillips,33,Scotland,West Brom,30.0,2096.0,2.0,2.0,3.0,0.0
+2017,19274,K. Palmer,28,Jamaica,Huddersfield,4.0,168.0,0.0,,2.0,0.0
+2017,19318,K. Naughton,36,England,Swansea,34.0,3033.0,0.0,2.0,1.0,0.0
+2017,19327,J. Fulton,30,Scotland,Swansea,2.0,17.0,0.0,,1.0,0.0
+2017,19328,M. Grimes,29,England,Swansea,0.0,0.0,0.0,,0.0,0.0
+2017,19499,J. Tymon,25,England,Stoke City,3.0,163.0,0.0,,0.0,0.0
+2017,19502,J. Allen,34,Wales,Stoke City,36.0,3142.0,2.0,6.0,8.0,0.0
+2017,19597,N. Wells,34,Bermuda,Burnley,9.0,46.0,0.0,,0.0,0.0
+2017,20179,D. Barlaser,27,England,Newcastle,0.0,0.0,0.0,,0.0,0.0
+2017,179,M. Sissoko,35,France,Tottenham,33.0,1393.0,1.0,1.0,3.0,0.0
+2017,2279,E. Ampadu,24,Wales,Chelsea,1.0,10.0,0.0,,0.0,0.0
+2017,18762,T. Davies,26,England,Everton,33.0,1899.0,2.0,1.0,7.0,0.0
+2017,18817,A. Ogbonna,36,Italy,West Ham,32.0,2880.0,1.0,,3.0,0.0
+2017,18821,G. Diangana,26,Congo DR,West Ham,0.0,0.0,0.0,,0.0,0.0
+2017,18948,N. Redmond,30,England,Southampton,31.0,1945.0,1.0,3.0,3.0,0.0
+2017,18974,J. Molumby,25,Republic of Ireland,Brighton,0.0,0.0,0.0,,0.0,0.0
+2017,19146,K. Bartley,33,England,Swansea,5.0,233.0,0.0,,2.0,0.0
+2017,19150,M. Holgate,28,Jamaica,Everton,15.0,1182.0,0.0,,3.0,0.0
+2017,19169,J. Rodríguez,35,England,West Brom,37.0,2824.0,7.0,1.0,2.0,0.0
+2017,19287,S. Byram,31,England,West Ham,5.0,246.0,0.0,,1.0,0.0
+2017,19321,J. Rodon,27,Wales,Swansea,0.0,0.0,0.0,,0.0,0.0
+2017,19329,D. James,27,Wales,Swansea,0.0,0.0,0.0,,0.0,0.0
+2017,19331,C. Roberts,29,Wales,Swansea,4.0,268.0,0.0,,0.0,0.0
+2017,19505,T. Ince,32,England,Huddersfield,33.0,2456.0,2.0,,0.0,0.0
+2017,19827,J. Cullen,28,Republic of Ireland,West Ham,2.0,6.0,0.0,,0.0,0.0
+2017,20079,H. Souttar,26,Australia,Stoke City,0.0,0.0,0.0,,0.0,0.0
+2017,20310,T. Campbell,25,England,Stoke City,4.0,75.0,0.0,,0.0,0.0
+2017,44775,D. Bachmann,30,Austria,Watford,0.0,0.0,0.0,,0.0,0.0
+2017,82097,A. Palmer,28,England,West Brom,0.0,0.0,0.0,,0.0,0.0
+2017,178,Lucas Moura,32,Brazil,Tottenham,6.0,208.0,0.0,1.0,0.0,0.0
+2017,623,B. Mendy,30,France,Manchester City,7.0,361.0,0.0,1.0,2.0,0.0
+2017,900,J. Lingard,32,England,Manchester United,33.0,1821.0,8.0,5.0,2.0,0.0
+2017,1347,V. Moses,34,Nigeria,Chelsea,28.0,2118.0,3.0,3.0,3.0,0.0
+2017,1699,Vicente Iborra,36,Spain,Leicester,19.0,1415.0,3.0,,0.0,0.0
+2017,2905,Lee Chung-Yong,36,Korea Republic,Crystal Palace,7.0,130.0,0.0,,0.0,0.0
+2017,18760,J. Kenny,27,England,Everton,19.0,1588.0,0.0,1.0,2.0,0.0
+2017,18810,A. Gray,33,Jamaica,Watford,31.0,1495.0,5.0,2.0,1.0,0.0
+2017,18824,Pedro Obiang,32,Equatorial Guinea,West Ham,21.0,1564.0,2.0,,3.0,0.0
+2017,18833,Lucas Pérez,36,Spain,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2017,18863,S. Cook,33,England,Bournemouth,34.0,2766.0,2.0,1.0,5.0,0.0
+2017,18885,K. Darlow,34,Wales,Newcastle,10.0,900.0,0.0,,0.0,0.0
+2017,18900,Ki Sung-Yueng,35,Korea Republic,Swansea,25.0,1869.0,2.0,2.0,2.0,0.0
+2017,18903,M. Ritchie,35,Scotland,Newcastle,35.0,2812.0,3.0,5.0,6.0,0.0
+2017,18957,M. Obafemi,24,Republic of Ireland,Southampton,1.0,8.0,0.0,,0.0,0.0
+2017,19156,S. Field,26,England,West Brom,10.0,540.0,1.0,,3.0,0.0
+2017,19299,J. Colback,35,England,Newcastle,0.0,0.0,0.0,,0.0,0.0
+2017,19408,R. Burke,28,England,West Ham,0.0,0.0,0.0,,0.0,0.0
+2017,19955,J. Knight,27,England,Leicester,0.0,0.0,0.0,,0.0,0.0
+2017,50237,H. Saivet,34,Senegal,Newcastle,1.0,84.0,1.0,,0.0,0.0
+2017,147,Philippe Coutinho,32,Brazil,Liverpool,14.0,1116.0,7.0,6.0,0.0,0.0
+2017,159,H. Lloris,38,France,Tottenham,36.0,3240.0,0.0,,1.0,0.0
+2017,181,V. Wanyama,33,Kenya,Tottenham,18.0,838.0,1.0,,2.0,0.0
+2017,304,S. Mané,32,Senegal,Liverpool,29.0,2207.0,10.0,7.0,3.0,1.0
+2017,452,Fernando,37,Brazil,Manchester City,0.0,0.0,0.0,,0.0,0.0
+2017,640,Fernandinho,39,Brazil,Manchester City,34.0,2885.0,5.0,3.0,7.0,0.0
+2017,1290,G. Varela,31,Uruguay,Manchester United,0.0,0.0,0.0,,0.0,0.0
+2017,1432,Y. Bolasie,35,Congo DR,Everton,16.0,855.0,1.0,,0.0,0.0
+2017,2283,David Luiz,37,Brazil,Chelsea,10.0,839.0,1.0,,4.0,1.0
+2017,2295,O. Giroud,38,France,Chelsea,13.0,610.0,3.0,,0.0,0.0
+2017,2426,A. Carrillo,33,Peru,Watford,28.0,1536.0,1.0,2.0,2.0,0.0
+2017,2928,C. Benteke,34,Belgium,Crystal Palace,31.0,2236.0,3.0,5.0,6.0,0.0
+2017,18897,D. Yedlin,31,USA,Newcastle,34.0,2842.0,0.0,2.0,5.0,0.0
+2017,18915,K. Long,34,Republic of Ireland,Burnley,16.0,1440.0,1.0,2.0,1.0,0.0
+2017,18926,A. Westwood,34,England,Burnley,19.0,1106.0,0.0,1.0,2.0,0.0
+2017,18944,M. Yoshida,36,Japan,Southampton,24.0,2051.0,2.0,,3.0,0.0
+2017,19061,T. Krul,36,Netherlands,Brighton,0.0,0.0,0.0,,0.0,0.0
+2017,47430,W. Hoedt,30,Netherlands,Southampton,28.0,2520.0,0.0,1.0,7.0,0.0
+2017,51106,B. Smith,30,Australia,Bournemouth,0.0,0.0,0.0,,0.0,0.0
+2017,90509,S. Shashoua,25,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2017,168,D. Sánchez,28,Colombia,Tottenham,31.0,2534.0,0.0,,1.0,1.0
+2017,206,João Mário,31,Portugal,West Ham,13.0,1027.0,2.0,1.0,0.0,0.0
+2017,297,A. Oxlade-Chamberlain,31,England,Liverpool,32.0,1484.0,3.0,,3.0,0.0
+2017,513,Renato Sanches,27,Portugal,Swansea,12.0,704.0,0.0,,1.0,0.0
+2017,554,D. Tadić,36,Serbia,Southampton,36.0,2812.0,6.0,3.0,4.0,0.0
+2017,622,Aymeric Laporte,30,Spain,Manchester City,9.0,807.0,0.0,,1.0,0.0
+2017,624,N. Otamendi,36,Argentina,Manchester City,34.0,2968.0,4.0,,9.0,0.0
+2017,915,Gabriel Paulista,34,Brazil,Arsenal,0.0,0.0,0.0,,0.0,0.0
+2017,1558,Joel Robles,34,Spain,Everton,0.0,0.0,0.0,,0.0,0.0
+2017,2290,N. Kanté,33,France,Chelsea,34.0,2998.0,1.0,1.0,3.0,0.0
+2017,2675,José Fonte,41,Portugal,West Ham,8.0,690.0,0.0,1.0,0.0,0.0
+2017,2825,A. Mitrović,30,Serbia,Newcastle,6.0,89.0,1.0,,0.0,0.0
+2017,2927,M. Batshuayi,31,Belgium,Chelsea,12.0,353.0,2.0,1.0,0.0,0.0
+2017,18768,C. Tosun,33,Türkiye,Everton,14.0,991.0,5.0,,0.0,0.0
+2017,18816,A. Masuaku,31,Congo DR,West Ham,27.0,1872.0,0.0,3.0,5.0,0.0
+2017,18904,J. Shelvey,32,England,Newcastle,30.0,2268.0,1.0,3.0,3.0,1.0
+2017,19051,A. Pritchard,31,England,Huddersfield,14.0,1002.0,1.0,1.0,1.0,0.0
+2017,25350,M. Grujić,28,Serbia,Liverpool,3.0,13.0,0.0,,0.0,0.0
+2017,37882,M. Edwards,26,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2017,90498,E. Mangala,33,France,Everton,2.0,135.0,0.0,,0.0,0.0
+2017,113,G. Nkoudou,29,Cameroon,Burnley,8.0,224.0,0.0,,1.0,0.0
+2017,162,T. Alderweireld,35,Belgium,Tottenham,14.0,1177.0,0.0,,3.0,0.0
+2017,170,J. Vertonghen,37,Belgium,Tottenham,36.0,3205.0,0.0,,4.0,0.0
+2017,183,V. Janssen,30,Netherlands,Tottenham,1.0,0.0,0.0,,0.0,0.0
+2017,302,Roberto Firmino,33,Brazil,Liverpool,37.0,2778.0,15.0,7.0,1.0,0.0
+2017,451,B. Ndiaye,34,Senegal,Stoke City,13.0,1140.0,2.0,1.0,5.0,0.0
+2017,635,R. Mahrez,33,Algeria,Leicester,36.0,2960.0,12.0,10.0,2.0,0.0
+2017,892,C. Smalling,35,England,Manchester United,29.0,2535.0,4.0,,4.0,0.0
+2017,1465,P. Aubameyang,35,Gabon,Arsenal,13.0,1058.0,10.0,4.0,0.0,0.0
+2017,1964,E. Rakip,28,North Macedonia,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2017,2710,S. Boufal,31,Morocco,Southampton,26.0,1212.0,2.0,2.0,1.0,0.0
+2017,2726,K. Zouma,30,France,Stoke City,34.0,2887.0,1.0,,1.0,0.0
+2017,2731,M. Jørgensen,34,Denmark,Huddersfield,38.0,3420.0,0.0,2.0,6.0,0.0
+2017,2790,J. Guðmunds­son,34,Iceland,Burnley,35.0,2839.0,2.0,8.0,2.0,0.0
+2017,7050,A. O&apos;Neill,26,Australia,Burnley,0.0,0.0,0.0,,0.0,0.0
+2017,18781,D. Gray,28,Jamaica,Leicester,35.0,1690.0,3.0,1.0,2.0,0.0
+2017,18853,J. Riedewald,28,Netherlands,Crystal Palace,12.0,434.0,0.0,,0.0,0.0
+2017,18854,A. Townsend,33,England,Crystal Palace,36.0,3128.0,2.0,7.0,3.0,0.0
+2017,19042,F. Hadergjonaj,30,Kosovo,Huddersfield,23.0,1673.0,0.0,1.0,3.0,0.0
+2017,48590,J. Ngoy,27,Belgium,Stoke City,1.0,19.0,0.0,,0.0,0.0
+2017,282,S. Mignolet,36,Belgium,Liverpool,19.0,1710.0,0.0,,3.0,0.0
+2017,307,X. Shaqiri,33,Switzerland,Stoke City,36.0,3049.0,8.0,7.0,5.0,0.0
+2017,313,D. Ospina,36,Colombia,Arsenal,5.0,380.0,0.0,,0.0,0.0
+2017,2728,K. Schmeichel,38,Denmark,Leicester,33.0,2966.0,0.0,,3.0,0.0
+2017,2851,K. Nordfeldt,35,Sweden,Swansea,0.0,0.0,0.0,,0.0,0.0
+2017,7599,C. Cuevas,29,Chile,Chelsea,0.0,0.0,0.0,,0.0,0.0
+2017,17590,J. Brown,25,England,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2017,18909,A. Legzdiņš,38,England,Burnley,0.0,0.0,0.0,,0.0,0.0
+2017,19166,D. Gayle,35,England,Newcastle,35.0,1961.0,6.0,3.0,3.0,0.0
+2017,19314,C. Carter-Vickers,27,USA,Tottenham,0.0,0.0,0.0,,0.0,0.0
+2017,19319,M. Olsson,36,Sweden,Swansea,36.0,3154.0,0.0,1.0,7.0,0.0
+2017,19412,S. Kingsley,30,Scotland,Swansea,0.0,0.0,0.0,,0.0,0.0
+2017,19492,J. Haugaard,32,Denmark,Stoke City,0.0,0.0,0.0,,0.0,0.0
+2017,19509,T. Verlinden,25,Belgium,Stoke City,0.0,0.0,0.0,,0.0,0.0
+2017,19550,B. Baningime,26,Congo DR,Everton,8.0,192.0,0.0,,1.0,0.0
+2017,44781,S. Findlay,29,Scotland,Newcastle,0.0,0.0,0.0,,0.0,0.0
+2017,48051,F. Ulvestad,32,Norway,Burnley,0.0,0.0,0.0,,0.0,0.0
+2017,48196,S. Hakšabanović,25,Montenegro,West Ham,0.0,0.0,0.0,,0.0,0.0
+2017,50101,F. Diabaté,29,Mali,Leicester,14.0,582.0,0.0,1.0,1.0,0.0
+2017,105239,J. Jach,30,Poland,Crystal Palace,0.0,0.0,0.0,,0.0,0.0
+2017,884,S. Romero,37,Argentina,Manchester United,1.0,90.0,0.0,,0.0,0.0
+2017,890,M. Rojo,34,Argentina,Manchester United,9.0,642.0,0.0,,6.0,0.0
+2017,901,Juan Mata,36,Spain,Manchester United,28.0,1933.0,3.0,5.0,1.0,0.0
+2017,968,A. Dragović,33,Austria,Leicester,11.0,766.0,0.0,,2.0,0.0
+2017,1374,I. Slimani,36,Algeria,Newcastle,4.0,130.0,0.0,1.0,1.0,0.0
+2017,1688,R. Funes Mori,33,Argentina,Everton,4.0,119.0,0.0,,1.0,0.0
+2017,2473,M. Lanzini,31,Argentina,West Ham,27.0,2047.0,5.0,6.0,4.0,0.0
+2017,2930,J. Butland,31,England,Stoke City,35.0,3150.0,0.0,,0.0,0.0
+2017,18893,F. Fernández,35,Argentina,Swansea,30.0,2677.0,1.0,1.0,5.0,0.0
+2017,19041,J. Gorenc Stankovič,28,Slovenia,Huddersfield,0.0,0.0,0.0,,0.0,0.0
+2017,19218,T. Lawrence,30,Wales,Leicester,0.0,0.0,0.0,,0.0,0.0
+2017,19309,J. Lolley,32,England,Huddersfield,6.0,219.0,1.0,,1.0,0.0
+2017,19990,D. Sterling,25,England,Chelsea,0.0,0.0,0.0,,0.0,0.0
+2017,47421,G. Carrillo,33,Argentina,Southampton,7.0,451.0,0.0,1.0,0.0,0.0
